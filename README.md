@@ -1,11 +1,11 @@
 # freetvgarden-data
 
-The clean, health-checked channel dataset that powers freetvgarden.com —
-built the same way Famelack's `famelack-data` repo works: a scheduled job
-fetches raw data from iptv-org, checks every stream is actually alive,
-removes anything that isn't, mixes in a small curated list of official
-YouTube Live channels, and publishes the result here for the website to
-read directly — instead of the site checking anything itself at request time.
+The clean, health-checked channel dataset that powers freetvgarden.com — a
+scheduled job fetches raw data from iptv-org, checks every stream is
+actually alive, removes anything that isn't, mixes in a small curated list
+of official YouTube Live channels, and publishes the result here for the
+website to read directly — instead of the site checking anything itself at
+request time.
 
 ## Setup (one-time)
 
