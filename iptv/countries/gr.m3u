@@ -31,10 +31,6 @@ https://itv.streams.ovh:1936/corfuchannel/corfuchannel/playlist.m3u8
 http://185.102.171.218/DisneyJunior/index.m3u8
 #EXTINF:-1 tvg-id="EpilogesTV.gr" tvg-country="GR" tvg-logo="" group-title="General",Epiloges TV
 https://gra1.crystalweb.net:1936/epilogestv/epilogestv/playlist.m3u8
-#EXTINF:-1 tvg-id="ERTCosmos.gr" tvg-country="GR" tvg-logo="" group-title="General",ERT Cosmos
-https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos/default/index.m3u8
-#EXTINF:-1 tvg-id="ERTNews.gr" tvg-country="GR" tvg-logo="" group-title="News",ERT News
-https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.m3u8
 #EXTINF:-1 tvg-id="EuroTV.gr" tvg-country="GR" tvg-logo="" group-title="News",Euro TV
 https://lbgo.bozztv.com/ssh101/ssh101/eurotvlive/playlist.m3u8
 #EXTINF:-1 tvg-id="ExtraProNews.gr" tvg-country="GR" tvg-logo="" group-title="News",Extra ProNews
@@ -48,7 +44,11 @@ https://live.streams.ovh:8081/gnomitv/index.m3u8
 #EXTINF:-1 tvg-id="GroovyTV.gr" tvg-country="GR" tvg-logo="" group-title="Movies",Groovy TV
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 #EXTINF:-1 tvg-id="HellenicParliamentTV.gr" tvg-country="GR" tvg-logo="" group-title="Legislative",Hellenic Parliament TV
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8
+#EXTINF:-1 tvg-id="HellenicParliamentTV.gr" tvg-country="GR" tvg-logo="" group-title="Legislative",Hellenic Parliament TV
 http://185.102.171.218/Vouli/index.m3u8
+#EXTINF:-1 tvg-id="HellenicParliamentTV.gr" tvg-country="GR" tvg-logo="" group-title="Legislative",Hellenic Parliament TV
+https://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8
 #EXTINF:-1 tvg-id="HighTV.gr" tvg-country="GR" tvg-logo="" group-title="Shop",High TV
 http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
 #EXTINF:-1 tvg-id="IonianTV.gr" tvg-country="GR" tvg-logo="" group-title="General",Ionian TV
@@ -105,8 +105,6 @@ https://livestar.siliconweb.com/starvod/star_int/star_inthd.m3u8
 https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
 #EXTINF:-1 tvg-id="StarKentrikisElladas.gr" tvg-country="GR" tvg-logo="" group-title="General",Star Kentrikis Elladas
 https://telmaco-cdn.akamaized.net/starcgr/default/index.m3u8
-#EXTINF:-1 tvg-id="StartTV.gr" tvg-country="GR" tvg-logo="" group-title="News",Start TV
-https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
 #EXTINF:-1 tvg-id="SyrosTV1.gr" tvg-country="GR" tvg-logo="" group-title="General",Syros TV1
 https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8
 #EXTINF:-1 tvg-id="Telekriti.gr" tvg-country="GR" tvg-logo="" group-title="General",Telekriti

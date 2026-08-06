@@ -9,10 +9,6 @@ https://live.canthotv.vn/live/tv/chunklist.m3u8
 https://stream.thingnet.vn/live/smil:CRTV.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="DakLakTV.vn" tvg-country="VN" tvg-logo="" group-title="General",Dak Lak TV
 https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/chunklist.m3u8
-#EXTINF:-1 tvg-id="DaNangTV1.vn" tvg-country="VN" tvg-logo="" group-title="General",Da Nang TV 1
-https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/chunklist.m3u8
-#EXTINF:-1 tvg-id="DaNangTV2.vn" tvg-country="VN" tvg-logo="" group-title="General",Da Nang TV2
-https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/chunklist.m3u8
 #EXTINF:-1 tvg-id="DienBienTV.vn" tvg-country="VN" tvg-logo="" group-title="General",Dien Bien TV
 https://stream.langsontv.vn/live/2855dfeccb7f49a41a2b0441b3bfeda413c/playlist.m3u8
 #EXTINF:-1 tvg-id="DongNaiTV1.vn" tvg-country="VN" tvg-logo="" group-title="News",Dong Nai TV 1
@@ -21,6 +17,8 @@ http://118.107.85.4:1935/live/smil:DNTV1.smil/chunklist.m3u8
 http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="DongNaiTV2.vn" tvg-country="VN" tvg-logo="" group-title="Sports",Dong Nai TV 2
 https://vtvgolive-ott3.vtvdigital.vn/live/dongnai2tv/chunklist_2.m3u8
+#EXTINF:-1 tvg-id="HaTinhTV.vn" tvg-country="VN" tvg-logo="" group-title="General",Ha Tinh TV
+https://cohauw9bgpvod.vcdn.cloud/httv1/index.m3u8
 #EXTINF:-1 tvg-id="KhanhHoaTV.vn" tvg-country="VN" tvg-logo="" group-title="General",Khanh Hoa TV
 https://cdnbaokhanhhoa.com/live/1332e3a79e27.m3u8?vhost=video
 #EXTINF:-1 tvg-id="LamDongTV.vn" tvg-country="VN" tvg-logo="" group-title="General",Lam Dong TV
@@ -35,8 +33,8 @@ https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/chunklist.m3u
 https://cdnbaokhanhhoa.com/live/90405a889081.m3u8?vhost=video
 #EXTINF:-1 tvg-id="ONVieDrama.vn" tvg-country="VN" tvg-logo="" group-title="Entertainment",ON Vie Drama
 http://dvrfl05.bozztv.com/vch_vchannel18/index.m3u8
-#EXTINF:-1 tvg-id="QPVN.vn" tvg-country="VN" tvg-logo="" group-title="General",QPVN
-https://qpvn.vn/live/qpvn/master.m3u8
+#EXTINF:-1 tvg-id="QuangNgaiTV.vn" tvg-country="VN" tvg-logo="" group-title="General",Quang Ngai TV
+https://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/chunklist.m3u8
 #EXTINF:-1 tvg-id="SonLaTV.vn" tvg-country="VN" tvg-logo="" group-title="General",Son La TV
 https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/sonla-720p.m3u8
 #EXTINF:-1 tvg-id="TayNinhTV.vn" tvg-country="VN" tvg-logo="" group-title="General",Tay Ninh TV
@@ -47,15 +45,43 @@ https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8
 https://streaming.thainguyentv.vn/hls/livestream.m3u8
 #EXTINF:-1 tvg-id="TienGiangTV.vn" tvg-country="VN" tvg-logo="" group-title="General",Tien Giang TV
 https://618b88f69e53b.streamlock.net/THDT2/thdttv2/chunklist.m3u8
+#EXTINF:-1 tvg-id="VTV1.vn" tvg-country="VN" tvg-logo="" group-title="General",VTV1
+https://live-a.fptplay53.net/live/media/vtv1/live247-hls-avc/index.m3u8
+#EXTINF:-1 tvg-id="VTV1.vn" tvg-country="VN" tvg-logo="" group-title="General",VTV1
+https://vips-livecdn.fptplay.net/live/media/vtv1/live247-hls-avc/index.m3u8
+#EXTINF:-1 tvg-id="VTV2.vn" tvg-country="VN" tvg-logo="" group-title="General",VTV2
+https://live-a.fptplay53.net/live/media/vtv2/live247-hls-avc/index.m3u8
+#EXTINF:-1 tvg-id="VTV2.vn" tvg-country="VN" tvg-logo="" group-title="General",VTV2
+https://vips-livecdn.fptplay.net/live/media/vtv2/live247-hls-avc/index.m3u8
+#EXTINF:-1 tvg-id="VTV3.vn" tvg-country="VN" tvg-logo="" group-title="General",VTV3
+https://vips-livecdn.fptplay.net/live/media/vtv3/live247-hls-avc/index.m3u8
+#EXTINF:-1 tvg-id="VTV3.vn" tvg-country="VN" tvg-logo="" group-title="General",VTV3
+https://live-a.fptplay53.net/live/media/vtv3/live247-hls-avc/index.m3u8
+#EXTINF:-1 tvg-id="VTV4.vn" tvg-country="VN" tvg-logo="" group-title="General",VTV4
+https://live-a.fptplay53.net/live/media/vtv4/live247-hls-avc/index.m3u8
+#EXTINF:-1 tvg-id="VTV4.vn" tvg-country="VN" tvg-logo="" group-title="General",VTV4
+https://vips-livecdn.fptplay.net/live/media/vtv4/live247-hls-avc/index.m3u8
+#EXTINF:-1 tvg-id="VTV5.vn" tvg-country="VN" tvg-logo="" group-title="General",VTV5
+https://live-a.fptplay53.net/live/media/vtv5/live247-hls-avc/index.m3u8
+#EXTINF:-1 tvg-id="VTV5.vn" tvg-country="VN" tvg-logo="" group-title="General",VTV5
+https://vips-livecdn.fptplay.net/live/media/vtv5/live247-hls-avc/index.m3u8
+#EXTINF:-1 tvg-id="VTV5TayNamBo.vn" tvg-country="VN" tvg-logo="" group-title="General",VTV5 Tay Nam Bo
+https://live-a.fptplay53.net/live/media/vtv5tnb/live-hls-avc/index.m3u8
+#EXTINF:-1 tvg-id="VTV5TayNguyen.vn" tvg-country="VN" tvg-logo="" group-title="General",VTV5 Tay Nguyen
+https://vips-livecdn.fptplay.net/live/media/vtv5tn/live-hls-avc/index.m3u8
+#EXTINF:-1 tvg-id="VTV6.vn" tvg-country="VN" tvg-logo="" group-title="Sports",VTV6
+https://live-a.fptplay53.net/live/media/vtv6/live247-hls-avc/index.m3u8
+#EXTINF:-1 tvg-id="VTV6.vn" tvg-country="VN" tvg-logo="" group-title="Sports",VTV6
+https://vips-livecdn.fptplay.net/live/media/vtv6/live247-hls-avc/index.m3u8
+#EXTINF:-1 tvg-id="VTV7.vn" tvg-country="VN" tvg-logo="" group-title="General",VTV7
+https://live-a.fptplay53.net/live/media/vtv7/live247-hls-avc/index.m3u8
+#EXTINF:-1 tvg-id="VTV7.vn" tvg-country="VN" tvg-logo="" group-title="General",VTV7
+https://vips-livecdn.fptplay.net/live/media/vtv7/live247-hls-avc/index.m3u8
 #EXTINF:-1 tvg-id="VTV9.vn" tvg-country="VN" tvg-logo="" group-title="General",VTV9
 https://live-a.fptplay53.net/live/media/vtv9/live247-hls-avc/index.m3u8
-#EXTINF:-1 tvg-id="VTV9.vn" tvg-country="VN" tvg-logo="" group-title="General",VTV9
-https://live.fptplay53.net/live/media/vtv9/live247-hls-avc/index.m3u8
 #EXTINF:-1 tvg-id="VTV9.vn" tvg-country="VN" tvg-logo="" group-title="General",VTV9
 https://vips-livecdn.fptplay.net/live/media/vtv9/live247-hls-avc/index.m3u8
 #EXTINF:-1 tvg-id="VTV10.vn" tvg-country="VN" tvg-logo="" group-title="General",VTV10
 https://live-a.fptplay53.net/live/media/vtv10/live247-hls-avc/index.m3u8
-#EXTINF:-1 tvg-id="VTV10.vn" tvg-country="VN" tvg-logo="" group-title="General",VTV10
-https://live.fptplay53.net/live/media/vtv10/live247-hls-avc/index.m3u8
 #EXTINF:-1 tvg-id="VTV10.vn" tvg-country="VN" tvg-logo="" group-title="General",VTV10
 https://vips-livecdn.fptplay.net/live/media/vtv10/live247-hls-avc/index.m3u8
