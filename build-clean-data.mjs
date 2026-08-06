@@ -55,8 +55,6 @@ async function checkStream(url, referrer, userAgent) {
       res = null;
     }
     if (!res || res.status >= 400) {
-      // Some stream servers reject HEAD requests outright — retry with a
-      // small ranged GET before concluding the stream is actually dead.
       res = await fetch(url, {
         method: "GET",
         headers: { ...headers, Range: "bytes=0-2048" },
@@ -109,10 +107,6 @@ async function main() {
   const channelById = new Map(channels.map(c => [c.id, c]));
   const categoryNameById = new Map(categoriesData.map(c => [c.id, c.name]));
 
-  // logos.json is keyed by channel (+ optional feed), separate from
-  // channels.json — channels.json has NO logo field at all anymore.
-  // Prefer the logo marked in_use:true; fall back to any logo for that
-  // channel if none is marked in_use.
   const logoByChannel = new Map();
   const logoByChannelInUse = new Map();
   for (const l of logos) {
@@ -124,16 +118,12 @@ async function main() {
     return logoByChannelInUse.get(channelId) || logoByChannel.get(channelId) || "";
   }
 
-  // Dedupe: streams.json commonly lists multiple mirror URLs for the same
-  // channel+feed. Without deduping, the same channel name was appearing
-  // 3-6 times in a row. Group first, then keep exactly one stream per
-  // channel+feed group (the first one that passes the health check).
-  const groups = new Map(); // key: channel|feed -> array of stream entries
+  const groups = new Map();
   for (const s of streams) {
     if (!s.channel || !s.url) continue;
     const ch = channelById.get(s.channel);
     if (!ch || ch.closed) continue;
-    if (s.label === "Geo-blocked") continue; // known-bad, skip without even checking
+    if (s.label === "Geo-blocked") continue;
     const key = `${s.channel}|${s.feed || ""}`;
     if (!groups.has(key)) groups.set(key, []);
     groups.get(key).push(s);
@@ -146,7 +136,6 @@ async function main() {
   const resolved = await mapWithConcurrency(groupEntries, CONCURRENCY, async ([key, candidateStreams]) => {
     checkedCount++;
     if (checkedCount % 300 === 0) console.log(`  checked ${checkedCount}/${groupEntries.length} groups`);
-    // Try each mirror for this channel+feed in order until one is alive.
     for (const s of candidateStreams) {
       const ok = await checkStream(s.url, s.referrer, s.user_agent);
       if (ok) {
@@ -180,7 +169,6 @@ async function main() {
     });
   }
 
-  // Per-country files
   const byCountry = {};
   for (const ch of alive) {
     const cc = (ch.country || "un").toLowerCase();
@@ -191,7 +179,6 @@ async function main() {
     await fs.writeFile(path.join(OUT_DIR, "countries", `${cc}.m3u`), toM3U(list));
   }
 
-  // Per-category files
   const byCategory = {};
   for (const ch of alive) {
     const cats = ch.categories.length ? ch.categories.map(id => categoryNameById.get(id) || id) : [ch.group];
@@ -205,10 +192,8 @@ async function main() {
     await fs.writeFile(path.join(OUT_DIR, "categories", `${cat}.m3u`), toM3U(list));
   }
 
-  // Combined index (used by "All Channels")
   await fs.writeFile(path.join(OUT_DIR, "index.m3u"), toM3U(alive));
 
-  // Status file — useful for sanity-checking each run in the Actions log/history
   await fs.writeFile(
     path.join(OUT_DIR, "status.json"),
     JSON.stringify(
