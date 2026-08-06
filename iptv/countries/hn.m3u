@@ -43,6 +43,8 @@ https://tv.bitstreaming.net:8443/live/guayapetv.m3u8
 https://live.streamhch.com/live/streams/hch1.m3u8
 #EXTINF:-1 tvg-id="ICNDigital.hn" tvg-country="HN" tvg-logo="" group-title="News",ICN Digital
 https://streaming.icndigital.com/live_output/icn_live_stream_1.m3u8
+#EXTINF:-1 tvg-id="ImagenFM1051.hn" tvg-country="HN" tvg-logo="" group-title="Music",Imagen FM 105.1
+https://streaming.imagenfm105-1.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="JBNTV.hn" tvg-country="HN" tvg-logo="" group-title="Religious",JBN TV
 https://tv.webmedialive.com/jbn_live/enlace/playlist.m3u8
 #EXTINF:-1 tvg-id="JBNTV.hn" tvg-country="HN" tvg-logo="" group-title="Religious",JBN TV
@@ -65,8 +67,6 @@ https://stmv2.srvif.com/puringla/puringla/playlist.m3u8
 https://tv.webmedialive.com/fiestatv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioIdeal.hn" tvg-country="HN" tvg-logo="" group-title="Music",Radio Ideal
 https://www.idealfm104-7.com/hls/0/stream.m3u8
-#EXTINF:-1 tvg-id="RCVTV.hn" tvg-country="HN" tvg-logo="" group-title="News",RCV TV
-https://59d39900ebfb8.streamlock.net/rcv/rcv/playlist.m3u8
 #EXTINF:-1 tvg-id="RSVHonduras.hn" tvg-country="HN" tvg-logo="" group-title="Entertainment",RSV Honduras
 https://stmv2.srvif.com/rsvhonduras/rsvhonduras/playlist.m3u8
 #EXTINF:-1 tvg-id="STVETelebasica.hn" tvg-country="HN" tvg-logo="" group-title="Education",STVE Telebasica
@@ -77,8 +77,6 @@ https://tv.webmedialive.com/sulatv/live/playlist.m3u8
 https://streamingcws30.com/suyapa2/videosuyapa2/playlist.m3u8
 #EXTINF:-1 tvg-id="Telecadena7y4.hn" tvg-country="HN" tvg-logo="" group-title="General",Telecadena 7 y 4
 http://45.167.2.101:8000/play/a07n/index.m3u8
-#EXTINF:-1 tvg-id="Teleceiba.hn" tvg-country="HN" tvg-logo="" group-title="General",Teleceiba
-https://teleceiba.com/stream/tlcb720.m3u8
 #EXTINF:-1 tvg-id="TeleDanli.hn" tvg-country="HN" tvg-logo="" group-title="General",TeleDanli
 https://live20.bozztv.com/giatv/giatv-canal9/canal9/chunks.m3u8
 #EXTINF:-1 tvg-id="Telemas.hn" tvg-country="HN" tvg-logo="" group-title="General",Telemas
@@ -91,11 +89,5 @@ https://5e85d90130e77.streamlock.net/6028/6028/playlist.m3u8
 https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8
 #EXTINF:-1 tvg-id="TENCanal10.hn" tvg-country="HN" tvg-logo="" group-title="General",TEN Canal 10
 https://raw.githubusercontent.com/BellezaEmporium/IPTV_Exception/master/channels/hn/tentv.m3u8
-#EXTINF:-1 tvg-id="TVCentro272HD.hn" tvg-country="HN" tvg-logo="" group-title="Entertainment",TV Centro 27.2 HD
-https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8
-#EXTINF:-1 tvg-id="TVCentroHD.hn" tvg-country="HN" tvg-logo="" group-title="General",TV Centro HD
-https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8
-#EXTINF:-1 tvg-id="TVEstrella.hn" tvg-country="HN" tvg-logo="" group-title="Religious",TV Estrella
-https://s.emisoras.tv:8081/tve/index.m3u8
 #EXTINF:-1 tvg-id="WaldivisionInternacional.hn" tvg-country="HN" tvg-logo="" group-title="General",Waldivision Internacional
 https://media.streambrothers.com:19360/8308/8308.m3u8

@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1KZNTV.za" tvg-country="ZA" tvg-logo="" group-title="Entertainment",1KZN TV
 https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="6WiseTv.us" tvg-country="US" tvg-logo="" group-title="Family",6 Wise Tv
-https://live.enhdtv.com:8081/8150/index.m3u8
 #EXTINF:-1 tvg-id="alphaCinema.ru" tvg-country="RU" tvg-logo="" group-title="Comedy",alpha Cinema
 https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 #EXTINF:-1 tvg-id="AlSouriyaTV.sy" tvg-country="SY" tvg-logo="" group-title="Family",Al-Souriya TV
@@ -25,6 +23,8 @@ https://d2v2e5kw14egus.cloudfront.net/playlist.m3u8
 https://linear-896.frequency.stream/dist/xumo/896/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="EstrellaGames.us" tvg-country="US" tvg-logo="" group-title="Entertainment",Estrella Games
 https://estrella-games-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="EstrellaGames.us" tvg-country="US" tvg-logo="" group-title="Entertainment",Estrella Games
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellagames-distrotv/playlist.m3u8
 #EXTINF:-1 tvg-id="EstrellaGames.us" tvg-country="US" tvg-logo="" group-title="Entertainment",Estrella Games
 https://d3jx4o3w9313un.cloudfront.net/Estrella_Games.m3u8
 #EXTINF:-1 tvg-id="EstrellaGames.us" tvg-country="US" tvg-logo="" group-title="Entertainment",Estrella Games
@@ -69,6 +69,8 @@ https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8
 http://stream.mcquack.net/138/index.m3u8
 #EXTINF:-1 tvg-id="STS.ru" tvg-country="RU" tvg-logo="" group-title="Family",STS
 http://tshift-1.telecoma.tv/sts/index.m3u8
+#EXTINF:-1 tvg-id="STS.ru" tvg-country="RU" tvg-logo="" group-title="Family",STS
+http://45.153.24.78:80/STS/index.m3u8
 #EXTINF:-1 tvg-id="STS.ru" tvg-country="RU" tvg-logo="" group-title="Family",STS
 https://streaming.televizor-24-tochka.ru/live/296.m3u8
 #EXTINF:-1 tvg-id="STS.ru" tvg-country="RU" tvg-logo="" group-title="Family",STS
@@ -119,10 +121,6 @@ https://the-pet-collective-international-no.samsung.wurl.tv/playlist.m3u8
 https://jmp2.uk/plu-5bb1ad55268cae539bcedb08.m3u8
 #EXTINF:-1 tvg-id="TshwaneTV.za" tvg-country="ZA" tvg-logo="" group-title="Entertainment",Tshwane TV
 https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVFamilia.ve" tvg-country="VE" tvg-logo="" group-title="Family",TV Familia
-https://59d39900ebfb8.streamlock.net/tvfamilia_270p/tvfamilia_270p/playlist.m3u8
-#EXTINF:-1 tvg-id="TVFamille.mq" tvg-country="MQ" tvg-logo="" group-title="Family",TV Famille
-https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8
 #EXTINF:-1 tvg-id="TVParaense.br" tvg-country="BR" tvg-logo="" group-title="General",TV Paraense
 https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u
 #EXTINF:-1 tvg-id="TVSFamilyChannel.us" tvg-country="US" tvg-logo="" group-title="Family",TVS Family Channel
