@@ -17,6 +17,8 @@ https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
 http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AzStarTV.ca" tvg-country="CA" tvg-logo="" group-title="General",Az Star TV
 https://live.livestreamtv.ca/azstar/ngrp:azstar/playlist.m3u8
+#EXTINF:-1 tvg-id="CanadaOne.ca" tvg-country="CA" tvg-logo="" group-title="General",Canada One
+http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CBCNewsNetwork.ca" tvg-country="CA" tvg-logo="" group-title="News",CBC News Network
 https://d2ny9lo79ujali.cloudfront.net/CBC_News_International.m3u8
 #EXTINF:-1 tvg-id="CBCNewsNetwork.ca" tvg-country="CA" tvg-logo="" group-title="News",CBC News Network
@@ -41,6 +43,8 @@ https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m
 https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m3u8
 #EXTINF:-1 tvg-id="CJONDT.ca" tvg-country="CA" tvg-logo="" group-title="General",CJON-DT
 https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8
+#EXTINF:-1 tvg-id="CKNOFM.ca" tvg-country="CA" tvg-logo="" group-title="Music",CKNO-FM
+https://videostream.jpbgdigital.com/NOWTV.m3u8
 #EXTINF:-1 tvg-id="CMalayalamTV.ca" tvg-country="CA" tvg-logo="" group-title="Culture",C Malayalam TV
 https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8
 #EXTINF:-1 tvg-id="CP24.ca" tvg-country="CA" tvg-logo="" group-title="News",CP24
@@ -76,6 +80,8 @@ https://563f72af.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #EXTINF:-1 tvg-id="GustoTV.ca" tvg-country="CA" tvg-logo="" group-title="Cooking",Gusto TV
 https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8
 #EXTINF:-1 tvg-id="GustoTV.ca" tvg-country="CA" tvg-logo="" group-title="Cooking",Gusto TV
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="GustoTV.ca" tvg-country="CA" tvg-logo="" group-title="Cooking",Gusto TV
 https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="GustoTV.ca" tvg-country="CA" tvg-logo="" group-title="Cooking",Gusto TV
 https://d31d5kw64c7b6i.cloudfront.net/v1/gustotv_samsung/samsungheadend_us/latest/main/hls/playlist.m3u8
@@ -85,6 +91,8 @@ https://gusto-xumo.amagi.tv/playlist.m3u8
 https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8?ads.vf=6pOF6kgy418
 #EXTINF:-1 tvg-id="HardKnocks.ca" tvg-country="CA" tvg-logo="" group-title="Sports",Hard Knocks
 https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8
+#EXTINF:-1 tvg-id="HauntTV.ca" tvg-country="CA" tvg-logo="" group-title="Series",HauntTV
+https://jmp2.uk/plu-63934c218ef524000757b122.m3u8
 #EXTINF:-1 tvg-id="HauntTV.ca" tvg-country="CA" tvg-logo="" group-title="Series",HauntTV
 https://amg01446-blueantmediacan-haunttvaussam-samsungau-vcnai.amagi.tv/playlist/amg01446-blueantmediacan-haunttvaussam-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="HauntTV.ca" tvg-country="CA" tvg-logo="" group-title="Series",HauntTV
@@ -97,6 +105,8 @@ https://bamcahaunttvrakuten.amagi.tv/playlist.m3u8
 https://d1ak5jijks54h1.cloudfront.net/Haunt_TV.m3u8
 #EXTINF:-1 tvg-id="HauntTV.ca" tvg-country="CA" tvg-logo="" group-title="Series",HauntTV
 https://aegis-cloudfront-1.tubi.video/69da419c-6bb2-473f-98c3-246153fc909b/playlist.m3u8
+#EXTINF:-1 tvg-id="Homeful.ca" tvg-country="CA" tvg-logo="" group-title="General",Homeful
+https://amg00090-blueantcanada-amg00090c4-samsung-au-819.playouts.now.amagi.tv/playlist/amg00090-blueantfast-homefulworldwide-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="Homeful.ca" tvg-country="CA" tvg-logo="" group-title="General",Homeful
 https://amg00090-blueantcanada-amg00090c4-samsung-nz-820.playouts.now.amagi.tv/playlist/amg00090-blueantfast-homefulworldwide-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="Homeful.ca" tvg-country="CA" tvg-logo="" group-title="General",Homeful
@@ -117,16 +127,14 @@ https://icnet1hls.wns.live/hls/stream.m3u8
 https://icnet2hls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="icnet3.ca" tvg-country="CA" tvg-logo="" group-title="Religious",icnet 3
 https://ic3hls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="IIPCTV.ca" tvg-country="CA" tvg-logo="" group-title="Religious",IIPC TV
-https://rpn.bozztv.com/dvrfl03/iipctv/index.m3u8
 #EXTINF:-1 tvg-id="KidoodleTV.ca" tvg-country="CA" tvg-logo="" group-title="Kids",Kidoodle.TV
 https://amg07653-apmc-amg07653c9-samsung-us-8740.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="LegislativeAssemblyofOntario.ca" tvg-country="CA" tvg-logo="" group-title="Legislative",Legislative Assembly of Ontario
 https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
 #EXTINF:-1 tvg-id="LegislativeAssemblyofOntario.ca" tvg-country="CA" tvg-logo="" group-title="Legislative",Legislative Assembly of Ontario
 https://temp2.isilive.ca/live/_definst_/ontla/house-en-cc/playlist.m3u8
-#EXTINF:-1 tvg-id="LoveNature.ca" tvg-country="CA" tvg-logo="" group-title="Outdoor",Love Nature
-https://jmp2.uk/plu-66df8a29b25d2b0008fc5fe0.m3u8
+#EXTINF:-1 tvg-id="LegislativeAssemblyTVNunavut.ca" tvg-country="CA" tvg-logo="" group-title="Legislative",Legislative Assembly TV Nunavut
+http://temp2.isilive.ca/live/nunavut/live-eng/index.m3u8
 #EXTINF:-1 tvg-id="LoveNature.ca" tvg-country="CA" tvg-logo="" group-title="Outdoor",Love Nature
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
 #EXTINF:-1 tvg-id="LovePets.ca" tvg-country="CA" tvg-logo="" group-title="Documentary",Love Pets
@@ -139,8 +147,6 @@ https://amg01576-blueskyeenterta-lovepetsemea-samsunguk-32fso.amagi.tv/playlist/
 https://d31r8y66tn175.cloudfront.net/Love_Pets.m3u8
 #EXTINF:-1 tvg-id="MHZ.ca" tvg-country="CA" tvg-logo="" group-title="Entertainment",MHZ
 https://mhz-samsung-linear-ca.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="MontrealGreekTV.ca" tvg-country="CA" tvg-logo="" group-title="Culture",Montreal Greek TV
-http://live.greektv.ca/hls1/greektv.m3u8
 #EXTINF:-1 tvg-id="MovieMusicbyStingray.ca" tvg-country="CA" tvg-logo="" group-title="Music",Movie Music by Stingray
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="Much.ca" tvg-country="CA" tvg-logo="" group-title="Music",Much
@@ -164,8 +170,6 @@ https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NatureTime.ca" tvg-country="CA" tvg-logo="" group-title="Documentary",NatureTime
 https://jmp2.uk/plu-681ba2729624e6275efe0044.m3u8
 #EXTINF:-1 tvg-id="NatureTime.ca" tvg-country="CA" tvg-logo="" group-title="Documentary",NatureTime
-https://jmp2.uk/plu-681ba2ad93d3d19bcab47433.m3u8
-#EXTINF:-1 tvg-id="NatureTime.ca" tvg-country="CA" tvg-logo="" group-title="Documentary",NatureTime
 https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NatureTime.ca" tvg-country="CA" tvg-logo="" group-title="Documentary",NatureTime
 https://amg00090-blueantmedia-naturetime-samsungse-axgcn.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungse/playlist.m3u8
@@ -177,16 +181,14 @@ https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/chunklist.m3u8
 https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
 #EXTINF:-1 tvg-id="OntarioParliamentaryNetwork.ca" tvg-country="CA" tvg-logo="" group-title="Legislative",Ontario Parliamentary Network
 https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m3u8
-#EXTINF:-1 tvg-id="PamirTV.ca" tvg-country="CA" tvg-logo="" group-title="Culture",Pamir TV
-http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 #EXTINF:-1 tvg-id="PardesiTV.ca" tvg-country="CA" tvg-logo="" group-title="Culture",Pardesi TV
 http://stream.pardesitv.online/pardesi/index.m3u8
 #EXTINF:-1 tvg-id="PardesiTV.ca" tvg-country="CA" tvg-logo="" group-title="Culture",Pardesi TV
 http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="PrimeAsiaTV.ca" tvg-country="CA" tvg-logo="" group-title="General",Prime Asia TV
 http://primeasia.selfip.net/Samsung/index.m3u8
-#EXTINF:-1 tvg-id="ProbashiTVNews.ca" tvg-country="CA" tvg-logo="" group-title="News",Probashi TV News
-http://158.69.24.53:8080/probashi_tv/index.m3u8
+#EXTINF:-1 tvg-id="QelloConcertsbyStingray.ca" tvg-country="CA" tvg-logo="" group-title="Music",Qello Concerts by Stingray
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883052
 #EXTINF:-1 tvg-id="QelloConcertsbyStingray.ca" tvg-country="CA" tvg-logo="" group-title="Music",Qello Concerts by Stingray
 https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="QuoVadisTV.ca" tvg-country="CA" tvg-logo="" group-title="Religious",Quo Vadis TV
@@ -197,8 +199,6 @@ https://5790d294af2dc.streamlock.net/8124/8124/chunklist.m3u8
 http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
 #EXTINF:-1 tvg-id="SikhSpiritualCentreRexdale.ca" tvg-country="CA" tvg-logo="" group-title="General",Sikh Spiritual Centre Rexdale
 https://cdn12.henico.net:8443/live/ssct/index.m3u8
-#EXTINF:-1 tvg-id="Slice.ca" tvg-country="CA" tvg-logo="" group-title="General",Slice
-http://40.160.24.55/SLICE/index.m3u8
 #EXTINF:-1 tvg-id="SohailTV.ca" tvg-country="CA" tvg-logo="" group-title="General",Sohail TV
 https://iptv.sohailtv.com/sohail/playlist/index.m3u8
 #EXTINF:-1 tvg-id="SooriyanTV.ca" tvg-country="CA" tvg-logo="" group-title="Entertainment",Sooriyan TV
@@ -277,8 +277,6 @@ http://cdn11.live247stream.com/tag/tv/playlist.m3u8
 https://live.cmr24.fm/TVI/HD/chunks.m3u8
 #EXTINF:-1 tvg-id="TheCowboyChannelCanada.ca" tvg-country="CA" tvg-logo="" group-title="General",The Cowboy Channel Canada
 https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8
-#EXTINF:-1 tvg-id="TheNewsForum.ca" tvg-country="CA" tvg-logo="" group-title="News",The News Forum
-http://name-port.to/live/Gregory123/Gregory321/2420047.ts
 #EXTINF:-1 tvg-id="TheWeatherNetwork.ca" tvg-country="CA" tvg-logo="" group-title="Weather",The Weather Network
 https://jmp2.uk/plu-63da370e2e477400081cf8b6.m3u8
 #EXTINF:-1 tvg-id="Toronto360TV.ca" tvg-country="CA" tvg-logo="" group-title="General",Toronto 360 TV
@@ -287,16 +285,12 @@ http://cdn3.toronto360.tv:8081/toronto360/hd/playlist.m3u8
 https://aegis-cloudfront-1.tubi.video/b062c287-a170-47df-99e4-f5dcd441ee59/playlist.m3u8
 #EXTINF:-1 tvg-id="TSC.ca" tvg-country="CA" tvg-logo="" group-title="Shop",TSC
 https://tscamd.akamaized.net/hls/live/503340/TSCLive/master.m3u8
+#EXTINF:-1 tvg-id="TSC.ca" tvg-country="CA" tvg-logo="" group-title="Shop",TSC
+https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-country="CA" tvg-logo="" group-title="Sports",TSN1
 http://40.160.24.55/TSN_1/index.m3u8
-#EXTINF:-1 tvg-id="TSN2.ca" tvg-country="CA" tvg-logo="" group-title="Sports",TSN2
-http://40.160.24.55/TSN_2/index.m3u8
-#EXTINF:-1 tvg-id="TSN3.ca" tvg-country="CA" tvg-logo="" group-title="Sports",TSN3
-http://40.160.24.55/TSN_3/index.m3u8
-#EXTINF:-1 tvg-id="TSN4.ca" tvg-country="CA" tvg-logo="" group-title="Sports",TSN4
-http://40.160.24.55/TSN_4/index.m3u8
-#EXTINF:-1 tvg-id="TSN5.ca" tvg-country="CA" tvg-logo="" group-title="Sports",TSN5
-http://40.160.24.55/TSN_5/index.m3u8
+#EXTINF:-1 tvg-id="TSNTheOcho.ca" tvg-country="CA" tvg-logo="" group-title="Sports",TSN The Ocho
+https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
 #EXTINF:-1 tvg-id="TV5QuebecCanada.ca" tvg-country="CA" tvg-logo="" group-title="General",TV5 Quebec Canada
 http://23.133.220.149/TV5/index.m3u8
 #EXTINF:-1 tvg-id="TVOKids.ca" tvg-country="CA" tvg-logo="" group-title="Kids",TVOKids

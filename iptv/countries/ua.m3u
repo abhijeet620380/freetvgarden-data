@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1Plus1International.ua" tvg-country="UA" tvg-logo="" group-title="General",1+1 International
 https://dash2.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="1Plus1International.ua" tvg-country="UA" tvg-logo="" group-title="General",1+1 International
-http://158.101.222.193:88/georgia_play.php?id=1plus1international
 #EXTINF:-1 tvg-id="1Plus1Marafon.ua" tvg-country="UA" tvg-logo="" group-title="General",1+1 Marafon
 https://dash2.antik.sk/live/1plus1_marathon/playlist.m3u8
 #EXTINF:-1 tvg-id="1Plus1Ukraina.ua" tvg-country="UA" tvg-logo="" group-title="General",1+1 Ukraina
@@ -15,10 +13,14 @@ https://lowa8026-cmyk.github.io/Ukraine/Edyni_Novyny/2Plus2Marafon.m3u8
 http://stream.mcquack.net/405/index.m3u8
 #EXTINF:-1 tvg-id="24Kanal.ua" tvg-country="UA" tvg-logo="" group-title="News",24 Kanal
 https://cdn15.live-tv.cloud/ua_infinitas_tv/news24-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="100NEWS.ua" tvg-country="UA" tvg-logo="" group-title="News",100% NEWS
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 #EXTINF:-1 tvg-id="366TV.ua" tvg-country="UA" tvg-logo="" group-title="Lifestyle",36.6 TV
 https://dash2.antik.sk/live/test_tridsatsest_hd_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="ApostropheTV.ua" tvg-country="UA" tvg-logo="" group-title="News",Apostrophe TV
 https://ext.cdn.nashnet.tv/228.0.2.165/index.m3u8
+#EXTINF:-1 tvg-id="ArmyTV.ua" tvg-country="UA" tvg-logo="" group-title="News",Army TV
+https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u8
 #EXTINF:-1 tvg-id="ArmyTV.ua" tvg-country="UA" tvg-logo="" group-title="News",Army TV
 http://195.54.52.40/test/index.m3u8
 #EXTINF:-1 tvg-id="Avers.ua" tvg-country="UA" tvg-logo="" group-title="General",Avers
@@ -35,6 +37,8 @@ https://api-tv.ipnet.ua/api/v1/manifest/2118742539.m3u8
 http://stream.mcquack.net/291/index.m3u8
 #EXTINF:-1 tvg-id="Channel7Ukraine.ua" tvg-country="UA" tvg-logo="" group-title="General",Channel 7 Ukraine
 https://cdn15.live-tv.cloud/ua_infinitas_tv/7tvod-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="Channel24.ua" tvg-country="UA" tvg-logo="" group-title="News",Channel 24
+https://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ChemodanTV.ua" tvg-country="UA" tvg-logo="" group-title="Education",Chemodan TV
 http://stream.mcquack.net/399/index.m3u8
 #EXTINF:-1 tvg-id="ContinentE.ua" tvg-country="UA" tvg-logo="" group-title="General",Continent E
@@ -47,6 +51,8 @@ https://dash2.antik.sk/live/telekanal_dim/playlist.m3u8
 http://stream.mcquack.net/457/index.m3u8
 #EXTINF:-1 tvg-id="DniproTV.ua" tvg-country="UA" tvg-logo="" group-title="General",Dnipro TV
 http://vcdn1.produck.company:1935/out/dtv/playlist.m3u8
+#EXTINF:-1 tvg-id="EnterFilm.ua" tvg-country="UA" tvg-logo="" group-title="Movies",Enter-Film
+http://stream.mcquack.net/322/index.m3u8
 #EXTINF:-1 tvg-id="Equalympic.ua" tvg-country="UA" tvg-logo="" group-title="Sports",Equalympic
 http://stream.mcquack.net/485/index.m3u8
 #EXTINF:-1 tvg-id="EspresoTV.ua" tvg-country="UA" tvg-logo="" group-title="News",Espreso TV
@@ -105,8 +111,6 @@ http://stream.mcquack.net/445/index.m3u8
 http://stream.mcquack.net/446/index.m3u8
 #EXTINF:-1 tvg-id="KusKus.ua" tvg-country="UA" tvg-logo="" group-title="General",Kus-Kus
 https://dash2.antik.sk/live/test_kuskus_tv_atktv/playlist.m3u8
-#EXTINF:-1 tvg-id="KvartalTV.ua" tvg-country="UA" tvg-logo="" group-title="Entertainment",Kvartal TV
-http://158.101.222.193:88/georgia_play.php?id=kvartal95
 #EXTINF:-1 tvg-id="KvartalTVInternational.ua" tvg-country="UA" tvg-logo="" group-title="Entertainment",Kvartal TV International
 https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Kyiv.ua" tvg-country="UA" tvg-logo="" group-title="News",Kyiv
@@ -114,15 +118,9 @@ https://api-tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
 #EXTINF:-1 tvg-id="Lugansk24.ua" tvg-country="UA" tvg-logo="" group-title="General",Lugansk 24
 https://streaming.televizor-24-tochka.ru/live/29.m3u8
 #EXTINF:-1 tvg-id="M1.ua" tvg-country="UA" tvg-logo="" group-title="Music",M1
-http://158.101.222.193:88/georgia_play.php?id=m1
-#EXTINF:-1 tvg-id="M1.ua" tvg-country="UA" tvg-logo="" group-title="Music",M1
 http://stream.mcquack.net/218/index.m3u8
 #EXTINF:-1 tvg-id="M2.ua" tvg-country="UA" tvg-logo="" group-title="Music",M2
 http://stream.mcquack.net/330/index.m3u8
-#EXTINF:-1 tvg-id="MaincastCybersport.ua" tvg-country="UA" tvg-logo="" group-title="Sports",Maincast Cybersport
-http://stream.mcquack.net/487/index.m3u8
-#EXTINF:-1 tvg-id="MaincastSport.ua" tvg-country="UA" tvg-logo="" group-title="Sports",Maincast Sport
-http://stream.mcquack.net/490/index.m3u8
 #EXTINF:-1 tvg-id="Mega.ua" tvg-country="UA" tvg-logo="" group-title="General",Mega
 https://cdn15.live-tv.cloud/ua_infinitas_tv/mega-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="Muzvar.ua" tvg-country="UA" tvg-logo="" group-title="Music",Muzvar
@@ -145,14 +143,8 @@ https://stream.ntktv.ua/s/ntk/ntk.m3u8
 https://cdn15.live-tv.cloud/ua_infinitas_tv/ntn-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="ObshchestvennoeNezavisimoeTelevidenie.ua" tvg-country="UA" tvg-logo="" group-title="News",Obshchestvennoe Nezavisimoe Televidenie
 http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
-#EXTINF:-1 tvg-id="OnePlanet.ua" tvg-country="UA" tvg-logo="" group-title="General",One Planet
-http://stream.mcquack.net/448/index.m3u8
 #EXTINF:-1 tvg-id="OrbitaTV.ua" tvg-country="UA" tvg-logo="" group-title="General",Orbita TV
 http://ftp.orbita.dn.ua/hls/orbita.m3u8
-#EXTINF:-1 tvg-id="OTSE.ua" tvg-country="UA" tvg-logo="" group-title="Entertainment",OTSE
-http://stream.mcquack.net/329/index.m3u8
-#EXTINF:-1 tvg-id="OTV.ua" tvg-country="UA" tvg-logo="" group-title="General",OTV
-https://stream.otv.ua/memfs/028e5947-073f-4b4e-a47f-70e59ca3ee36.m3u8
 #EXTINF:-1 tvg-id="Pershyi.ua" tvg-country="UA" tvg-logo="" group-title="General",Pershyi
 https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
 #EXTINF:-1 tvg-id="Pershyiavtomobilnyi.ua" tvg-country="UA" tvg-logo="" group-title="Auto",Pershyi avtomobilnyi
@@ -237,5 +229,7 @@ https://cdn10.live-tv.cloud/riood/tisod-abr/riood/tisod720/playlist.m3u8
 http://stream.mcquack.net/357/index.m3u8
 #EXTINF:-1 tvg-id="TUSO.ua" tvg-country="UA" tvg-logo="" group-title="Shop",TUSO
 https://tuso.cdn-01.cosmonova.net.ua/hls/tuso_ua.m3u8
+#EXTINF:-1 tvg-id="Tviyserial.ua" tvg-country="UA" tvg-logo="" group-title="Series",Tviy serial
+http://stream.mcquack.net/466/index.m3u8
 #EXTINF:-1 tvg-id="Zoom.ua" tvg-country="UA" tvg-logo="" group-title="Entertainment",Zoom
 http://stream.mcquack.net/327/index.m3u8

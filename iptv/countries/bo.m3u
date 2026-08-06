@@ -24,6 +24,8 @@ http://15.204.246.24:8080/BoliviaTvHD/index.m3u8
 #EXTINF:-1 tvg-id="Bolivision.bo" tvg-country="BO" tvg-logo="" group-title="General",Bolivision
 http://15.204.246.24:8080/BolivisionHD/index.m3u8
 #EXTINF:-1 tvg-id="CadenaA.bo" tvg-country="BO" tvg-logo="" group-title="General",Cadena A
+https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
+#EXTINF:-1 tvg-id="CadenaA.bo" tvg-country="BO" tvg-logo="" group-title="General",Cadena A
 http://15.204.246.24:8080/CadenaAHD/index.m3u8
 #EXTINF:-1 tvg-id="Canal15Teleor.bo" tvg-country="BO" tvg-logo="" group-title="General",Canal 15 Teleor
 https://ares.disfrutaenlared.com:1936/activatv/activatv/playlist.m3u8
@@ -59,8 +61,6 @@ https://tv2.bitstreaming.net:3576/multi_live/play.m3u8
 https://tv.bitstreaming.net:3348/live/gigavisionlive.m3u8
 #EXTINF:-1 tvg-id="GTV.bo" tvg-country="BO" tvg-logo="" group-title="General",GTV
 https://lbgo.bozztv.com/ssh101/ssh101/guadalupetv/playlist.m3u8
-#EXTINF:-1 tvg-id="ImagenTV.bo" tvg-country="BO" tvg-logo="" group-title="General",Imagen TV
-https://lbgo.bozztv.com/ssh101/ssh101/imagentvpotosib/playlist.m3u8
 #EXTINF:-1 tvg-id="ImperialTV.bo" tvg-country="BO" tvg-logo="" group-title="General",Imperial TV
 https://tv.centaurychile.com/imperial/streams/EnCyCiwNLsqEQ2kv2852222720686498.m3u8
 #EXTINF:-1 tvg-id="InteractivoTelevision.bo" tvg-country="BO" tvg-logo="" group-title="General",Interactivo Television
@@ -97,6 +97,8 @@ https://ares.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8
 https://edge.enhdtv.com/8054/index.m3u8
 #EXTINF:-1 tvg-id="RedADvenirTV.bo" tvg-country="BO" tvg-logo="" group-title="General",RedADvenir TV
 http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8
+#EXTINF:-1 tvg-id="RedAmericaTV.bo" tvg-country="BO" tvg-logo="" group-title="General",Red America TV
+https://edge.enhdtv.com/redamerica/index.m3u8
 #EXTINF:-1 tvg-id="RedCCTV.bo" tvg-country="BO" tvg-logo="" group-title="General",Red CCTV
 https://ares.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
 #EXTINF:-1 tvg-id="RedDTV.bo" tvg-country="BO" tvg-logo="" group-title="General",Red DTV
