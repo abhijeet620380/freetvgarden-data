@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="00sReplay.us" tvg-country="US" tvg-logo="" group-title="Movies",00s Replay
+https://jmp2.uk/plu-62ba60f059624e000781c436.m3u8
 #EXTINF:-1 tvg-id="24HourFreeMovies.us" tvg-country="US" tvg-logo="" group-title="Movies",24 Hour Free Movies
 https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/145.m3u8?ads.vf=7FhdsxqVxOi
 #EXTINF:-1 tvg-id="24HourFreeMovies.us" tvg-country="US" tvg-logo="" group-title="Movies",24 Hour Free Movies
@@ -7,8 +9,6 @@ https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
 https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
 #EXTINF:-1 tvg-id="50CentAction.us" tvg-country="US" tvg-logo="" group-title="Movies",50 Cent Action
 https://jmp2.uk/plu-68487fb3f212bedacf5a53e3.m3u8
-#EXTINF:-1 tvg-id="70sCinema.us" tvg-country="US" tvg-logo="" group-title="Movies",70s Cinema
-https://jmp2.uk/plu-5f4d878d3d19b30007d2e782.m3u8
 #EXTINF:-1 tvg-id="80sRewind.us" tvg-country="US" tvg-logo="" group-title="Movies",80s Rewind
 https://jmp2.uk/plu-5ca525b650be2571e3943c63.m3u8
 #EXTINF:-1 tvg-id="90sThrowback.us" tvg-country="US" tvg-logo="" group-title="Movies",90s Throwback
@@ -23,6 +23,14 @@ http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 http://40.160.24.52/ACTIONMAX/index.m3u8
 #EXTINF:-1 tvg-id="ActionMax.us" tvg-country="US" tvg-logo="" group-title="Movies",ActionMax
 https://gpuserver3.tier1streams.com/ACTIONMAX/index.m3u8
+#EXTINF:-1 tvg-id="AdrenalinaPuraTV.us" tvg-country="US" tvg-logo="" group-title="Movies",Adrenalina Pura TV
+https://jmp2.uk/plu-61b790b985706b00072cb797.m3u8
+#EXTINF:-1 tvg-id="AdrenalinaPuraTV.us" tvg-country="US" tvg-logo="" group-title="Movies",Adrenalina Pura TV
+https://jmp2.uk/plu-61b793ccf571b80007b7a610.m3u8
+#EXTINF:-1 tvg-id="Aflam.sa" tvg-country="SA" tvg-logo="" group-title="Movies",Aflam
+https://shd-amg-fast.edgenextcdn.net/tx001/playlist.m3u8
+#EXTINF:-1 tvg-id="AfraFilm.ir" tvg-country="IR" tvg-logo="" group-title="Movies",Afra Film
+https://afrafhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AlloCine.cm" tvg-country="CM" tvg-logo="" group-title="Movies",Allo Cine
 https://d1yl6bf4hrzbr0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5km3zs4zs9sp0/allo.m3u8
 #EXTINF:-1 tvg-id="AllTimeMovies.in" tvg-country="IN" tvg-logo="" group-title="Movies",All Time Movies
@@ -212,6 +220,8 @@ http://45.162.193.35/CINECANAL/index.m3u8
 #EXTINF:-1 tvg-id="CineFamiliar.us" tvg-country="US" tvg-logo="" group-title="Movies",Cine Familiar
 http://177.234.218.66:8084/play/a001/index.m3u8
 #EXTINF:-1 tvg-id="CineFriki.es" tvg-country="ES" tvg-logo="" group-title="Movies",Cine Friki
+https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8
+#EXTINF:-1 tvg-id="CineFriki.es" tvg-country="ES" tvg-logo="" group-title="Movies",Cine Friki
 https://zylo-cinefriki-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CineLatino.mx" tvg-country="MX" tvg-logo="" group-title="Movies",CineLatino
 http://45.162.193.35/CINELATINO_HD/index.m3u8
@@ -225,6 +235,8 @@ https://cdn4.skygo.mn/live/disk1/CinemaTV/HLSv3-FTA/CinemaTV.m3u8
 https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="CinemaWorld.my" tvg-country="MY" tvg-logo="" group-title="Movies",CinemaWorld
 https://cdn.qd.je/163189/cinemaworld
+#EXTINF:-1 tvg-id="CinemaWorld.my" tvg-country="MY" tvg-logo="" group-title="Movies",CinemaWorld
+http://nmk.ioapk.com:5050/4gtv-live069/index.m3u8
 #EXTINF:-1 tvg-id="CineMexicano.us" tvg-country="US" tvg-logo="" group-title="Movies",Cine Mexicano
 http://177.234.249.178:8888/AMERICA/index.m3u8
 #EXTINF:-1 tvg-id="CineMo.ph" tvg-country="PH" tvg-logo="" group-title="Movies",Cine Mo!
@@ -237,6 +249,8 @@ http://99.27.51.147/CineClassic/index.m3u8
 http://145.239.5.177/337/index.m3u8
 #EXTINF:-1 tvg-id="CinePlusFrisson.fr" tvg-country="FR" tvg-logo="" group-title="Movies",Cine+ Frisson
 http://99.27.51.147:8080/CineFrisson/index.m3u8
+#EXTINF:-1 tvg-id="CinePremiere.us" tvg-country="US" tvg-logo="" group-title="Movies",Cine Premiere
+https://jmp2.uk/plu-5cf968040ab7d8f181e6a68b.m3u8
 #EXTINF:-1 tvg-id="CinePremium.us" tvg-country="US" tvg-logo="" group-title="Movies",Cine Premium
 http://190.61.90.17:40000/play/a02i/index.m3u8
 #EXTINF:-1 tvg-id="CineRetrobyPlutoTV.de" tvg-country="DE" tvg-logo="" group-title="Movies",Cine Retro by Pluto TV
@@ -465,12 +479,12 @@ http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 http://40.160.24.53/HALLMARK_DRAMA/index.m3u8
 #EXTINF:-1 tvg-id="HallmarkMoviesMore.us" tvg-country="US" tvg-logo="" group-title="Movies",Hallmark Movies & More
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709
-#EXTINF:-1 tvg-id="HallmarkMoviesMore.us" tvg-country="US" tvg-logo="" group-title="Movies",Hallmark Movies & More
-https://jmp2.uk/plu-628e685ba3811100070551a8.m3u8
 #EXTINF:-1 tvg-id="HallmarkMystery.us" tvg-country="US" tvg-logo="" group-title="Movies",Hallmark Mystery
 http://40.160.24.53/HALLMARK_MOVIES_AND_MYSTERIES/index.m3u8
 #EXTINF:-1 tvg-id="HarbinMovieChannel.cn" tvg-country="CN" tvg-logo="" group-title="Movies",Harbin Movie Channel
 https://stream.hrbtv.net/yspd/playlist.m3u8
+#EXTINF:-1 tvg-id="Hero.fi" tvg-country="FI" tvg-logo="" group-title="Movies",Hero
+https://live-fi.tvkaista.net/hero/live.m3u8?hd=true
 #EXTINF:-1 tvg-id="Hit.ru" tvg-country="RU" tvg-logo="" group-title="Movies",Hit
 http://hls127.freeott.top:8080/XitHD/video.m3u8
 #EXTINF:-1 tvg-id="Hit.ru" tvg-country="RU" tvg-logo="" group-title="Movies",Hit
@@ -511,6 +525,8 @@ https://jmp2.uk/plu-5db0ad56edc89300090d2ebb.m3u8
 http://31.148.48.15/Kineko_HD/index.m3u8
 #EXTINF:-1 tvg-id="Kino1.ru" tvg-country="RU" tvg-logo="" group-title="Movies",Kino 1
 http://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 tvg-id="Kino1.ru" tvg-country="RU" tvg-logo="" group-title="Movies",Kino 1
+https://autopilot.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 tvg-id="Kino1.ua" tvg-country="UA" tvg-logo="" group-title="Movies",Kino 1
 http://stream.mcquack.net/395/index.m3u8
 #EXTINF:-1 tvg-id="Kino2.ua" tvg-country="UA" tvg-logo="" group-title="Movies",Kino 2
@@ -601,16 +617,8 @@ https://aegis-cloudfront-1.tubi.video/55607a73-d5bd-4a09-979e-5933354469ee/playl
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8
 #EXTINF:-1 tvg-id="MCITelevision.co" tvg-country="CO" tvg-logo="" group-title="Movies",MCI Television
 https://video.ejeserver.com/live/mcitelevision.m3u8
-#EXTINF:-1 tvg-id="Medium.de" tvg-country="DE" tvg-logo="" group-title="Movies",Medium
-https://jmp2.uk/plu-6578808014fbe400086e21bc.m3u8
 #EXTINF:-1 tvg-id="MegaCineTV.do" tvg-country="DO" tvg-logo="" group-title="Movies",Mega Cine TV
 https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
-#EXTINF:-1 tvg-id="MerryChristmasfromViafree.se" tvg-country="SE" tvg-logo="" group-title="Movies",Merry Christmas from Viafree
-https://jmp2.uk/plu-63048147b09fd60007847a08.m3u8
-#EXTINF:-1 tvg-id="MerryChristmasfromViafree.se" tvg-country="SE" tvg-logo="" group-title="Movies",Merry Christmas from Viafree
-https://jmp2.uk/plu-63047bd6b0726b000795341d.m3u8
-#EXTINF:-1 tvg-id="MerryChristmasfromViafree.se" tvg-country="SE" tvg-logo="" group-title="Movies",Merry Christmas from Viafree
-https://jmp2.uk/plu-6304854ac6073d0007259fe1.m3u8
 #EXTINF:-1 tvg-id="MetaFilmTV.ir" tvg-country="IR" tvg-logo="" group-title="Movies",Meta Film TV
 https://metafilmhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="MGMPlusDriveIn.us" tvg-country="US" tvg-logo="" group-title="Movies",MGM+ Drive-In
@@ -631,6 +639,8 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 https://cdn4.skygo.mn/live/disk1/Moviebox/DASH-FTA/Moviebox.mpd
 #EXTINF:-1 tvg-id="MovieBox.mn" tvg-country="MN" tvg-logo="" group-title="Movies",MovieBox
 https://cdn4.skygo.mn/live/disk1/Moviebox/HLSv3-FTA/Moviebox.m3u8
+#EXTINF:-1 tvg-id="Moviedome.us" tvg-country="US" tvg-logo="" group-title="Movies",Moviedome
+https://jmp2.uk/plu-615c1e5ce3039400070a0547.m3u8
 #EXTINF:-1 tvg-id="MoviesAction.sa" tvg-country="SA" tvg-logo="" group-title="Movies",Movies Action
 https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
 #EXTINF:-1 tvg-id="MovieSphere.us" tvg-country="US" tvg-logo="" group-title="Movies",MovieSphere
@@ -640,7 +650,11 @@ https://amg00353-amg00353c32-samsung-nz-3588.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MovieSphere.us" tvg-country="US" tvg-logo="" group-title="Movies",MovieSphere
 https://jmp2.uk/plu-64a3d96f060e830008af6745.m3u8
 #EXTINF:-1 tvg-id="MovieSphere.us" tvg-country="US" tvg-logo="" group-title="Movies",MovieSphere
+https://jmp2.uk/plu-6401d85a49839300087b116c.m3u8
+#EXTINF:-1 tvg-id="MovieSphere.us" tvg-country="US" tvg-logo="" group-title="Movies",MovieSphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MovieSphere.us" tvg-country="US" tvg-logo="" group-title="Movies",MovieSphere
+https://jmp2.uk/plu-645e7828e1979c00087b75b4.m3u8
 #EXTINF:-1 tvg-id="MovieSphere.us" tvg-country="US" tvg-logo="" group-title="Movies",MovieSphere
 https://aegis-cloudfront-1.tubi.video/8b127a5b-3054-4f39-93a2-1c4aab9ef5ff/playlist.m3u8
 #EXTINF:-1 tvg-id="MovieSphere.us" tvg-country="US" tvg-logo="" group-title="Movies",MovieSphere
@@ -657,16 +671,6 @@ http://88.212.15.19/live/mozi_plusz/index.m3u8
 http://88.212.15.19/live/moziverzum/index.m3u8
 #EXTINF:-1 tvg-id="Muzhskoekino.ru" tvg-country="RU" tvg-logo="" group-title="Movies",Muzhskoe kino
 http://stream.mcquack.net/107/index.m3u8
-#EXTINF:-1 tvg-id="MyCinemaEurope.ch" tvg-country="CH" tvg-logo="" group-title="Movies",My Cinema Europe
-https://op-group1-densxvisionhd-1.dens.tv/h/h18/index.m3u8
-#EXTINF:-1 tvg-id="Nashemuzhskoe.ru" tvg-country="RU" tvg-logo="" group-title="Movies",Nashe muzhskoe
-http://stream.mcquack.net/362/index.m3u8
-#EXTINF:-1 tvg-id="NasheNovoeKino.ru" tvg-country="RU" tvg-logo="" group-title="Movies",Nashe Novoe Kino
-http://hls127.freeott.top:8080/Nashe_Novoe_Kino_HD/video.m3u8
-#EXTINF:-1 tvg-id="NasheNovoeKino.ru" tvg-country="RU" tvg-logo="" group-title="Movies",Nashe Novoe Kino
-https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="NashKinomir.de" tvg-country="DE" tvg-logo="" group-title="Movies",Nash Kinomir
-http://hls127.freeott.top:8080/Nash_kinomir/video.m3u8
 #EXTINF:-1 tvg-id="NEWKMOVIES.us" tvg-country="US" tvg-logo="" group-title="Movies",NEW K.MOVIES
 https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB1700007PK&channel_id=newid_343&tp=samsung_tvplus
 #EXTINF:-1 tvg-id="NextHD.py" tvg-country="PY" tvg-logo="" group-title="Movies",Next HD
@@ -687,16 +691,6 @@ https://a-cdn.klowdtv.com/live2/nost_720p/playlist.m3u8
 https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8
 #EXTINF:-1 tvg-id="OscarMoviesBhojpuri.in" tvg-country="IN" tvg-logo="" group-title="Movies",Oscar Movies Bhojpuri
 http://103.175.73.12:8080/live/348/master.m3u8
-#EXTINF:-1 tvg-id="OscarMoviesBhojpuri.in" tvg-country="IN" tvg-logo="" group-title="Movies",Oscar Movies Bhojpuri
-https://mumt05.tangotv.in/87NeALx2OSCARMOVIESBHOJPURI/index.m3u8
-#EXTINF:-1 tvg-id="OscarMoviesBhojpuri.in" tvg-country="IN" tvg-logo="" group-title="Movies",Oscar Movies Bhojpuri
-https://cdn-4.pishow.tv/live/233/master.m3u8
-#EXTINF:-1 tvg-id="Ostrosyuzhetnoye.ru" tvg-country="RU" tvg-logo="" group-title="Movies",Ostrosyuzhetnoye
-http://stream.mcquack.net/214/index.m3u8
-#EXTINF:-1 tvg-id="OuterSphere.us" tvg-country="US" tvg-logo="" group-title="Movies",OuterSphere
-https://d3o593mz1glx8d.cloudfront.net/OuterSphere_US.m3u8
-#EXTINF:-1 tvg-id="OuterSphere.us" tvg-country="US" tvg-logo="" group-title="Movies",OuterSphere
-https://aegis-cloudfront-1.tubi.video/27de4f2e-7f9c-418a-9b0d-e4b35b0843a0/playlist.m3u8
 #EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-country="US" tvg-logo="" group-title="Series",Paramount Network
 http://40.160.24.55/PARAMOUNT_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="Patriot.ru" tvg-country="RU" tvg-logo="" group-title="Movies",Patriot
@@ -1051,6 +1045,8 @@ https://mumt04.tangotv.in/m18aqlK4PUBLICMOVIES/index.m3u8
 http://103.175.73.12:8080/live/239/master.m3u8
 #EXTINF:-1 tvg-id="PunjabiShorts.in" tvg-country="IN" tvg-logo="" group-title="Movies",Punjabi Shorts
 https://vglivessai.akamaized.net/ptnr-yupptv/title-Punjabi_Shorts/in/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/27c3fd7a-b01f-4b00-ac03-557ac77acd47/index.m3u8
+#EXTINF:-1 tvg-id="QTV3.cn" tvg-country="CN" tvg-logo="" group-title="Movies",QTV-3
+http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8
 #EXTINF:-1 tvg-id="RodnoeKino.ru" tvg-country="RU" tvg-logo="" group-title="Movies",Rodnoe Kino
 https://stream8.cinerama.uz/1052/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="RodnoeKino.ru" tvg-country="RU" tvg-logo="" group-title="Movies",Rodnoe Kino
@@ -1159,38 +1155,18 @@ http://103.253.18.58:8000/play/a02u
 http://znty.dyndns.org:5010/hls/foxm.m3u8
 #EXTINF:-1 tvg-id="STARTAir.ru" tvg-country="RU" tvg-logo="" group-title="Movies",START Air
 http://stream.mcquack.net/128/index.m3u8
-#EXTINF:-1 tvg-id="StarTrekDeepSpaceNine.us" tvg-country="US" tvg-logo="" group-title="Movies",Star Trek: Deep Space Nine
-https://jmp2.uk/plu-65c69bbfd77d450008c7ffee.m3u8
-#EXTINF:-1 tvg-id="StarTrekMovies.se" tvg-country="SE" tvg-logo="" group-title="Movies",Star Trek Movies
-https://jmp2.uk/plu-6400c281dff38e00083f59da.m3u8
-#EXTINF:-1 tvg-id="StarTrekMovies.se" tvg-country="SE" tvg-logo="" group-title="Movies",Star Trek Movies
-https://jmp2.uk/plu-6400c228498393000878a9b7.m3u8
-#EXTINF:-1 tvg-id="StarTrekMovies.se" tvg-country="SE" tvg-logo="" group-title="Movies",Star Trek Movies
-https://jmp2.uk/plu-6400c2a6cb41a40008dbe5bc.m3u8
-#EXTINF:-1 tvg-id="StarTrekTheNextGeneration.de" tvg-country="DE" tvg-logo="" group-title="Movies",Star Trek: The Next Generation
-https://jmp2.uk/plu-69776ce979545c21a1220bff.m3u8
 #EXTINF:-1 tvg-id="StarTrekTheNextGeneration.us" tvg-country="US" tvg-logo="" group-title="Movies",Star Trek: The Next Generation
 https://jmp2.uk/plu-695c32e61ca20bb8ca802eb9.m3u8
 #EXTINF:-1 tvg-id="StarTrekTheOriginalSeries.de" tvg-country="DE" tvg-logo="" group-title="Movies",Star Trek: The Original Series
 https://jmp2.uk/plu-69776b58036e883f39e5ab8a.m3u8
 #EXTINF:-1 tvg-id="StarTrekTheOriginalSeries.se" tvg-country="SE" tvg-logo="" group-title="Movies",Star Trek: The Original Series
-https://jmp2.uk/plu-693add137e308621c051e733.m3u8
-#EXTINF:-1 tvg-id="StarTrekTheOriginalSeries.se" tvg-country="SE" tvg-logo="" group-title="Movies",Star Trek: The Original Series
-https://jmp2.uk/plu-693addd62bf6cf7414c4b2fc.m3u8
-#EXTINF:-1 tvg-id="StarTrekTheOriginalSeries.se" tvg-country="SE" tvg-logo="" group-title="Movies",Star Trek: The Original Series
 https://jmp2.uk/plu-693ade4d569386f93f235bb6.m3u8
 #EXTINF:-1 tvg-id="StarTrekVoyager.de" tvg-country="DE" tvg-logo="" group-title="Movies",Star Trek: Voyager
-https://jmp2.uk/plu-65787f2eb228b7000843fa5c.m3u8
-#EXTINF:-1 tvg-id="StarTrekVoyager.de" tvg-country="DE" tvg-logo="" group-title="Movies",Star Trek: Voyager
 https://jmp2.uk/plu-65cb73d33ba51e00084cabad.m3u8
-#EXTINF:-1 tvg-id="StarTrekVoyager.us" tvg-country="US" tvg-logo="" group-title="Movies",Star Trek: Voyager
-https://jmp2.uk/plu-634dacf51d90320007fcd5fa.m3u8
 #EXTINF:-1 tvg-id="StarzCinema.us" tvg-country="US" tvg-logo="" group-title="Movies",Starz Cinema
 http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
 #EXTINF:-1 tvg-id="StudioOnePlus.in" tvg-country="IN" tvg-logo="" group-title="Movies",Studio One +
 https://cdn-1.pishow.tv/live/276/master.m3u8
-#EXTINF:-1 tvg-id="SummerofMovies.us" tvg-country="US" tvg-logo="" group-title="Movies",Summer of Movies
-https://jmp2.uk/plu-6654adb1f99922000854388c.m3u8
 #EXTINF:-1 tvg-id="SundanceTV.us" tvg-country="US" tvg-logo="" group-title="Movies",Sundance TV
 http://40.160.24.55/SUNDANCE/index.m3u8
 #EXTINF:-1 tvg-id="SYFY.us" tvg-country="US" tvg-logo="" group-title="Movies",SYFY
@@ -1233,6 +1209,12 @@ http://40.160.24.55/USA_NETWORK/index.m3u8
 http://40.160.24.55/USA_NETWORK_WEST/index.m3u8
 #EXTINF:-1 tvg-id="ViasatFilm.hu" tvg-country="HU" tvg-logo="" group-title="Movies",Viasat Film
 http://88.212.15.19/live/viasat_film/index.m3u8
+#EXTINF:-1 tvg-id="vijuTV1000.ru" tvg-country="RU" tvg-logo="" group-title="Movies",viju TV1000
+http://stream.mcquack.net/110/index.m3u8
+#EXTINF:-1 tvg-id="vijuTV1000action.ru" tvg-country="RU" tvg-logo="" group-title="Movies",viju TV1000 action
+http://stream.mcquack.net/100/index.m3u8
+#EXTINF:-1 tvg-id="vijuTV1000russkoe.ru" tvg-country="RU" tvg-logo="" group-title="Movies",viju TV1000 russkoe
+https://stream8.cinerama.uz/1059/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="vijuTV1000russkoe.ru" tvg-country="RU" tvg-logo="" group-title="Movies",viju TV1000 russkoe
 http://31.148.48.15/TV1000_Russkoe_kino/index.m3u8
 #EXTINF:-1 tvg-id="WatchitScream.us" tvg-country="US" tvg-logo="" group-title="Movies",Watch it Scream!

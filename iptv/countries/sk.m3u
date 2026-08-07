@@ -31,8 +31,6 @@ https://dash2.antik.sk/live/test_regio_tv/playlist.m3u8
 http://lb.streaming.sk/senzi/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Sport.sk" tvg-country="SK" tvg-logo="" group-title="Sports",Sport
 http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="TeleviziaMocenok.sk" tvg-country="SK" tvg-logo="" group-title="General",Televizia Mocenok
-https://5ca49f2417d90.streamlock.net/mocenok/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="TurboTV.sk" tvg-country="SK" tvg-logo="" group-title="General",Turbo TV
 https://dash3.antik.sk/live/turbo_tv_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="TV8.sk" tvg-country="SK" tvg-logo="" group-title="General",TV8
@@ -43,6 +41,10 @@ http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/playlist.m3u8
 https://dash3.antik.sk/live/test_osem/playlist.m3u8
 #EXTINF:-1 tvg-id="TV9.sk" tvg-country="SK" tvg-logo="" group-title="General",TV9
 https://dash4.antik.sk/live/test_tv9/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCentral.sk" tvg-country="SK" tvg-logo="" group-title="General",TV Central
+https://dash4.antik.sk/live/test_central/playlist.m3u8
+#EXTINF:-1 tvg-id="TVDK.sk" tvg-country="SK" tvg-logo="" group-title="General",TV DK
+https://5ca49f2417d90.streamlock.net/live/dolnykubin1/playlist.m3u8
 #EXTINF:-1 tvg-id="TVLiptov.sk" tvg-country="SK" tvg-logo="" group-title="General",TV Liptov
 http://95.105.255.137:1935/tvturiec/tvliptov.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVLocAll.sk" tvg-country="SK" tvg-logo="" group-title="General",TV LocAll

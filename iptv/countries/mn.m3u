@@ -47,10 +47,6 @@ https://cdn4.skygo.mn/live/disk1/GlobalTV/HLSv3-FTA/GlobalTV.m3u8
 https://cdn4.skygo.mn/live/disk1/GTV/DASH-FTA/GTV.mpd
 #EXTINF:-1 tvg-id="GTV.mn" tvg-country="MN" tvg-logo="" group-title="General",GTV
 https://cdn4.skygo.mn/live/disk1/GTV/HLSv3-FTA/GTV.m3u8
-#EXTINF:-1 tvg-id="MalchinTV.mn" tvg-country="MN" tvg-logo="" group-title="Culture",Malchin TV
-https://cdn4.skygo.mn/live/disk1/Malchin/DASH-FTA/Malchin.mpd
-#EXTINF:-1 tvg-id="MalchinTV.mn" tvg-country="MN" tvg-logo="" group-title="Culture",Malchin TV
-https://cdn4.skygo.mn/live/disk1/Malchin/HLSv3-FTA/Malchin.m3u8
 #EXTINF:-1 tvg-id="MNB.mn" tvg-country="MN" tvg-logo="" group-title="General",MNB
 https://live.mnb.mn/hls/mnb.stream.m3u8
 #EXTINF:-1 tvg-id="MNB.mn" tvg-country="MN" tvg-logo="" group-title="General",MNB
@@ -63,6 +59,8 @@ https://live.mnb.mn/hls/mn2.stream.m3u8
 https://cdn4.skygo.mn/live/disk1/MNB2/DASH-FTA/MNB2.mpd
 #EXTINF:-1 tvg-id="MNBMongoliinMedee.mn" tvg-country="MN" tvg-logo="" group-title="General",MNB Mongoliin Medee
 https://cdn4.skygo.mn/live/disk1/MNB2/HLSv3-FTA/MNB2.m3u8
+#EXTINF:-1 tvg-id="MNBSport.mn" tvg-country="MN" tvg-logo="" group-title="Sports",MNB Sport
+https://live.mnb.mn/hls/mnb_sport.stream.m3u8
 #EXTINF:-1 tvg-id="MNBSport.mn" tvg-country="MN" tvg-logo="" group-title="Sports",MNB Sport
 https://cdn4.skygo.mn/live/disk1/MNBSport/DASH-FTA/MNBSport.mpd
 #EXTINF:-1 tvg-id="MNBSport.mn" tvg-country="MN" tvg-logo="" group-title="Sports",MNB Sport
@@ -87,14 +85,6 @@ https://cdn4.skygo.mn/live/disk1/Moviebox/HLSv3-FTA/Moviebox.m3u8
 https://cdn4.skygo.mn/live/disk1/NTVHD/DASH-FTA/NTVHD.mpd
 #EXTINF:-1 tvg-id="NTV.mn" tvg-country="MN" tvg-logo="" group-title="General",NTV
 https://cdn4.skygo.mn/live/disk1/NTVHD/HLSv3-FTA/NTVHD.m3u8
-#EXTINF:-1 tvg-id="ONTV.mn" tvg-country="MN" tvg-logo="" group-title="General",ONTV
-https://cdn4.skygo.mn/live/disk1/ONTV/DASH-FTA/ONTV.mpd
-#EXTINF:-1 tvg-id="ONTV.mn" tvg-country="MN" tvg-logo="" group-title="General",ONTV
-https://cdn4.skygo.mn/live/disk1/ONTV/HLSv3-FTA/ONTV.m3u8
-#EXTINF:-1 tvg-id="ParliamentTV.mn" tvg-country="MN" tvg-logo="" group-title="Legislative",Parliament TV
-https://cdn4.skygo.mn/live/disk1/Parlament/DASH-FTA/Parlament.mpd
-#EXTINF:-1 tvg-id="ParliamentTV.mn" tvg-country="MN" tvg-logo="" group-title="Legislative",Parliament TV
-https://cdn4.skygo.mn/live/disk1/Parlament/HLSv3-FTA/Parlament.m3u8
 #EXTINF:-1 tvg-id="SBN.mn" tvg-country="MN" tvg-logo="" group-title="General",SBN
 https://cdn4.skygo.mn/live/disk1/SBN/DASH-FTA/SBN.mpd
 #EXTINF:-1 tvg-id="SBN.mn" tvg-country="MN" tvg-logo="" group-title="General",SBN
@@ -113,8 +103,6 @@ https://cdn4.skygo.mn/live/disk1/SuldTV/DASH-FTA/SuldTV.mpd
 https://cdn4.skygo.mn/live/disk1/SuldTV/HLSv3-FTA/SuldTV.m3u8
 #EXTINF:-1 tvg-id="TenGerTV.mn" tvg-country="MN" tvg-logo="" group-title="General",TenGer TV
 https://cdn4.skygo.mn/live/disk1/VTV/DASH-FTA/VTV.mpd
-#EXTINF:-1 tvg-id="TenGerTV.mn" tvg-country="MN" tvg-logo="" group-title="General",TenGer TV
-https://cdn4.skygo.mn/live/disk1/VTV/HLSv3-FTA/VTV.m3u8
 #EXTINF:-1 tvg-id="TMTV.mn" tvg-country="MN" tvg-logo="" group-title="General",TM TV
 https://cdn4.skygo.mn/live/disk1/TM/DASH-FTA/TM.mpd
 #EXTINF:-1 tvg-id="TMTV.mn" tvg-country="MN" tvg-logo="" group-title="General",TM TV

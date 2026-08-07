@@ -1,8 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="13C.cl" tvg-country="CL" tvg-logo="" group-title="Culture",13C
-https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 #EXTINF:-1 tvg-id="AbaiTV.kz" tvg-country="KZ" tvg-logo="" group-title="Culture",Abai TV
 https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8
+#EXTINF:-1 tvg-id="AfrocultureTV.ci" tvg-country="CI" tvg-logo="" group-title="Culture",Afroculture TV
+https://streamtv.cmediahosthosting.net:3836/live/myafroculturelive.m3u8
+#EXTINF:-1 tvg-id="AfroMagicChannel.ci" tvg-country="CI" tvg-logo="" group-title="Culture",Afro Magic Channel
+https://video1.getstreamhosting.com:1936/8306/8306/playlist.m3u8
+#EXTINF:-1 tvg-id="AfroMagicChannel.ci" tvg-country="CI" tvg-logo="" group-title="Culture",Afro Magic Channel
+https://video1.getstreamhosting.com:1936/8490/8490/playlist.m3u8
 #EXTINF:-1 tvg-id="AlternaTV.ar" tvg-country="AR" tvg-logo="" group-title="Music",AlternaTV
 https://tv.alterna.ar/stream/hls/live.m3u8
 #EXTINF:-1 tvg-id="AmaniTV.sn" tvg-country="SN" tvg-logo="" group-title="Culture",Amani TV
@@ -43,8 +47,6 @@ https://reflect-stream-bronxnet.cablecast.tv/live-7/live/stream-3/live.m3u8
 https://cdn.protvradiostream.com/rtvd17/ngrp:rtvd17_all/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalDiplomatico.ve" tvg-country="VE" tvg-logo="" group-title="Culture",Canal Diplomatico
 https://master.myplaytv.com:2020/hls/canaldiplomatico/canaldiplomatico.m3u8
-#EXTINF:-1 tvg-id="Capital21.mx" tvg-country="MX" tvg-logo="" group-title="Culture",Capital 21
-https://video.cdmx.gob.mx/redes/stream.m3u8
 #EXTINF:-1 tvg-id="CatamarcaTV.ar" tvg-country="AR" tvg-logo="" group-title="Culture",Catamarca TV
 https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=
 #EXTINF:-1 tvg-id="CCTV8.cn" tvg-country="CN" tvg-logo="" group-title="Culture",CCTV-8
@@ -89,6 +91,8 @@ https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg
 https://3d46w.doyeltv.com/memfs/aa3aa6f7-ec12-41a2-8183-a891e157bbf8.m3u8
 #EXTINF:-1 tvg-id="ETV2.ee" tvg-country="EE" tvg-logo="" group-title="Kids",ETV 2
 https://sb.err.ee/live/etv2.m3u8
+#EXTINF:-1 tvg-id="Evtele.cg" tvg-country="CG" tvg-logo="" group-title="Culture",Ev-tele
+https://playtv4k.live/live/EVTELE/index.m3u8
 #EXTINF:-1 tvg-id="FNX.us" tvg-country="US" tvg-logo="" group-title="Culture",FNX
 https://fnx.lls.pbs.org/index.m3u8
 #EXTINF:-1 tvg-id="FoxSoul.us" tvg-country="US" tvg-logo="" group-title="Culture",Fox Soul
@@ -111,8 +115,6 @@ https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
 https://webtvstream.bhtelecom.ba/hrt3.m3u8
 #EXTINF:-1 tvg-id="HyderTV.ca" tvg-country="CA" tvg-logo="" group-title="Culture",Hyder TV
 https://cdn.live247stream.com/hyder/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="IRIB4.ir" tvg-country="IR" tvg-logo="" group-title="Culture",IRIB 4
-https://ncdn.telewebion.ir/tv4/live/playlist.m3u8
 #EXTINF:-1 tvg-id="IshtarTV.iq" tvg-country="IQ" tvg-logo="" group-title="Culture",Ishtar TV
 https://stream.ishtartv.com/live/iShtarHD/playlist.m3u8
 #EXTINF:-1 tvg-id="JaliscoTV.mx" tvg-country="MX" tvg-logo="" group-title="Culture",Jalisco TV
@@ -151,10 +153,6 @@ http://193.225.32.62:8890/live.m3u8
 http://stream.mcquack.net/353/index.m3u8
 #EXTINF:-1 tvg-id="LuysTV.tr" tvg-country="TR" tvg-logo="" group-title="Culture",Luys TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="MalchinTV.mn" tvg-country="MN" tvg-logo="" group-title="Culture",Malchin TV
-https://cdn4.skygo.mn/live/disk1/Malchin/DASH-FTA/Malchin.mpd
-#EXTINF:-1 tvg-id="MalchinTV.mn" tvg-country="MN" tvg-logo="" group-title="Culture",Malchin TV
-https://cdn4.skygo.mn/live/disk1/Malchin/HLSv3-FTA/Malchin.m3u8
 #EXTINF:-1 tvg-id="ManasTV.kg" tvg-country="KG" tvg-logo="" group-title="Education",Manas TV
 http://212.42.111.152:8080/hls/manas.m3u8
 #EXTINF:-1 tvg-id="MBCAmerica.us" tvg-country="US" tvg-logo="" group-title="Culture",MBC America
@@ -169,10 +167,6 @@ http://15.204.246.24:8080/Mega2HD/index.m3u8
 https://5c2974786200d.streamlock.net/live-chan30/ngrp:ch30_all/playlist.m3u8
 #EXTINF:-1 tvg-id="MidpenMediaCenterChannel75.us" tvg-country="US" tvg-logo="" group-title="Culture",Midpen Media Center Channel 75
 https://5c2974786200d.streamlock.net/live-chan75/ngrp:ch75_all/playlist.m3u8
-#EXTINF:-1 tvg-id="Miras.tm" tvg-country="TM" tvg-logo="" group-title="Culture",Miras
-https://alpha.tv.online.tm/hls/ch003.m3u8
-#EXTINF:-1 tvg-id="Miras.tm" tvg-country="TM" tvg-logo="" group-title="Culture",Miras
-https://alpha.tv.online.tm/legacyhls/ch003.m3u8
 #EXTINF:-1 tvg-id="MontrealGreekTV.ca" tvg-country="CA" tvg-logo="" group-title="Culture",Montreal Greek TV
 http://live.greektv.ca/hls1/greektv.m3u8
 #EXTINF:-1 tvg-id="NeiMonggolTV2MongolianCultureChannel.cn" tvg-country="CN" tvg-logo="" group-title="Culture",Nei Monggol TV 2 Mongolian Culture Channel
@@ -211,16 +205,8 @@ https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8
 https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
 #EXTINF:-1 tvg-id="OrlerTV.it" tvg-country="IT" tvg-logo="" group-title="Culture",Orler TV
 https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="OstWest24.de" tvg-country="DE" tvg-logo="" group-title="Culture",Ost West 24
-http://stream.mcquack.net/455/index.m3u8
-#EXTINF:-1 tvg-id="OstWest.de" tvg-country="DE" tvg-logo="" group-title="News",Ost West
-http://hls127.freeott.top:8080/OstWest/video.m3u8
 #EXTINF:-1 tvg-id="Ovation.us" tvg-country="US" tvg-logo="" group-title="Culture",Ovation
 http://40.160.24.55/OVATION/index.m3u8
-#EXTINF:-1 tvg-id="PardesiTV.ca" tvg-country="CA" tvg-logo="" group-title="Culture",Pardesi TV
-http://stream.pardesitv.online/pardesi/index.m3u8
-#EXTINF:-1 tvg-id="PardesiTV.ca" tvg-country="CA" tvg-logo="" group-title="Culture",Pardesi TV
-http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="PresumiendoMexico.mx" tvg-country="MX" tvg-logo="" group-title="Culture",Presumiendo Mexico
 https://60417ddeaf0d9.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="QausainTV.ng" tvg-country="NG" tvg-logo="" group-title="Culture",Qausain TV
@@ -272,8 +258,6 @@ http://stream.mcquack.net/435/index.m3u8
 #EXTINF:-1 tvg-id="SuyaiTV.cl" tvg-country="CL" tvg-logo="" group-title="Culture",Suyai TV
 https://origin.skarnetchile.com:8081/suyai-tv-hd/index.m3u8
 #EXTINF:-1 tvg-id="Teatr.ru" tvg-country="RU" tvg-logo="" group-title="Culture",Teatr
-http://hls127.freeott.top:8080/Teatr/video.m3u8
-#EXTINF:-1 tvg-id="Teatr.ru" tvg-country="RU" tvg-logo="" group-title="Culture",Teatr
 http://31.148.48.15/Sochi_HD/index.m3u8
 #EXTINF:-1 tvg-id="Teatr.ru" tvg-country="RU" tvg-logo="" group-title="Culture",Teatr
 http://31.148.48.15/Sochi_HD/video.m3u8
@@ -283,12 +267,14 @@ https://zkpywrbgdbeg-hls-live.mariatvcdn.it/teleradiopace2/254c9b5c52a73a94ef0f6
 https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8
 #EXTINF:-1 tvg-id="TrishulBroadcastingNetwork.sr" tvg-country="SR" tvg-logo="" group-title="Culture",Trishul Broadcasting Network
 https://live.suricloud.com/hls/tbntv/index.m3u8
+#EXTINF:-1 tvg-id="TVCuatro42.mx" tvg-country="MX" tvg-logo="" group-title="Culture",TV Cuatro 4.2
+https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
+#EXTINF:-1 tvg-id="TVERS.br" tvg-country="BR" tvg-logo="" group-title="Culture",TVE RS
+https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
 #EXTINF:-1 tvg-id="TVLifeAmerica.br" tvg-country="BR" tvg-logo="" group-title="Culture",TV Life America
 https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
 #EXTINF:-1 tvg-id="TVRCultural.ro" tvg-country="RO" tvg-logo="" group-title="Culture",TVR Cultural
 https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVUFOP.br" tvg-country="BR" tvg-logo="" group-title="Public",TV UFOP
-https://app.tvufop.com.br/hls/tvufop.m3u8
 #EXTINF:-1 tvg-id="TVVita.sk" tvg-country="SK" tvg-logo="" group-title="Culture",TV Vita
 https://dash3.antik.sk/live/test_vita/playlist.m3u8
 #EXTINF:-1 tvg-id="USMPTV.pe" tvg-country="PE" tvg-logo="" group-title="Culture",USMPTV
