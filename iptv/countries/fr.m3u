@@ -61,6 +61,8 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/can
 http://145.239.5.177/361/index.m3u8
 #EXTINF:-1 tvg-id="DBMTV.fr" tvg-country="FR" tvg-logo="" group-title="Music",DBM TV
 https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
+#EXTINF:-1 tvg-id="EmotionL.fr" tvg-country="FR" tvg-logo="" group-title="Movies",Emotion L
+https://rakutenaa-zylo-emotional-rakuten-r1zkm.amagi.tv/playlist/rakutenAA-zylo-emotional-rakuten/playlist.m3u8
 #EXTINF:-1 tvg-id="Equidia.fr" tvg-country="FR" tvg-logo="" group-title="Sports",Equidia
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
 #EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-country="FR" tvg-logo="" group-title="News",Euronews English
@@ -257,12 +259,16 @@ https://live-3.otcnet.ru/Mezzo/index.m3u8
 http://45.84.187.172:3001/udp/239.10.10.76:5000
 #EXTINF:-1 tvg-id="MezzoLive.fr" tvg-country="FR" tvg-logo="" group-title="Music",Mezzo Live
 http://stream.mcquack.net/276/index.m3u8
+#EXTINF:-1 tvg-id="MonteCarloDigitalTelevision.fr" tvg-country="FR" tvg-logo="" group-title="Lifestyle",Monte Carlo Digital Television
+https://fl718492-exthls-p1.flovp.com/fl718492/live/live.m3u8
 #EXTINF:-1 tvg-id="MTV.fr" tvg-country="FR" tvg-logo="" group-title="Entertainment",MTV
 http://99.27.51.147:8080/MTV/index.m3u8
 #EXTINF:-1 tvg-id="NickelodeonJunior.fr" tvg-country="FR" tvg-logo="" group-title="Kids",Nickelodeon Junior
 http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
 #EXTINF:-1 tvg-id="NollywoodTV.fr" tvg-country="FR" tvg-logo="" group-title="Movies",Nollywood TV
 http://145.239.5.177/148/index.m3u8
+#EXTINF:-1 tvg-id="P2MTV.fr" tvg-country="FR" tvg-logo="" group-title="Music",P2M TV
+https://vdo2.pro-fhi.net:3207/stream/play.m3u8
 #EXTINF:-1 tvg-id="PersianaCinema.fr" tvg-country="FR" tvg-logo="" group-title="Movies",Persiana Cinema
 https://cinehls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PersianaComedy.fr" tvg-country="FR" tvg-logo="" group-title="Comedy",Persiana Comedy
@@ -331,8 +337,12 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u
 http://145.239.5.177/356/index.m3u8
 #EXTINF:-1 tvg-id="TF1.fr" tvg-country="FR" tvg-logo="" group-title="Entertainment",TF1
 http://151.80.18.177:86/TF1_HD/index.m3u8
+#EXTINF:-1 tvg-id="TF1.fr" tvg-country="FR" tvg-logo="" group-title="Entertainment",TF1
+https://futbol9865.ultratv13.workers.dev/deportivo111/24.m3u8
 #EXTINF:-1 tvg-id="TFX.fr" tvg-country="FR" tvg-logo="" group-title="General",TFX
 http://145.239.5.177/315/index.m3u8
+#EXTINF:-1 tvg-id="TMC.fr" tvg-country="FR" tvg-logo="" group-title="General",TMC
+http://151.80.18.177:86/TMC/index.m3u8
 #EXTINF:-1 tvg-id="TraceAfrica.fr" tvg-country="FR" tvg-logo="" group-title="Music",Trace Africa
 https://channels.trace.plus/Traceprod/AFRICA_FR_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceAfrikora.fr" tvg-country="FR" tvg-logo="" group-title="Music",Trace Afrikora
@@ -429,8 +439,6 @@ https://tv3v.live-kd.com/live/tv3v/livestream/index.m3u8
 http://5.9.121.178/tv5monde/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondeAsia.fr" tvg-country="FR" tvg-logo="" group-title="General",TV5Monde Asia
 http://27.131.164.187:8080/TV5_Monde/index.m3u8
-#EXTINF:-1 tvg-id="TV5MondeAsia.fr" tvg-country="FR" tvg-logo="" group-title="General",TV5Monde Asia
-http://103.172.187.30:12000/stream/allchannel/tv5asie
 #EXTINF:-1 tvg-id="TV5MONDEChefs.fr" tvg-country="FR" tvg-logo="" group-title="Lifestyle",TV5MONDE Chefs
 https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
 #EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-country="FR" tvg-logo="" group-title="General",TV5Monde Europe

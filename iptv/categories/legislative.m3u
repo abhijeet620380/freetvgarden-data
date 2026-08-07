@@ -22,8 +22,6 @@ https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalCongreso.co" tvg-country="CO" tvg-logo="" group-title="Legislative",Canal Congreso
 http://138.121.15.230:9002/CANAL-CONGRESO/index.m3u8
 #EXTINF:-1 tvg-id="CanalGov.br" tvg-country="BR" tvg-logo="" group-title="Legislative",Canal Gov
-https://canalgov-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 tvg-id="CanalGov.br" tvg-country="BR" tvg-logo="" group-title="Legislative",Canal Gov
 http://168.197.104.22:80/TV_BRASIL_2/index.m3u8
 #EXTINF:-1 tvg-id="CanalGov.br" tvg-country="BR" tvg-logo="" group-title="Legislative",Canal Gov
 http://138.255.2.6:8084/TVBRASIL2/index.m3u8
@@ -169,6 +167,8 @@ https://edge-f.swagit.com/live/miamibeachfl/live-1-a/playlist.m3u8
 https://5c2974786200d.streamlock.net/live-chan29/ngrp:ch29_all/playlist.m3u8
 #EXTINF:-1 tvg-id="MOITV.kh" tvg-country="KH" tvg-logo="" group-title="Legislative",MOI TV
 http://202.62.56.22:8080/hls/MOITV.m3u8
+#EXTINF:-1 tvg-id="MonroeCountyTV.us" tvg-country="US" tvg-logo="" group-title="Legislative",Monroe County TV
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/monroe/live/ch1/video.m3u8
 #EXTINF:-1 tvg-id="NatickGovernmentChannel.us" tvg-country="US" tvg-logo="" group-title="Legislative",Natick Government Channel
 https://livestream.telvue.com/natickpegasus3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="NationalAssemblyTV.kr" tvg-country="KR" tvg-logo="" group-title="Legislative",National Assembly TV
@@ -195,6 +195,10 @@ https://stream.smashmalta.com:25463/live/webplayer/livestream/23.m3u8
 https://cdn4.skygo.mn/live/disk1/Parlament/DASH-FTA/Parlament.mpd
 #EXTINF:-1 tvg-id="ParliamentTV.mn" tvg-country="MN" tvg-logo="" group-title="Legislative",Parliament TV
 https://cdn4.skygo.mn/live/disk1/Parlament/HLSv3-FTA/Parlament.m3u8
+#EXTINF:-1 tvg-id="ParliamentTV.nz" tvg-country="NZ" tvg-logo="" group-title="Legislative",Parliament TV
+https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8
+#EXTINF:-1 tvg-id="PBCTVChannel20.us" tvg-country="US" tvg-logo="" group-title="Legislative",PBC TV Channel 20
+https://pbcvideostreams1.pbc.gov/memfs/1af49f9a-6b90-4ec2-a640-7f65ceebed4a.m3u8
 #EXTINF:-1 tvg-id="PCTV26.us" tvg-country="US" tvg-logo="" group-title="Legislative",PCTV 26
 https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/pinole/G0032_004/playlist.m3u8
 #EXTINF:-1 tvg-id="PershyiZahidnyi.ua" tvg-country="UA" tvg-logo="" group-title="Legislative",Pershyi Zahidnyi

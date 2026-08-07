@@ -31,6 +31,8 @@ https://651c69fa2ff4e.streamlock.net/ctv/_definst_/livecredo/playlist.m3u8
 https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
 #EXTINF:-1 tvg-id="DottoTV.ro" tvg-country="RO" tvg-logo="" group-title="News",Dotto TV
 https://live.dottotv.ro/index.m3u8
+#EXTINF:-1 tvg-id="EMITV.ro" tvg-country="RO" tvg-logo="" group-title="Music",EMI TV
+https://astra.emitv.ro/hls/emi/index.m3u8
 #EXTINF:-1 tvg-id="HD365TV.ro" tvg-country="RO" tvg-logo="" group-title="General",HD365 TV
 https://s2.netstreaming.eu/hd365.m3u8
 #EXTINF:-1 tvg-id="HelloTaste.ro" tvg-country="RO" tvg-logo="" group-title="Cooking",Hello Taste
@@ -53,6 +55,10 @@ http://streamer1.streamhost.org:1935/salive/GMIlcbgM/playlist.m3u8
 https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
 #EXTINF:-1 tvg-id="MetropolaTV.ro" tvg-country="RO" tvg-logo="" group-title="General",Metropola TV
 https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8
+#EXTINF:-1 tvg-id="Mireasa.ro" tvg-country="RO" tvg-logo="" group-title="Series",Mireasa
+https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
+#EXTINF:-1 tvg-id="MISATV.ro" tvg-country="RO" tvg-logo="" group-title="Religious",MISA TV
+https://vidl.misatv.ro:5050/MSTV/romanian_720p_baseline/playlist.m3u8
 #EXTINF:-1 tvg-id="MuscelTV.ro" tvg-country="RO" tvg-logo="" group-title="General",Muscel TV
 https://cdn.streamnet.pro/musceltv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="NasulTV.ro" tvg-country="RO" tvg-logo="" group-title="General",Nasul TV
@@ -81,14 +87,8 @@ https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 https://jstre.am/live/jsl:2gNjpghXRLE.m3u8
 #EXTINF:-1 tvg-id="SuperTV.ro" tvg-country="RO" tvg-logo="" group-title="Music",Super TV
 http://iptv.supertv.ro:8000/play/a001/index.m3u8
-#EXTINF:-1 tvg-id="Tele7ABCHD.ro" tvg-country="RO" tvg-logo="" group-title="General",Tele7ABC HD
-https://live.tele7abc.ro/hls/stream/index.m3u8
-#EXTINF:-1 tvg-id="Tele7music.ro" tvg-country="RO" tvg-logo="" group-title="Music",Tele7music
-https://live.tele7music.ro/hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="TeleMBotosani.ro" tvg-country="RO" tvg-logo="" group-title="General",TeleM Botosani
 http://89.137.197.15:8080/testing/pl5/playlist/ram/playlist.m3u8
-#EXTINF:-1 tvg-id="Telestar1.ro" tvg-country="RO" tvg-logo="" group-title="General",Telestar1
-https://dvb.tennet.ro/mobile_tv/telestar.m3u8
 #EXTINF:-1 tvg-id="TraditionalTV.ro" tvg-country="RO" tvg-logo="" group-title="Music",Traditional TV
 http://83.103.149.75:8085/udp/239.30.0.9:4000
 #EXTINF:-1 tvg-id="TVArad.ro" tvg-country="RO" tvg-logo="" group-title="General",TV Arad

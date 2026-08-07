@@ -49,6 +49,8 @@ https://streamtv.as3sport.online:3394/hybrid/play.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 #EXTINF:-1 tvg-id="AstrahanRuSport.ru" tvg-country="RU" tvg-logo="" group-title="Sports",Astrahan.Ru Sport
 https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
+#EXTINF:-1 tvg-id="ATGLive.se" tvg-country="SE" tvg-logo="" group-title="Sports",ATG Live
+https://kanal75xto-llhls.akamaized.net/live/Data/atg-kanal-15-02a-rr/HLS-Legacy-HL/atg-kanal-15-02a-rr.m3u8
 #EXTINF:-1 tvg-id="AztecaDeportesNetwork.mx" tvg-country="MX" tvg-logo="" group-title="Sports",Azteca Deportes Network
 http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8
 #EXTINF:-1 tvg-id="AztecaDeportesNetwork.mx" tvg-country="MX" tvg-logo="" group-title="Sports",Azteca Deportes Network
@@ -97,16 +99,14 @@ https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Belarus5.by" tvg-country="BY" tvg-logo="" group-title="Sports",Belarus-5
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BellatorMMA.us" tvg-country="US" tvg-logo="" group-title="Sports",Bellator MMA
+https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8
 #EXTINF:-1 tvg-id="BoksTV.ru" tvg-country="RU" tvg-logo="" group-title="Sports",Boks TV
 http://stream.mcquack.net/154/index.m3u8
 #EXTINF:-1 tvg-id="BoksTV.ru" tvg-country="RU" tvg-logo="" group-title="Sports",Boks TV
 http://31.148.48.15/Boks_TV/index.m3u8
 #EXTINF:-1 tvg-id="BrondbyTV.se" tvg-country="SE" tvg-logo="" group-title="Sports",Brondby TV
 https://jmp2.uk/plu-685029cda1e091e16ff57fc8.m3u8
-#EXTINF:-1 tvg-id="CanalShowsport.ar" tvg-country="AR" tvg-logo="" group-title="Sports",Canal Showsport
-https://livestream.lumpentv.com.ar/hls/lumpen.m3u8
-#EXTINF:-1 tvg-id="CazeTV.br" tvg-country="BR" tvg-logo="" group-title="Sports",CazeTV
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 #EXTINF:-1 tvg-id="CBSSportsHQ.us" tvg-country="US" tvg-logo="" group-title="Sports",CBS Sports HQ
 https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8
 #EXTINF:-1 tvg-id="CBSSportsNetworkUSA.us" tvg-country="US" tvg-logo="" group-title="Sports",CBS Sports Network USA
@@ -165,16 +165,12 @@ http://stream.mcquack.net/485/index.m3u8
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
 #EXTINF:-1 tvg-id="ESPN3.br" tvg-country="BR" tvg-logo="" group-title="Sports",ESPN 3
 http://181.78.197.59:8000/play/a081/index.m3u8
-#EXTINF:-1 tvg-id="ESPN3.br" tvg-country="BR" tvg-logo="" group-title="Sports",ESPN 3
-http://190.83.2.182:8090/ESPN3/index.m3u8
 #EXTINF:-1 tvg-id="ESPN4.br" tvg-country="BR" tvg-logo="" group-title="Sports",ESPN 4
 http://181.78.197.59:8000/play/a07n/index.m3u8
 #EXTINF:-1 tvg-id="ESPN8TheOcho.us" tvg-country="US" tvg-logo="" group-title="Sports",ESPN8: The Ocho
 https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
 #EXTINF:-1 tvg-id="ESPN.br" tvg-country="BR" tvg-logo="" group-title="Sports",ESPN
 http://181.78.197.59:8000/play/a07z/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.br" tvg-country="BR" tvg-logo="" group-title="Sports",ESPN
-http://190.83.2.182:8090/ESPN/index.m3u8
 #EXTINF:-1 tvg-id="ESPNDeportes.us" tvg-country="US" tvg-logo="" group-title="Sports",ESPN Deportes
 http://40.160.24.58/ESPN_DEPORTES/index.m3u8
 #EXTINF:-1 tvg-id="ESPNDeportes.us" tvg-country="US" tvg-logo="" group-title="Sports",ESPN Deportes
@@ -259,12 +255,16 @@ http://31.148.48.15/Futbol_HD/index.m3u8
 http://145.239.5.177/556a/index.m3u8
 #EXTINF:-1 tvg-id="FoxDeportes.us" tvg-country="US" tvg-logo="" group-title="Sports",Fox Deportes
 http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
+#EXTINF:-1 tvg-id="FoxDeportes.us" tvg-country="US" tvg-logo="" group-title="Sports",Fox Deportes
+https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxSoccerPlus.us" tvg-country="US" tvg-logo="" group-title="Sports",Fox Soccer Plus
 https://gpuserver3.tier1streams.com/FOX_SOCCER_PLUS/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports1.us" tvg-country="US" tvg-logo="" group-title="Sports",Fox Sports 1
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports2.us" tvg-country="US" tvg-logo="" group-title="Sports",Fox Sports 2
 https://ftv.itscwd273.workers.dev/?id=FOXSPORTS2
+#EXTINF:-1 tvg-id="FoxSports.ar" tvg-country="AR" tvg-logo="" group-title="Sports",Fox Sports
+https://futbol9865.ultratv13.workers.dev/deportivo111/78.m3u8
 #EXTINF:-1 tvg-id="FTFSports.us" tvg-country="US" tvg-logo="" group-title="Sports",FTF Sports
 https://1593604785.rsc.cdn77.org/FTF/FTF_SCTE.m3u8
 #EXTINF:-1 tvg-id="FTFSports.us" tvg-country="US" tvg-logo="" group-title="Sports",FTF Sports
@@ -280,9 +280,13 @@ https://amg01074-fueltv-fueltvau-samsungau-g09kq.amagi.tv/playlist/amg01074-fuel
 #EXTINF:-1 tvg-id="FUELTV.pt" tvg-country="PT" tvg-logo="" group-title="Sports",FUEL TV
 https://amg01074-fueltv-fueltvnz-samsungnz-i8ani.amagi.tv/playlist/amg01074-fueltv-fueltvnz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="FUELTV.pt" tvg-country="PT" tvg-logo="" group-title="Sports",FUEL TV
+https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
+#EXTINF:-1 tvg-id="FUELTV.pt" tvg-country="PT" tvg-logo="" group-title="Sports",FUEL TV
 https://amg01074-fueltv-amg01074c1-stirr-us-4214.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Futbol.tj" tvg-country="TJ" tvg-logo="" group-title="Sports",Futbol
 https://live.teleradiocom.tj/8/3m.m3u8
+#EXTINF:-1 tvg-id="FutbolTV.uz" tvg-country="UZ" tvg-logo="" group-title="Sports",Futbol TV
+http://stream3.cinerama.uz/1010/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="FUTV.cr" tvg-country="CR" tvg-logo="" group-title="Sports",FUTV
 http://190.61.90.17:40000/play/a03v/index.m3u8
 #EXTINF:-1 tvg-id="GamePlus.ca" tvg-country="CA" tvg-logo="" group-title="Sports",Game+
@@ -351,20 +355,36 @@ https://a-cdn.klowdtv.com/live2/lsn_720p/playlist.m3u8
 http://stream.mcquack.net/353/index.m3u8
 #EXTINF:-1 tvg-id="MadeinBOTV.it" tvg-country="IT" tvg-logo="" group-title="Sports",MadeinBO TV
 https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
+#EXTINF:-1 tvg-id="MaincastCybersport.ua" tvg-country="UA" tvg-logo="" group-title="Sports",Maincast Cybersport
+http://stream.mcquack.net/487/index.m3u8
+#EXTINF:-1 tvg-id="MaincastSport.ua" tvg-country="UA" tvg-logo="" group-title="Sports",Maincast Sport
+http://stream.mcquack.net/490/index.m3u8
+#EXTINF:-1 tvg-id="MatchArena.ru" tvg-country="RU" tvg-logo="" group-title="Sports",Match! Arena
+http://stream.mcquack.net/163/index.m3u8
 #EXTINF:-1 tvg-id="MatchArena.ru" tvg-country="RU" tvg-logo="" group-title="Sports",Match! Arena
 http://31.148.48.15/Match_Arena_HD/index.m3u8
 #EXTINF:-1 tvg-id="MatchArena.ru" tvg-country="RU" tvg-logo="" group-title="Sports",Match! Arena
 http://31.148.48.15/Match_Arena/index.m3u8
 #EXTINF:-1 tvg-id="MatchBoets.ru" tvg-country="RU" tvg-logo="" group-title="Sports",Match! Boets
+http://stream.mcquack.net/112/index.m3u8
+#EXTINF:-1 tvg-id="MatchBoets.ru" tvg-country="RU" tvg-logo="" group-title="Sports",Match! Boets
 http://31.148.48.15/Match_Boec/index.m3u8
+#EXTINF:-1 tvg-id="MatchIgra.ru" tvg-country="RU" tvg-logo="" group-title="Sports",Match! Igra
+http://stream.mcquack.net/188/index.m3u8
 #EXTINF:-1 tvg-id="MatchIgra.ru" tvg-country="RU" tvg-logo="" group-title="Sports",Match! Igra
 http://31.148.48.15/Match_Igra_HD/index.m3u8
 #EXTINF:-1 tvg-id="MatchIgra.ru" tvg-country="RU" tvg-logo="" group-title="Sports",Match! Igra
 http://31.148.48.15/Match_Igra/index.m3u8
 #EXTINF:-1 tvg-id="MatchStrana.ru" tvg-country="RU" tvg-logo="" group-title="Sports",Match! Strana
+http://ukr.ukrainske.tv/134/keytvainua/video.m3u8
+#EXTINF:-1 tvg-id="MatchStrana.ru" tvg-country="RU" tvg-logo="" group-title="Sports",Match! Strana
+http://stream.mcquack.net/143/index.m3u8
+#EXTINF:-1 tvg-id="MatchStrana.ru" tvg-country="RU" tvg-logo="" group-title="Sports",Match! Strana
 http://31.148.48.15/Match_Strana/index.m3u8
 #EXTINF:-1 tvg-id="MatchStrana.ru" tvg-country="RU" tvg-logo="" group-title="Sports",Match! Strana
 http://31.148.48.15/Match_Nash_Sport/index.m3u8
+#EXTINF:-1 tvg-id="MatchUltra.ru" tvg-country="RU" tvg-logo="" group-title="Sports",Match! Ultra
+http://stream.mcquack.net/169/index.m3u8
 #EXTINF:-1 tvg-id="MaxSport1.bg" tvg-country="BG" tvg-logo="" group-title="Sports",Max Sport 1
 http://213.91.179.28:8000/play/a0as
 #EXTINF:-1 tvg-id="MaxSport2.bg" tvg-country="BG" tvg-logo="" group-title="Sports",Max Sport 2
@@ -375,16 +395,38 @@ http://213.91.179.28:8000/play/a0ar
 http://213.91.179.28:8000/play/a05n
 #EXTINF:-1 tvg-id="MeridianoTV.ve" tvg-country="VE" tvg-logo="" group-title="Sports",Meridiano TV
 http://181.78.8.199:8000/play/a0fr/index.m3u8
+#EXTINF:-1 tvg-id="MLB.us" tvg-country="US" tvg-logo="" group-title="Sports",MLB
+https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist.m3u8
+#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-country="US" tvg-logo="" group-title="Sports",MLB Network
+https://gpuserver3.tier1streams.com/MLB_Network/index.m3u8
 #EXTINF:-1 tvg-id="MLBStrikeZone.us" tvg-country="US" tvg-logo="" group-title="Sports",MLB Strike Zone
 http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8
 #EXTINF:-1 tvg-id="MMATV.us" tvg-country="US" tvg-logo="" group-title="Sports",MMA TV
 http://31.148.48.15/M1_Global/index.m3u8
+#EXTINF:-1 tvg-id="MMATVcom.ru" tvg-country="RU" tvg-logo="" group-title="Sports",MMA-TV.com
+https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MMATVcom.ru" tvg-country="RU" tvg-logo="" group-title="Sports",MMA-TV.com
+https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
+#EXTINF:-1 tvg-id="MNBSport.mn" tvg-country="MN" tvg-logo="" group-title="Sports",MNB Sport
+https://live.mnb.mn/hls/mnb_sport.stream.m3u8
+#EXTINF:-1 tvg-id="MNBSport.mn" tvg-country="MN" tvg-logo="" group-title="Sports",MNB Sport
+https://cdn4.skygo.mn/live/disk1/MNBSport/DASH-FTA/MNBSport.mpd
+#EXTINF:-1 tvg-id="MNBSport.mn" tvg-country="MN" tvg-logo="" group-title="Sports",MNB Sport
+https://cdn4.skygo.mn/live/disk1/MNBSport/HLSv3-FTA/MNBSport.m3u8
+#EXTINF:-1 tvg-id="MNetSport.mk" tvg-country="MK" tvg-logo="" group-title="Sports",M-Net Sport
+http://ares.mnet.mk/hls/mnet-sport.m3u8
+#EXTINF:-1 tvg-id="MonterricoTV.pe" tvg-country="PE" tvg-logo="" group-title="Sports",Monterrico TV
+https://h.jcp.live.opencaster.com/play_src/index.m3u8
+#EXTINF:-1 tvg-id="MoreThanSportsTV.de" tvg-country="DE" tvg-logo="" group-title="Sports",More Than Sports TV
+https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 #EXTINF:-1 tvg-id="MSG.us" tvg-country="US" tvg-logo="" group-title="Sports",MSG
 http://23.237.104.106:8080/USA_MSG/index.m3u8
 #EXTINF:-1 tvg-id="MSG.us" tvg-country="US" tvg-logo="" group-title="Sports",MSG
 https://gpuserver3.tier1streams.com/MSG/index.m3u8
 #EXTINF:-1 tvg-id="MSGPlus.us" tvg-country="US" tvg-logo="" group-title="Sports",MSG Plus
 https://gpuserver3.tier1streams.com/MSG_PLUS/index.m3u8
+#EXTINF:-1 tvg-id="MSports.pk" tvg-country="PK" tvg-logo="" group-title="Sports",M Sports
+https://cdn.rabta.stream/M-Sports/index.m3u8
 #EXTINF:-1 tvg-id="MultivisionSports.gt" tvg-country="GT" tvg-logo="" group-title="Sports",Multivision Sports
 https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
 #EXTINF:-1 tvg-id="NauticalChannel.it" tvg-country="IT" tvg-logo="" group-title="Sports",Nautical Channel
@@ -433,6 +475,12 @@ http://stream.mcquack.net/493/index.m3u8
 http://stream.mcquack.net/492/index.m3u8
 #EXTINF:-1 tvg-id="OmanSportsTV.om" tvg-country="OM" tvg-logo="" group-title="Sports",Oman Sports TV
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="OvacionTV.pe" tvg-country="PE" tvg-logo="" group-title="Sports",Ovacion TV
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Overtime.us" tvg-country="US" tvg-logo="" group-title="Sports",Overtime
+https://d1a8aq6t30gkqj.cloudfront.net/v1/amc_overtime_1/samsungheadend_us/latest/main/hls/playlist_hd.m3u8
+#EXTINF:-1 tvg-id="PBRRidePass.us" tvg-country="US" tvg-logo="" group-title="Sports",PBR RidePass
+https://jmp2.uk/plu-60d39387706fe50007fda8e8.m3u8
 #EXTINF:-1 tvg-id="PersianaFight.fr" tvg-country="FR" tvg-logo="" group-title="Sports",Persiana Fight
 https://fighthls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PFLMMA.us" tvg-country="US" tvg-logo="" group-title="Sports",PFL MMA
@@ -503,6 +551,8 @@ https://jmp2.uk/plu-62cd74e38f6f0d000798cd93.m3u8
 https://jmp2.uk/plu-5fc54366b04b2300072e31af.m3u8
 #EXTINF:-1 tvg-id="PolsatSportPremium1.pl" tvg-country="PL" tvg-logo="" group-title="Sports",Polsat Sport Premium 1
 http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7304/index.m3u8
+#EXTINF:-1 tvg-id="PolsatSportPremium2.pl" tvg-country="PL" tvg-logo="" group-title="Sports",Polsat Sport Premium 2
+http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7305/index.m3u8
 #EXTINF:-1 tvg-id="PremierSports2.ph" tvg-country="PH" tvg-logo="" group-title="Sports",Premier Sports 2
 https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8
 #EXTINF:-1 tvg-id="PremierSports.ph" tvg-country="PH" tvg-logo="" group-title="Sports",Premier Sports
@@ -521,14 +571,14 @@ https://amg00378-mavtv-amg00378c2-samsung-au-1790.playouts.now.amagi.tv/playlist
 https://amg00378-mavtv-amg00378c2-samsung-nz-1791.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="RacerNetwork.us" tvg-country="US" tvg-logo="" group-title="Sports",Racer Network
 https://amg00378-mavtv-amg00378c3-sportstribal-emea-1325.playouts.now.amagi.tv/mavtv-smn-xm/playlist.m3u8
-#EXTINF:-1 tvg-id="RacerNetwork.us" tvg-country="US" tvg-logo="" group-title="Sports",Racer Network
-https://gpuserver3.tier1streams.com/MAV_TV/index.m3u8
 #EXTINF:-1 tvg-id="RacerSelect.us" tvg-country="US" tvg-logo="" group-title="Sports",Racer Select
 https://amg00378-amg00378c4-freelivesports-emea-5637.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RacerSelect.us" tvg-country="US" tvg-logo="" group-title="Sports",Racer Select
 https://d85qrcmltdfp8.cloudfront.net/MAVTV_Select.m3u8
 #EXTINF:-1 tvg-id="RealitateaSportiva.ro" tvg-country="RO" tvg-logo="" group-title="Sports",Realitatea Sportiva
 https://stream.realitatea.net/realitatea/sportiva_md/ts:playlist.m3u8
+#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-country="ES" tvg-logo="" group-title="Sports",Real Madrid TV
+https://jmp2.uk/plu-63dac28760bc8f0008a7654b.m3u8
 #EXTINF:-1 tvg-id="RealMadridTV.es" tvg-country="ES" tvg-logo="" group-title="Sports",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1 tvg-id="RealMadridTVEnglish.es" tvg-country="ES" tvg-logo="" group-title="Sports",Real Madrid TV English
@@ -542,13 +592,9 @@ https://jmp2.uk/plu-67813f3162bf016db944c9ab.m3u8
 #EXTINF:-1 tvg-id="RedBullTV.at" tvg-country="AT" tvg-logo="" group-title="Sports",Red Bull TV
 https://46cfeb23c7f74853bba7a256655a3119.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-582-WORBDACHDEFAST-WHALETVPLUS/582/whaletvplus/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="RedBullTV.at" tvg-country="AT" tvg-logo="" group-title="Sports",Red Bull TV
-https://jmp2.uk/plu-5e7cb84a172a0f0007da69e4.m3u8
-#EXTINF:-1 tvg-id="RedBullTV.at" tvg-country="AT" tvg-logo="" group-title="Sports",Red Bull TV
 https://769a97d9.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JlZEJ1bGxUVl9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="RedBullTV.at" tvg-country="AT" tvg-logo="" group-title="Sports",Red Bull TV
 https://886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-WHALETVPLUS/957/whaletvplus/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="RedBullTV.at" tvg-country="AT" tvg-logo="" group-title="Sports",Red Bull TV
-https://jmp2.uk/plu-67813f893886aa863497733d.m3u8
 #EXTINF:-1 tvg-id="RedBullTV.at" tvg-country="AT" tvg-logo="" group-title="Sports",Red Bull TV
 https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="RedBullTV.at" tvg-country="AT" tvg-logo="" group-title="Sports",Red Bull TV
@@ -712,8 +758,6 @@ https://rightsboosterltd-scl-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="StrongmanChampionsLeague.uk" tvg-country="UK" tvg-logo="" group-title="Sports",Strongman Champions League
 https://rightsboosterltd-scl-1-no.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="StrongmanChampionsLeague.uk" tvg-country="UK" tvg-logo="" group-title="Sports",Strongman Champions League
-https://cb4748b76e2c4b11bb5790666256964b.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_StrongmanChampionsLeague/playlist.m3u8
-#EXTINF:-1 tvg-id="StrongmanChampionsLeague.uk" tvg-country="UK" tvg-logo="" group-title="Sports",Strongman Champions League
 https://rightsboosterltd-scl-1-se.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="StrongmanChampionsLeague.uk" tvg-country="UK" tvg-logo="" group-title="Sports",Strongman Champions League
 https://rightsboosterltd-scl-1-us.xumo.wurl.tv/playlist.m3u8
@@ -736,17 +780,19 @@ http://live.talenttv.lk:8080/hls/x8kd5n3tm8e8lsv/index.m3u8
 #EXTINF:-1 tvg-id="TalentTV.lk" tvg-country="LK" tvg-logo="" group-title="Sports",Talent TV
 https://cast.talenttv.lk/hls/mcrlo1ygwpu8x4bj/index.m3u8
 #EXTINF:-1 tvg-id="talkSPORT.uk" tvg-country="UK" tvg-logo="" group-title="Sports",talkSPORT
-https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-id="talkSPORT.uk" tvg-country="UK" tvg-logo="" group-title="Sports",talkSPORT
 https://tvsen6.aynaott.com/talkSPORT/index.m3u8
 #EXTINF:-1 tvg-id="Teledeporte.es" tvg-country="ES" tvg-logo="" group-title="Sports",Teledeporte
 https://rtve01p.origin.c21livecloud.com/live-origin/tdp-hls/bitrate_1.m3u8
 #EXTINF:-1 tvg-id="TeletrakTV.cl" tvg-country="CL" tvg-logo="" group-title="Sports",Teletrak TV
 https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TennisChannel.us" tvg-country="US" tvg-logo="" group-title="Sports",Tennis Channel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-id="TennisChannel.us" tvg-country="US" tvg-logo="" group-title="Sports",Tennis Channel
 https://tennischannelintl-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TennisChannel.us" tvg-country="US" tvg-logo="" group-title="Sports",Tennis Channel
 http://23.237.104.106:8080/USA_TENNIS/index.m3u8
+#EXTINF:-1 tvg-id="TennisChannel.us" tvg-country="US" tvg-logo="" group-title="Sports",Tennis Channel
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
 #EXTINF:-1 tvg-id="TennisChannel.us" tvg-country="US" tvg-logo="" group-title="Sports",Tennis Channel
 http://40.160.24.55/TENNIS_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="TigoSports.gt" tvg-country="GT" tvg-logo="" group-title="Sports",Tigo Sports
@@ -789,8 +835,6 @@ https://alpha.tv.online.tm/legacyhls/ch004.m3u8
 https://5ca3e84a76d30.streamlock.net/tv43gto/tv43gto.smil/.m3u8
 #EXTINF:-1 tvg-id="TVMsportPlus.mt" tvg-country="MT" tvg-logo="" group-title="Sports",TVMsport+
 https://stream.smashmalta.com:25463/live/webplayer/livestream/29.m3u8
-#EXTINF:-1 tvg-id="TVPSport.pl" tvg-country="PL" tvg-logo="" group-title="Sports",TVP Sport
-http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7280/index.m3u8
 #EXTINF:-1 tvg-id="TVRSport.ro" tvg-country="RO" tvg-logo="" group-title="General",TVR Sport
 https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSBowlingNetwork.us" tvg-country="US" tvg-logo="" group-title="Sports",TVS Bowling Network
@@ -827,6 +871,8 @@ https://live-a.fptplay53.net/live/media/vtv6/live247-hls-avc/index.m3u8
 https://live.fptplay53.net/live/media/vtv6/live247-hls-avc/index.m3u8
 #EXTINF:-1 tvg-id="VTV6.vn" tvg-country="VN" tvg-logo="" group-title="Sports",VTV6
 https://vips-livecdn.fptplay.net/live/media/vtv6/live247-hls-avc/index.m3u8
+#EXTINF:-1 tvg-id="WeSportTV.md" tvg-country="MD" tvg-logo="" group-title="Sports",We Sport TV
+http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2471/index.m3u8
 #EXTINF:-1 tvg-id="Willow.us" tvg-country="US" tvg-logo="" group-title="Sports",Willow
 http://tvsen5.aynascope.net/willowhd/index.m3u8
 #EXTINF:-1 tvg-id="Willow.us" tvg-country="US" tvg-logo="" group-title="Sports",Willow
@@ -861,8 +907,6 @@ https://jmp2.uk/plu-62ea4b755e8e770007387b79.m3u8
 https://jmp2.uk/plu-6177f8fdef21ab0007332b53.m3u8
 #EXTINF:-1 tvg-id="WorldPokerTour.us" tvg-country="US" tvg-logo="" group-title="Sports",World Poker Tour
 https://jmp2.uk/plu-6080381ab7c9ea00074ec64c.m3u8
-#EXTINF:-1 tvg-id="WorldPokerTour.us" tvg-country="US" tvg-logo="" group-title="Sports",World Poker Tour
-https://jmp2.uk/plu-608016e446d73500075ea7e0.m3u8
 #EXTINF:-1 tvg-id="WorldPokerTour.us" tvg-country="US" tvg-logo="" group-title="Sports",World Poker Tour
 https://jmp2.uk/plu-61781254560f2e00071b78ce.m3u8
 #EXTINF:-1 tvg-id="WorldPokerTour.us" tvg-country="US" tvg-logo="" group-title="Sports",World Poker Tour

@@ -73,10 +73,12 @@ http://88.212.15.19/live/m2_hun/index.m3u8
 http://88.212.15.19/live/test_m_5_hun_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-id="MagyarMoziTV.hu" tvg-country="HU" tvg-logo="" group-title="Movies",Magyar Mozi TV
 http://88.212.15.19/live/mozi/index.m3u8
-#EXTINF:-1 tvg-id="MezokovesdiTelevizio.hu" tvg-country="HU" tvg-logo="" group-title="General",Mezokovesdi Televizio
-https://cloudfront44.lexanetwork.com:1344/freerelay/mezokovesdvtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="MakoiVarosiTelevizio.hu" tvg-country="HU" tvg-logo="" group-title="General",Makoi Varosi Televizio
+http://makomedia.mikrohalo.hu/hls/makotv.m3u8
 #EXTINF:-1 tvg-id="Minimax.hu" tvg-country="HU" tvg-logo="" group-title="Kids",Minimax
 http://88.212.15.19/live/minimax_hun/index.m3u8
+#EXTINF:-1 tvg-id="MoraNetTV.hu" tvg-country="HU" tvg-logo="" group-title="General",Mora-Net TV
+https://stream.moranettv.hu/live/index.m3u8
 #EXTINF:-1 tvg-id="Moziklub.hu" tvg-country="HU" tvg-logo="" group-title="Entertainment",Moziklub
 http://88.212.15.19/live/moziklub_atk/index.m3u8
 #EXTINF:-1 tvg-id="MoziPlus.hu" tvg-country="HU" tvg-logo="" group-title="Movies",Mozi+
@@ -153,6 +155,8 @@ http://88.212.15.19/live/tv2_kids/index.m3u8
 http://88.212.15.19/live/test_lichi_tv_atk_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TV4.hu" tvg-country="HU" tvg-logo="" group-title="General",TV4
 http://88.212.15.19/live/test_tv_4_hun_atk_1200/playlist.m3u8
+#EXTINF:-1 tvg-id="TVEger.hu" tvg-country="HU" tvg-logo="" group-title="General",TV Eger
+http://stream.tveger.hu:8010/live.m3u8
 #EXTINF:-1 tvg-id="TVKeszthely.hu" tvg-country="HU" tvg-logo="" group-title="General",TV Keszthely
 https://cloudfront44.lexanetwork.com:1344/freerelay/keszthelyivtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Viasat2.hu" tvg-country="HU" tvg-logo="" group-title="General",Viasat2

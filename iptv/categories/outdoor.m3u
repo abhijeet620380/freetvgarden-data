@@ -18,8 +18,6 @@ https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playl
 #EXTINF:-1 tvg-id="AgroTV.bg" tvg-country="BG" tvg-logo="" group-title="Outdoor",Agro TV
 https://restr2.bgtv.bg/agro/hls/agro.m3u8
 #EXTINF:-1 tvg-id="AgroTV.pe" tvg-country="PE" tvg-logo="" group-title="Outdoor",Agro TV
-https://live-evg8.tv360.bitel.com.pe/bitel/agroSRT/playlist.m3u8
-#EXTINF:-1 tvg-id="AgroTV.pe" tvg-country="PE" tvg-logo="" group-title="Outdoor",Agro TV
 https://play.agenciastreaming.com:8081/agrotv/index.m3u8
 #EXTINF:-1 tvg-id="AgroTV.ro" tvg-country="RO" tvg-logo="" group-title="Outdoor",Agro TV
 https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
@@ -53,6 +51,8 @@ http://stream.mcquack.net/274/index.m3u8
 http://stream.mcquack.net/275/index.m3u8
 #EXTINF:-1 tvg-id="Dikij.ru" tvg-country="RU" tvg-logo="" group-title="Outdoor",Dikij
 http://hls127.freeott.top:8080/Dikiy/video.m3u8
+#EXTINF:-1 tvg-id="ElMundodelCampo.co" tvg-country="CO" tvg-logo="" group-title="Outdoor",El Mundo del Campo
+https://movil.ejeserver.com/live/elmundodelcampo.m3u8
 #EXTINF:-1 tvg-id="FishTV.br" tvg-country="BR" tvg-logo="" group-title="Outdoor",Fish TV
 http://45.162.64.114/FISH_TV/index.m3u8
 #EXTINF:-1 tvg-id="FishTV.br" tvg-country="BR" tvg-logo="" group-title="Outdoor",Fish TV
@@ -95,6 +95,10 @@ http://40.160.24.55/OUTDOOR_CHANNEL/index.m3u8
 http://23.237.104.106:8080/USA_OUTDOOR/index.m3u8
 #EXTINF:-1 tvg-id="OutsideTV.us" tvg-country="US" tvg-logo="" group-title="Outdoor",Outside TV
 http://40.160.24.55/OUTSIDE_TV/index.m3u8
+#EXTINF:-1 tvg-id="OutsideTV.us" tvg-country="US" tvg-logo="" group-title="Outdoor",Outside TV
+https://outsidetv-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="OutsideTV.us" tvg-country="US" tvg-logo="" group-title="Outdoor",Outside TV
+https://desdobebr2wri.cloudfront.net/Outside.m3u8
 #EXTINF:-1 tvg-id="PeerTVAltoAdige.it" tvg-country="IT" tvg-logo="" group-title="Outdoor",Peer TV Alto Adige
 https://iptv.peer.biz/live/peertv-it.m3u8
 #EXTINF:-1 tvg-id="PeerTVSouthTyrol.it" tvg-country="IT" tvg-logo="" group-title="Outdoor",Peer TV South Tyrol
@@ -134,13 +138,9 @@ https://jmp2.uk/plu-67813f3162bf016db944c9ab.m3u8
 #EXTINF:-1 tvg-id="RedBullTV.at" tvg-country="AT" tvg-logo="" group-title="Sports",Red Bull TV
 https://46cfeb23c7f74853bba7a256655a3119.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-582-WORBDACHDEFAST-WHALETVPLUS/582/whaletvplus/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="RedBullTV.at" tvg-country="AT" tvg-logo="" group-title="Sports",Red Bull TV
-https://jmp2.uk/plu-5e7cb84a172a0f0007da69e4.m3u8
-#EXTINF:-1 tvg-id="RedBullTV.at" tvg-country="AT" tvg-logo="" group-title="Sports",Red Bull TV
 https://769a97d9.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JlZEJ1bGxUVl9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="RedBullTV.at" tvg-country="AT" tvg-logo="" group-title="Sports",Red Bull TV
 https://886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-WHALETVPLUS/957/whaletvplus/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="RedBullTV.at" tvg-country="AT" tvg-logo="" group-title="Sports",Red Bull TV
-https://jmp2.uk/plu-67813f893886aa863497733d.m3u8
 #EXTINF:-1 tvg-id="RedBullTV.at" tvg-country="AT" tvg-logo="" group-title="Sports",Red Bull TV
 https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="RedBullTV.at" tvg-country="AT" tvg-logo="" group-title="Sports",Red Bull TV
@@ -179,6 +179,8 @@ https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
 http://45.162.64.114/TERRAVIVA/index.m3u8
 #EXTINF:-1 tvg-id="TerraViva.br" tvg-country="BR" tvg-logo="" group-title="Outdoor",Terra Viva
 http://45.190.28.50/TERRA_VIVA_HD/index.m3u8
+#EXTINF:-1 tvg-id="TerraViva.br" tvg-country="BR" tvg-logo="" group-title="Outdoor",Terra Viva
+https://9ada494d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfVXBseW5rLU5ld2NvX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-id="TerraViva.br" tvg-country="BR" tvg-logo="" group-title="Outdoor",Terra Viva
 http://168.197.104.22:80/TERRAVIVA/index.m3u8
 #EXTINF:-1 tvg-id="TerraViva.br" tvg-country="BR" tvg-logo="" group-title="Outdoor",Terra Viva
