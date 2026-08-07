@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="78TV.bg" tvg-country="BG" tvg-logo="" group-title="Entertainment",7/8 TV
 http://213.91.179.28:8000/play/a0cn
-#EXTINF:-1 tvg-id="AgroTV.bg" tvg-country="BG" tvg-logo="" group-title="Outdoor",Agro TV
-https://restr2.bgtv.bg/agro/hls/agro.m3u8
 #EXTINF:-1 tvg-id="BloombergTVBulgaria.bg" tvg-country="BG" tvg-logo="" group-title="Business",Bloomberg TV Bulgaria
 http://213.91.179.28:8000/play/a04m
 #EXTINF:-1 tvg-id="BNT1.bg" tvg-country="BG" tvg-logo="" group-title="General",BNT 1
@@ -67,6 +65,8 @@ http://213.91.179.28:8000/play/a0cl
 http://213.91.179.28:8000/play/a0cf
 #EXTINF:-1 tvg-id="KinoNova.bg" tvg-country="BG" tvg-logo="" group-title="Movies",Kino Nova
 http://213.91.179.28:8000/play/a041
+#EXTINF:-1 tvg-id="LightChannel.bg" tvg-country="BG" tvg-logo="" group-title="Religious",Light Channel
+https://streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8
 #EXTINF:-1 tvg-id="MagicTV.bg" tvg-country="BG" tvg-logo="" group-title="Music",Magic TV
 https://bss1.neterra.tv/magictv/magictv.m3u8
 #EXTINF:-1 tvg-id="MaxSport1.bg" tvg-country="BG" tvg-logo="" group-title="Sports",Max Sport 1
@@ -117,5 +117,11 @@ https://streamer103.neterra.tv/travel/live.m3u8
 https://shift03.isp.bg/RodinaTV/index.m3u8
 #EXTINF:-1 tvg-id="TVSpravedlivaBulgariya.bg" tvg-country="BG" tvg-logo="" group-title="General",TV Spravedliva Bulgariya
 https://tv.tvsb.bg/112.m3u8
+#EXTINF:-1 tvg-id="ViasatExplore.bg" tvg-country="BG" tvg-logo="" group-title="Documentary",Viasat Explore
+https://shift03.isp.bg/ViasatExplorer_HD/index.m3u8
+#EXTINF:-1 tvg-id="ViasatHistory.bg" tvg-country="BG" tvg-logo="" group-title="Documentary",Viasat History
+https://shift03.isp.bg/ViasatHistory_HD/index.m3u8
+#EXTINF:-1 tvg-id="ViasatNature.bg" tvg-country="BG" tvg-logo="" group-title="Documentary",Viasat Nature
+https://shift03.isp.bg/ViasatNature_HD/index.m3u8
 #EXTINF:-1 tvg-id="VivacomArena.bg" tvg-country="BG" tvg-logo="" group-title="General",Vivacom Arena
 http://213.91.179.28:8000/play/a053

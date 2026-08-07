@@ -15,12 +15,14 @@ https://ztnr.rtve.es/ztnr/5473142.m3u8
 https://ztnr.rtve.es/ztnr/4952053.m3u8
 #EXTINF:-1 tvg-id="APunt.es" tvg-country="ES" tvg-logo="" group-title="General",A Punt
 https://fastly.live.brightcove.com/1846756479408303045/eu-central-1/6057955885001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZWFxNWh4LmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTg4NTAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1ODg1MDAxIl0sImp0aSI6IjE4NDY3NTY0Nzk0MDgzMDMwNDUifQ.o6wb_VA-TVxl3ERgr7FKLlaTjY7smErmsf73QAydySE/playlist-hls-dvr.m3u8
-#EXTINF:-1 tvg-id="AragonTVInternacional.es" tvg-country="ES" tvg-logo="" group-title="General",Aragon TV Internacional
-https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 #EXTINF:-1 tvg-id="BonDiaTV.es" tvg-country="ES" tvg-logo="" group-title="General",Bon Dia TV
 https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8
 #EXTINF:-1 tvg-id="BonDiaTV.es" tvg-country="ES" tvg-logo="" group-title="General",Bon Dia TV
 https://directes-tv-int.3catdirectes.cat/live-origin/bondia-hls/master.m3u8
+#EXTINF:-1 tvg-id="CanalSur2.es" tvg-country="ES" tvg-logo="" group-title="General",Canal Sur 2
+https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalSurNoticias.es" tvg-country="ES" tvg-logo="" group-title="News",Canal Sur Noticias
+https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Clan.es" tvg-country="ES" tvg-logo="" group-title="Kids",Clan
 http://185.47.212.25:8080/Clan_HD/index.m3u8
 #EXTINF:-1 tvg-id="CMMTV.es" tvg-country="ES" tvg-logo="" group-title="General",CMM TV
@@ -35,6 +37,8 @@ https://cdn1.etbon.eus/etb1on/index.m3u8
 https://cdn1.etbon.eus/etb1on/index.mpd
 #EXTINF:-1 tvg-id="ETBEvents1.es" tvg-country="ES" tvg-logo="" group-title="General",ETB Events 1
 https://cdn1.etbon.eus/oc1/index.m3u8
+#EXTINF:-1 tvg-id="FomixTV.nl" tvg-country="NL" tvg-logo="" group-title="Music",FomixTV
+https://stream.fomixmedia.nl/FomixTV/video.m3u8
 #EXTINF:-1 tvg-id="GaliciaTVEuropa.es" tvg-country="ES" tvg-logo="" group-title="General",Galicia TV Europa
 https://crtvg-europa.flumotion.cloud/playlist.m3u8
 #EXTINF:-1 tvg-id="La1.es" tvg-country="ES" tvg-logo="" group-title="General",La 1
@@ -49,3 +53,5 @@ https://rtvelivestream.rtve.es/rtvesec/la2/la2_main.m3u8
 https://ztnr.rtve.es/ztnr/5468585.m3u8
 #EXTINF:-1 tvg-id="La2Catalunya.es" tvg-country="ES" tvg-logo="" group-title="General",La 2 Catalunya
 https://ztnr.rtve.es/ztnr/3987218.m3u8
+#EXTINF:-1 tvg-id="TVUFOP.br" tvg-country="BR" tvg-logo="" group-title="Public",TV UFOP
+https://app.tvufop.com.br/hls/tvufop.m3u8

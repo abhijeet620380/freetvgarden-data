@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="BusuiocTV.md" tvg-country="MD" tvg-logo="" group-title="Music",Busuioc TV
+https://tt.nfthost.net/static/streaming-playlists/hls/bb907ca9-5cb5-49dd-b276-d77721a9bc6d/master.m3u8
 #EXTINF:-1 tvg-id="HitFM.md" tvg-country="MD" tvg-logo="" group-title="Music",Hit FM
 https://hitfm.nfthost.net/hls/hitfm/live_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Moldova1.md" tvg-country="MD" tvg-logo="" group-title="General",Moldova 1
@@ -17,6 +19,8 @@ https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8
 https://radiolive.trm.md/hls_rma/actualitati.m3u8
 #EXTINF:-1 tvg-id="RadioMoldovaMuzical.md" tvg-country="MD" tvg-logo="" group-title="Music",Radio Moldova Muzical
 https://radiolive.trm.md:8001/hls_rmm/muzical.m3u8
+#EXTINF:-1 tvg-id="RadioMoldovaTineret.md" tvg-country="MD" tvg-logo="" group-title="Entertainment",Radio Moldova Tineret
+https://radiolive.trm.md:8001/hls_rmt/tineret.m3u8
 #EXTINF:-1 tvg-id="RealitateaTV.md" tvg-country="MD" tvg-logo="" group-title="News",Realitatea TV
 https://realitatealive.md/tv/rlive.m3u8
 #EXTINF:-1 tvg-id="SorTV.md" tvg-country="MD" tvg-logo="" group-title="General",Sor TV

@@ -1,14 +1,22 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Carac1.ch" tvg-country="CH" tvg-logo="" group-title="Entertainment",Carac 1
+https://edge13.vedge.infomaniak.com/livecast/ik:event/manifest.m3u8
+#EXTINF:-1 tvg-id="Carac1.ch" tvg-country="CH" tvg-logo="" group-title="Entertainment",Carac 1
 http://145.239.5.177/371/index.m3u8
+#EXTINF:-1 tvg-id="Carac4.ch" tvg-country="CH" tvg-logo="" group-title="Entertainment",Carac 4
+https://edge17.vedge.infomaniak.com/livecast/ik:compack_media_1/playlist.m3u8
 #EXTINF:-1 tvg-id="Couleur3.ch" tvg-country="CH" tvg-logo="" group-title="Music",Couleur 3
 https://visualradio-rts-couleur3-d.akamaized.net/out/v1/6a1472634ad745f59a9e63ee8adbbc00/index.m3u8
 #EXTINF:-1 tvg-id="DieNeueZeitTV.ch" tvg-country="CH" tvg-logo="" group-title="Religious",Die Neue Zeit TV
 https://bild-und-ton.stream/die-neue-zeit-tv-live/smil:dnz-de.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ImmaculataTV.ch" tvg-country="CH" tvg-logo="" group-title="Religious",Immaculata TV
+https://g5nl63z8lpq6-hls-live.5centscdn.com/tvistream/a5586d8ea3b7b021120a05c60dc59876.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="MaxTV.ch" tvg-country="CH" tvg-logo="" group-title="General",Max TV
 https://cdn.katapy.io/cache/stream/katapytv/dieu/playlist.m3u8
 #EXTINF:-1 tvg-id="Meteonews.ch" tvg-country="CH" tvg-logo="" group-title="Weather",Meteonews
 https://streaming.meteonews.net/hls/stream.m3u8
+#EXTINF:-1 tvg-id="MyCinemaEurope.ch" tvg-country="CH" tvg-logo="" group-title="Movies",My Cinema Europe
+https://op-group1-densxvisionhd-1.dens.tv/h/h18/index.m3u8
 #EXTINF:-1 tvg-id="Radio3i.ch" tvg-country="CH" tvg-logo="" group-title="General",Radio 3i
 https://vstream-cdn.ch/hls/radio3i.m3u8
 #EXTINF:-1 tvg-id="RADIODISCOuntTV.ch" tvg-country="CH" tvg-logo="" group-title="Music",RADIO DISCOunt TV
@@ -19,6 +27,8 @@ https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index.m3
 https://www.rtvpendimi.com:19360/tvpendimi/tvpendimi.m3u8
 #EXTINF:-1 tvg-id="SivanTV.ch" tvg-country="CH" tvg-logo="" group-title="Religious",Sivan TV
 http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
+#EXTINF:-1 tvg-id="TeleTicino.ch" tvg-country="CH" tvg-logo="" group-title="General",TeleTicino
+https://vstream-cdn.ch/hls/teleticino.m3u8
 #EXTINF:-1 tvg-id="WaterBear.ch" tvg-country="CH" tvg-logo="" group-title="Documentary",WaterBear
 https://amg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv/playlist/amg01415-waterbearnetwor-waterbear-samsunguk/playlist.m3u8
 #EXTINF:-1 tvg-id="WedoBigStories.ch" tvg-country="CH" tvg-logo="" group-title="Documentary",Wedo Big Stories
