@@ -13,6 +13,8 @@ http://88.212.15.19/live/test_atv_spirit/playlist.m3u8
 https://stream.iptvservice.eu/hls/balatontv.m3u8
 #EXTINF:-1 tvg-id="BTV.hu" tvg-country="HU" tvg-logo="" group-title="General",BTV
 https://cloudfront44.lexanetwork.com:1344/freerelay/babolnatv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="BudapestEuropaTelevizio.hu" tvg-country="HU" tvg-logo="" group-title="General",Budapest Europa Televizio
+https://cloudfront44.lexanetwork.com:1344/freerelay/bpetv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="CityTV.hu" tvg-country="HU" tvg-logo="" group-title="General",City TV
 https://citytv.hu/playlist.m3u8
 #EXTINF:-1 tvg-id="CsurgoTV.hu" tvg-country="HU" tvg-logo="" group-title="General",Csurgo TV
@@ -99,6 +101,10 @@ http://88.212.15.19/live/nick_junior_hun/index.m3u8
 http://88.212.15.19/live/nicktoons_hungary/index.m3u8
 #EXTINF:-1 tvg-id="OroszlanyiVarosiTelevizio.hu" tvg-country="HU" tvg-logo="" group-title="General",Oroszlanyi Varosi Televizio
 https://cloudfront44.lexanetwork.com:1344/relay01/broadcast002.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="OrszaggyulesOGYplenaris.hu" tvg-country="HU" tvg-logo="" group-title="Legislative",Orszaggyules: OGY plenaris
+https://plenaris.parlament.hu:446/edgelive/smil:mkogyplen.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OrszaggyulesOGYTAB.hu" tvg-country="HU" tvg-logo="" group-title="Legislative",Orszaggyules: OGY TAB
+https://tab.parlament.hu:446/edgelive/smil:mkogytab.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="OzoneTV.hu" tvg-country="HU" tvg-logo="" group-title="Science",Ozone TV
 http://88.212.15.19/live/ozone/index.m3u8
 #EXTINF:-1 tvg-id="Prime.hu" tvg-country="HU" tvg-logo="" group-title="General",Prime
@@ -155,8 +161,6 @@ http://88.212.15.19/live/tv2_kids/index.m3u8
 http://88.212.15.19/live/test_lichi_tv_atk_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TV4.hu" tvg-country="HU" tvg-logo="" group-title="General",TV4
 http://88.212.15.19/live/test_tv_4_hun_atk_1200/playlist.m3u8
-#EXTINF:-1 tvg-id="TVEger.hu" tvg-country="HU" tvg-logo="" group-title="General",TV Eger
-http://stream.tveger.hu:8010/live.m3u8
 #EXTINF:-1 tvg-id="TVKeszthely.hu" tvg-country="HU" tvg-logo="" group-title="General",TV Keszthely
 https://cloudfront44.lexanetwork.com:1344/freerelay/keszthelyivtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Viasat2.hu" tvg-country="HU" tvg-logo="" group-title="General",Viasat2

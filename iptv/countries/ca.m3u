@@ -19,6 +19,12 @@ http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
 https://live.livestreamtv.ca/azstar/ngrp:azstar/playlist.m3u8
 #EXTINF:-1 tvg-id="CanadaOne.ca" tvg-country="CA" tvg-logo="" group-title="General",Canada One
 http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CBCNewsNetwork.ca" tvg-country="CA" tvg-logo="" group-title="News",CBC News Network
+https://d2ny9lo79ujali.cloudfront.net/CBC_News_International.m3u8
+#EXTINF:-1 tvg-id="CBCNewsNetwork.ca" tvg-country="CA" tvg-logo="" group-title="News",CBC News Network
+https://aegis-cloudfront-1.tubi.video/c71ce9b6-cddb-4cec-b0db-2f09289f8782/master.m3u8
+#EXTINF:-1 tvg-id="CBCNewsNetwork.ca" tvg-country="CA" tvg-logo="" group-title="News",CBC News Network
+https://amg00788-cbc-amg00788c4-xumo-us-3045.playouts.now.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-id="CFHDDT.ca" tvg-country="CA" tvg-logo="" group-title="General",CFHD-DT
 https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 #EXTINF:-1 tvg-id="CFTODT.ca" tvg-country="CA" tvg-logo="" group-title="General",CFTO-DT
@@ -142,6 +148,8 @@ https://temp2.isilive.ca/live/_definst_/ontla/house-en-cc/playlist.m3u8
 #EXTINF:-1 tvg-id="LegislativeAssemblyTVNunavut.ca" tvg-country="CA" tvg-logo="" group-title="Legislative",Legislative Assembly TV Nunavut
 http://temp2.isilive.ca/live/nunavut/live-eng/index.m3u8
 #EXTINF:-1 tvg-id="LoveNature.ca" tvg-country="CA" tvg-logo="" group-title="Outdoor",Love Nature
+https://jmp2.uk/plu-66df8a29b25d2b0008fc5fe0.m3u8
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-country="CA" tvg-logo="" group-title="Outdoor",Love Nature
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
 #EXTINF:-1 tvg-id="LovePets.ca" tvg-country="CA" tvg-logo="" group-title="Documentary",Love Pets
 https://amg01576-blueskyeenterta-lovepetsemea-samsungse-ctamh.amagi.tv/playlist/amg01576-blueskyeenterta-lovepetsemea-samsungse/playlist.m3u8
@@ -181,14 +189,16 @@ https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/chunklist.m3u8
 https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
 #EXTINF:-1 tvg-id="OntarioParliamentaryNetwork.ca" tvg-country="CA" tvg-logo="" group-title="Legislative",Ontario Parliamentary Network
 https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m3u8
-#EXTINF:-1 tvg-id="PamirTV.ca" tvg-country="CA" tvg-logo="" group-title="Culture",Pamir TV
-http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 #EXTINF:-1 tvg-id="PardesiTV.ca" tvg-country="CA" tvg-logo="" group-title="Culture",Pardesi TV
 http://stream.pardesitv.online/pardesi/index.m3u8
 #EXTINF:-1 tvg-id="PardesiTV.ca" tvg-country="CA" tvg-logo="" group-title="Culture",Pardesi TV
 http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="PrimeAsiaTV.ca" tvg-country="CA" tvg-logo="" group-title="General",Prime Asia TV
 http://primeasia.selfip.net/Samsung/index.m3u8
+#EXTINF:-1 tvg-id="ProbashiTVNews.ca" tvg-country="CA" tvg-logo="" group-title="News",Probashi TV News
+http://158.69.24.53:8080/probashi_tv/index.m3u8
+#EXTINF:-1 tvg-id="PTCPunjabiCanada.ca" tvg-country="CA" tvg-logo="" group-title="General",PTC Punjabi Canada
+https://stream.ottlive.co.in/ptccanada/index.m3u8
 #EXTINF:-1 tvg-id="QelloConcertsbyStingray.ca" tvg-country="CA" tvg-logo="" group-title="Music",Qello Concerts by Stingray
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883052
 #EXTINF:-1 tvg-id="QelloConcertsbyStingray.ca" tvg-country="CA" tvg-logo="" group-title="Music",Qello Concerts by Stingray
@@ -249,6 +259,8 @@ https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883056
 #EXTINF:-1 tvg-id="StingrayNaturescape.ca" tvg-country="CA" tvg-logo="" group-title="Music",Stingray Naturescape
 https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayNaturescape.ca" tvg-country="CA" tvg-logo="" group-title="Music",Stingray Naturescape
+https://jmp2.uk/plu-5812bd9f249444e05d09cc4e.m3u8
 #EXTINF:-1 tvg-id="StingrayNothinBut90s.ca" tvg-country="CA" tvg-logo="" group-title="Music",Stingray Nothin' But 90s
 https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayPopAdult.ca" tvg-country="CA" tvg-logo="" group-title="Music",Stingray Pop Adult
@@ -273,6 +285,8 @@ https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u
 https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="TAGTV.ca" tvg-country="CA" tvg-logo="" group-title="General",TAG TV
 http://cdn11.live247stream.com/tag/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TamilVisionTV.ca" tvg-country="CA" tvg-logo="" group-title="General",TamilVision-TV
+https://live.cmr24.fm/TVI/HD/chunks.m3u8
 #EXTINF:-1 tvg-id="TheCowboyChannelCanada.ca" tvg-country="CA" tvg-logo="" group-title="General",The Cowboy Channel Canada
 https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8
 #EXTINF:-1 tvg-id="TheWeatherNetwork.ca" tvg-country="CA" tvg-logo="" group-title="Weather",The Weather Network

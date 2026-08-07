@@ -1,14 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="AfghanistanInternational.uk" tvg-country="UK" tvg-logo="" group-title="News",Afghanistan International
 https://hls.afintl.com/hls/stream.m3u8
-#EXTINF:-1 tvg-id="AfrobeatTVEntertainment.uk" tvg-country="UK" tvg-logo="" group-title="Music",Afrobeat TV Entertainment
-https://stream.ecable.tv/afrobeats/index.m3u8
 #EXTINF:-1 tvg-id="AhlulbaytTV.uk" tvg-country="UK" tvg-logo="" group-title="Religious",Ahlulbayt TV
 https://cd198.anystream.uk:8082/hls/abtv3ng/index.m3u8
-#EXTINF:-1 tvg-id="AlbUKTV.uk" tvg-country="UK" tvg-logo="" group-title="General",Alb UK TV
-http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="AlHiwarTV.uk" tvg-country="UK" tvg-logo="" group-title="Education",Al Hiwar TV
-https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AMCEurope.uk" tvg-country="UK" tvg-logo="" group-title="Movies",AMC Europe
 http://212.70.131.37:8000/play/a05k
 #EXTINF:-1 tvg-id="AMCEurope.uk" tvg-country="UK" tvg-logo="" group-title="Movies",AMC Europe
@@ -46,6 +40,8 @@ https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCDrama.uk" tvg-country="UK" tvg-logo="" group-title="Series",BBC Drama
 https://jmp2.uk/plu-60d35a74c63c3c0008df6a90.m3u8
 #EXTINF:-1 tvg-id="BBCEarth.uk" tvg-country="UK" tvg-logo="" group-title="Documentary",BBC Earth
+https://thinkkast.dpdns.org/thinkkast/cg_bbcearth_hd1/versiglia/index.m3u8
+#EXTINF:-1 tvg-id="BBCEarth.uk" tvg-country="UK" tvg-logo="" group-title="Documentary",BBC Earth
 http://88.212.15.29/live/test_bbc_eartch_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCEarth.uk" tvg-country="UK" tvg-logo="" group-title="Documentary",BBC Earth
 http://194.156.236.23:8004/play/a018
@@ -58,7 +54,7 @@ https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEar
 #EXTINF:-1 tvg-id="BBCFirst.uk" tvg-country="UK" tvg-logo="" group-title="Entertainment",BBC First
 http://88.212.15.29/live/bbc_first/index.m3u8
 #EXTINF:-1 tvg-id="BBCLifestyle.uk" tvg-country="UK" tvg-logo="" group-title="Lifestyle",BBC Lifestyle
-https://cdn4.skygo.mn/live/disk1/BBC_lifestyle/HLSv3-FTA/BBC_lifestyle.m3u8
+https://thinkkast.dpdns.org/thinkkast/bbc_lstylehd/versiglia/index.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-country="UK" tvg-logo="" group-title="News",BBC News
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-country="UK" tvg-logo="" group-title="News",BBC News
@@ -67,6 +63,8 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-country="UK" tvg-logo="" group-title="News",BBC News
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-country="UK" tvg-logo="" group-title="News",BBC News
+https://thinkkast.dpdns.org/thinkkast/bbcworld_news_sd/versiglia/index.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-country="UK" tvg-logo="" group-title="News",BBC News
 https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-country="UK" tvg-logo="" group-title="News",BBC News
@@ -137,14 +135,6 @@ https://amg00426-lds-amg00426c15-samsung-au-3684.playouts.now.amagi.tv/playlist.
 https://lds-donttellbride-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="DontTellTheBride.uk" tvg-country="UK" tvg-logo="" group-title="Series",Don't Tell The Bride
 https://amg00426-lds-amg00426c15-samsung-nz-3685.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="EnglishClubTV.uk" tvg-country="UK" tvg-logo="" group-title="Education",English Club TV
-https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
-#EXTINF:-1 tvg-id="EnglishClubTV.uk" tvg-country="UK" tvg-logo="" group-title="Education",English Club TV
-https://stream8.cinerama.uz/1442/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ENTChannel.uk" tvg-country="UK" tvg-logo="" group-title="Entertainment",ENT Channel
-https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-id="ENTFamily.uk" tvg-country="UK" tvg-logo="" group-title="Entertainment",ENT Family
-https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-id="FaithWorldTV.uk" tvg-country="UK" tvg-logo="" group-title="Religious",Faith World TV
 https://faithworldtv.abs.tv/1826926230/index.m3u8
 #EXTINF:-1 tvg-id="FIFAPlus.uk" tvg-country="UK" tvg-logo="" group-title="Sports",FIFA+
@@ -230,8 +220,6 @@ https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
 #EXTINF:-1 tvg-id="HistoryHit.uk" tvg-country="UK" tvg-logo="" group-title="Documentary",History Hit
 https://ldsaaaaaa-timeline-samsungau-awedz.amagi.tv/playlist/ldsAAAAAA-timeline-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="HistoryHit.uk" tvg-country="UK" tvg-logo="" group-title="Documentary",History Hit
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timelinenz-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="HistoryHit.uk" tvg-country="UK" tvg-logo="" group-title="Documentary",History Hit
 https://lds-timeline-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="HistoryHit.uk" tvg-country="UK" tvg-logo="" group-title="Documentary",History Hit
 https://timeline-samsung-uk.amagi.tv/playlist.m3u8
@@ -262,8 +250,6 @@ https://xemzi.short.gy/1000012
 #EXTINF:-1 tvg-id="Jail.uk" tvg-country="UK" tvg-logo="" group-title="Documentary",Jail
 https://e85541db4ae943d9b5a09477d6b1d8ab.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Jail/playlist.m3u8
 #EXTINF:-1 tvg-id="JimJamEurope.uk" tvg-country="UK" tvg-logo="" group-title="Kids",JimJam Europe
-http://212.5.144.156:8080/jimjam/index.m3u8
-#EXTINF:-1 tvg-id="JimJamEurope.uk" tvg-country="UK" tvg-logo="" group-title="Kids",JimJam Europe
 http://stream.mcquack.net/150/index.m3u8
 #EXTINF:-1 tvg-id="KalemehTV.uk" tvg-country="UK" tvg-logo="" group-title="Religious",Kalemeh TV
 https://klmhls.wns.live/hls/stream.m3u8
@@ -280,15 +266,9 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MoonbugKids.uk" tvg-country="UK" tvg-logo="" group-title="Kids",Moonbug Kids
 https://dq2a9ghraf7sw.cloudfront.net/Moonbug.m3u8
 #EXTINF:-1 tvg-id="MostHaunted.uk" tvg-country="UK" tvg-logo="" group-title="Series",Most Haunted
-https://jmp2.uk/plu-66d722d31878f200081c2c64.m3u8
-#EXTINF:-1 tvg-id="MostHaunted.uk" tvg-country="UK" tvg-logo="" group-title="Series",Most Haunted
-https://jmp2.uk/plu-6081648340382e0007f73d45.m3u8
-#EXTINF:-1 tvg-id="MostHaunted.uk" tvg-country="UK" tvg-logo="" group-title="Series",Most Haunted
 https://amg00426-lds-amg00426c17-samsung-gb-10157.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MrBeanAnimated.uk" tvg-country="UK" tvg-logo="" group-title="Animation",Mr Bean Animated
 https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="MrBeanAnimated.uk" tvg-country="UK" tvg-logo="" group-title="Animation",Mr Bean Animated
-https://jmp2.uk/plu-69fca9f9b9c0f0d444f631ca.m3u8
 #EXTINF:-1 tvg-id="MrBeanAnimated.uk" tvg-country="UK" tvg-logo="" group-title="Animation",Mr Bean Animated
 https://amg00627-amg00627c28-rakuten-uk-3984.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanukcc-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-id="MrBeanAnimated.uk" tvg-country="UK" tvg-logo="" group-title="Animation",Mr Bean Animated
@@ -309,14 +289,18 @@ https://amg00627-amg00627c39-samsung-gb-5569.playouts.now.amagi.tv/playlist.m3u8
 https://chlivemta1.akamaized.net/hls/live/2008145/mta1/playlist.m3u8
 #EXTINF:-1 tvg-id="MTA2Europe.uk" tvg-country="UK" tvg-logo="" group-title="Religious",MTA2 Europe
 https://chlivemta1.akamaized.net/hls/live/2008145/mta2/playlist.m3u8
+#EXTINF:-1 tvg-id="MTA5Africa.uk" tvg-country="UK" tvg-logo="" group-title="Religious",MTA5 Africa
+https://chlivemta.akamaized.net/hls/live/2010555/mtaafrica2/playlist.m3u8
 #EXTINF:-1 tvg-id="MTA6Asia.uk" tvg-country="UK" tvg-logo="" group-title="Religious",MTA6 Asia
 https://livemtaasia.akamaized.net/hls/live/2039224/mta6asia/playlist.m3u8
 #EXTINF:-1 tvg-id="MTA7Asia.uk" tvg-country="UK" tvg-logo="" group-title="Religious",MTA7 Asia
 https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8
+#EXTINF:-1 tvg-id="MTA8America.uk" tvg-country="UK" tvg-logo="" group-title="Religious",MTA8 America
+https://chlivemta.akamaized.net/hls/live/2016718/mta8/playlist.m3u8
+#EXTINF:-1 tvg-id="MTVGlobal.uk" tvg-country="UK" tvg-logo="" group-title="Entertainment",MTV Global
+http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/12055/index.m3u8
 #EXTINF:-1 tvg-id="MTVGlobal.uk" tvg-country="UK" tvg-logo="" group-title="Entertainment",MTV Global
 https://shift03.isp.bg/MTVEurope/index.m3u8
-#EXTINF:-1 tvg-id="MyTimeMovieNetwork.uk" tvg-country="UK" tvg-logo="" group-title="Movies",MyTime Movie Network
-https://appletree-mytimeuk-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.uk" tvg-country="UK" tvg-logo="" group-title="Kids",Nickelodeon
 http://tvsen7.aynascope.net/nicklodean/index.m3u8
 #EXTINF:-1 tvg-id="NollyAfrica.uk" tvg-country="UK" tvg-logo="" group-title="Movies",Nolly Africa
@@ -364,8 +348,6 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NOWRock.uk" tvg-country="UK" tvg-logo="" group-title="Music",NOW Rock
 https://lightning-now90s-samsungse.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NOWRock.uk" tvg-country="UK" tvg-logo="" group-title="Music",NOW Rock
-https://jmp2.uk/plu-6568a78d635c3c0008765f41.m3u8
-#EXTINF:-1 tvg-id="NOWRock.uk" tvg-country="UK" tvg-logo="" group-title="Music",NOW Rock
 https://lightning-now90s-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Pop.uk" tvg-country="UK" tvg-logo="" group-title="General",Pop
 https://amg01753-narrativeentert-popkids-lggb-xyy5k.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-popkids-lggb/playlist.m3u8
@@ -389,8 +371,6 @@ https://qvcuk-live.akamaized.net/hls/live/2097112/qex/master.m3u8
 https://qvcuk-live.akamaized.net/hls/live/2097112/qst/master.m3u8
 #EXTINF:-1 tvg-id="RealWild.uk" tvg-country="UK" tvg-logo="" group-title="General",Real Wild
 https://lds-realwild-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RealWild.uk" tvg-country="UK" tvg-logo="" group-title="General",Real Wild
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="RealWild.uk" tvg-country="UK" tvg-logo="" group-title="General",Real Wild
 https://lds-realwild-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SafeerTV.uk" tvg-country="UK" tvg-logo="" group-title="Religious",Safeer TV
@@ -422,8 +402,6 @@ https://jmp2.uk/plu-69b16df6ed2a2444365e7ff1.m3u8
 #EXTINF:-1 tvg-id="SpaceLivepoweredbysen.uk" tvg-country="UK" tvg-logo="" group-title="Relax",Space Live powered by sen
 https://jmp2.uk/plu-69b16e2b65c1df7564fc750b.m3u8
 #EXTINF:-1 tvg-id="SpaceLivepoweredbysen.uk" tvg-country="UK" tvg-logo="" group-title="Relax",Space Live powered by sen
-https://linear-1224.frequency.stream/dist/lg-uk/1224/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="SpaceLivepoweredbysen.uk" tvg-country="UK" tvg-logo="" group-title="Relax",Space Live powered by sen
 https://d111bsx9oooqoh.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="SparkTV.uk" tvg-country="UK" tvg-logo="" group-title="General",Spark TV
 https://candlelightmedia-sparklightlove-4-us.roku.wurl.tv/playlist.m3u8
@@ -438,11 +416,15 @@ https://rightsboosterltd-scl-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="StrongmanChampionsLeague.uk" tvg-country="UK" tvg-logo="" group-title="Sports",Strongman Champions League
 https://rightsboosterltd-scl-1-no.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="StrongmanChampionsLeague.uk" tvg-country="UK" tvg-logo="" group-title="Sports",Strongman Champions League
+https://cb4748b76e2c4b11bb5790666256964b.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_StrongmanChampionsLeague/playlist.m3u8
+#EXTINF:-1 tvg-id="StrongmanChampionsLeague.uk" tvg-country="UK" tvg-logo="" group-title="Sports",Strongman Champions League
 https://rightsboosterltd-scl-1-se.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="StrongmanChampionsLeague.uk" tvg-country="UK" tvg-logo="" group-title="Sports",Strongman Champions League
 https://rightsboosterltd-scl-1-us.xumo.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TakbeerTV.uk" tvg-country="UK" tvg-logo="" group-title="General",Takbeer TV
 https://cd198.anystream.uk:9092/iqapp/t5kb86tv/playlist.m3u8
+#EXTINF:-1 tvg-id="talkSPORT.uk" tvg-country="UK" tvg-logo="" group-title="Sports",talkSPORT
+https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-id="talkSPORT.uk" tvg-country="UK" tvg-logo="" group-title="Sports",talkSPORT
 https://tvsen6.aynaott.com/talkSPORT/index.m3u8
 #EXTINF:-1 tvg-id="TalkTV.uk" tvg-country="UK" tvg-logo="" group-title="General",TalkTV
@@ -451,8 +433,6 @@ https://488f4ce4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2
 https://dv8lsrd8fecw9.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="Teletubbies.uk" tvg-country="UK" tvg-logo="" group-title="Kids",Teletubbies
 https://dy9gbyiaxw0rb.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-id="Thats70s.uk" tvg-country="UK" tvg-logo="" group-title="Music",That's 70s
-https://jmp2.uk/plu-69ef53e12f4d2b4f9c582e76.m3u8
 #EXTINF:-1 tvg-id="Thats80s.uk" tvg-country="UK" tvg-logo="" group-title="Music",That's 80s
 https://jmp2.uk/plu-69ef54f3c700cf0140272def.m3u8
 #EXTINF:-1 tvg-id="TheChatShowChannel.uk" tvg-country="UK" tvg-logo="" group-title="Comedy",The Chat Show Channel
@@ -488,12 +468,6 @@ https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.
 #EXTINF:-1 tvg-id="TJC.uk" tvg-country="UK" tvg-logo="" group-title="Shop",TJC
 https://cdn-shop-lc-01.vos360.video/Content/HLS_HLS/Live/channel(HDTJCcustomGFX)/master.m3u8
 #EXTINF:-1 tvg-id="TopGear.uk" tvg-country="UK" tvg-logo="" group-title="Entertainment",Top Gear
-https://jmp2.uk/plu-638e10220aa6a6000726979f.m3u8
-#EXTINF:-1 tvg-id="TopGear.uk" tvg-country="UK" tvg-logo="" group-title="Entertainment",Top Gear
-https://jmp2.uk/plu-64c109735dc1660008a4a2dc.m3u8
-#EXTINF:-1 tvg-id="TopGear.uk" tvg-country="UK" tvg-logo="" group-title="Entertainment",Top Gear
-https://jmp2.uk/plu-620234d766314700075cac86.m3u8
-#EXTINF:-1 tvg-id="TopGear.uk" tvg-country="UK" tvg-logo="" group-title="Entertainment",Top Gear
 https://jmp2.uk/plu-60d356a534f63f000850cdd7.m3u8
 #EXTINF:-1 tvg-id="TopGear.uk" tvg-country="UK" tvg-logo="" group-title="Entertainment",Top Gear
 https://jmp2.uk/plu-64c1093824ade50008bd117f.m3u8
@@ -524,8 +498,6 @@ https://channels.trace.plus/Traceprod/UK_FAST_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceUK.uk" tvg-country="UK" tvg-logo="" group-title="Music",Trace UK
 https://d2l4tng0wskzvn.cloudfront.net/Trace_GB.m3u8
 #EXTINF:-1 tvg-id="TrueCrime.uk" tvg-country="UK" tvg-logo="" group-title="Series",True Crime
-https://jmp2.uk/plu-6304fb268bd95300072d2198.m3u8
-#EXTINF:-1 tvg-id="TrueCrime.uk" tvg-country="UK" tvg-logo="" group-title="Series",True Crime
 https://b6cca454.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9UcnVlQ3JpbWVVS2Zyb21DQlNSZWFsaXR5X0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-id="ViasatEpicDrama.uk" tvg-country="UK" tvg-logo="" group-title="Series",Viasat Epic Drama
 http://88.212.15.29/live/test_epic_drama_atk_tv/playlist.m3u8
@@ -533,8 +505,6 @@ http://88.212.15.29/live/test_epic_drama_atk_tv/playlist.m3u8
 https://lds-wonder-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Wonder.uk" tvg-country="UK" tvg-logo="" group-title="Science",Wonder
 https://lds-wonder-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Wonder.uk" tvg-country="UK" tvg-logo="" group-title="Science",Wonder
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wondernz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="Wonder.uk" tvg-country="UK" tvg-logo="" group-title="Science",Wonder
 https://wonder-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Wonder.uk" tvg-country="UK" tvg-logo="" group-title="Science",Wonder

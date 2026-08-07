@@ -1,14 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1001Noites.br" tvg-country="BR" tvg-logo="" group-title="Shop",1001 Noites
 https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
-#EXTINF:-1 tvg-id="AdessoTV.br" tvg-country="BR" tvg-logo="" group-title="General",Adesso TV
-https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
 #EXTINF:-1 tvg-id="AgroCanal.br" tvg-country="BR" tvg-logo="" group-title="Education",AgroCanal
 http://45.162.64.114/AGRO_CANAL/index.m3u8
 #EXTINF:-1 tvg-id="AgroCanal.br" tvg-country="BR" tvg-logo="" group-title="Education",AgroCanal
 http://45.190.28.50/AGRO_CANAL/index.m3u8
-#EXTINF:-1 tvg-id="AgroCanal.br" tvg-country="BR" tvg-logo="" group-title="Education",AgroCanal
-https://aovivo.equipea.com.br:5443/aovivort/streams/pshRLrnv6isXq7RG4747567774043229.m3u8
 #EXTINF:-1 tvg-id="AgroCanal.br" tvg-country="BR" tvg-logo="" group-title="Education",AgroCanal
 http://168.197.104.22:80/AGRO_CANAL/index.m3u8
 #EXTINF:-1 tvg-id="AgroCanal.br" tvg-country="BR" tvg-logo="" group-title="Education",AgroCanal
@@ -91,6 +87,8 @@ http://170.83.49.66:8083/BANDSPORTSHD/index.m3u8
 https://cdn-tiva-video01-logicahost-com-br.smartbit.co/bemmelhor/bemmelhor/playlist.m3u8
 #EXTINF:-1 tvg-id="BMCNews.br" tvg-country="BR" tvg-logo="" group-title="News",BM&C News
 https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8
+#EXTINF:-1 tvg-id="BoasNovas.br" tvg-country="BR" tvg-logo="" group-title="General",Boas Novas
+https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
 #EXTINF:-1 tvg-id="BoxKidsTV.br" tvg-country="BR" tvg-logo="" group-title="Kids",Box Kids TV
 http://45.190.28.50/BOX_KIDS_HD/index.m3u8
 #EXTINF:-1 tvg-id="BoxKidsTV.br" tvg-country="BR" tvg-logo="" group-title="Kids",Box Kids TV
@@ -120,11 +118,15 @@ http://186.219.52.187:80/canal_do_boi/index.m3u8
 #EXTINF:-1 tvg-id="CanalEducacao.br" tvg-country="BR" tvg-logo="" group-title="Education",Canal Educacao
 http://45.162.64.114/CANAL_EDUCACAO/index.m3u8
 #EXTINF:-1 tvg-id="CanalEducacao.br" tvg-country="BR" tvg-logo="" group-title="Education",Canal Educacao
+https://canaleducacao-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-id="CanalEducacao.br" tvg-country="BR" tvg-logo="" group-title="Education",Canal Educacao
 http://168.197.104.22:80/CANAL_EDUCACAO/index.m3u8
 #EXTINF:-1 tvg-id="CanalEducacao.br" tvg-country="BR" tvg-logo="" group-title="Education",Canal Educacao
 http://138.255.2.6:8084/TVESCOLA/index.m3u8
 #EXTINF:-1 tvg-id="CanalEducacao.br" tvg-country="BR" tvg-logo="" group-title="Education",Canal Educacao
 http://45.177.114.115:80/CANAL_EDUCACAO/index.m3u8
+#EXTINF:-1 tvg-id="CanalFDR.br" tvg-country="BR" tvg-logo="" group-title="General",Canal FDR
+https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8
 #EXTINF:-1 tvg-id="CanalFutura.br" tvg-country="BR" tvg-logo="" group-title="Education",Canal Futura
 http://45.162.64.114/FUTURA/index.m3u8
 #EXTINF:-1 tvg-id="CanalFutura.br" tvg-country="BR" tvg-logo="" group-title="Education",Canal Futura
@@ -133,6 +135,8 @@ http://138.255.2.6:8084/FUTURA/index.m3u8
 http://170.83.16.50:80/FUTURA/index.m3u8
 #EXTINF:-1 tvg-id="CanalFutura.br" tvg-country="BR" tvg-logo="" group-title="Education",Canal Futura
 http://186.219.52.187:80/futura/index.m3u8
+#EXTINF:-1 tvg-id="CanalGov.br" tvg-country="BR" tvg-logo="" group-title="Legislative",Canal Gov
+https://canalgov-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-id="CanalGov.br" tvg-country="BR" tvg-logo="" group-title="Legislative",Canal Gov
 http://168.197.104.22:80/TV_BRASIL_2/index.m3u8
 #EXTINF:-1 tvg-id="CanalGov.br" tvg-country="BR" tvg-logo="" group-title="Legislative",Canal Gov
@@ -149,6 +153,14 @@ http://170.83.49.66:8083/CANALRURALHD/index.m3u8
 http://186.219.52.187:80/canal_rural/index.m3u8
 #EXTINF:-1 tvg-id="CanalSaude.br" tvg-country="BR" tvg-logo="" group-title="Education",Canal Saude
 https://eitv7.cdn.broadpeak.io/account351-i1495/event/canalsaude/format720p.m3u8
+#EXTINF:-1 tvg-id="CanalSete.br" tvg-country="BR" tvg-logo="" group-title="General",Canal Sete
+http://play.canalsete.com.br:1935/canalsete/xpl-c7_source/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalSTART.br" tvg-country="BR" tvg-logo="" group-title="General",Canal START
+https://cdn-tiva-srv5-zcast-com-br.smartbit.co/canalstart/canalstart/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalUOL.br" tvg-country="BR" tvg-logo="" group-title="General",Canal UOL
+https://video24.mais.uol.com.br/live/6146.m3u8
+#EXTINF:-1 tvg-id="CazeTV.br" tvg-country="BR" tvg-logo="" group-title="Sports",CazeTV
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 #EXTINF:-1 tvg-id="ChefTV.br" tvg-country="BR" tvg-logo="" group-title="Cooking",Chef TV
 http://45.190.28.50/CHEF_TV/index.m3u8
 #EXTINF:-1 tvg-id="ChefTV.br" tvg-country="BR" tvg-logo="" group-title="Cooking",Chef TV
@@ -187,14 +199,16 @@ http://168.197.104.22:80/ZOOMOO/index.m3u8
 http://138.255.2.6:8084/ZOOMOO/index.m3u8
 #EXTINF:-1 tvg-id="DumDum.br" tvg-country="BR" tvg-logo="" group-title="Kids",DumDum
 http://186.219.52.187:80/zoomoo/index.m3u8
-#EXTINF:-1 tvg-id="ElyTV.br" tvg-country="BR" tvg-logo="" group-title="Entertainment",ElyTV
-https://stmv1.srvsite.com/ely/ely/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPN3.br" tvg-country="BR" tvg-logo="" group-title="Sports",ESPN 3
 http://181.78.197.59:8000/play/a081/index.m3u8
+#EXTINF:-1 tvg-id="ESPN3.br" tvg-country="BR" tvg-logo="" group-title="Sports",ESPN 3
+http://190.83.2.182:8090/ESPN3/index.m3u8
 #EXTINF:-1 tvg-id="ESPN4.br" tvg-country="BR" tvg-logo="" group-title="Sports",ESPN 4
 http://181.78.197.59:8000/play/a07n/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.br" tvg-country="BR" tvg-logo="" group-title="Sports",ESPN
 http://181.78.197.59:8000/play/a07z/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.br" tvg-country="BR" tvg-logo="" group-title="Sports",ESPN
+http://190.83.2.182:8090/ESPN/index.m3u8
 #EXTINF:-1 tvg-id="EUTV.br" tvg-country="BR" tvg-logo="" group-title="General",EUTV
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 #EXTINF:-1 tvg-id="EUTV.br" tvg-country="BR" tvg-logo="" group-title="General",EUTV
@@ -213,6 +227,12 @@ http://168.197.104.22:80/FISH_TV/index.m3u8
 http://170.83.16.50:80/FISH_TV/index.m3u8
 #EXTINF:-1 tvg-id="FishTV.br" tvg-country="BR" tvg-logo="" group-title="Outdoor",Fish TV
 http://186.219.52.187:80/fishtv/index.m3u8
+#EXTINF:-1 tvg-id="FonteTV.br" tvg-country="BR" tvg-logo="" group-title="Religious",Fonte TV
+http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
+#EXTINF:-1 tvg-id="FonteTV.br" tvg-country="BR" tvg-logo="" group-title="Religious",Fonte TV
+https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w1224511652.m3u8
+#EXTINF:-1 tvg-id="ForaTedioTV.br" tvg-country="BR" tvg-logo="" group-title="Comedy",Fora Tedio TV
+https://stmv2.srvif.com/foratedio/foratedio/playlist.m3u8
 #EXTINF:-1 tvg-id="Futura.br" tvg-country="BR" tvg-logo="" group-title="Education",Futura
 http://168.197.104.22:80/FUTURA/index.m3u8
 #EXTINF:-1 tvg-id="Futura.br" tvg-country="BR" tvg-logo="" group-title="Education",Futura
@@ -239,6 +259,8 @@ http://138.255.2.6:8084/HISTORY/index.m3u8
 http://45.177.114.114:80/HISTORY/index.m3u8
 #EXTINF:-1 tvg-id="History.br" tvg-country="BR" tvg-logo="" group-title="Documentary",History
 http://170.83.16.50:80/HISTORY/index.m3u8
+#EXTINF:-1 tvg-id="IMPDTVWorldwide.br" tvg-country="BR" tvg-logo="" group-title="Religious",IMPD TV Worldwide
+https://igrejamundial.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ISTV.br" tvg-country="BR" tvg-logo="" group-title="Education",ISTV
 https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
 #EXTINF:-1 tvg-id="J3NEWSTV.br" tvg-country="BR" tvg-logo="" group-title="News",J3NEWS TV
@@ -251,6 +273,8 @@ http://170.83.49.66:8083/JOVEMPANNEWSHD/index.m3u8
 http://186.219.52.187:80/jp_news/index.m3u8
 #EXTINF:-1 tvg-id="JovemPanNews.br" tvg-country="BR" tvg-logo="" group-title="News",Jovem Pan News
 https://jmp2.uk/plu-6317ba014d4d040007227f72.m3u8
+#EXTINF:-1 tvg-id="KpopTVPlay.br" tvg-country="BR" tvg-logo="" group-title="Music",KpopTV Play
+https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
 #EXTINF:-1 tvg-id="LaboralTV.br" tvg-country="BR" tvg-logo="" group-title="Business",Laboral TV
 https://tv.laboralsst.com.br/hls/stream.m3u8
 #EXTINF:-1 tvg-id="LiderTV.br" tvg-country="BR" tvg-logo="" group-title="General",Lider TV
@@ -269,8 +293,6 @@ http://168.197.104.22:80/MUSIC/index.m3u8
 http://138.255.2.6:8084/MUSICBOXBRASIL/index.m3u8
 #EXTINF:-1 tvg-id="MusicBoxBrazil.br" tvg-country="BR" tvg-logo="" group-title="Music",Music Box Brazil
 http://170.83.49.66:8083/MUSICBOXBRASILHD/index.m3u8
-#EXTINF:-1 tvg-id="MyTimeMovieNetwork.br" tvg-country="BR" tvg-logo="" group-title="Movies",MyTime Movie Network
-https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NickOnline.br" tvg-country="BR" tvg-logo="" group-title="Kids",NickOnline
 https://x1colegal.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="NickToonsBrasil.br" tvg-country="BR" tvg-logo="" group-title="Kids",NickToons Brasil
@@ -307,16 +329,14 @@ http://168.197.104.22:80/PLAY_TV/index.m3u8
 http://45.177.114.115:80/PLAY_TV/index.m3u8
 #EXTINF:-1 tvg-id="PlenaTV.br" tvg-country="BR" tvg-logo="" group-title="News",Plena TV
 https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
-#EXTINF:-1 tvg-id="PrimerTV.br" tvg-country="BR" tvg-logo="" group-title="General",Primer TV
-http://200.194.238.229:8383/live/primer/playlist.m3u8
+#EXTINF:-1 tvg-id="PlenitudeTV.br" tvg-country="BR" tvg-logo="" group-title="Religious",Plenitude TV
+https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8
 #EXTINF:-1 tvg-id="RBATV.br" tvg-country="BR" tvg-logo="" group-title="General",RBATV
 https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
 #EXTINF:-1 tvg-id="RCTVBrasil.br" tvg-country="BR" tvg-logo="" group-title="General",RCTV Brasil
 https://stmv.webtvninjas.com.br/rctv/rctv/playlist.m3u8
 #EXTINF:-1 tvg-id="Record.br" tvg-country="BR" tvg-logo="" group-title="General",Record
 http://45.190.28.50/RECORD/index.m3u8
-#EXTINF:-1 tvg-id="Record.br" tvg-country="BR" tvg-logo="" group-title="General",Record
-https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 #EXTINF:-1 tvg-id="Record.br" tvg-country="BR" tvg-logo="" group-title="General",Record
 https://media.cdntvms.com.br/record_nacional_sat/index.m3u8
 #EXTINF:-1 tvg-id="Record.br" tvg-country="BR" tvg-logo="" group-title="General",Record
@@ -495,6 +515,8 @@ http://138.255.2.6:8084/SONYMOVIES/index.m3u8
 http://45.177.114.115:80/SONY_MOVIES/index.m3u8
 #EXTINF:-1 tvg-id="SonyMovies.br" tvg-country="BR" tvg-logo="" group-title="Movies",Sony Movies
 http://170.83.16.50:80/SONY_MOVIES/index.m3u8
+#EXTINF:-1 tvg-id="SOUTV.br" tvg-country="BR" tvg-logo="" group-title="General",SOU TV
+https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8
 #EXTINF:-1 tvg-id="SporTV3.br" tvg-country="BR" tvg-logo="" group-title="Sports",SporTV 3
 http://170.83.49.66:8083/SPORTV3HD/index.m3u8
 #EXTINF:-1 tvg-id="STZTV.br" tvg-country="BR" tvg-logo="" group-title="News",STZ TV
@@ -583,10 +605,6 @@ http://170.83.49.66:8083/TVBRASILHD/index.m3u8
 http://170.84.165.204:80/TVBRASIL/index.m3u8
 #EXTINF:-1 tvg-id="TVBrasil.br" tvg-country="BR" tvg-logo="" group-title="General",TV Brasil
 http://186.219.52.187:80/tv_brasil/index.m3u8
-#EXTINF:-1 tvg-id="TVBrasilOeste.br" tvg-country="BR" tvg-logo="" group-title="General",TV Brasil Oeste
-https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
-#EXTINF:-1 tvg-id="TVBRICSPortuguese.br" tvg-country="BR" tvg-logo="" group-title="General",TV BRICS Portuguese
-https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCamara.br" tvg-country="BR" tvg-logo="" group-title="Legislative",TV Camara
 http://45.162.64.114/TV_CAMARA/index.m3u8
 #EXTINF:-1 tvg-id="TVCamara.br" tvg-country="BR" tvg-logo="" group-title="Legislative",TV Camara
@@ -611,24 +629,10 @@ http://138.255.2.6:8084/CANCAONOVA/index.m3u8
 http://170.83.16.50:80/CANCAO_NOVA/index.m3u8
 #EXTINF:-1 tvg-id="TVCancaoNova.br" tvg-country="BR" tvg-logo="" group-title="General",TV Cancao Nova
 http://186.219.52.187:80/cancao_nova/index.m3u8
-#EXTINF:-1 tvg-id="TVCidadeVerdeCuiaba.br" tvg-country="BR" tvg-logo="" group-title="General",TV Cidade Verde Cuiaba
-https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8
-#EXTINF:-1 tvg-id="TVClube.br" tvg-country="BR" tvg-logo="" group-title="General",TV Clube
-https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
-#EXTINF:-1 tvg-id="TVCOMMaceio.br" tvg-country="BR" tvg-logo="" group-title="General",TVCOM Maceio
-https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8
-#EXTINF:-1 tvg-id="TVComunitaria.br" tvg-country="BR" tvg-logo="" group-title="General",TV Comunitaria
-https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR=
-#EXTINF:-1 tvg-id="TVCRio.br" tvg-country="BR" tvg-logo="" group-title="General",TVC-Rio
-https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCultura.br" tvg-country="BR" tvg-logo="" group-title="General",TV Cultura
 http://45.162.64.114/TV_CULTURA/index.m3u8
 #EXTINF:-1 tvg-id="TVCultura.br" tvg-country="BR" tvg-logo="" group-title="General",TV Cultura
 http://45.190.28.50/TV_CULTURA_HD/index.m3u8
-#EXTINF:-1 tvg-id="TVCultura.br" tvg-country="BR" tvg-logo="" group-title="General",TV Cultura
-https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
-#EXTINF:-1 tvg-id="TVCultura.br" tvg-country="BR" tvg-logo="" group-title="General",TV Cultura
-https://v-us-01.wisestream.io/memfs/e8740862-7a1f-45f3-acb2-4f357e144059.m3u8
 #EXTINF:-1 tvg-id="TVCultura.br" tvg-country="BR" tvg-logo="" group-title="General",TV Cultura
 http://168.197.104.22:80/TV_CULTURA/index.m3u8
 #EXTINF:-1 tvg-id="TVCultura.br" tvg-country="BR" tvg-logo="" group-title="General",TV Cultura
@@ -643,18 +647,8 @@ http://170.83.49.66:8083/TVCULTURAHD/index.m3u8
 http://170.84.165.204:80/CULTURA_HD/index.m3u8
 #EXTINF:-1 tvg-id="TVCultura.br" tvg-country="BR" tvg-logo="" group-title="General",TV Cultura
 http://186.219.52.187:80/cultura/index.m3u8
-#EXTINF:-1 tvg-id="TVCuruca.br" tvg-country="BR" tvg-logo="" group-title="Entertainment",TV Curuca
-https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8
-#EXTINF:-1 tvg-id="TVDifusao.br" tvg-country="BR" tvg-logo="" group-title="General",TV Difusao
-https://tvdsoultv.acessaradios.com.br/tvdsoultv/tvdsoultv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TVEBahia.br" tvg-country="BR" tvg-logo="" group-title="General",TVE Bahia
-http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 #EXTINF:-1 tvg-id="TVECultura.br" tvg-country="BR" tvg-logo="" group-title="General",TVE Cultura
 http://45.190.28.50/TVE/index.m3u8
-#EXTINF:-1 tvg-id="TVEncontrodasAguas.br" tvg-country="BR" tvg-logo="" group-title="General",TV Encontro das Aguas
-https://stmv7.samcast.com.br/sistemaencontrodasaguas/sistemaencontrodasaguas/playlist.m3u8
-#EXTINF:-1 tvg-id="TVERS.br" tvg-country="BR" tvg-logo="" group-title="Culture",TVE RS
-https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
 #EXTINF:-1 tvg-id="TVEscola.br" tvg-country="BR" tvg-logo="" group-title="General",TV Escola
 http://45.190.28.50/TV_ESCOLA/index.m3u8
 #EXTINF:-1 tvg-id="TVEvangelizar.br" tvg-country="BR" tvg-logo="" group-title="Religious",TV Evangelizar
@@ -682,8 +676,6 @@ http://45.162.64.114/TV_GAZETA/index.m3u8
 #EXTINF:-1 tvg-id="TVGazeta.br" tvg-country="BR" tvg-logo="" group-title="General",TV Gazeta
 http://45.190.28.50/GAZETA_HD/index.m3u8
 #EXTINF:-1 tvg-id="TVGazeta.br" tvg-country="BR" tvg-logo="" group-title="General",TV Gazeta
-https://video08.logicahost.com.br/tvc21/tvc21/playlist.m3u8
-#EXTINF:-1 tvg-id="TVGazeta.br" tvg-country="BR" tvg-logo="" group-title="General",TV Gazeta
 http://168.197.104.22:80/GAZETA/index.m3u8
 #EXTINF:-1 tvg-id="TVGazeta.br" tvg-country="BR" tvg-logo="" group-title="General",TV Gazeta
 http://138.255.2.6:8084/GAZETA/index.m3u8
@@ -697,6 +689,8 @@ https://cdn-tiva-video09-logicahost-com-br.smartbit.co/tvgazin/tvgazin/playlist.
 http://45.190.28.50/GLOBO_HD/index.m3u8
 #EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-country="BR" tvg-logo="" group-title="General",TV Globo Sao Paulo
 http://170.84.165.204:80/Globo_HD/index.m3u8
+#EXTINF:-1 tvg-id="TVGRANDENATALHDTVBRASIL.br" tvg-country="BR" tvg-logo="" group-title="Entertainment",TV GRANDE NATAL HDTV BRASIL
+http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
 #EXTINF:-1 tvg-id="TVGuara.br" tvg-country="BR" tvg-logo="" group-title="General",TV Guara
 https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
 #EXTINF:-1 tvg-id="TVideoNews.br" tvg-country="BR" tvg-logo="" group-title="News",TVideoNews
@@ -717,6 +711,12 @@ http://170.83.16.50:80/TV_JUSTICA/index.m3u8
 http://170.83.49.66:8083/TVJUSTICAHD/index.m3u8
 #EXTINF:-1 tvg-id="TVJustica.br" tvg-country="BR" tvg-logo="" group-title="General",TV Justica
 http://186.219.52.187:80/tv_justica/index.m3u8
+#EXTINF:-1 tvg-id="TVLatinaSat.br" tvg-country="BR" tvg-logo="" group-title="General",TVLatinaSat
+https://www.latinasat.com.br/hls/live/stream/index.m3u8
+#EXTINF:-1 tvg-id="TVLifeAmerica.br" tvg-country="BR" tvg-logo="" group-title="Culture",TV Life America
+https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
+#EXTINF:-1 tvg-id="TVMaisMarica.br" tvg-country="BR" tvg-logo="" group-title="General",TV Mais Marica
+https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMarajoara.br" tvg-country="BR" tvg-logo="" group-title="General",TV Marajoara
 https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMeio.br" tvg-country="BR" tvg-logo="" group-title="General",TV Meio
@@ -741,6 +741,8 @@ http://168.197.104.22:80/TV_PAI_ETERNO/index.m3u8
 http://186.219.52.187:80/pai_eterno/index.m3u8
 #EXTINF:-1 tvg-id="TVPaiEterno.br" tvg-country="BR" tvg-logo="" group-title="Religious",TV Pai Eterno
 https://video09.logicahost.com.br/paieterno/paieterno/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPampa.br" tvg-country="BR" tvg-logo="" group-title="General",TV Pampa
+https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPantanalMS.br" tvg-country="BR" tvg-logo="" group-title="General",TV Pantanal MS
 https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TVParaense.br" tvg-country="BR" tvg-logo="" group-title="General",TV Paraense
@@ -803,8 +805,6 @@ https://app.tvufop.com.br/hls/tvufop.m3u8
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TVVicosa.br" tvg-country="BR" tvg-logo="" group-title="Entertainment",TV Vicosa
 http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="VivaxTV.br" tvg-country="BR" tvg-logo="" group-title="General",Vivax TV
-https://video11.logicahost.com.br/redevivaxtv/redevivaxtv/playlist.m3u8
 #EXTINF:-1 tvg-id="WooHoo.br" tvg-country="BR" tvg-logo="" group-title="General",WooHoo
 http://45.162.64.114/WOOHOO/index.m3u8
 #EXTINF:-1 tvg-id="WooHoo.br" tvg-country="BR" tvg-logo="" group-title="General",WooHoo

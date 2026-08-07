@@ -1,8 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="CanalAlphaJura.ch" tvg-country="CH" tvg-logo="" group-title="General",Canal Alpha Jura
+https://canalalphaju.vedge.infomaniak.com/livecast/ik:canalalphaju/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalAlphaNeuchatel.ch" tvg-country="CH" tvg-logo="" group-title="General",Canal Alpha Neuchatel
+https://canalalpha.vedge.infomaniak.com/livecast/ik:canalalpha/playlist.m3u8
 #EXTINF:-1 tvg-id="Carac1.ch" tvg-country="CH" tvg-logo="" group-title="Entertainment",Carac 1
 https://edge13.vedge.infomaniak.com/livecast/ik:event/manifest.m3u8
 #EXTINF:-1 tvg-id="Carac1.ch" tvg-country="CH" tvg-logo="" group-title="Entertainment",Carac 1
 http://145.239.5.177/371/index.m3u8
+#EXTINF:-1 tvg-id="Carac4.ch" tvg-country="CH" tvg-logo="" group-title="Entertainment",Carac 4
+https://edge17.vedge.infomaniak.com/livecast/ik:compack_media_1/playlist.m3u8
 #EXTINF:-1 tvg-id="Couleur3.ch" tvg-country="CH" tvg-logo="" group-title="Music",Couleur 3
 https://visualradio-rts-couleur3-d.akamaized.net/out/v1/6a1472634ad745f59a9e63ee8adbbc00/index.m3u8
 #EXTINF:-1 tvg-id="DieNeueZeitTV.ch" tvg-country="CH" tvg-logo="" group-title="Religious",Die Neue Zeit TV
@@ -23,6 +29,8 @@ https://585b674743bbb.streamlock.net/9030/9030/playlist.m3u8
 https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index.m3u8
 #EXTINF:-1 tvg-id="RTVPendimi.ch" tvg-country="CH" tvg-logo="" group-title="Religious",RTV Pendimi
 https://www.rtvpendimi.com:19360/tvpendimi/tvpendimi.m3u8
+#EXTINF:-1 tvg-id="SivanTV.ch" tvg-country="CH" tvg-logo="" group-title="Religious",Sivan TV
+http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
 #EXTINF:-1 tvg-id="TeleTicino.ch" tvg-country="CH" tvg-logo="" group-title="General",TeleTicino
 https://vstream-cdn.ch/hls/teleticino.m3u8
 #EXTINF:-1 tvg-id="WaterBear.ch" tvg-country="CH" tvg-logo="" group-title="Documentary",WaterBear

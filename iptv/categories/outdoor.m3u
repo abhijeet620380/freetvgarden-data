@@ -6,8 +6,6 @@ http://45.162.64.114/AGRO_CANAL/index.m3u8
 #EXTINF:-1 tvg-id="AgroCanal.br" tvg-country="BR" tvg-logo="" group-title="Education",AgroCanal
 http://45.190.28.50/AGRO_CANAL/index.m3u8
 #EXTINF:-1 tvg-id="AgroCanal.br" tvg-country="BR" tvg-logo="" group-title="Education",AgroCanal
-https://aovivo.equipea.com.br:5443/aovivort/streams/pshRLrnv6isXq7RG4747567774043229.m3u8
-#EXTINF:-1 tvg-id="AgroCanal.br" tvg-country="BR" tvg-logo="" group-title="Education",AgroCanal
 http://168.197.104.22:80/AGRO_CANAL/index.m3u8
 #EXTINF:-1 tvg-id="AgroCanal.br" tvg-country="BR" tvg-logo="" group-title="Education",AgroCanal
 http://170.83.49.66:8083/AGROCANALHD/index.m3u8
@@ -17,6 +15,8 @@ http://186.219.52.187:80/agro_canal/index.m3u8
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
 #EXTINF:-1 tvg-id="AgroTV.bg" tvg-country="BG" tvg-logo="" group-title="Outdoor",Agro TV
 https://restr2.bgtv.bg/agro/hls/agro.m3u8
+#EXTINF:-1 tvg-id="AgroTV.pe" tvg-country="PE" tvg-logo="" group-title="Outdoor",Agro TV
+https://live-evg8.tv360.bitel.com.pe/bitel/agroSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="AgroTV.pe" tvg-country="PE" tvg-logo="" group-title="Outdoor",Agro TV
 https://play.agenciastreaming.com:8081/agrotv/index.m3u8
 #EXTINF:-1 tvg-id="AgroTV.ro" tvg-country="RO" tvg-logo="" group-title="Outdoor",Agro TV
@@ -51,8 +51,6 @@ http://stream.mcquack.net/274/index.m3u8
 http://stream.mcquack.net/275/index.m3u8
 #EXTINF:-1 tvg-id="Dikij.ru" tvg-country="RU" tvg-logo="" group-title="Outdoor",Dikij
 http://hls127.freeott.top:8080/Dikiy/video.m3u8
-#EXTINF:-1 tvg-id="ElMundodelCampo.co" tvg-country="CO" tvg-logo="" group-title="Outdoor",El Mundo del Campo
-https://movil.ejeserver.com/live/elmundodelcampo.m3u8
 #EXTINF:-1 tvg-id="FishTV.br" tvg-country="BR" tvg-logo="" group-title="Outdoor",Fish TV
 http://45.162.64.114/FISH_TV/index.m3u8
 #EXTINF:-1 tvg-id="FishTV.br" tvg-country="BR" tvg-logo="" group-title="Outdoor",Fish TV
@@ -73,6 +71,8 @@ https://hncfree-samsung-uk.amagi.tv/playlist.m3u8
 https://amg00861-amg00861c6-stirr-us-8229.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ItalianFishingTV.it" tvg-country="IT" tvg-logo="" group-title="Outdoor",Italian Fishing TV
 https://fms.premio.link/fishingtv/playlist.m3u8
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-country="CA" tvg-logo="" group-title="Outdoor",Love Nature
+https://jmp2.uk/plu-66df8a29b25d2b0008fc5fe0.m3u8
 #EXTINF:-1 tvg-id="LoveNature.ca" tvg-country="CA" tvg-logo="" group-title="Outdoor",Love Nature
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
 #EXTINF:-1 tvg-id="MoyaPlaneta.ru" tvg-country="RU" tvg-logo="" group-title="Outdoor",Moya Planeta
@@ -133,8 +133,6 @@ https://linear-205.frequency.stream/dist/xumo/205/hls/master/playlist.m3u8
 https://db34cc6127ac459db55cab5f97cd66b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-680-WORBAUENFAST-WHALETVPLUS/680/whaletvplus/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="RedBullTV.at" tvg-country="AT" tvg-logo="" group-title="Sports",Red Bull TV
 https://d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/1026/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="RedBullTV.at" tvg-country="AT" tvg-logo="" group-title="Sports",Red Bull TV
-https://jmp2.uk/plu-67813f3162bf016db944c9ab.m3u8
 #EXTINF:-1 tvg-id="RedBullTV.at" tvg-country="AT" tvg-logo="" group-title="Sports",Red Bull TV
 https://46cfeb23c7f74853bba7a256655a3119.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-582-WORBDACHDEFAST-WHALETVPLUS/582/whaletvplus/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="RedBullTV.at" tvg-country="AT" tvg-logo="" group-title="Sports",Red Bull TV
