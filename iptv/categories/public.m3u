@@ -17,6 +17,12 @@ https://fastly.live.brightcove.com/1846756479408303045/eu-central-1/605795588500
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 #EXTINF:-1 tvg-id="BonDiaTV.es" tvg-country="ES" tvg-logo="https://i.imgur.com/VgRCu2U.png" group-title="General",Bon Dia TV
 https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8
+#EXTINF:-1 tvg-id="CanalSur2.es" tvg-country="ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Canal_Sur_2_-_2017_logo.png/500px-Canal_Sur_2_-_2017_logo.png" group-title="General",Canal Sur 2
+https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalSurAndalucia.es" tvg-country="ES" tvg-logo="https://i.imgur.com/lznnA4v.png" group-title="General",Canal Sur Andalucia
+https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8
+#EXTINF:-1 tvg-id="CanalSurNoticias.es" tvg-country="ES" tvg-logo="https://i.imgur.com/BuQPiJb.png" group-title="News",Canal Sur Noticias
+https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Clan.es" tvg-country="ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Clan_2026.svg/960px-Clan_2026.svg.png" group-title="Kids",Clan
 http://185.47.212.25:8080/Clan_HD/index.m3u8
 #EXTINF:-1 tvg-id="CMMTV.es" tvg-country="ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/CMMedia.svg/960px-CMMedia.svg.png" group-title="General",CMM TV
@@ -27,6 +33,8 @@ https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8
 https://cdn1.etbon.eus/etb1on/index.m3u8
 #EXTINF:-1 tvg-id="ETBEvents1.es" tvg-country="ES" tvg-logo="https://i.imgur.com/bVUEmx9.png" group-title="General",ETB Events 1
 https://cdn1.etbon.eus/oc1/index.m3u8
+#EXTINF:-1 tvg-id="FomixTV.nl" tvg-country="NL" tvg-logo="https://i.imgur.com/7SLYEMG.png" group-title="Music",FomixTV
+https://stream.fomixmedia.nl/FomixTV/video.m3u8
 #EXTINF:-1 tvg-id="GaliciaTVEuropa.es" tvg-country="ES" tvg-logo="https://i.imgur.com/dvkzH8n.png" group-title="General",Galicia TV Europa
 https://crtvg-europa.flumotion.cloud/playlist.m3u8
 #EXTINF:-1 tvg-id="La1.es" tvg-country="ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/La_1_UHD_Logo_2026.svg/960px-La_1_UHD_Logo_2026.svg.png" group-title="General",La 1

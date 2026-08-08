@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="BestofDanceTV.ee" tvg-country="EE" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/dt-logo-ARVwXaV7R0NW1kmXYBxN0OA78sD706.png" group-title="Music",Best of Dance TV
+https://m1b2.worldcast.tv/dancetelevisionone/dancetelevisionone.m3u8
 #EXTINF:-1 tvg-id="DanceTVAlgorhythm.ee" tvg-country="EE" tvg-logo="" group-title="Music",DanceTV Algorhythm
 https://m2b2.worldcast.tv:7443/dancetelevisionfour/dancetelevisionfour.m3u8
 #EXTINF:-1 tvg-id="DanceTVDeepHouseDistrict.ee" tvg-country="EE" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/dhd-logo-GjMR8ITxgPd9PDBLDf0I87dajJTZnb.png" group-title="Music",DanceTV Deep House District
@@ -20,6 +22,12 @@ https://sb.err.ee/live/etvpluss.m3u8
 #EXTINF:-1 tvg-id="Go3Sport1.ee" tvg-country="EE" tvg-logo="https://i.imgur.com/0eZa0qh.png" group-title="Sports",Go3 Sport 1
 http://stream.mcquack.net/416/index.m3u8
 #EXTINF:-1 tvg-id="LifeTV.ee" tvg-country="EE" tvg-logo="https://i.imgur.com/JhrTB82.png" group-title="Religious",Life TV
-https://lifetv.bitflip.ee/live/stream1.m3u8
+http://lifetv.bitflip.ee/live/stream1_1/index.m3u8
+#EXTINF:-1 tvg-id="Riigikogu.ee" tvg-country="EE" tvg-logo="https://i.imgur.com/dJRGDt2.png" group-title="General",Riigikogu
+https://router.euddn.net/862366dd346d6b6392d5231546f3d179/smil:rk_live_1.smil/playlist.m3u8?c=8005
 #EXTINF:-1 tvg-id="TBNBaltia.ee" tvg-country="EE" tvg-logo="https://i.imgur.com/rKBaK56.png" group-title="Religious",TBN Baltia
 http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8
+#EXTINF:-1 tvg-id="VantageClassic.ee" tvg-country="EE" tvg-logo="https://vantagetv.ee/vantage_classic.png" group-title="Music",Vantage Classic
+https://cdn-backup.lulzy.eu/vclassic_stream/index.m3u8
+#EXTINF:-1 tvg-id="VantageDance.ee" tvg-country="EE" tvg-logo="https://vantagetv.ee/vantage_dance.png" group-title="Music",Vantage Dance
+https://cdn-backup.lulzy.eu/vdance_stream/index.m3u8
