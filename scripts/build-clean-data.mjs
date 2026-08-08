@@ -1,8 +1,8 @@
-// FreeTV Garden — clean channel data builder
-// Fetches iptv-org's channel/stream data, health-checks every stream URL,
-// removes anything that doesn't respond, merges in a small curated list of
-// official YouTube Live channels, and writes the result as M3U files in the
-// exact same format/paths the site already knows how to parse:
+// Clean channel data builder for freetvgarden.com
+// Fetches iptv-org's public channel/stream/logo data, health-checks every
+// stream URL, removes anything that doesn't respond, dedupes multiple
+// mirror entries down to one per channel+feed, and writes the result as
+// M3U files in the exact format/paths the site already parses:
 //   iptv/countries/{cc}.m3u
 //   iptv/categories/{cat}.m3u
 //   iptv/index.m3u
@@ -37,21 +37,27 @@ async function fetchJSON(url) {
   return r.json();
 }
 
-async function checkStream(url) {
+// Sends the stream's own referrer/user_agent (when iptv-org specifies
+// them) during the health check. Many streams reject requests that don't
+// carry the right headers — checking without them was flagging perfectly
+// working streams as dead.
+async function checkStream(url, referrer, userAgent) {
   const controller = new AbortController();
   const timeout = setTimeout(() => controller.abort(), CHECK_TIMEOUT_MS);
+  const headers = {};
+  if (referrer) headers["Referer"] = referrer;
+  if (userAgent) headers["User-Agent"] = userAgent;
   try {
     let res;
     try {
-      res = await fetch(url, { method: "HEAD", signal: controller.signal, redirect: "follow" });
+      res = await fetch(url, { method: "HEAD", headers, signal: controller.signal, redirect: "follow" });
     } catch {
       res = null;
     }
     if (!res || res.status >= 400) {
-      // Some stream servers reject HEAD requests — retry with a small ranged GET.
       res = await fetch(url, {
         method: "GET",
-        headers: { Range: "bytes=0-2048" },
+        headers: { ...headers, Range: "bytes=0-2048" },
         signal: controller.signal,
         redirect: "follow"
       });
@@ -91,43 +97,65 @@ function toM3U(list) {
 
 async function main() {
   console.log("Fetching iptv-org data...");
-  const [channels, streams, categoriesData] = await Promise.all([
+  const [channels, streams, categoriesData, logos] = await Promise.all([
     fetchJSON(`${API}/channels.json`),
     fetchJSON(`${API}/streams.json`),
-    fetchJSON(`${API}/categories.json`)
+    fetchJSON(`${API}/categories.json`),
+    fetchJSON(`${API}/logos.json`)
   ]);
 
   const channelById = new Map(channels.map(c => [c.id, c]));
   const categoryNameById = new Map(categoriesData.map(c => [c.id, c.name]));
 
-  const combined = [];
+  const logoByChannel = new Map();
+  const logoByChannelInUse = new Map();
+  for (const l of logos) {
+    if (!l.channel || !l.url) continue;
+    if (!logoByChannel.has(l.channel)) logoByChannel.set(l.channel, l.url);
+    if (l.in_use) logoByChannelInUse.set(l.channel, l.url);
+  }
+  function getLogo(channelId) {
+    return logoByChannelInUse.get(channelId) || logoByChannel.get(channelId) || "";
+  }
+
+  const groups = new Map();
   for (const s of streams) {
     if (!s.channel || !s.url) continue;
     const ch = channelById.get(s.channel);
     if (!ch || ch.closed) continue;
-    if (s.label === "Geo-blocked") continue; // known-bad, skip without even checking
-    combined.push({
-      id: ch.id,
-      name: ch.name,
-      country: ch.country || "",
-      logo: ch.logo || "",
-      group: (ch.categories && ch.categories[0] && categoryNameById.get(ch.categories[0])) || "General",
-      categories: ch.categories || [],
-      url: s.url
-    });
+    if (s.label === "Geo-blocked") continue;
+    const key = `${s.channel}|${s.feed || ""}`;
+    if (!groups.has(key)) groups.set(key, []);
+    groups.get(key).push(s);
   }
 
-  console.log(`Checking ${combined.length} streams (concurrency ${CONCURRENCY})...`);
+  const groupEntries = [...groups.entries()];
+  console.log(`Checking ${groupEntries.length} channel groups (concurrency ${CONCURRENCY})...`);
   let checkedCount = 0;
-  const aliveFlags = await mapWithConcurrency(combined, CONCURRENCY, async entry => {
-    const ok = await checkStream(entry.url);
+
+  const resolved = await mapWithConcurrency(groupEntries, CONCURRENCY, async ([key, candidateStreams]) => {
     checkedCount++;
-    if (checkedCount % 500 === 0) console.log(`  checked ${checkedCount}/${combined.length}`);
-    return ok;
+    if (checkedCount % 300 === 0) console.log(`  checked ${checkedCount}/${groupEntries.length} groups`);
+    for (const s of candidateStreams) {
+      const ok = await checkStream(s.url, s.referrer, s.user_agent);
+      if (ok) {
+        const ch = channelById.get(s.channel);
+        return {
+          id: ch.id,
+          name: ch.name,
+          country: ch.country || "",
+          logo: getLogo(ch.id),
+          group: (ch.categories && ch.categories[0] && categoryNameById.get(ch.categories[0])) || "General",
+          categories: ch.categories || [],
+          url: s.url
+        };
+      }
+    }
+    return null;
   });
 
-  const alive = combined.filter((_, i) => aliveFlags[i]);
-  console.log(`${alive.length}/${combined.length} streams passed the health check.`);
+  const alive = resolved.filter(Boolean);
+  console.log(`${alive.length}/${groupEntries.length} channel groups had at least one working stream.`);
 
   for (const yt of YOUTUBE_LIVE) {
     alive.push({
@@ -141,7 +169,6 @@ async function main() {
     });
   }
 
-  // Per-country files
   const byCountry = {};
   for (const ch of alive) {
     const cc = (ch.country || "un").toLowerCase();
@@ -152,7 +179,6 @@ async function main() {
     await fs.writeFile(path.join(OUT_DIR, "countries", `${cc}.m3u`), toM3U(list));
   }
 
-  // Per-category files
   const byCategory = {};
   for (const ch of alive) {
     const cats = ch.categories.length ? ch.categories.map(id => categoryNameById.get(id) || id) : [ch.group];
@@ -166,19 +192,18 @@ async function main() {
     await fs.writeFile(path.join(OUT_DIR, "categories", `${cat}.m3u`), toM3U(list));
   }
 
-  // Combined index (used by "All Channels")
   await fs.writeFile(path.join(OUT_DIR, "index.m3u"), toM3U(alive));
 
-  // Status file — useful for sanity-checking each run in the Actions log/history
   await fs.writeFile(
     path.join(OUT_DIR, "status.json"),
     JSON.stringify(
       {
         generatedAt: new Date().toISOString(),
-        totalStreamsChecked: combined.length,
-        aliveStreams: alive.length - YOUTUBE_LIVE.length,
+        channelGroupsChecked: groupEntries.length,
+        aliveChannels: alive.length - YOUTUBE_LIVE.length,
         youtubeChannelsAdded: YOUTUBE_LIVE.length,
-        totalPublished: alive.length
+        totalPublished: alive.length,
+        channelsWithLogo: alive.filter(c => c.logo).length
       },
       null,
       2
