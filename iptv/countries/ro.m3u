@@ -29,14 +29,16 @@ http://cdn.credonet.tv:1935/ctv/livecredo/playlist.m3u8
 https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
 #EXTINF:-1 tvg-id="DottoTV.ro" tvg-country="RO" tvg-language="" tvg-logo="https://i.imgur.com/pfs882Z.png" group-title="News",Dotto TV
 https://live.dottotv.ro/index.m3u8
-#EXTINF:-1 tvg-id="EMITV.ro" tvg-country="RO" tvg-language="" tvg-logo="https://i.imgur.com/B5zssCz.png" group-title="Music",EMI TV
-https://astra.emitv.ro/hls/emi/index.m3u8
 #EXTINF:-1 tvg-id="HD365TV.ro" tvg-country="RO" tvg-language="" tvg-logo="https://i.imgur.com/2cLx4ja.png" group-title="General",HD365 TV
 https://s2.netstreaming.eu/hd365.m3u8
 #EXTINF:-1 tvg-id="HelloTaste.ro" tvg-country="RO" tvg-language="" tvg-logo="https://i.imgur.com/TdKO0er.png" group-title="Cooking",Hello Taste
 https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8
 #EXTINF:-1 tvg-id="Hunedoara1.ro" tvg-country="RO" tvg-language="" tvg-logo="https://i.imgur.com/9bz15ad.png" group-title="General",Hunedoara 1
 https://netstreaming.eu/hd1.m3u8
+#EXTINF:-1 tvg-id="ImpactTVDance.ro" tvg-country="RO" tvg-language="" tvg-logo="https://i.imgur.com/G5mNdpE.png" group-title="Music",Impact TV Dance
+https://online.tvimpact.live/hls/dancetv.m3u8
+#EXTINF:-1 tvg-id="ImpactTVManele.ro" tvg-country="RO" tvg-language="" tvg-logo="https://i.imgur.com/G5mNdpE.png" group-title="Music",Impact TV Manele
+https://online.tvimpact.live/hls/impact_tv.m3u8
 #EXTINF:-1 tvg-id="InformatiaTV.ro" tvg-country="RO" tvg-language="" tvg-logo="https://i.imgur.com/P1ZbVRg.png" group-title="News",Informatia TV
 https://informatia.streamnet.ro/mobile_tv/informatiatv.m3u8
 #EXTINF:-1 tvg-id="JOBTV.ro" tvg-country="RO" tvg-language="" tvg-logo="https://i.imgur.com/UzcZNe3.png" group-title="Business",JOB TV
@@ -73,6 +75,8 @@ https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?of
 https://live.djemba.ro/memfs/474f9942-f72b-4130-817a-435cd54b2c36.m3u8
 #EXTINF:-1 tvg-id="RadioFxNet.ro" tvg-country="RO" tvg-language="" tvg-logo="https://radiofxnet.ro/wp-content/uploads/2021/03/cropped-cropped-cropped-cropped-Radio_FX_Net_logo-1-1.png" group-title="Music",Radio Fx Net
 https://streamlov.alsolnet.com/radiofxnet/live/playlist.m3u8
+#EXTINF:-1 tvg-id="RapsodiaTV.ro" tvg-country="RO" tvg-language="" tvg-logo="https://i.imgur.com/mwMG7BB.png" group-title="General",Rapsodia TV
+http://92.86.248.141:8080/ram/playlist.m3u8
 #EXTINF:-1 tvg-id="RockTV.ro" tvg-country="RO" tvg-language="" tvg-logo="https://i.imgur.com/VB88A5V.png" group-title="Music",Rock TV
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-country="RO" tvg-language="" tvg-logo="https://i.imgur.com/KUyqQCX.png" group-title="Religious",SperantaTV
