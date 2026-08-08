@@ -6,6 +6,8 @@ http://45.162.64.114/AGRO_CANAL/index.m3u8
 #EXTINF:-1 tvg-id="AgroCanal.br" tvg-country="BR" tvg-logo="" group-title="Education",AgroCanal
 http://45.190.28.50/AGRO_CANAL/index.m3u8
 #EXTINF:-1 tvg-id="AgroCanal.br" tvg-country="BR" tvg-logo="" group-title="Education",AgroCanal
+https://aovivo.equipea.com.br:5443/aovivort/streams/pshRLrnv6isXq7RG4747567774043229.m3u8
+#EXTINF:-1 tvg-id="AgroCanal.br" tvg-country="BR" tvg-logo="" group-title="Education",AgroCanal
 http://168.197.104.22:80/AGRO_CANAL/index.m3u8
 #EXTINF:-1 tvg-id="AgroCanal.br" tvg-country="BR" tvg-logo="" group-title="Education",AgroCanal
 http://170.83.49.66:8083/AGROCANALHD/index.m3u8
@@ -13,6 +15,8 @@ http://170.83.49.66:8083/AGROCANALHD/index.m3u8
 http://186.219.52.187:80/agro_canal/index.m3u8
 #EXTINF:-1 tvg-id="AlAlamiya2.sd" tvg-country="SD" tvg-logo="" group-title="Education",Al Alamiya 2
 http://82.212.74.98:8000/live/7815.m3u8
+#EXTINF:-1 tvg-id="AlHiwarTV.uk" tvg-country="UK" tvg-logo="" group-title="Education",Al Hiwar TV
+https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ARDalpha.de" tvg-country="DE" tvg-logo="" group-title="Education",ARD-alpha
 https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8
 #EXTINF:-1 tvg-id="ARDalpha.de" tvg-country="DE" tvg-logo="" group-title="Education",ARD-alpha
@@ -75,10 +79,6 @@ https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-2/live.m3u8
 https://create.lls.pbs.org/index.m3u8
 #EXTINF:-1 tvg-id="CreaTVChannel28.us" tvg-country="US" tvg-logo="" group-title="Education",CreaTV Channel 28
 https://reflect-creatv.cablecast.tv/live-14/live/live.m3u8
-#EXTINF:-1 tvg-id="CuriosityChannel.de" tvg-country="DE" tvg-logo="" group-title="Education",Curiosity Channel
-https://jmp2.uk/plu-6576c20fb3801200084786c9.m3u8
-#EXTINF:-1 tvg-id="CVCEducation.us" tvg-country="US" tvg-logo="" group-title="Education",CVC Education
-https://dlttx48mxf9m3.cloudfront.net/vod_clients/bolton/live/ch2/video.m3u8
 #EXTINF:-1 tvg-id="DabangaTV.sd" tvg-country="SD" tvg-logo="" group-title="News",Dabanga TV
 https://hls.dabangasudan.org/hls/stream.m3u8
 #EXTINF:-1 tvg-id="DaVinci.ru" tvg-country="RU" tvg-logo="" group-title="Education",Da Vinci
@@ -141,6 +141,8 @@ http://31.148.48.15/English_club_TV_HD/index.m3u8
 https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
 #EXTINF:-1 tvg-id="EnglishClubTV.uk" tvg-country="UK" tvg-logo="" group-title="Education",English Club TV
 https://stream8.cinerama.uz/1442/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ETV.th" tvg-country="TH" tvg-logo="" group-title="Education",ETV
+http://150.95.66.20:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="Fauna.ua" tvg-country="UA" tvg-logo="" group-title="Education",Fauna
 http://stream.mcquack.net/401/index.m3u8
 #EXTINF:-1 tvg-id="Futura.br" tvg-country="BR" tvg-logo="" group-title="Education",Futura
@@ -163,6 +165,10 @@ https://relay2.cdn.fem-net.de/hls/loop/istuff_live/istuff_live-720p.m3u8
 https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
 #EXTINF:-1 tvg-id="JaliscoTV.mx" tvg-country="MX" tvg-logo="" group-title="Culture",Jalisco TV
 https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
+#EXTINF:-1 tvg-id="JiangsuEducationalChannel.cn" tvg-country="CN" tvg-logo="" group-title="Education",Jiangsu Educational Channel
+http://183.207.248.71/gitv/live1/G_JSJY/G_JSJY
+#EXTINF:-1 tvg-id="KanEducational.il" tvg-country="IL" tvg-logo="" group-title="Education",Kan Educational
+http://stream.mcquack.net/378/index.m3u8
 #EXTINF:-1 tvg-id="KCAT.us" tvg-country="US" tvg-logo="" group-title="Education",KCAT
 https://reflect-kcat-live.cablecast.tv/live-2/live/live.m3u8
 #EXTINF:-1 tvg-id="KHET111.us" tvg-country="US" tvg-logo="" group-title="Education",KHET 11.1
@@ -175,14 +181,10 @@ https://securestream10.champds.com/LIVE/KOCTCALIVE2/KOCTCALIVE2.m3u8
 http://31.148.48.15/Kto_est_kto/index.m3u8
 #EXTINF:-1 tvg-id="LA36.us" tvg-country="US" tvg-logo="" group-title="Education",LA36
 https://reflect-channel36-la.cablecast.tv/live-3/live/stream-1/live.m3u8
-#EXTINF:-1 tvg-id="LeominsterTVEducational.us" tvg-country="US" tvg-logo="" group-title="Education",Leominster TV Educational
-https://livestream.telvue.com/leominster2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="LiceumTV.hu" tvg-country="HU" tvg-logo="" group-title="Culture",Liceum TV
 http://193.225.32.62:8890/live.m3u8
 #EXTINF:-1 tvg-id="M5.hu" tvg-country="HU" tvg-logo="" group-title="Education",M5
 http://88.212.15.19/live/test_m_5_hun_atk_1200/playlist.m3u8
-#EXTINF:-1 tvg-id="ManasTV.kg" tvg-country="KG" tvg-logo="" group-title="Education",Manas TV
-http://212.42.111.152:8080/hls/manas.m3u8
 #EXTINF:-1 tvg-id="MCN6ArtsChannel.us" tvg-country="US" tvg-logo="" group-title="Culture",MCN6 Arts Channel
 https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8
 #EXTINF:-1 tvg-id="MCPSSTV.us" tvg-country="US" tvg-logo="" group-title="Education",MCPSS TV
@@ -209,8 +211,6 @@ https://fms.nrwision.de/live/ngrp:livestreamHD.stream/playlist.m3u8
 https://jmp2.uk/plu-61099df8cee03b00074b2ecf.m3u8
 #EXTINF:-1 tvg-id="OneTVESchoolCambodia.kh" tvg-country="KH" tvg-logo="" group-title="Education",One TV E-School Cambodia
 http://49.156.33.114:5080/live/streams/elearning.playlist.m3u8
-#EXTINF:-1 tvg-id="PalestineEdu.ps" tvg-country="PS" tvg-logo="" group-title="Education",Palestine Edu
-https://pbc.furrera.ps/PalestineEDU/index.m3u8
 #EXTINF:-1 tvg-id="PBSKids.us" tvg-country="US" tvg-logo="" group-title="Education",PBS Kids
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
 #EXTINF:-1 tvg-id="PBSKidsAlaska.us" tvg-country="US" tvg-logo="" group-title="Education",PBS Kids Alaska
@@ -251,8 +251,6 @@ https://edge.enhdtv.com/8054/index.m3u8
 https://cs.ebmcdn.net/eastbay-live-hs-1/fcps/mp4:fcps/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeMinas.br" tvg-country="BR" tvg-logo="" group-title="Education",Rede Minas
 https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
-#EXTINF:-1 tvg-id="RinjaniTV.id" tvg-country="ID" tvg-logo="" group-title="Education",Rinjani TV
-https://rinjanitv.cloud/hls/tvkabel.m3u8
 #EXTINF:-1 tvg-id="ShamsTV.af" tvg-country="AF" tvg-logo="" group-title="Education",Shams TV
 https://fflive-darya-educationtv.b-cdn.net/master.m3u8
 #EXTINF:-1 tvg-id="SMCTVChannel24.us" tvg-country="US" tvg-logo="" group-title="Education",SMCTV Channel 24
@@ -277,6 +275,10 @@ https://tv-e-okul02.medya.trt.com.tr/master.m3u8
 https://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCuatro44.mx" tvg-country="MX" tvg-logo="" group-title="Education",TV Cuatro 4.4
 https://5ca3e84a76d30.streamlock.net/tv44gto/tv44gto.smil/.m3u8
+#EXTINF:-1 tvg-id="TVERS.br" tvg-country="BR" tvg-logo="" group-title="Culture",TVE RS
+https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
+#EXTINF:-1 tvg-id="TVK2.kh" tvg-country="KH" tvg-logo="" group-title="Education",TVK 2
+https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMaya.gt" tvg-country="GT" tvg-logo="" group-title="Education",TV Maya
 https://5ca9af4645e15.streamlock.net/mayas/videomayas/playlist.m3u8
 #EXTINF:-1 tvg-id="TVUFOP.br" tvg-country="BR" tvg-logo="" group-title="Public",TV UFOP
@@ -287,8 +289,6 @@ https://5ca3e84a76d30.streamlock.net/universidadgto/videouniversidadgto/playlist
 https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8
 #EXTINF:-1 tvg-id="TVUniversidad.ar" tvg-country="AR" tvg-logo="" group-title="Education",TV Universidad
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
-#EXTINF:-1 tvg-id="VyasChannel.in" tvg-country="IN" tvg-logo="" group-title="Education",Vyas Channel
-https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8
 #EXTINF:-1 tvg-id="WikiTV.kh" tvg-country="KH" tvg-logo="" group-title="Education",Wiki TV
 https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="WildEarth.za" tvg-country="ZA" tvg-logo="" group-title="Outdoor",WildEarth

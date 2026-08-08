@@ -1,12 +1,28 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="AjmanTV.ae" tvg-country="AE" tvg-logo="" group-title="General",Ajman TV
+https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Alarabiya.ae" tvg-country="AE" tvg-logo="" group-title="News",Alarabiya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Alarabiya.ae" tvg-country="AE" tvg-logo="" group-title="News",Alarabiya
 http://185.9.2.18/chid_146/index.m3u8
+#EXTINF:-1 tvg-id="Alarabiya.ae" tvg-country="AE" tvg-logo="" group-title="News",Alarabiya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_1080p/chunks.m3u8
+#EXTINF:-1 tvg-id="Alarabiya.ae" tvg-country="AE" tvg-logo="" group-title="News",Alarabiya
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-alarabiya/7f90de73d777d04f3dada92f90d35c44/index.m3u8
+#EXTINF:-1 tvg-id="AlArabiyaBusiness.ae" tvg-country="AE" tvg-logo="" group-title="Business",Al Arabiya Business
+https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlArabiyaPrograms.ae" tvg-country="AE" tvg-logo="" group-title="Documentary",Al Arabiya Programs
+https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlQamarTV.ae" tvg-country="AE" tvg-logo="" group-title="General",Al Qamar TV
 https://streamer3.premio.link/alqamar/playlist.m3u8
 #EXTINF:-1 tvg-id="AlShallalTV.ae" tvg-country="AE" tvg-logo="" group-title="General",Al Shallal TV
 https://amg01480-alshallalfze-alshallal-ono-q0hfg.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="AlSharqiyaMinKabla.ae" tvg-country="AE" tvg-logo="" group-title="General",Al Sharqiya Min Kabla
 https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlWoustaTV.ae" tvg-country="AE" tvg-logo="" group-title="General",Al Wousta TV
+https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlYaumTV.ae" tvg-country="AE" tvg-logo="" group-title="News",Al Yaum TV
+https://hlspackager.akamaized.net/live/DB/ALYAUM_TV/HLS/ALYAUM_TV.m3u8
 #EXTINF:-1 tvg-id="CNBCArabiya.ae" tvg-country="AE" tvg-logo="" group-title="Business",CNBC Arabiya
 https://cnbc-live.akamaized.net/cnbc/master.m3u8
 #EXTINF:-1 tvg-id="DubaiTVInternational.ae" tvg-country="AE" tvg-logo="" group-title="General",Dubai TV International
@@ -29,12 +45,6 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc4976
 https://hls.mbcpersia.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="NourTV.ae" tvg-country="AE" tvg-logo="" group-title="Religious",Nour TV
 https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8
-#EXTINF:-1 tvg-id="PeaceTVBangla.ae" tvg-country="AE" tvg-logo="" group-title="Religious",Peace TV Bangla
-https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
-#EXTINF:-1 tvg-id="PeaceTVChinese.ae" tvg-country="AE" tvg-logo="" group-title="Religious",Peace TV Chinese
-https://dzkyvlfyge.erbvr.com/PeaceTvChinese/index.m3u8
-#EXTINF:-1 tvg-id="PeaceTVEnglish.ae" tvg-country="AE" tvg-logo="" group-title="Religious",Peace TV English
-https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 #EXTINF:-1 tvg-id="PeaceTVUrdu.ae" tvg-country="AE" tvg-logo="" group-title="Religious",Peace TV Urdu
 https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
 #EXTINF:-1 tvg-id="PMC.ae" tvg-country="AE" tvg-logo="" group-title="Music",PMC

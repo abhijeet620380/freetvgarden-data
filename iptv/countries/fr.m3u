@@ -11,8 +11,14 @@ https://live-20minutestv.digiteka.com/1961167769/index.m3u8
 http://145.239.5.177/332/index.m3u8
 #EXTINF:-1 tvg-id="ADNTVPlus.fr" tvg-country="FR" tvg-logo="" group-title="Animation",ADN TV+
 https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8
+#EXTINF:-1 tvg-id="Africa24.fr" tvg-country="FR" tvg-logo="" group-title="News",Africa 24
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
 #EXTINF:-1 tvg-id="Africa24English.fr" tvg-country="FR" tvg-logo="" group-title="News",Africa 24 English
 https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8
+#EXTINF:-1 tvg-id="Africa24Sport.fr" tvg-country="FR" tvg-logo="" group-title="News",Africa 24 Sport
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+#EXTINF:-1 tvg-id="AfricanewsEnglish.fr" tvg-country="FR" tvg-logo="" group-title="News",Africanews English
+https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiOTU0NDAyODQtOTU0My00Yzc2LThmZjQtNDRhY2YwYmQxYTYwIiwibWt0IjoicGwiLCJjaCI6NjYwNiwicHRmIjo1fQ==/26036/africanews-en.m3u8
 #EXTINF:-1 tvg-id="AfricanewsEnglish.fr" tvg-country="FR" tvg-logo="" group-title="News",Africanews English
 https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8
 #EXTINF:-1 tvg-id="AfricanewsFrench.fr" tvg-country="FR" tvg-logo="" group-title="News",Africanews French
@@ -31,10 +37,10 @@ https://live-cdn-bfmtvlyo-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
 https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
 #EXTINF:-1 tvg-id="BrionnaisTV.fr" tvg-country="FR" tvg-logo="" group-title="General",Brionnais TV
 https://stream2.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8
-#EXTINF:-1 tvg-id="Caillou.fr" tvg-country="FR" tvg-logo="" group-title="General",Caillou
-https://do7nccdsswstc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1aso0bc668saa/a5233c83-f772-4a81-959a-45ec7877ef61/5.m3u8
 #EXTINF:-1 tvg-id="CanalPlusCinemas.fr" tvg-country="FR" tvg-logo="" group-title="Movies",Canal+ Cinemas
 http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8
+#EXTINF:-1 tvg-id="CanalPlusSport360.fr" tvg-country="FR" tvg-logo="" group-title="Sports",Canal+ Sport 360
+https://futbol9865.ultratv13.workers.dev/deportivo111/14.m3u8
 #EXTINF:-1 tvg-id="CannesLerinsTV.fr" tvg-country="FR" tvg-logo="" group-title="General",Cannes Lerins TV
 https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8
 #EXTINF:-1 tvg-id="CineNanar.fr" tvg-country="FR" tvg-logo="" group-title="Movies",Cine Nanar
@@ -75,8 +81,6 @@ https://jmp2.uk/plu-61de90a47365340007f77c27.m3u8
 https://jmp2.uk/plu-5ca1da6c593a5d78f0e7edce.m3u8
 #EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-country="FR" tvg-logo="" group-title="News",Euronews English
 https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-country="FR" tvg-logo="" group-title="News",Euronews English
-https://streams.sofast.tv/euronewsen/live/eds/euronews-en/25017/euronews-en.m3u8
 #EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-country="FR" tvg-logo="" group-title="News",Euronews English
 https://aegis-cloudfront-1.tubi.video/b1c4d439-03a5-4c40-ae9d-90a183e010c9/euronews-en.m3u8
 #EXTINF:-1 tvg-id="EuronewsFrench.fr" tvg-country="FR" tvg-logo="" group-title="News",Euronews French
@@ -241,6 +245,8 @@ http://145.239.5.177/368/index.m3u8
 https://static.lefigaro.fr/secom/tnt.m3u8
 #EXTINF:-1 tvg-id="LittoralFMTV.fr" tvg-country="FR" tvg-logo="" group-title="Music",Littoral FM TV
 https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="M6.fr" tvg-country="FR" tvg-logo="" group-title="Entertainment",M6
+http://99.27.51.147:8080/M6/index.m3u8
 #EXTINF:-1 tvg-id="M6Music.fr" tvg-country="FR" tvg-logo="" group-title="Music",M6 Music
 http://145.239.5.177/320/index.m3u8
 #EXTINF:-1 tvg-id="MCMTop.fr" tvg-country="FR" tvg-logo="" group-title="Music",MCM Top
@@ -261,8 +267,6 @@ http://99.27.51.147:8080/MTV/index.m3u8
 http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
 #EXTINF:-1 tvg-id="NollywoodTV.fr" tvg-country="FR" tvg-logo="" group-title="Movies",Nollywood TV
 http://145.239.5.177/148/index.m3u8
-#EXTINF:-1 tvg-id="P2MTV.fr" tvg-country="FR" tvg-logo="" group-title="Music",P2M TV
-https://vdo2.pro-fhi.net:3207/stream/play.m3u8
 #EXTINF:-1 tvg-id="PersianaCinema.fr" tvg-country="FR" tvg-logo="" group-title="Movies",Persiana Cinema
 https://cinehls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PersianaComedy.fr" tvg-country="FR" tvg-logo="" group-title="Comedy",Persiana Comedy
@@ -333,6 +337,8 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u
 http://145.239.5.177/356/index.m3u8
 #EXTINF:-1 tvg-id="TF1.fr" tvg-country="FR" tvg-logo="" group-title="Entertainment",TF1
 http://151.80.18.177:86/TF1_HD/index.m3u8
+#EXTINF:-1 tvg-id="TF1.fr" tvg-country="FR" tvg-logo="" group-title="Entertainment",TF1
+https://futbol9865.ultratv13.workers.dev/deportivo111/24.m3u8
 #EXTINF:-1 tvg-id="TFX.fr" tvg-country="FR" tvg-logo="" group-title="General",TFX
 http://145.239.5.177/315/index.m3u8
 #EXTINF:-1 tvg-id="TMC.fr" tvg-country="FR" tvg-logo="" group-title="General",TMC

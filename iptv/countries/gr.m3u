@@ -1,6 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="4E.gr" tvg-country="GR" tvg-logo="" group-title="Religious",4E
 http://eu2.tv4e.gr:1935/live/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="AcheloosTV.gr" tvg-country="GR" tvg-logo="" group-title="General",Acheloos TV
+https://acheloostv.streamings.gr/live/stream/index.m3u8
+#EXTINF:-1 tvg-id="Action24.gr" tvg-country="GR" tvg-logo="" group-title="Movies",Action 24
+http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
+#EXTINF:-1 tvg-id="AigaioTV.gr" tvg-country="GR" tvg-logo="" group-title="General",Aigaio TV
+https://fr.crystalweb.net:1936/aigaiotv/aigaiotv/playlist.m3u8
+#EXTINF:-1 tvg-id="AlertTV.gr" tvg-country="GR" tvg-logo="" group-title="News",Alert TV
+https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
 #EXTINF:-1 tvg-id="AlphaTV.gr" tvg-country="GR" tvg-logo="" group-title="General",Alpha TV
 https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="AstraTV.gr" tvg-country="GR" tvg-logo="" group-title="News",Astra TV
@@ -21,6 +29,10 @@ https://gra1.crystalweb.net:1936/channel8/channel8/playlist.m3u8
 https://itv.streams.ovh:1936/corfuchannel/corfuchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="EpilogesTV.gr" tvg-country="GR" tvg-logo="" group-title="General",Epiloges TV
 https://gra1.crystalweb.net:1936/epilogestv/epilogestv/playlist.m3u8
+#EXTINF:-1 tvg-id="ERTCosmos.gr" tvg-country="GR" tvg-logo="" group-title="General",ERT Cosmos
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos/default/index.m3u8
+#EXTINF:-1 tvg-id="ERTNews.gr" tvg-country="GR" tvg-logo="" group-title="News",ERT News
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.m3u8
 #EXTINF:-1 tvg-id="EuroTV.gr" tvg-country="GR" tvg-logo="" group-title="News",Euro TV
 https://lbgo.bozztv.com/ssh101/ssh101/eurotvlive/playlist.m3u8
 #EXTINF:-1 tvg-id="ExtraProNews.gr" tvg-country="GR" tvg-logo="" group-title="News",Extra ProNews
@@ -35,8 +47,6 @@ https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8
 https://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8
 #EXTINF:-1 tvg-id="HighTV.gr" tvg-country="GR" tvg-logo="" group-title="Shop",High TV
 http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
-#EXTINF:-1 tvg-id="HlektraTV.gr" tvg-country="GR" tvg-logo="" group-title="General",Hlektra TV
-https://live20.bozztv.com/giatv/giatv-hlektratv/hlektratv/playlist.m3u8
 #EXTINF:-1 tvg-id="IonianTV.gr" tvg-country="GR" tvg-logo="" group-title="General",Ionian TV
 http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
 #EXTINF:-1 tvg-id="IonianTV.gr" tvg-country="GR" tvg-logo="" group-title="General",Ionian TV
@@ -47,10 +57,10 @@ https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
 https://eu1.streams.gr:8081/kostv/index.m3u8
 #EXTINF:-1 tvg-id="KritiTV.gr" tvg-country="GR" tvg-logo="" group-title="General",Kriti TV
 https://cretetvlive.siliconweb.com/cretetv/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="LepantoTV.gr" tvg-country="GR" tvg-logo="" group-title="General",Lepanto TV
-https://fr.crystalweb.net:1936/lepantotv/lepantotv/playlist.m3u8
 #EXTINF:-1 tvg-id="MessatidaTV.gr" tvg-country="GR" tvg-logo="" group-title="Music",Messatida TV
 https://rtmp.streams.ovh:8081/mtv/index.m3u8
+#EXTINF:-1 tvg-id="NaftemporikiTV.gr" tvg-country="GR" tvg-logo="" group-title="News",Naftemporiki TV
+https://telmaco.ascdn.broadpeak.io/nafteboriki/default/index.m3u8
 #EXTINF:-1 tvg-id="NeaTV.gr" tvg-country="GR" tvg-logo="" group-title="General",Nea TV
 https://live.neatv.gr:8888/hls/neatv.m3u8
 #EXTINF:-1 tvg-id="NeaTV.gr" tvg-country="GR" tvg-logo="" group-title="General",Nea TV
@@ -61,8 +71,6 @@ https://es1.crystalweb.net:1936/netmaxtv/netmaxtv/playlist.m3u8
 https://srv.streamserver.gr:3451/stream/play.m3u8
 #EXTINF:-1 tvg-id="NRG91.gr" tvg-country="GR" tvg-logo="" group-title="Music",NRG 91
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
-#EXTINF:-1 tvg-id="PanikTV.gr" tvg-country="GR" tvg-logo="" group-title="Music",Panik TV
-https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8
 #EXTINF:-1 tvg-id="PellaTV.gr" tvg-country="GR" tvg-logo="" group-title="General",Pella TV
 https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8
 #EXTINF:-1 tvg-id="PlayTV.gr" tvg-country="GR" tvg-logo="" group-title="Music",Play TV
@@ -89,11 +97,15 @@ https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8
 https://neon.streams.gr:8081/telekriti/index.m3u8
 #EXTINF:-1 tvg-id="TopChannel.gr" tvg-country="GR" tvg-logo="" group-title="General",Top Channel
 https://fr.crystalweb.net:1936/topchannel/topchannel/playlist.m3u8
+#EXTINF:-1 tvg-id="TRT.gr" tvg-country="GR" tvg-logo="" group-title="News",TRT
+https://av.hellasnet.tv/rst/trt/main_stream.m3u8
 #EXTINF:-1 tvg-id="TV100.gr" tvg-country="GR" tvg-logo="" group-title="General",TV 100
 https://gwebstream.net/hls/master.m3u8
 #EXTINF:-1 tvg-id="TVCreta.gr" tvg-country="GR" tvg-logo="" group-title="General",TV Creta
 http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCreta.gr" tvg-country="GR" tvg-logo="" group-title="General",TV Creta
 https://live.streams.ovh/tvcreta/tvcreta/chunklist.m3u8
+#EXTINF:-1 tvg-id="VerginaTV.gr" tvg-country="GR" tvg-logo="" group-title="News",Vergina TV
+https://verginanews.gr:8443/hls_live/stream1.m3u8
 #EXTINF:-1 tvg-id="ZouglaTV.gr" tvg-country="GR" tvg-logo="" group-title="General",Zougla TV
 https://zouglacam-mdc-secure.akamaized.net/zouglalive/backup/playlist.m3u8

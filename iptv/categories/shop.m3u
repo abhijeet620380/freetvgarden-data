@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="30ATheBeachShow.us" tvg-country="US" tvg-logo="" group-title="Shop",30A The Beach Show
 https://30a-tv.com/beachy.m3u8
+#EXTINF:-1 tvg-id="1001Noites.br" tvg-country="BR" tvg-logo="" group-title="Shop",1001 Noites
+https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
 #EXTINF:-1 tvg-id="BajoTechoTV.do" tvg-country="DO" tvg-logo="" group-title="Shop",Bajo Techo TV
 https://fox.hostlagarto.com:8081/bajotechotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="CasaItalia53.it" tvg-country="IT" tvg-logo="" group-title="Shop",Casa Italia 53
@@ -15,8 +17,6 @@ https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8
 http://62.1.176.18:8888/extra/index.m3u8
 #EXTINF:-1 tvg-id="FashionFinds.us" tvg-country="US" tvg-logo="" group-title="Shop",Fashion Finds
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/master.m3u8
-#EXTINF:-1 tvg-id="FengshangShoppingChannel.cn" tvg-country="CN" tvg-logo="" group-title="Shop",Fengshang Shopping Channel
-http://183.207.248.71/cntv/live1/fengshanggw/fengshanggw
 #EXTINF:-1 tvg-id="GemShoppingNetwork.us" tvg-country="US" tvg-logo="" group-title="Shop",Gem Shopping Network
 https://amg01460-gemshoppingnetw-gem-ono-x662c.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="GongyoungHomeShopping.kr" tvg-country="KR" tvg-logo="" group-title="Shop",Gongyoung Home Shopping
@@ -59,10 +59,16 @@ https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playli
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8
 #EXTINF:-1 tvg-id="JewelryTV2.us" tvg-country="US" tvg-logo="" group-title="Shop",Jewelry TV 2
 https://cdn.jwplayer.com/live/broadcast/0rrJ3kkM.m3u8
+#EXTINF:-1 tvg-id="JewelryTV.us" tvg-country="US" tvg-logo="" group-title="Shop",Jewelry TV
+https://content.jwplatform.com/live/broadcast/oe7UD7Ag.m3u8
 #EXTINF:-1 tvg-id="Juwelo.de" tvg-country="DE" tvg-logo="" group-title="Shop",Juwelo
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8
 #EXTINF:-1 tvg-id="Juwelo.it" tvg-country="IT" tvg-logo="" group-title="Shop",Juwelo
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/7841/7841_264_live.m3u8
+#EXTINF:-1 tvg-id="KaufBeiTV.de" tvg-country="DE" tvg-logo="" group-title="Shop",KaufBei TV
+https://api.alpaca.t62a.com/hls/9103/index.m3u8
+#EXTINF:-1 tvg-id="KaufBeiTV.de" tvg-country="DE" tvg-logo="" group-title="Shop",KaufBei TV
+https://elephant.t62a.com/hls/8103/index.m3u8
 #EXTINF:-1 tvg-id="LaoSVTV.vn" tvg-country="VN" tvg-logo="" group-title="Shop",Lao SV TV
 https://livefta.malimarcdn.com/ftaedge00/laosvtv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="LaoThaiTV.us" tvg-country="US" tvg-logo="" group-title="Shop",Lao-Thai TV

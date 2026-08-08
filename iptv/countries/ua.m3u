@@ -39,12 +39,16 @@ https://api-tv.ipnet.ua/api/v1/manifest/2118742539.m3u8
 http://stream.mcquack.net/291/index.m3u8
 #EXTINF:-1 tvg-id="Channel7Ukraine.ua" tvg-country="UA" tvg-logo="" group-title="General",Channel 7 Ukraine
 https://cdn15.live-tv.cloud/ua_infinitas_tv/7tvod-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="Channel24.ua" tvg-country="UA" tvg-logo="" group-title="News",Channel 24
+https://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ChemodanTV.ua" tvg-country="UA" tvg-logo="" group-title="Education",Chemodan TV
 http://stream.mcquack.net/399/index.m3u8
 #EXTINF:-1 tvg-id="ContinentE.ua" tvg-country="UA" tvg-logo="" group-title="General",Continent E
 http://stream.mcquack.net/449/index.m3u8
 #EXTINF:-1 tvg-id="Dacha.ua" tvg-country="UA" tvg-logo="" group-title="General",Dacha
 https://dash2.antik.sk/live/test_dacha_tv_atktv/playlist.m3u8
+#EXTINF:-1 tvg-id="DIM.ua" tvg-country="UA" tvg-logo="" group-title="General",DIM
+https://dash2.antik.sk/live/telekanal_dim/playlist.m3u8
 #EXTINF:-1 tvg-id="DiviSport.ua" tvg-country="UA" tvg-logo="" group-title="Sports",DiviSport
 http://stream.mcquack.net/457/index.m3u8
 #EXTINF:-1 tvg-id="DniproTV.ua" tvg-country="UA" tvg-logo="" group-title="General",Dnipro TV
@@ -118,6 +122,8 @@ https://api-tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
 #EXTINF:-1 tvg-id="Lugansk24.ua" tvg-country="UA" tvg-logo="" group-title="General",Lugansk 24
 https://streaming.televizor-24-tochka.ru/live/29.m3u8
 #EXTINF:-1 tvg-id="M1.ua" tvg-country="UA" tvg-logo="" group-title="Music",M1
+http://158.101.222.193:88/georgia_play.php?id=m1
+#EXTINF:-1 tvg-id="M1.ua" tvg-country="UA" tvg-logo="" group-title="Music",M1
 http://stream.mcquack.net/218/index.m3u8
 #EXTINF:-1 tvg-id="M2.ua" tvg-country="UA" tvg-logo="" group-title="Music",M2
 http://stream.mcquack.net/330/index.m3u8
@@ -125,12 +131,14 @@ http://stream.mcquack.net/330/index.m3u8
 http://stream.mcquack.net/487/index.m3u8
 #EXTINF:-1 tvg-id="MaincastSport.ua" tvg-country="UA" tvg-logo="" group-title="Sports",Maincast Sport
 http://stream.mcquack.net/490/index.m3u8
-#EXTINF:-1 tvg-id="MasonTV.ua" tvg-country="UA" tvg-logo="" group-title="Entertainment",Mason TV
-http://stream.mcquack.net/346/index.m3u8
 #EXTINF:-1 tvg-id="Mega.ua" tvg-country="UA" tvg-logo="" group-title="General",Mega
 https://cdn15.live-tv.cloud/ua_infinitas_tv/mega-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="Muzvar.ua" tvg-country="UA" tvg-logo="" group-title="Music",Muzvar
 https://cdn15.live-tv.cloud/ua_infinitas_tv/muzvar-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="MyUkrainaPlus.ua" tvg-country="UA" tvg-logo="" group-title="General",My Ukraina+
+https://api-tv.ipnet.ua/api/v1/manifest/2118742680.m3u8
+#EXTINF:-1 tvg-id="MyUkrainaTV.ua" tvg-country="UA" tvg-logo="" group-title="News",My-Ukraina TV
+http://stream.mcquack.net/442/index.m3u8
 #EXTINF:-1 tvg-id="NasheLubimoeKinoUkraine.ua" tvg-country="UA" tvg-logo="" group-title="Movies",Nashe Lubimoe Kino Ukraine
 http://stream.mcquack.net/456/index.m3u8
 #EXTINF:-1 tvg-id="NASHEMusic.ua" tvg-country="UA" tvg-logo="" group-title="Music",NASHE Music
@@ -145,14 +153,8 @@ https://stream.ntktv.ua/s/ntk/ntk.m3u8
 https://cdn15.live-tv.cloud/ua_infinitas_tv/ntn-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="ObshchestvennoeNezavisimoeTelevidenie.ua" tvg-country="UA" tvg-logo="" group-title="News",Obshchestvennoe Nezavisimoe Televidenie
 http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
-#EXTINF:-1 tvg-id="OnePlanet.ua" tvg-country="UA" tvg-logo="" group-title="General",One Planet
-http://stream.mcquack.net/448/index.m3u8
 #EXTINF:-1 tvg-id="OrbitaTV.ua" tvg-country="UA" tvg-logo="" group-title="General",Orbita TV
 http://ftp.orbita.dn.ua/hls/orbita.m3u8
-#EXTINF:-1 tvg-id="OTSE.ua" tvg-country="UA" tvg-logo="" group-title="Entertainment",OTSE
-http://stream.mcquack.net/329/index.m3u8
-#EXTINF:-1 tvg-id="OTV.ua" tvg-country="UA" tvg-logo="" group-title="General",OTV
-https://stream.otv.ua/memfs/028e5947-073f-4b4e-a47f-70e59ca3ee36.m3u8
 #EXTINF:-1 tvg-id="Pershyi.ua" tvg-country="UA" tvg-logo="" group-title="General",Pershyi
 https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
 #EXTINF:-1 tvg-id="Pershyiavtomobilnyi.ua" tvg-country="UA" tvg-logo="" group-title="Auto",Pershyi avtomobilnyi
@@ -229,6 +231,8 @@ https://stream.rai.ua/rai/stream.m3u8
 http://92.253.233.136/uploads/playlist.m3u8
 #EXTINF:-1 tvg-id="Terra.ua" tvg-country="UA" tvg-logo="" group-title="General",Terra
 http://stream.mcquack.net/402/index.m3u8
+#EXTINF:-1 tvg-id="TET.ua" tvg-country="UA" tvg-logo="" group-title="General",TET
+http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6377/index.m3u8
 #EXTINF:-1 tvg-id="TET.ua" tvg-country="UA" tvg-logo="" group-title="General",TET
 http://stream.mcquack.net/338/index.m3u8
 #EXTINF:-1 tvg-id="TISTV.ua" tvg-country="UA" tvg-logo="" group-title="General",TIS TV

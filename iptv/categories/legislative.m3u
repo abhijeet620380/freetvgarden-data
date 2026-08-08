@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="AccessVisionChannel17.us" tvg-country="US" tvg-logo="" group-title="Legislative",AccessVision Channel 17
+https://livestream.telvue.com/accvision2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="ACTV.us" tvg-country="US" tvg-logo="" group-title="Legislative",ACTV
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/athens/live/ch2/video.m3u8
 #EXTINF:-1 tvg-id="ARTV.pt" tvg-country="PT" tvg-logo="" group-title="Legislative",ARTV
@@ -75,18 +77,12 @@ https://congresodirecto.akamaized.net/hls/live/2038278/canal5/master.m3u8
 https://irctv.cablecast.tv/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-id="CruzTV.us" tvg-country="US" tvg-logo="" group-title="Legislative",Cruz TV
 https://reflect-communitytv.cablecast.tv/live-4/live/stream-2/live.m3u8
-#EXTINF:-1 tvg-id="CSPAN2.us" tvg-country="US" tvg-logo="" group-title="Legislative",C-SPAN 2
-https://gpuserver3.tier1streams.com/C-SPAN_2/index.m3u8
-#EXTINF:-1 tvg-id="CSPAN.us" tvg-country="US" tvg-logo="" group-title="Legislative",C-SPAN
-https://gpuserver3.tier1streams.com/C-SPAN_HD/index.m3u8
 #EXTINF:-1 tvg-id="CTNCourtFeed.us" tvg-country="US" tvg-logo="" group-title="Legislative",CT-N Court Feed
 http://video.ct-n.com/live/ctnSupreme/playlist_DVR.m3u8
 #EXTINF:-1 tvg-id="CTNLiveStream2.us" tvg-country="US" tvg-logo="" group-title="Legislative",CT-N Live Stream 2
 http://video.ct-n.com/live/web2stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CTNTVConneticut.us" tvg-country="US" tvg-logo="" group-title="Legislative",CT-N TV Conneticut
 http://video.ct-n.com/live/ctnstream/playlist_DVR.m3u8
-#EXTINF:-1 tvg-id="CVCGovernment.us" tvg-country="US" tvg-logo="" group-title="Legislative",CVC Government
-https://dlttx48mxf9m3.cloudfront.net/vod_clients/bolton/live/ch3/video.m3u8
 #EXTINF:-1 tvg-id="CypressChannel36.us" tvg-country="US" tvg-logo="" group-title="Legislative",Cypress Channel 36
 https://livestream-us-east-edge-2.granicusops.com/live/cypressca/live-1-a/playlist.m3u8
 #EXTINF:-1 tvg-id="DCC.us" tvg-country="US" tvg-logo="" group-title="Legislative",DCC
@@ -103,8 +99,12 @@ https://livestream.telvue.com/derrynh1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/play
 https://reflect-detroit-vod.cablecast.tv/live-2/live/stream-6/live.m3u8
 #EXTINF:-1 tvg-id="DistrictofColumbiaNetwork.us" tvg-country="US" tvg-logo="" group-title="Legislative",District of Columbia Network
 https://video.oct.dc.gov/out/u/DCN.m3u8
+#EXTINF:-1 tvg-id="EscambiaCountyTV.us" tvg-country="US" tvg-logo="" group-title="Legislative",Escambia County TV
+https://cpcdn.azureedge.net/ESCAMBIACOFLLIVE1/ESCAMBIACOFLLIVE1/playlist.m3u8
 #EXTINF:-1 tvg-id="FernandinaBeachChannel.us" tvg-country="US" tvg-logo="" group-title="Legislative",Fernandina Beach Channel
 https://edge-f.swagit.com/live/fernandinabeachfl/live-1-a/playlist.m3u8
+#EXTINF:-1 tvg-id="FGTV.us" tvg-country="US" tvg-logo="" group-title="Legislative",FGTV
+https://securestream11.champds.com/LIVE/FultonCoGALIVE/FultonCoGALIVE.m3u8
 #EXTINF:-1 tvg-id="G10TV.us" tvg-country="US" tvg-logo="" group-title="Legislative",G10TV
 https://reflect-jacksonville.cablecast.tv/live-8/live/live.m3u8
 #EXTINF:-1 tvg-id="GillettePublicAccessTelevisionChannel192.us" tvg-country="US" tvg-logo="" group-title="Legislative",Gillette Public Access Television Channel 192
@@ -123,6 +123,8 @@ https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8
 https://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8
 #EXTINF:-1 tvg-id="HillsboroughTV.us" tvg-country="US" tvg-logo="" group-title="Legislative",Hillsborough TV
 https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/hillsboroughcounty/G2155_002/playlist.m3u8
+#EXTINF:-1 tvg-id="HluttawSD.mm" tvg-country="MM" tvg-logo="" group-title="Legislative",Hluttaw S & D
+https://mrtvott.com/cache/MRTV-HLUTTAW/master.m3u8
 #EXTINF:-1 tvg-id="HTV1HoustonTelevision.us" tvg-country="US" tvg-logo="" group-title="Legislative",HTV 1 Houston Television
 https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/playlist.m3u8
 #EXTINF:-1 tvg-id="HTV2HoustonTelevision.us" tvg-country="US" tvg-logo="" group-title="Legislative",HTV 2 Houston Television
@@ -151,14 +153,6 @@ https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
 https://temp2.isilive.ca/live/_definst_/ontla/house-en-cc/playlist.m3u8
 #EXTINF:-1 tvg-id="LegislativeAssemblyTVNunavut.ca" tvg-country="CA" tvg-logo="" group-title="Legislative",Legislative Assembly TV Nunavut
 http://temp2.isilive.ca/live/nunavut/live-eng/index.m3u8
-#EXTINF:-1 tvg-id="LeominsterTVGovernment.us" tvg-country="US" tvg-logo="" group-title="Legislative",Leominster TV Government
-https://livestream.telvue.com/leominster3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="LexTV.us" tvg-country="US" tvg-logo="" group-title="Legislative",Lex TV
-https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/lfucg/G0264_005/playlist.m3u8
-#EXTINF:-1 tvg-id="LGTV.us" tvg-country="US" tvg-logo="" group-title="Legislative",LGTV
-https://livestream.telvue.com/lexmedia3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/lexmedia3/stream1/playlist.m3u8
-#EXTINF:-1 tvg-id="MartinCountyTV.us" tvg-country="US" tvg-logo="" group-title="Legislative",Martin County TV
-https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/martin/G0074_002/playlist.m3u8
 #EXTINF:-1 tvg-id="MBGTV.id" tvg-country="ID" tvg-logo="" group-title="Legislative",MBG TV
 https://stream.convergen.co/mbg_stream/smil:mbStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MBTV.us" tvg-country="US" tvg-logo="" group-title="Legislative",MBTV
@@ -181,28 +175,8 @@ https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/citynmb/G2044_002/playlist.m3u8
 https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_009/playlist.m3u8
 #EXTINF:-1 tvg-id="Olelo54.us" tvg-country="US" tvg-logo="" group-title="Legislative",Olelo 54
 https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_012/playlist.m3u8
-#EXTINF:-1 tvg-id="OntarioParliamentaryNetwork.ca" tvg-country="CA" tvg-logo="" group-title="Legislative",Ontario Parliamentary Network
-https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
-#EXTINF:-1 tvg-id="OntarioParliamentaryNetwork.ca" tvg-country="CA" tvg-logo="" group-title="Legislative",Ontario Parliamentary Network
-https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m3u8
 #EXTINF:-1 tvg-id="OrangeGovernmentAccessTV.us" tvg-country="US" tvg-logo="" group-title="Legislative",Orange Government Access TV
 https://livestream.telvue.com/ogat1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="OrszaggyulesOGYplenaris.hu" tvg-country="HU" tvg-logo="" group-title="Legislative",Orszaggyules: OGY plenaris
-https://plenaris.parlament.hu:446/edgelive/smil:mkogyplen.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="OrszaggyulesOGYTAB.hu" tvg-country="HU" tvg-logo="" group-title="Legislative",Orszaggyules: OGY TAB
-https://tab.parlament.hu:446/edgelive/smil:mkogytab.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Parlamentsfernsehen1.de" tvg-country="DE" tvg-logo="" group-title="Legislative",Parlamentsfernsehen 1
-https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8
-#EXTINF:-1 tvg-id="ParliamentofMalta.mt" tvg-country="MT" tvg-logo="" group-title="Legislative",Parliament of Malta
-https://stream.smashmalta.com:25463/live/webplayer/livestream/23.m3u8
-#EXTINF:-1 tvg-id="ParliamentTV.mn" tvg-country="MN" tvg-logo="" group-title="Legislative",Parliament TV
-https://cdn4.skygo.mn/live/disk1/Parlament/DASH-FTA/Parlament.mpd
-#EXTINF:-1 tvg-id="ParliamentTV.mn" tvg-country="MN" tvg-logo="" group-title="Legislative",Parliament TV
-https://cdn4.skygo.mn/live/disk1/Parlament/HLSv3-FTA/Parlament.m3u8
-#EXTINF:-1 tvg-id="ParliamentTV.nz" tvg-country="NZ" tvg-logo="" group-title="Legislative",Parliament TV
-https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8
-#EXTINF:-1 tvg-id="PBCTVChannel20.us" tvg-country="US" tvg-logo="" group-title="Legislative",PBC TV Channel 20
-https://pbcvideostreams1.pbc.gov/memfs/1af49f9a-6b90-4ec2-a640-7f65ceebed4a.m3u8
 #EXTINF:-1 tvg-id="PCTV26.us" tvg-country="US" tvg-logo="" group-title="Legislative",PCTV 26
 https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/pinole/G0032_004/playlist.m3u8
 #EXTINF:-1 tvg-id="PershyiZahidnyi.ua" tvg-country="UA" tvg-logo="" group-title="Legislative",Pershyi Zahidnyi
@@ -237,6 +211,8 @@ https://livestream.telvue.com/santamariactv1/f7b44cfafd5c52223d5498196c8a2e7b.sd
 https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/stpete/G0187_003/playlist.m3u8
 #EXTINF:-1 tvg-id="ThaiParliamentTelevision.th" tvg-country="TH" tvg-logo="" group-title="Legislative",Thai Parliament Television
 https://tv-live.tpchannel.org/live/tv.m3u8
+#EXTINF:-1 tvg-id="TheCityofMarina.us" tvg-country="US" tvg-logo="" group-title="Legislative",The City of Marina
+https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch4/video.m3u8
 #EXTINF:-1 tvg-id="ThePeninsulaChannel.us" tvg-country="US" tvg-logo="" group-title="Legislative",The Peninsula Channel
 https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch5/video.m3u8
 #EXTINF:-1 tvg-id="Thornton8.us" tvg-country="US" tvg-logo="" group-title="Legislative",Thornton 8

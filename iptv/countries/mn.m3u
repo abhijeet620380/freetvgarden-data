@@ -35,6 +35,10 @@ https://xykt-fix.github.io/play/a02j/index.m3u8
 https://cdn4.skygo.mn/live/disk1/Dreambox/DASH-FTA/Dreambox.mpd
 #EXTINF:-1 tvg-id="DreamTV.mn" tvg-country="MN" tvg-logo="" group-title="Entertainment",DreamTV
 https://cdn4.skygo.mn/live/disk1/Dreambox/HLSv3-FTA/Dreambox.m3u8
+#EXTINF:-1 tvg-id="ETV.mn" tvg-country="MN" tvg-logo="" group-title="News",ETV
+https://cdn4.skygo.mn/live/disk1/ETV/DASH-FTA/ETV.mpd
+#EXTINF:-1 tvg-id="ETV.mn" tvg-country="MN" tvg-logo="" group-title="News",ETV
+https://cdn4.skygo.mn/live/disk1/ETV/HLSv3-FTA/ETV.m3u8
 #EXTINF:-1 tvg-id="GlobalTV.mn" tvg-country="MN" tvg-logo="" group-title="General",Global TV
 https://cdn4.skygo.mn/live/disk1/GlobalTV/DASH-FTA/GlobalTV.mpd
 #EXTINF:-1 tvg-id="GlobalTV.mn" tvg-country="MN" tvg-logo="" group-title="General",Global TV
@@ -81,10 +85,8 @@ https://cdn4.skygo.mn/live/disk1/Moviebox/HLSv3-FTA/Moviebox.m3u8
 https://cdn4.skygo.mn/live/disk1/NTVHD/DASH-FTA/NTVHD.mpd
 #EXTINF:-1 tvg-id="NTV.mn" tvg-country="MN" tvg-logo="" group-title="General",NTV
 https://cdn4.skygo.mn/live/disk1/NTVHD/HLSv3-FTA/NTVHD.m3u8
-#EXTINF:-1 tvg-id="ParliamentTV.mn" tvg-country="MN" tvg-logo="" group-title="Legislative",Parliament TV
-https://cdn4.skygo.mn/live/disk1/Parlament/DASH-FTA/Parlament.mpd
-#EXTINF:-1 tvg-id="ParliamentTV.mn" tvg-country="MN" tvg-logo="" group-title="Legislative",Parliament TV
-https://cdn4.skygo.mn/live/disk1/Parlament/HLSv3-FTA/Parlament.m3u8
+#EXTINF:-1 tvg-id="ONTV.mn" tvg-country="MN" tvg-logo="" group-title="General",ONTV
+https://cdn4.skygo.mn/live/disk1/ONTV/HLSv3-FTA/ONTV.m3u8
 #EXTINF:-1 tvg-id="SBN.mn" tvg-country="MN" tvg-logo="" group-title="General",SBN
 https://cdn4.skygo.mn/live/disk1/SBN/DASH-FTA/SBN.mpd
 #EXTINF:-1 tvg-id="SBN.mn" tvg-country="MN" tvg-logo="" group-title="General",SBN
@@ -93,6 +95,10 @@ https://cdn4.skygo.mn/live/disk1/SBN/HLSv3-FTA/SBN.m3u8
 https://cdn4.skygo.mn/live/disk1/SoyonGegeeruulegch/DASH-FTA/SoyonGegeeruulegch.mpd
 #EXTINF:-1 tvg-id="SoyonGegeeruulegchTV.mn" tvg-country="MN" tvg-logo="" group-title="General",Soyon Gegeeruulegch TV
 https://cdn4.skygo.mn/live/disk1/SoyonGegeeruulegch/HLSv3-FTA/SoyonGegeeruulegch.m3u8
+#EXTINF:-1 tvg-id="StarTV.mn" tvg-country="MN" tvg-logo="" group-title="General",Star TV
+https://cdn4.skygo.mn/live/disk1/Star/DASH-FTA/Star.mpd
+#EXTINF:-1 tvg-id="StarTV.mn" tvg-country="MN" tvg-logo="" group-title="General",Star TV
+https://cdn4.skygo.mn/live/disk1/Star/HLSv3-FTA/Star.m3u8
 #EXTINF:-1 tvg-id="SuldTV.mn" tvg-country="MN" tvg-logo="" group-title="General",Suld TV
 https://cdn4.skygo.mn/live/disk1/SuldTV/DASH-FTA/SuldTV.mpd
 #EXTINF:-1 tvg-id="SuldTV.mn" tvg-country="MN" tvg-logo="" group-title="General",Suld TV

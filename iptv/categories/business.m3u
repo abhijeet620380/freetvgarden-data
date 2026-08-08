@@ -5,6 +5,10 @@ https://30a-tv.com/feeds/xodglobal/30atv.m3u8
 https://www.30a-tv.com/InvPit.m3u8
 #EXTINF:-1 tvg-id="100NEWS.ua" tvg-country="UA" tvg-logo="" group-title="News",100% NEWS
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+#EXTINF:-1 tvg-id="AlArabiyaBusiness.ae" tvg-country="AE" tvg-logo="" group-title="Business",Al Arabiya Business
+https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlephBusiness.ro" tvg-country="RO" tvg-logo="" group-title="Business",Aleph Business
+https://streamw.m.ro/Aleph/ngrp:Alephbiz.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Ameritrade.us" tvg-country="US" tvg-logo="" group-title="Business",Ameritrade
 https://tdameritrade-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="apartTV.lu" tvg-country="LU" tvg-logo="" group-title="Lifestyle",apart TV
@@ -36,6 +40,8 @@ https://www.bloomberg.com/media-manifest/streams/originals-global.m3u8
 #EXTINF:-1 tvg-id="BloombergOriginals.us" tvg-country="US" tvg-logo="" group-title="Documentary",Bloomberg Originals
 https://bloomberg.com/media-manifest/streams/qt.m3u8
 #EXTINF:-1 tvg-id="BloombergOriginals.us" tvg-country="US" tvg-logo="" group-title="Documentary",Bloomberg Originals
+https://dai.google.com/linear/hls/event/jKwfd4apQcuxQtyRI9Q6-Q/master.m3u8
+#EXTINF:-1 tvg-id="BloombergOriginals.us" tvg-country="US" tvg-logo="" group-title="Documentary",Bloomberg Originals
 https://d3qwwydnxv5vo9.cloudfront.net/v1/bloomberg_quicktake_3/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="BloombergTV.us" tvg-country="US" tvg-logo="" group-title="Business",Bloomberg TV
 https://bloomberg.com/media-manifest/streams/asia.m3u8
@@ -49,6 +55,8 @@ https://bloomberg.com/media-manifest/streams/eu-event.m3u8
 https://bloomberg.com/media-manifest/streams/eu.m3u8
 #EXTINF:-1 tvg-id="BloombergTV.us" tvg-country="US" tvg-logo="" group-title="Business",Bloomberg TV
 https://bloomberg.com/media-manifest/streams/us-event.m3u8
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-country="US" tvg-logo="" group-title="Business",Bloomberg TV
+https://jmp2.uk/plu-62b976b93279cb000772c6f9.m3u8
 #EXTINF:-1 tvg-id="BloombergTV.us" tvg-country="US" tvg-logo="" group-title="Business",Bloomberg TV
 https://jmp2.uk/plu-61de991729cd4a00079f812b.m3u8
 #EXTINF:-1 tvg-id="BloombergTV.us" tvg-country="US" tvg-logo="" group-title="Business",Bloomberg TV
@@ -77,8 +85,6 @@ https://bloomberg.com/media-manifest/streams/politics.m3u8
 http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8
 #EXTINF:-1 tvg-id="BloombergTV.us" tvg-country="US" tvg-logo="" group-title="Business",Bloomberg TV
 https://bloomberg.com/media-manifest/streams/us.m3u8
-#EXTINF:-1 tvg-id="BloombergTV.us" tvg-country="US" tvg-logo="" group-title="Business",Bloomberg TV
-https://gpuserver3.tier1streams.com/BLOOMBERG/index.m3u8
 #EXTINF:-1 tvg-id="BloombergTVBulgaria.bg" tvg-country="BG" tvg-logo="" group-title="Business",Bloomberg TV Bulgaria
 http://213.91.179.28:8000/play/a04m
 #EXTINF:-1 tvg-id="BloombergTVMongolia.mn" tvg-country="MN" tvg-logo="" group-title="Business",Bloomberg TV Mongolia
@@ -93,8 +99,6 @@ https://feeds.intoday.in/bttv/itgd.m3u8
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2220
 #EXTINF:-1 tvg-id="CafeTradeTV.ir" tvg-country="IR" tvg-logo="" group-title="Business",Cafe Trade TV
 https://cafetradehls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="CanalE.ar" tvg-country="AR" tvg-logo="" group-title="Business",Canal E
-https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalPro.py" tvg-country="PY" tvg-logo="" group-title="Business",Canal Pro
 https://www.desde-paraguay.com/pro.m3u8
 #EXTINF:-1 tvg-id="CCTV2.cn" tvg-country="CN" tvg-logo="" group-title="Business",CCTV-2
@@ -103,10 +107,6 @@ http://74.91.26.218:82/live/cctv2hd.m3u8
 https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnglobalbiz-distrotvus/playlist.m3u8
 #EXTINF:-1 tvg-id="ChampionTV.ci" tvg-country="CI" tvg-logo="" group-title="Business",Champion TV
 https://stream.berosat.live/hls/champion-tv/champion-tv.m3u8
-#EXTINF:-1 tvg-id="CheddarBusiness.us" tvg-country="US" tvg-logo="" group-title="Business",Cheddar Business
-https://gpuserver3.tier1streams.com/CHEDDAR_BUSINESS/index.m3u8
-#EXTINF:-1 tvg-id="CNBC.us" tvg-country="US" tvg-logo="" group-title="Business",CNBC
-https://gpuserver3.tier1streams.com/CNBC/index.m3u8
 #EXTINF:-1 tvg-id="CNBCArabiya.ae" tvg-country="AE" tvg-logo="" group-title="Business",CNBC Arabiya
 https://cnbc-live.akamaized.net/cnbc/master.m3u8
 #EXTINF:-1 tvg-id="CNBCAsia.sg" tvg-country="SG" tvg-logo="" group-title="Business",CNBC Asia
@@ -127,14 +127,14 @@ https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3
 https://n18syndication.akamaized.net/bpk-tv/CNBC_Tv18_Prime_HD_NW18_MOB/output01/index.m3u8
 #EXTINF:-1 tvg-id="CNBCUK.uk" tvg-country="UK" tvg-logo="" group-title="News",CNBC UK
 https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CNBCWorld.us" tvg-country="US" tvg-logo="" group-title="Business",CNBC World
-https://gpuserver3.tier1streams.com/CNBC_WORLD/index.m3u8
 #EXTINF:-1 tvg-id="DeFianceMedia.pr" tvg-country="PR" tvg-logo="" group-title="Business",DeFiance Media
 https://amg01529-defiancetv-defiancemedia-glewed-tre8x.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="EntrepreneurTV.us" tvg-country="US" tvg-logo="" group-title="Business",EntrepreneurTV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2506
 #EXTINF:-1 tvg-id="EntrepreneurTV.us" tvg-country="US" tvg-logo="" group-title="Business",EntrepreneurTV
 https://a-cdn.klowdtv.com/live3/entrepreneurtv_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="ETNowSwadesh.in" tvg-country="IN" tvg-logo="" group-title="Business",ET Now Swadesh
+https://d32gxr3r1ksq2p.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="FoxBusinessNetwork.us" tvg-country="US" tvg-logo="" group-title="Business",Fox Business Network
 http://40.160.24.58/FOX_BUSINESS_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="FoxBusinessNetwork.us" tvg-country="US" tvg-logo="" group-title="Business",Fox Business Network
@@ -143,8 +143,6 @@ https://247preview.foxbusiness.com/hls/live/2020026/fbnv3preview/primary.m3u8
 https://jobtvserver.eu/hls/stream.m3u8
 #EXTINF:-1 tvg-id="LaboralTV.br" tvg-country="BR" tvg-logo="" group-title="Business",Laboral TV
 https://tv.laboralsst.com.br/hls/stream.m3u8
-#EXTINF:-1 tvg-id="LeNouveauManagerTV.bj" tvg-country="BJ" tvg-logo="" group-title="Business",Le Nouveau Manager TV
-https://lnmlive.com/live/lnmtv.m3u8
 #EXTINF:-1 tvg-id="NDTVProfit.in" tvg-country="IN" tvg-logo="" group-title="Business",NDTV Profit
 https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8
 #EXTINF:-1 tvg-id="NDTVProfit.in" tvg-country="IN" tvg-logo="" group-title="Business",NDTV Profit
