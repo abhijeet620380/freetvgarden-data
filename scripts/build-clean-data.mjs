@@ -1,8 +1,8 @@
 // Clean channel data builder for freetvgarden.com
-// Fetches iptv-org's public channel/stream/logo data, health-checks every
-// stream URL, removes anything that doesn't respond, dedupes multiple
-// mirror entries down to one per channel+feed, and writes the result as
-// M3U files in the exact format/paths the site already parses:
+// Fetches iptv-org's public channel/stream/logo/language data, health-checks
+// every stream URL, removes anything that doesn't respond, dedupes ALL
+// mirrors and feed variants down to exactly ONE row per channel, and writes
+// the result as M3U files in the exact format/paths the site already parses:
 //   iptv/countries/{cc}.m3u
 //   iptv/categories/{cat}.m3u
 //   iptv/index.m3u
@@ -37,10 +37,6 @@ async function fetchJSON(url) {
   return r.json();
 }
 
-// Sends the stream's own referrer/user_agent (when iptv-org specifies
-// them) during the health check. Many streams reject requests that don't
-// carry the right headers — checking without them was flagging perfectly
-// working streams as dead.
 async function checkStream(url, referrer, userAgent) {
   const controller = new AbortController();
   const timeout = setTimeout(() => controller.abort(), CHECK_TIMEOUT_MS);
@@ -88,7 +84,7 @@ function esc(s) {
 }
 
 function buildExtinf(ch) {
-  return `#EXTINF:-1 tvg-id="${esc(ch.id)}" tvg-country="${esc(ch.country)}" tvg-logo="${esc(ch.logo)}" group-title="${esc(ch.group)}",${esc(ch.name)}`;
+  return `#EXTINF:-1 tvg-id="${esc(ch.id)}" tvg-country="${esc(ch.country)}" tvg-language="${esc(ch.language)}" tvg-logo="${esc(ch.logo)}" group-title="${esc(ch.group)}",${esc(ch.name)}`;
 }
 
 function toM3U(list) {
@@ -97,15 +93,17 @@ function toM3U(list) {
 
 async function main() {
   console.log("Fetching iptv-org data...");
-  const [channels, streams, categoriesData, logos] = await Promise.all([
+  const [channels, streams, categoriesData, logos, languagesData] = await Promise.all([
     fetchJSON(`${API}/channels.json`),
     fetchJSON(`${API}/streams.json`),
     fetchJSON(`${API}/categories.json`),
-    fetchJSON(`${API}/logos.json`)
+    fetchJSON(`${API}/logos.json`),
+    fetchJSON(`${API}/languages.json`)
   ]);
 
   const channelById = new Map(channels.map(c => [c.id, c]));
   const categoryNameById = new Map(categoriesData.map(c => [c.id, c.name]));
+  const languageNameByCode = new Map(languagesData.map(l => [l.code, l.name]));
 
   const logoByChannel = new Map();
   const logoByChannelInUse = new Map();
@@ -118,32 +116,41 @@ async function main() {
     return logoByChannelInUse.get(channelId) || logoByChannel.get(channelId) || "";
   }
 
-  const groups = new Map();
+  function getLanguage(ch) {
+    const code = ch.languages && ch.languages[0];
+    return code ? languageNameByCode.get(code) || "" : "";
+  }
+
+  // Dedupe fully by CHANNEL ONLY (not channel+feed) — one row per channel,
+  // period, matching how the site should display it. All mirror/feed
+  // variants for a channel become fallback candidates internally; only the
+  // first one that actually passes the health check gets published.
+  const groups = new Map(); // key: channel id -> array of stream entries
   for (const s of streams) {
     if (!s.channel || !s.url) continue;
     const ch = channelById.get(s.channel);
     if (!ch || ch.closed) continue;
     if (s.label === "Geo-blocked") continue;
-    const key = `${s.channel}|${s.feed || ""}`;
-    if (!groups.has(key)) groups.set(key, []);
-    groups.get(key).push(s);
+    if (!groups.has(s.channel)) groups.set(s.channel, []);
+    groups.get(s.channel).push(s);
   }
 
   const groupEntries = [...groups.entries()];
-  console.log(`Checking ${groupEntries.length} channel groups (concurrency ${CONCURRENCY})...`);
+  console.log(`Checking ${groupEntries.length} channels (concurrency ${CONCURRENCY})...`);
   let checkedCount = 0;
 
-  const resolved = await mapWithConcurrency(groupEntries, CONCURRENCY, async ([key, candidateStreams]) => {
+  const resolved = await mapWithConcurrency(groupEntries, CONCURRENCY, async ([channelId, candidateStreams]) => {
     checkedCount++;
-    if (checkedCount % 300 === 0) console.log(`  checked ${checkedCount}/${groupEntries.length} groups`);
+    if (checkedCount % 300 === 0) console.log(`  checked ${checkedCount}/${groupEntries.length} channels`);
     for (const s of candidateStreams) {
       const ok = await checkStream(s.url, s.referrer, s.user_agent);
       if (ok) {
-        const ch = channelById.get(s.channel);
+        const ch = channelById.get(channelId);
         return {
           id: ch.id,
           name: ch.name,
           country: ch.country || "",
+          language: getLanguage(ch),
           logo: getLogo(ch.id),
           group: (ch.categories && ch.categories[0] && categoryNameById.get(ch.categories[0])) || "General",
           categories: ch.categories || [],
@@ -155,13 +162,14 @@ async function main() {
   });
 
   const alive = resolved.filter(Boolean);
-  console.log(`${alive.length}/${groupEntries.length} channel groups had at least one working stream.`);
+  console.log(`${alive.length}/${groupEntries.length} channels had at least one working stream.`);
 
   for (const yt of YOUTUBE_LIVE) {
     alive.push({
       id: `yt-${yt.channelId}`,
       name: yt.name,
       country: yt.country,
+      language: "",
       logo: "",
       group: yt.category,
       categories: [],
@@ -199,11 +207,12 @@ async function main() {
     JSON.stringify(
       {
         generatedAt: new Date().toISOString(),
-        channelGroupsChecked: groupEntries.length,
+        channelsChecked: groupEntries.length,
         aliveChannels: alive.length - YOUTUBE_LIVE.length,
         youtubeChannelsAdded: YOUTUBE_LIVE.length,
         totalPublished: alive.length,
-        channelsWithLogo: alive.filter(c => c.logo).length
+        channelsWithLogo: alive.filter(c => c.logo).length,
+        channelsWithLanguage: alive.filter(c => c.language).length
       },
       null,
       2
