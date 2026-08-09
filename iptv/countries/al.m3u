@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="AlbKanaleMusicTV.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/JdKxscs.png" group-title="Music",AlbKanale Music TV
-https://albportal.net/albkanalemusic.m3u8
+https://secured.albportal.net:2083/AlbKanaleMusicTv/index.m3u8
 #EXTINF:-1 tvg-id="CNA.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://codeit.al/wp-content/uploads/2020/08/cna.png" group-title="News",CNA
 https://live1.mediadesk.al/cnatv.php
 #EXTINF:-1 tvg-id="News24.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/eG33jue.png" group-title="News",News 24
@@ -15,6 +15,8 @@ https://stream.syritv.al/live/syritv/playlist.m3u8
 https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TV7Albania.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/tL1n9mh.png" group-title="Religious",TV 7 Albania
 https://vs.sednastream.com:1936/tv7/tv7/playlist.m3u8
+#EXTINF:-1 tvg-id="TVJohaniter.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/Zo9lJgP.png" group-title="General",TV Johaniter
+https://protokolldns.xyz/johaniterweb44547dsd/index.m3u8
 #EXTINF:-1 tvg-id="VizionPlus.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Vizion_Plus.svg/960px-Vizion_Plus.svg.png" group-title="General",Vizion Plus
 https://tringliveviz.akamaized.net/delta/105/out/u/qwaszxerdfcvrtryuy.m3u8
 #EXTINF:-1 tvg-id="ZjarrTV.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/hNuWZWe.png" group-title="General",Zjarr TV
