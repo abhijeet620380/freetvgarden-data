@@ -22,11 +22,7 @@ https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalCongreso.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/erJDwtY.jpeg" group-title="Legislative",Canal Congreso
 http://138.121.15.230:9002/CANAL-CONGRESO/index.m3u8
 #EXTINF:-1 tvg-id="CanalGov.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/rHPY0Yv.png" group-title="Legislative",Canal Gov
-https://canalgov-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 tvg-id="CanalParlamento.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/BUO0wH6.png" group-title="Legislative",Canal Parlamento
-https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8
-#EXTINF:-1 tvg-id="CanalParlamentodelCongresodeJalisco.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/fLpkHfZ.png" group-title="Legislative",Canal Parlamento del Congreso de Jalisco
-https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8
+http://168.197.104.22:80/TV_BRASIL_2/index.m3u8
 #EXTINF:-1 tvg-id="CapitalCityConnectionMontgomery.us" tvg-country="US" tvg-language="English" tvg-logo="https://image.roku.com/developer_channels/prod/a2cb55884ff88035ebbbb32ef9c60a228314d0a2ac4c86722aff5ea1cb9abcd8.png" group-title="Legislative",Capital City Connection Montgomery
 https://capitalcityconnection.cablecast.tv/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-id="CFMTVChannel98.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/LGs524I.png" group-title="Legislative",CFM TV Channel 98
@@ -79,12 +75,8 @@ http://video.ct-n.com/live/web2stream/playlist.m3u8
 http://video.ct-n.com/live/ctnstream/playlist_DVR.m3u8
 #EXTINF:-1 tvg-id="CVCGovernment.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/qLJhNhq.png" group-title="Legislative",CVC Government
 https://dlttx48mxf9m3.cloudfront.net/vod_clients/bolton/live/ch3/video.m3u8
-#EXTINF:-1 tvg-id="CypressChannel36.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/vOvoHBC.png" group-title="Legislative",Cypress Channel 36
-https://livestream-us-east-edge-2.granicusops.com/live/cypressca/live-1-a/playlist.m3u8
 #EXTINF:-1 tvg-id="DCC.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/YBWbiWZ.png" group-title="Legislative",DCC
-https://video.oct.dc.gov/out/u/15_12.m3u8
-#EXTINF:-1 tvg-id="DCCouncilHearingRoom120.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/8fljC7g.png" group-title="Legislative",DC Council Hearing Room 120
-https://video.oct.dc.gov/out/u/97_12.m3u8
+https://video.oct.dc.gov/out/u/DCC.m3u8
 #EXTINF:-1 tvg-id="Denver8TV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/wMIy5jb.png" group-title="Legislative",Denver 8 TV
 https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/denver/G0080_002/playlist.m3u8
 #EXTINF:-1 tvg-id="DerryTV17.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/MRR6UL3.png" group-title="Legislative",DerryTV 17
@@ -93,8 +85,6 @@ https://livestream.telvue.com/derrynh1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/play
 https://reflect-detroit-vod.cablecast.tv/live-2/live/stream-6/live.m3u8
 #EXTINF:-1 tvg-id="DistrictofColumbiaNetwork.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/GGZ8BQ8.png" group-title="Legislative",District of Columbia Network
 https://video.oct.dc.gov/out/u/DCN.m3u8
-#EXTINF:-1 tvg-id="EscambiaCountyTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/TAvJdpo.png" group-title="Legislative",Escambia County TV
-https://cpcdn.azureedge.net/ESCAMBIACOFLLIVE1/ESCAMBIACOFLLIVE1/playlist.m3u8
 #EXTINF:-1 tvg-id="FernandinaBeachChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/9UfyekJ.png" group-title="Legislative",Fernandina Beach Channel
 https://edge-f.swagit.com/live/fernandinabeachfl/live-1-a/playlist.m3u8
 #EXTINF:-1 tvg-id="FGTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/RXFmzVY.png" group-title="Legislative",FGTV
@@ -109,14 +99,10 @@ https://edge-f.swagit.com/live/glendaleaz/live-1-a-1/playlist.m3u8
 https://livestream.telvue.com/nashuanh3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="GreensboroTV.us" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Legislative",Greensboro TV
 https://lin12.isilive.ca/live/greensboro/GTN/index.m3u8
-#EXTINF:-1 tvg-id="HCTVGovernmentChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/bVbpgiD.png" group-title="Legislative",HCTV Government Channel
-https://reflect-hudsonctv.cablecast.tv/live-26/live/stream-2/live.m3u8
 #EXTINF:-1 tvg-id="HellenicParliamentTV.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/o2cvqv3.png" group-title="Legislative",Hellenic Parliament TV
-https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8
+https://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8
 #EXTINF:-1 tvg-id="HillsboroughTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/fUne7FX.png" group-title="Legislative",Hillsborough TV
 https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/hillsboroughcounty/G2155_002/playlist.m3u8
-#EXTINF:-1 tvg-id="HluttawSD.mm" tvg-country="MM" tvg-language="Burmese" tvg-logo="https://i.imgur.com/Gffq8ks.png" group-title="Legislative",Hluttaw S & D
-https://mrtvott.com/cache/MRTV-HLUTTAW/master.m3u8
 #EXTINF:-1 tvg-id="HTV1HoustonTelevision.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/zvj1boM.jpg" group-title="Legislative",HTV 1 Houston Television
 https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/playlist.m3u8
 #EXTINF:-1 tvg-id="HTV2HoustonTelevision.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/zvj1boM.jpg" group-title="Legislative",HTV 2 Houston Television
@@ -137,8 +123,6 @@ http://stream.mcquack.net/48/index.m3u8
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="LakeFrontTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ROb1BNG.png" group-title="Legislative",LakeFront TV
 https://reflect-lakefront-leesburgflorida.cablecast.tv/live-6/live/live.m3u8
-#EXTINF:-1 tvg-id="LakeHavasuCity4.us" tvg-country="US" tvg-language="English" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lQ_vy6By43AoSdSQbFUzQePU0NWWIM-uzsAqnbbQXAql4=s512" group-title="Legislative",Lake Havasu City 4
-https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/lakehavasucity/G0643_003/playlist.m3u8
 #EXTINF:-1 tvg-id="LegislativeAssemblyofOntario.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://i.imgur.com/n24MrsX.png" group-title="Legislative",Legislative Assembly of Ontario
 https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
 #EXTINF:-1 tvg-id="LegislativeAssemblyTVNunavut.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://i.imgur.com/wY9WhYS.png" group-title="Legislative",Legislative Assembly TV Nunavut
@@ -149,8 +133,6 @@ https://livestream.telvue.com/leominster3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/p
 https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/lfucg/G0264_005/playlist.m3u8
 #EXTINF:-1 tvg-id="LGTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/d5w2pT4.png" group-title="Legislative",LGTV
 https://livestream.telvue.com/lexmedia3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/lexmedia3/stream1/playlist.m3u8
-#EXTINF:-1 tvg-id="MartinCountyTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/7VzlbLp.png" group-title="Legislative",Martin County TV
-https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/martin/G0074_002/playlist.m3u8
 #EXTINF:-1 tvg-id="MBGTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/t7GsFJN.jpeg" group-title="Legislative",MBG TV
 https://stream.convergen.co/mbg_stream/smil:mbStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MBTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/LyqFr9E.png" group-title="Legislative",MBTV
@@ -163,8 +145,6 @@ http://202.62.56.22:8080/hls/MOITV.m3u8
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/monroe/live/ch1/video.m3u8
 #EXTINF:-1 tvg-id="NatickGovernmentChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/eA2WSXa.png" group-title="Legislative",Natick Government Channel
 https://livestream.telvue.com/natickpegasus3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="NationalAssemblyTV.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/UKdB8vD.png" group-title="Legislative",National Assembly TV
-https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/kr/natv.m3u8
 #EXTINF:-1 tvg-id="NCMGovernmentPoliticsChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/3YPvfPn.png" group-title="Legislative",NCM Government & Politics Channel
 https://reflect-npa.cablecast.tv/live-8/live/live.m3u8
 #EXTINF:-1 tvg-id="NMBTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/HTNoNnh.png" group-title="Legislative",NMBTV
