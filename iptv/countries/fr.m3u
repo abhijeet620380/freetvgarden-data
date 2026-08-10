@@ -39,8 +39,6 @@ https://stream2.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8
 https://do7nccdsswstc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1aso0bc668saa/a5233c83-f772-4a81-959a-45ec7877ef61/5.m3u8
 #EXTINF:-1 tvg-id="CanalPlusCinemas.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/fvPoNEa.jpeg" group-title="Movies",Canal+ Cinemas
 http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8
-#EXTINF:-1 tvg-id="CanalPlusSport360.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Canal%2BSport_360.png" group-title="Sports",Canal+ Sport 360
-https://futbol9865.ultratv13.workers.dev/deportivo111/14.m3u8
 #EXTINF:-1 tvg-id="CannesLerinsTV.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/atlgnum.png" group-title="General",Cannes Lerins TV
 https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8
 #EXTINF:-1 tvg-id="CineNanar.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/YnUZd3W.png" group-title="Movies",Cine Nanar
@@ -49,6 +47,8 @@ https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8
 http://99.27.51.147/CineClassic/index.m3u8
 #EXTINF:-1 tvg-id="CinePlusEmotion.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/upYjPvc.jpeg" group-title="Movies",Cine+ Emotion
 http://145.239.5.177/337/index.m3u8
+#EXTINF:-1 tvg-id="CinePlusFrisson.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/MwFtbnR.jpeg" group-title="Movies",Cine+ Frisson
+http://99.27.51.147:8080/CineFrisson/index.m3u8
 #EXTINF:-1 tvg-id="CineWestern.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/tteOFkL.png" group-title="Movies",Cine Western
 https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-id="CNews.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/sSNhk2g.png" group-title="News",CNews
@@ -87,8 +87,6 @@ https://evandis.streamakaci.tv/str_evandis_evandis/str_evandis_multi/playlist.m3
 https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
 #EXTINF:-1 tvg-id="FashionTVSecrets.fr" tvg-country="FR" tvg-language="English" tvg-logo="https://i.ibb.co/fVGJyCC8/w512.png" group-title="Lifestyle",FashionTV Secrets
 https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=67c0c39764ad6f7dab07aa0b&AV_APPNAME=[ADS.APP_NAME]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_CCPA=[ADS.US_PRIVACY]&AV_CLIENT_SECTION=ftv_secrets&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_CAT=IAB7&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_EPISODE=&AV_CONTENT_GENRE=fashion+and+lifestyle&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_KEYWORDS=&AV_CONTENT_LANGUAGE=en&AV_CONTENT_LENGTH=&AV_CONTENT_NETWORK=&AV_CONTENT_PROVIDER=FTV&AV_CONTENT_RATING=R&AV_CONTENT_SEASON=&AV_CONTENT_SERIES=&AV_CONTENT_TITLE=&AV_CONTENT_URL=&AV_DNT=[ADS.DNT]&AV_GDPR=[ADS.GDPR]&AV_HEIGHT=[ADS.H]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_OSVERS=[ADS.DEVICE_OSV]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_VAUTH=[ADS.VAUTH]&AV_WIDTH=[ADS.W]&Content_Id=[ADS.ADS_CONTENTID]&ads.vidaa_ads_param=1191723366&cb=[CACHEBUSTER]&content_channel_name=ftv+-fashiontv+Secrets&content_livestream=1
-#EXTINF:-1 tvg-id="FootPlus.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/qsLLyn4.png" group-title="Sports",Foot+
-http://145.239.5.177/556a/index.m3u8
 #EXTINF:-1 tvg-id="France3.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/France_3_Rh%C3%B4ne-Alpes_-_Logo_2018.svg" group-title="General",France 3
 http://89.187.185.76:8080/France3/index.m3u8
 #EXTINF:-1 tvg-id="France5.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/960px-France_5_2018.svg.png" group-title="General",France 5
@@ -103,22 +101,20 @@ https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovela
 https://event.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
 #EXTINF:-1 tvg-id="Gong.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/lA9UFMG.png" group-title="Animation",Gong
 https://amg01596-gongnetworks-gong-ono-vh5f2.amagi.tv/1080p-vtt/index.m3u8
-#EXTINF:-1 tvg-id="Gulli.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/kqYssbW.png" group-title="Kids",Gulli
-http://99.27.51.147:8080/Gulli/index.m3u8
 #EXTINF:-1 tvg-id="HANDICAPTV.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/vXbAeD0.png" group-title="Lifestyle",HANDICAP TV
 https://srv.webtvmanager.fr:3697/stream/play.m3u8
 #EXTINF:-1 tvg-id="IntoCrime.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/43at4M2.png" group-title="Documentary",Into Crime
 https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="KozoomTV.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/M1Ee79b.png" group-title="Sports",Kozoom TV
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fdd6f243-f971-4a1a-9510-97ac01d6b37f/manifest.m3u8
-#EXTINF:-1 tvg-id="KTO.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/EY6TsdV.png" group-title="Religious",KTO
-http://145.239.5.177/354/index.m3u8
 #EXTINF:-1 tvg-id="LCI.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/DED8EXs.png" group-title="News",LCI
 http://151.80.18.177:86/LCI_HD/index.m3u8
 #EXTINF:-1 tvg-id="LeFigaroTVIledeFrance.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/a8RuRUQ.png" group-title="General",Le Figaro TV Ile-de-France
 https://static.lefigaro.fr/secom/tnt.m3u8
 #EXTINF:-1 tvg-id="LittoralFMTV.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/DCZKAQ1.png" group-title="Music",Littoral FM TV
 https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="M6.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/1280px-Logo_M6_%282020%2C_fond_clair%29.svg.png" group-title="Entertainment",M6
+http://99.27.51.147:8080/M6/index.m3u8
 #EXTINF:-1 tvg-id="M6Music.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/M6_Music_%282012%29.png" group-title="Music",M6 Music
 http://145.239.5.177/320/index.m3u8
 #EXTINF:-1 tvg-id="MCMTop.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/EVtWQLd.png" group-title="Music",MCM Top
@@ -129,6 +125,8 @@ http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
 https://live-3.otcnet.ru/Mezzo/index.m3u8
 #EXTINF:-1 tvg-id="MezzoLive.fr" tvg-country="FR" tvg-language="English" tvg-logo="https://i.imgur.com/H9ytKPN.png" group-title="Music",Mezzo Live
 http://45.84.187.172:3001/udp/239.10.10.76:5000
+#EXTINF:-1 tvg-id="MonteCarloDigitalTelevision.fr" tvg-country="FR" tvg-language="English" tvg-logo="https://i.imgur.com/99h8F1y.jpeg" group-title="Lifestyle",Monte Carlo Digital Television
+https://fl718492-exthls-p1.flovp.com/fl718492/live/live.m3u8
 #EXTINF:-1 tvg-id="MTV.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" group-title="Entertainment",MTV
 http://99.27.51.147:8080/MTV/index.m3u8
 #EXTINF:-1 tvg-id="NickelodeonJunior.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nickelodeon_Junior.png/960px-Nickelodeon_Junior.png" group-title="Kids",Nickelodeon Junior
@@ -175,8 +173,6 @@ http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/1038/index.m3u8
 http://145.239.5.177/333/index.m3u8
 #EXTINF:-1 tvg-id="RMCStory.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/Logo_RMC_Story_2025.png/960px-Logo_RMC_Story_2025.png" group-title="General",RMC Story
 https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fqkqiax1078up/RMC_Story_FR.m3u8
-#EXTINF:-1 tvg-id="SciFi.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/SciFi_2026.svg" group-title="Entertainment",SciFi
-http://41.205.93.154/SYFY/index.m3u8
 #EXTINF:-1 tvg-id="ScreamIN.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/tGmKbil.png" group-title="Movies",ScreamIN
 https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8
 #EXTINF:-1 tvg-id="SerieClub.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/V8wRRg5.png" group-title="General",Serie Club

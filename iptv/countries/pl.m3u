@@ -27,14 +27,10 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883095
 #EXTINF:-1 tvg-id="CartoonClassics.pl" tvg-country="PL" tvg-language="English" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/3227c06e-333b-4b1b-b657-3e3ab99ebd06-width200-quality90.jpeg" group-title="Animation",Cartoon Classics
 http://5.188.159.128:8070/Cartoon_Network/index.m3u8
-#EXTINF:-1 tvg-id="DrGMedicalExaminer.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="" group-title="General",Dr G Medical Examiner
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883008
 #EXTINF:-1 tvg-id="Euronews.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/bc84c3b7-6008-4ee3-8f6a-e4bb4365f082-width200-quality90.jpeg" group-title="News",Euronews
 https://cdn-euronews.akamaized.net/live/eds/euronews-pl/26382/index.m3u8
 #EXTINF:-1 tvg-id="EWTNPoland.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/VtKYELf.png" group-title="Religious",EWTN Poland
 https://cdn3.wowza.com/1/ZHdrMWt1NjlDSzFu/bzdDVG10/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-id="FILMBOXPlusAction.pl" tvg-country="PL" tvg-language="English" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Baction.png" group-title="Movies",FILMBOX+ Action
-https://polska.hach.workers.dev/14864.m3u8
 #EXTINF:-1 tvg-id="FILMBOXPlusComedy.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bcomedy.png" group-title="Movies",FILMBOX+ Comedy
 http://88.212.15.19/live/test_filmbox_family_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-id="FILMBOXPlusEmotion.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bemotion.png" group-title="Movies",FILMBOX+ Emotion
@@ -65,6 +61,10 @@ http://193.24.244.60:1001/udp/239.254.5.227:6060
 https://jmp2.uk/plu-62790dc1c733e8000733ba4d.m3u8
 #EXTINF:-1 tvg-id="PolsatSport1.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Polsat_Sport_1_2024.svg/500px-Polsat_Sport_1_2024.svg.png" group-title="General",Polsat Sport 1
 https://7nyaler.streamhostingcdn.top/stream/61/index.m3u8
+#EXTINF:-1 tvg-id="PolsatSportPremium1.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/hy1SKE0.png" group-title="Sports",Polsat Sport Premium 1
+http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7304/index.m3u8
+#EXTINF:-1 tvg-id="PolsatSportPremium2.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/myyWeXY.png" group-title="Sports",Polsat Sport Premium 2
+http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7305/index.m3u8
 #EXTINF:-1 tvg-id="Puls2.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/EOnzPiZ.png" group-title="General",Puls 2
 http://193.24.244.60:1001/udp/239.254.4.122:6060
 #EXTINF:-1 tvg-id="RACERInternational.pl" tvg-country="PL" tvg-language="English" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dd4e5871-4347-49e3-9ea1-a8770ea9c518/RACER_Intl_logo_1500x1000.png" group-title="Sports",RACER International
@@ -77,6 +77,8 @@ https://stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8
 https://fast-rakuten.okast.tv/fa2e8c4385712f9a9076eaf728c751de/channels/1a6ecfaa-40c6-41b8-8634-595c424f856e/21f67fd1-4d21-43ba-8ad8-3afac9982c25/master.m3u8
 #EXTINF:-1 tvg-id="RemontyTV.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://remontytv.pl/wp-content/uploads/2026/01/Remonty_TV_logo-color1.png" group-title="Entertainment",Remonty TV
 https://prx-y5cf8.4vod.tv/playout/repl-abr67/index.m3u8
+#EXTINF:-1 tvg-id="Royalworld.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/39438460-99ba-412e-ac19-9342249384af-width200-quality90.jpeg" group-title="General",Royalworld
+https://ac76260b1102416c93f3d20958bfeb4b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_Royalworld/playlist.m3u8
 #EXTINF:-1 tvg-id="SferaTV.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/aK7xfKi.png" group-title="General",Sfera TV
 https://stream.sferatv.pl/sferatvlive/live.m3u8
 #EXTINF:-1 tvg-id="TelewizjaBiznesowa.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/XC7i7ZL.png" group-title="Business",Telewizja Biznesowa
@@ -99,10 +101,6 @@ https://jmp2.uk/plu-6888ee858f4a4aa11feb9430.m3u8
 https://top-movies-rakuten-tv-pl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6059/master.m3u8
 #EXTINF:-1 tvg-id="TVASTA.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/5g7lq9N.png" group-title="General",TV ASTA
 https://5cce8c6f0e84c.streamlock.net/LiveCast/smil:PlayStream9.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVKStella.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://www.tvkstella.pl/img/poster.png" group-title="General",TVK Stella
-https://stream.tvkstella.pl/stella/stella.m3u8
-#EXTINF:-1 tvg-id="TVKujawy.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/dGP7cIW.png" group-title="General",TV Kujawy
-http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
 #EXTINF:-1 tvg-id="TVP1.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/ewpSjBs.png" group-title="General",TVP1
 https://raw.githubusercontent.com/travino/tvpi/main/streams/tvp1.m3u
 #EXTINF:-1 tvg-id="TVP2.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/XxCc32B.png" group-title="General",TVP2

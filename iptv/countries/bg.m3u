@@ -27,7 +27,7 @@ http://213.91.179.28:8000/play/a04k
 http://213.91.179.28:8000/play/a05i
 #EXTINF:-1 tvg-id="BulgariaOnAir.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/mvShl7F.png" group-title="News",Bulgaria On Air
 http://213.91.179.28:8000/play/a05x
-#EXTINF:-1 tvg-id="cinebox.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/Ff8iaVP.png" group-title="Movies",cine.box
+#EXTINF:-1 tvg-id="cinebox.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="" group-title="Movies",cine.box
 http://212.70.131.37:8000/play/a08b
 #EXTINF:-1 tvg-id="CineStar1Bulgaria.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/t9vVTLH.png" group-title="Movies",CineStar 1 Bulgaria
 http://213.91.179.28:8000/play/a05h
@@ -37,7 +37,7 @@ https://tv.city.bg/play/tshls/citytv/index.m3u8
 https://cdn2.invivo.bg/Codefashion_5500/index.m3u8
 #EXTINF:-1 tvg-id="CodeHealthTV.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/NXBMzGV.png" group-title="Lifestyle",Code Health TV
 https://cdn2.invivo.bg/codehealth_test/index.m3u8
-#EXTINF:-1 tvg-id="Diema.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/BkaZBaG.png" group-title="Movies",Diema
+#EXTINF:-1 tvg-id="Diema.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="" group-title="Movies",Diema
 http://213.91.179.28:8000/play/a045
 #EXTINF:-1 tvg-id="DiemaFamily.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/SgNVY4d.png" group-title="Family",Diema Family
 http://213.91.179.28:8000/play/a047
@@ -45,13 +45,13 @@ http://213.91.179.28:8000/play/a047
 http://213.91.179.28:8000/play/a059
 #EXTINF:-1 tvg-id="DSTV.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/YMgzzkf.png" group-title="Music",DSTV
 http://46.249.95.140:8081/hls/data.m3u8
-#EXTINF:-1 tvg-id="EKids.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/dux7sjZ.png" group-title="Kids",EKids
+#EXTINF:-1 tvg-id="EKids.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="" group-title="Kids",EKids
 http://78.108.244.134:8899/ekids
 #EXTINF:-1 tvg-id="EuronewsBulgaria.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/RrQVoOg.png" group-title="News",Euronews Bulgaria
 http://213.91.179.28:8000/play/a05e
 #EXTINF:-1 tvg-id="H2.bg" tvg-country="BG" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" group-title="Documentary",H2
 http://213.91.179.28:8000/play/a03r
-#EXTINF:-1 tvg-id="History.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/6UWM2ER.png" group-title="Documentary",History
+#EXTINF:-1 tvg-id="History.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="" group-title="Documentary",History
 http://213.91.179.28:8000/play/a0c1
 #EXTINF:-1 tvg-id="HitMixMusic.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/Gbaxq6P.png" group-title="Music",Hit Mix Music
 http://213.91.179.28:8000/play/a0cl
@@ -87,7 +87,7 @@ http://213.91.179.28:8000/play/a03l
 http://213.91.179.28:8000/play/a063
 #EXTINF:-1 tvg-id="PlovdivOrthodoxTV.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="" group-title="Religious",Plovdiv Orthodox TV
 http://78.130.149.196:1935/live/pptv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="RING.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/1SeAhD0.png" group-title="Kids",RING
+#EXTINF:-1 tvg-id="RING.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="" group-title="Kids",RING
 http://213.91.179.28:8000/play/a06e
 #EXTINF:-1 tvg-id="RMTV.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://rmtv.bg/img/logo.png" group-title="General",RMTV
 https://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8
@@ -111,11 +111,11 @@ https://streamer103.neterra.tv/travel/live.m3u8
 https://shift03.isp.bg/RodinaTV/index.m3u8
 #EXTINF:-1 tvg-id="TVSpravedlivaBulgariya.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://tvsb.bg/theme/images/logo.png" group-title="General",TV Spravedliva Bulgariya
 https://tv.tvsb.bg/112.m3u8
-#EXTINF:-1 tvg-id="ViasatExplore.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/R270aef.png" group-title="Documentary",Viasat Explore
+#EXTINF:-1 tvg-id="ViasatExplore.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Viasat_Explore_2026.svg" group-title="Documentary",Viasat Explore
 https://shift03.isp.bg/ViasatExplorer_HD/index.m3u8
-#EXTINF:-1 tvg-id="ViasatHistory.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/AnYgIvZ.png" group-title="Documentary",Viasat History
+#EXTINF:-1 tvg-id="ViasatHistory.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Viasat_History_2026.svg" group-title="Documentary",Viasat History
 https://shift03.isp.bg/ViasatHistory_HD/index.m3u8
-#EXTINF:-1 tvg-id="ViasatNature.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/mhyK4v1.png" group-title="Documentary",Viasat Nature
+#EXTINF:-1 tvg-id="ViasatNature.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Cropped-viasat-nature.png" group-title="Documentary",Viasat Nature
 https://shift03.isp.bg/ViasatNature_HD/index.m3u8
 #EXTINF:-1 tvg-id="VivacomArena.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/M7QKnH3.png" group-title="General",Vivacom Arena
 http://213.91.179.28:8000/play/a053

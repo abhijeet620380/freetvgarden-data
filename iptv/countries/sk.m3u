@@ -8,9 +8,7 @@ http://88.212.15.19/live/test_arenasport/playlist.m3u8
 #EXTINF:-1 tvg-id="ArenaSport2.sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/Yq3Jf19.png" group-title="Sports",Arena Sport 2
 http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8
 #EXTINF:-1 tvg-id="ducktv.sk" tvg-country="SK" tvg-language="English" tvg-logo="https://i.imgur.com/gRFQ35W.png" group-title="Kids",ducktv
-https://dash3.antik.sk/live/duck_tv/index.m3u8
-#EXTINF:-1 tvg-id="ducktvPLUS.sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/RFhxfOx.png" group-title="Kids",ducktv PLUS
-https://dash3.antik.sk/live/test_duck_plus/playlist.m3u8
+https://d6lk10bkdgfae.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="HAHATV.sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Comedy",HAHA TV
 https://dash3.antik.sk/live/test_haha_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Jednotka.sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/aqVki9i.png" group-title="General",Jednotka
@@ -43,12 +41,10 @@ http://109.74.145.11:1935/tv8/ngrp:tv8.stream_all/playlist.m3u8
 https://dash4.antik.sk/live/test_tv9/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCentral.sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/LqGT8o9.png" group-title="General",TV Central
 https://arenasportslovakia.ddns.net/hls/cetv2.m3u8
-#EXTINF:-1 tvg-id="TVDK.sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/qTOnPXe.png" group-title="General",TV DK
-https://5ca49f2417d90.streamlock.net/live/dolnykubin1/playlist.m3u8
 #EXTINF:-1 tvg-id="TVLiptov.sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/CkvB3af.png" group-title="General",TV Liptov
 http://95.105.255.137:1935/tvturiec/tvliptov.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVLocAll.sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/xN1CJol.png" group-title="General",TV LocAll
-http://tv.geniusnet.sk:8081/localltv/pl.m3u8
+https://dash3.antik.sk/live/test_locall/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMistral.sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/IOJ6rcb.jpeg" group-title="General",TV Mistral
 https://dash3.antik.sk/live/test_mistral_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="TVNitricka.sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/iwWyG1A.png" group-title="General",TV Nitricka
