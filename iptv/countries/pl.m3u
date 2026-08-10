@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="AmericanCrimeChannel.pl" tvg-country="PL" tvg-language="English" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5d4ac35c-dd3f-4f56-a272-41ebfe3477a9/american_crime_channel_dark_logo_-_Kam_JeyRDXV2.png" group-title="Entertainment",American Crime Channel
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883104
+#EXTINF:-1 tvg-id="AXNPoland.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/i5wOhkf.png" group-title="Movies",AXN Poland
+http://193.24.244.60:1001/udp/239.254.5.5:6060
+#EXTINF:-1 tvg-id="AXNSpin.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/LGEbwnT.png" group-title="Series",AXN Spin
+http://193.24.244.60:1001/udp/239.254.5.6:6060
 #EXTINF:-1 tvg-id="BelsatTV.pl" tvg-country="PL" tvg-language="Belarusian" tvg-logo="https://i.imgur.com/qJyjSR6.png" group-title="General",Belsat TV
 https://iptv.prosto.tv/ch171/index.m3u8
 #EXTINF:-1 tvg-id="BialogardzkaTelewizjaKablowa.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://btk.bsmbialogard.pl/sites/default/files/inline-images/logo%20header2%282%29.png" group-title="Entertainment",Bialogardzka Telewizja Kablowa
@@ -17,6 +21,8 @@ https://emisja.btb.j00r.us/iptv/session/1/hls.m3u8
 https://emisja2.btb.j00r.us/iptv/session/4/hls.m3u8
 #EXTINF:-1 tvg-id="BTBMusic.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://btb.j00r.us/images/logo_BTBMusic.webp" group-title="Music",BTB Music
 https://panel.btb.j00r.us/memfs/ebaffae6-0086-49d7-843d-57f2c561de86.m3u8
+#EXTINF:-1 tvg-id="BuzzfeedUnsolved.pl" tvg-country="PL" tvg-language="English" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/e16cfcc7-2040-4bd5-8339-16d499f8799e-width200-quality90.png" group-title="General",Buzzfeed Unsolved
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883099
 #EXTINF:-1 tvg-id="CarCityAdventures.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/bd356b80-79d9-46ff-9674-e69aaf10022f-width200-quality90.jpeg" group-title="General",Car City Adventures
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883095
 #EXTINF:-1 tvg-id="CartoonClassics.pl" tvg-country="PL" tvg-language="English" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/3227c06e-333b-4b1b-b657-3e3ab99ebd06-width200-quality90.jpeg" group-title="Animation",Cartoon Classics
@@ -27,6 +33,8 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://cdn-euronews.akamaized.net/live/eds/euronews-pl/26382/index.m3u8
 #EXTINF:-1 tvg-id="EWTNPoland.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/VtKYELf.png" group-title="Religious",EWTN Poland
 https://cdn3.wowza.com/1/ZHdrMWt1NjlDSzFu/bzdDVG10/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="FILMBOXPlusAction.pl" tvg-country="PL" tvg-language="English" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Baction.png" group-title="Movies",FILMBOX+ Action
+https://polska.hach.workers.dev/14864.m3u8
 #EXTINF:-1 tvg-id="FILMBOXPlusComedy.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bcomedy.png" group-title="Movies",FILMBOX+ Comedy
 http://88.212.15.19/live/test_filmbox_family_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-id="FILMBOXPlusEmotion.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bemotion.png" group-title="Movies",FILMBOX+ Emotion
@@ -45,14 +53,20 @@ http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6108/index.m3u8
 https://b6c7c7d1020a4588982ca7c2625f85d1.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_GrjngoWesterny/playlist.m3u8
 #EXTINF:-1 tvg-id="HardKnocksFightingChampionship.pl" tvg-country="PL" tvg-language="English" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/13b0a6c7-4307-4c8d-9fc4-df2a4f8e8b38-hard-knocks-fighting-1602077398-width200-quality90.jpeg" group-title="General",Hard Knocks Fighting Championship
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883037
+#EXTINF:-1 tvg-id="Moconomy.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/9da0ec4d-85ea-45f4-b3f9-ae917d1714f9-width200-quality90.jpeg" group-title="General",Moconomy
+https://3ee905090d464be5a51478fd9c642e93.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_Moconomy/playlist.m3u8
+#EXTINF:-1 tvg-id="MusicBoxPolska.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Music_Box_UA_%282018%29.svg/960px-Music_Box_UA_%282018%29.svg.png" group-title="Music",Music Box Polska
+http://193.24.244.60:1001/udp/239.254.4.237:6060
 #EXTINF:-1 tvg-id="NewTV.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/fH8rKs3.png" group-title="General",NewTV
 https://1409502578.rsc.cdn77.org/live/stream-1/chunklist.m3u8
+#EXTINF:-1 tvg-id="Nicktoons.pl" tvg-country="PL" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Nicktoons_Logo_2023.svg" group-title="Kids",Nicktoons
+http://193.24.244.60:1001/udp/239.254.5.227:6060
 #EXTINF:-1 tvg-id="PixelTV.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.ibb.co/S4jM2WXk/pixeltv.png" group-title="Animation",Pixel TV
 https://jmp2.uk/plu-62790dc1c733e8000733ba4d.m3u8
-#EXTINF:-1 tvg-id="PolsatSportPremium1.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/hy1SKE0.png" group-title="Sports",Polsat Sport Premium 1
-http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7304/index.m3u8
-#EXTINF:-1 tvg-id="PolsatSportPremium2.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/myyWeXY.png" group-title="Sports",Polsat Sport Premium 2
-http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7305/index.m3u8
+#EXTINF:-1 tvg-id="PolsatSport1.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Polsat_Sport_1_2024.svg/500px-Polsat_Sport_1_2024.svg.png" group-title="General",Polsat Sport 1
+https://7nyaler.streamhostingcdn.top/stream/61/index.m3u8
+#EXTINF:-1 tvg-id="Puls2.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/EOnzPiZ.png" group-title="General",Puls 2
+http://193.24.244.60:1001/udp/239.254.4.122:6060
 #EXTINF:-1 tvg-id="RACERInternational.pl" tvg-country="PL" tvg-language="English" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dd4e5871-4347-49e3-9ea1-a8770ea9c518/RACER_Intl_logo_1500x1000.png" group-title="Sports",RACER International
 https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioRAM.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.ibb.co/LXbchP5q/logo-1.png" group-title="Music",Radio RAM
@@ -101,6 +115,8 @@ https://lowa8026-cmyk.github.io/tvpvod/399699.m3u8
 http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7282/index.m3u8
 #EXTINF:-1 tvg-id="TVPSport.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/JUZDOCO.png" group-title="Sports",TVP Sport
 http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/7280/index.m3u8
+#EXTINF:-1 tvg-id="TVPuls.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/gXA7pai.png" group-title="General",TV Puls
+http://193.24.244.60:1001/udp/239.254.4.121:6060
 #EXTINF:-1 tvg-id="TVPWorld.pl" tvg-country="PL" tvg-language="English" tvg-logo="https://i.imgur.com/lB4MgRI.png" group-title="News",TVP World
 https://lowa8026-cmyk.github.io/tvpvod/399731.m3u8
 #EXTINF:-1 tvg-id="TVRegionalnaLubin.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/2WVNt3f.png" group-title="General",TV Regionalna Lubin
