@@ -17,8 +17,6 @@ http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="Kids",Disney Channel
 http://88.212.15.19/live/test_disney/playlist.m3u8
-#EXTINF:-1 tvg-id="ElektrikaTV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/OLd5od5.png" group-title="General",Elektrika TV
-https://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="FilmPlus.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/OBYuY3S.png" group-title="Movies",Film+
 http://88.212.15.19/live/test_film_plus_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="GolfChannel.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/golfchannel.png" group-title="Sports",Golf Channel
@@ -101,5 +99,7 @@ http://88.212.15.29/live/test_viasat_explore_atk_tv/playlist.m3u8
 http://88.212.15.29/live/test_viasat_history_atk_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ViasatNature.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/ousRqqD.png" group-title="Documentary",Viasat Nature
 http://88.212.15.29/live/test_viasat_nature_atk_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="VychodoceskaTV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/4Wwptd3.png" group-title="General",Vychodoceska TV
+https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
 #EXTINF:-1 tvg-id="YachtingTV.cz" tvg-country="CZ" tvg-language="English" tvg-logo="https://i.imgur.com/YxO60B1.png" group-title="Lifestyle",Yachting TV
 https://streams2.sofast.tv/vglive-sk-461164/index.m3u8

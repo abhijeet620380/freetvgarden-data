@@ -59,8 +59,6 @@ http://213.91.179.28:8000/play/a0cl
 http://213.91.179.28:8000/play/a0cf
 #EXTINF:-1 tvg-id="KinoNova.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/hMqEY0J.png" group-title="Movies",Kino Nova
 http://213.91.179.28:8000/play/a041
-#EXTINF:-1 tvg-id="LightChannel.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/S3Fbf8T.png" group-title="Religious",Light Channel
-https://streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8
 #EXTINF:-1 tvg-id="MagicTV.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/n7bcrrp.png" group-title="Music",Magic TV
 https://bss1.neterra.tv/magictv/magictv.m3u8
 #EXTINF:-1 tvg-id="MaxSport1.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/0ohnpql.png" group-title="Sports",Max Sport 1
@@ -81,9 +79,9 @@ http://213.91.179.28:8000/play/a0cu
 http://213.91.179.28:8000/play/a056
 #EXTINF:-1 tvg-id="Nostalgia.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/JU1dFfK.png" group-title="Classic",Nostalgia
 http://213.91.179.28:8000/play/a03q
-#EXTINF:-1 tvg-id="Nova.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/WCsPSLX.png" group-title="General",Nova
+#EXTINF:-1 tvg-id="Nova.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Nova_logo_re.svg" group-title="General",Nova
 http://213.91.179.28:8000/play/a03l
-#EXTINF:-1 tvg-id="NovaNews.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/s6IryS3.png" group-title="News",Nova News
+#EXTINF:-1 tvg-id="NovaNews.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Novanews_re.svg" group-title="News",Nova News
 http://213.91.179.28:8000/play/a063
 #EXTINF:-1 tvg-id="RING.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="" group-title="Kids",RING
 http://213.91.179.28:8000/play/a06e
@@ -109,5 +107,11 @@ https://streamer103.neterra.tv/travel/live.m3u8
 https://shift03.isp.bg/RodinaTV/index.m3u8
 #EXTINF:-1 tvg-id="TVSpravedlivaBulgariya.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://tvsb.bg/theme/images/logo.png" group-title="General",TV Spravedliva Bulgariya
 https://tv.tvsb.bg/112.m3u8
+#EXTINF:-1 tvg-id="ViasatExplore.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Viasat_Explore_2026.svg" group-title="Documentary",Viasat Explore
+https://shift03.isp.bg/ViasatExplorer_HD/index.m3u8
+#EXTINF:-1 tvg-id="ViasatHistory.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Viasat_History_2026.svg" group-title="Documentary",Viasat History
+https://shift03.isp.bg/ViasatHistory_HD/index.m3u8
+#EXTINF:-1 tvg-id="ViasatNature.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Cropped-viasat-nature.png" group-title="Documentary",Viasat Nature
+https://shift03.isp.bg/ViasatNature_HD/index.m3u8
 #EXTINF:-1 tvg-id="VivacomArena.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/M7QKnH3.png" group-title="General",Vivacom Arena
 http://213.91.179.28:8000/play/a053
