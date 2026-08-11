@@ -49,6 +49,8 @@ https://live.tvimpact.ro:8088/hevc/index.m3u8
 https://online.tvimpact.live/hls/dancetv.m3u8
 #EXTINF:-1 tvg-id="ImpactTVManele.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/G5mNdpE.png" group-title="Music",Impact TV Manele
 https://online.tvimpact.live/hls/impact_tv.m3u8
+#EXTINF:-1 tvg-id="InformatiaTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/P1ZbVRg.png" group-title="News",Informatia TV
+https://informatia.streamnet.ro/mobile_tv/informatiatv.m3u8
 #EXTINF:-1 tvg-id="JOBTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/UzcZNe3.png" group-title="Business",JOB TV
 https://jobtvserver.eu/hls/stream.m3u8
 #EXTINF:-1 tvg-id="KanalD2.ro" tvg-country="RO" tvg-language="Romany" tvg-logo="https://i.imgur.com/0SMSIm9.png" group-title="General",Kanal D2
@@ -59,6 +61,8 @@ https://stream1.kanald.ro/iphone/knd-live.m3u8
 https://1a-1791.com/live/qt9k24wa/live-hls/41w5-c26y/chunklist_i1_DVR.m3u8
 #EXTINF:-1 tvg-id="KissTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/NKfVymH.png" group-title="Music",Kiss TV
 https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
+#EXTINF:-1 tvg-id="LightChannel.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/S3Fbf8T.png" group-title="General",Light Channel
+http://streamer1.streamhost.org:1935/salive/GMIlcbgM/playlist.m3u8
 #EXTINF:-1 tvg-id="MagicTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/9izrr4d.png" group-title="Music",Magic TV
 https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
 #EXTINF:-1 tvg-id="MetropolaTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/Gzq05v8.png" group-title="General",Metropola TV
@@ -69,6 +73,8 @@ https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
 https://vidl.misatv.ro:5050/MSTV/romanian_720p_baseline/playlist.m3u8
 #EXTINF:-1 tvg-id="MuscelTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.ibb.co/Bq9CHyn/Musceltv1.png" group-title="General",Muscel TV
 https://cdn.streamnet.pro/musceltv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="NasulTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/MoguWme.png" group-title="General",Nasul TV
+https://live.nasul.tv/live/stream.m3u8
 #EXTINF:-1 tvg-id="NovaTVBrasov.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/33Vn0Ij.png" group-title="General",Nova TV Brasov
 http://novapress.ro:2022/live/nova/playlist.m3u8
 #EXTINF:-1 tvg-id="ObservatorNews.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/f6xEIAr.png" group-title="News",Observator News
@@ -77,8 +83,6 @@ https://live77cdn2.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
 https://live.ro24tv.ro/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PROTVNews.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="" group-title="News",PROTV News
 https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0
-#EXTINF:-1 tvg-id="QubTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/GvyF2Wh.png" group-title="General",Qub TV
-https://live.djemba.ro/memfs/474f9942-f72b-4130-817a-435cd54b2c36.m3u8
 #EXTINF:-1 tvg-id="RadioFxNet.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://radiofxnet.ro/wp-content/uploads/2021/03/cropped-cropped-cropped-cropped-Radio_FX_Net_logo-1-1.png" group-title="Music",Radio Fx Net
 https://streamlov.alsolnet.com/radiofxnet/live/playlist.m3u8
 #EXTINF:-1 tvg-id="RapsodiaTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/mwMG7BB.png" group-title="General",Rapsodia TV
@@ -103,8 +107,6 @@ http://83.103.149.75:8085/udp/239.30.0.9:4000
 https://live.djemba.ro/memfs/1b01c281-126d-4787-9d51-9e06c96bb9f9.m3u8
 #EXTINF:-1 tvg-id="TVBuzau.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/GhFmUVO.png" group-title="General",TV Buzau
 http://78.96.33.89:8080
-#EXTINF:-1 tvg-id="TVPlusSuceava.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/f4fzoLe.png" group-title="General",TVPlus Suceava
-http://85.186.22.140/testing/pl5/playlist/ram/playlist.m3u8
 #EXTINF:-1 tvg-id="TVR1.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/CcUX1gB.png" group-title="General",TVR 1
 https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVR2.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/mKouHIZ.png" group-title="General",TVR 2
