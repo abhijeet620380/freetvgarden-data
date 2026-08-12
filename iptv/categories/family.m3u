@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1KZNTV.za" tvg-country="ZA" tvg-language="English" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bebaae.jpg" group-title="Entertainment",1KZN TV
 https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="6WiseTv.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://jrlist70.pages.dev/list/wise.png" group-title="Family",6 Wise Tv
+https://live.enhdtv.com:8081/8150/index.m3u8
 #EXTINF:-1 tvg-id="alphaCinema.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/146OgfU.png" group-title="Comedy",alpha Cinema
 https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 #EXTINF:-1 tvg-id="AlSouriyaTV.sy" tvg-country="SY" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Al-Souriya_TV_logo.svg" group-title="Family",Al-Souriya TV
@@ -22,7 +24,7 @@ https://estrella-games-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FETV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Z9xclnE.png" group-title="Family",FETV
 http://40.160.24.56/FETV_SD/index.m3u8
 #EXTINF:-1 tvg-id="Freeform.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Freeform_2022_pink.svg/1920px-Freeform_2022_pink.svg.png" group-title="Family",Freeform
-http://40.160.24.56/FREEFORM_SD/index.m3u8
+http://190.11.225.124:5000/live/freeform_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="GreatAmericanFamily.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Great_American_Family_logo.svg/1920px-Great_American_Family_logo.svg.png" group-title="Movies",Great American Family
 http://40.160.24.58/GAC_FAMILY/index.m3u8
 #EXTINF:-1 tvg-id="GreenTV.bd" tvg-country="BD" tvg-language="Bengali" tvg-logo="https://www.jagobd.com/wp-content/uploads/2022/12/green-tv.jpg" group-title="Family",Green TV
@@ -59,8 +61,6 @@ https://fox.hostlagarto.com:8081/telenonisa43/tracks-v1a1/mono.m3u8
 https://the-pet-collective-international-au.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TshwaneTV.za" tvg-country="ZA" tvg-language="English" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/654a3ec660.png" group-title="Entertainment",Tshwane TV
 https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVFamilia.ve" tvg-country="VE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/A3bU5e7.png" group-title="Family",TV Familia
-https://59d39900ebfb8.streamlock.net/tvfamilia_270p/tvfamilia_270p/playlist.m3u8
 #EXTINF:-1 tvg-id="TVFamille.mq" tvg-country="MQ" tvg-language="French" tvg-logo="https://i.imgur.com/Kbfihk5.png" group-title="Family",TV Famille
 https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8
 #EXTINF:-1 tvg-id="TVParaense.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://duckduckgo.com/i/e408ea02.png" group-title="General",TV Paraense
