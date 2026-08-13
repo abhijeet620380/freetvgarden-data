@@ -27,6 +27,10 @@ https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
 https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="GSTV.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/ECnVG5I.png" group-title="Shop",GSTV
 https://japaneast.av.mk.io/mediakindcdn-mediakind/ca01a143-f823-4432-b670-c22ff9643ce4/index.qfm/manifest(format=m3u8-cmaf)
+#EXTINF:-1 tvg-id="Handystar.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/oMIygVf.png" group-title="Shop",Handystar
+https://sparhandytv.cdn.ses-ps.com/live/channel01/hls/index.m3u8
+#EXTINF:-1 tvg-id="HighTV.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/8gHuwt7.png" group-title="Shop",High TV
+http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
 #EXTINF:-1 tvg-id="HomeShopping.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/IcexRXG.png" group-title="Shop",Home & Shopping
 https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8
 #EXTINF:-1 tvg-id="HSE.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/IecRNCk.png" group-title="Shop",HSE
@@ -53,10 +57,6 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/7841/7841_264_live.m3u8
 #EXTINF:-1 tvg-id="KaufBeiTV.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/CVJWiM0.png" group-title="Shop",KaufBei TV
 https://api.alpaca.t62a.com/hls/9103/index.m3u8
-#EXTINF:-1 tvg-id="LaoSVTV.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/ZIXtazI.png" group-title="Shop",Lao SV TV
-https://livefta.malimarcdn.com/ftaedge00/laosvtv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="LaoThaiTV.us" tvg-country="US" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/q6cQzbv.png" group-title="Shop",Lao-Thai TV
-https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="LotteHomeShopping.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",Lotte Home Shopping
 https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8
 #EXTINF:-1 tvg-id="LotteOneTV.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/bXe7tYE.png" group-title="Shop",Lotte OneTV
@@ -69,10 +69,32 @@ https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8
 https://mmn1-301f.kxcdn.com/hls/MMN-HLS.m3u8
 #EXTINF:-1 tvg-id="Moymir.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://www.cableman.ru/sites/default/files/MM-TV_logo-1%5B1509%5D.png" group-title="Shop",Moy mir
 https://moymir.ru/hls/onair.m3u8
+#EXTINF:-1 tvg-id="QVC2.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/NxbDjfI.png" group-title="Shop",QVC2
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8
+#EXTINF:-1 tvg-id="QVC3.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/edswdOO.png" group-title="Shop",QVC3
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8
+#EXTINF:-1 tvg-id="QVC.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/EybRtsI.png" group-title="Shop",QVC
+https://qvcde-live.akamaized.net/hls/live/2097104/qvc/master.m3u8
+#EXTINF:-1 tvg-id="QVC.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/6TWUVrh.png" group-title="Shop",QVC
+https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
 #EXTINF:-1 tvg-id="QVC.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/6TWUVrh.png" group-title="Shop",QVC
 https://d1flvb4iqlercm.cloudfront.net/live/live_1080p_2nd.m3u8
+#EXTINF:-1 tvg-id="QVC.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/6TWUVrh.png" group-title="Shop",QVC
+https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/master.m3u8
 #EXTINF:-1 tvg-id="QVC.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/QVC_logo_2019.svg/960px-QVC_logo_2019.svg.png" group-title="Shop",QVC
 http://40.160.24.55/QVC/index.m3u8
+#EXTINF:-1 tvg-id="QVCBeauty.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/ZBHtqk1.png" group-title="Shop",QVC Beauty
+https://qvcuk-live.akamaized.net/hls/live/2097112/qby/master.m3u8
+#EXTINF:-1 tvg-id="QVCExtra.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/TIe5T9Z.png" group-title="Shop",QVC Extra
+https://qvcuk-live.akamaized.net/hls/live/2097112/qex/master.m3u8
+#EXTINF:-1 tvg-id="QVCStyle.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/DwdkHGj.png" group-title="Shop",QVC Style
+https://qvcde-live.akamaized.net/hls/live/2097104/qby/master.m3u8
+#EXTINF:-1 tvg-id="QVCStyle.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/6HZlLL3.png" group-title="Shop",QVC Style
+https://qvcuk-live.akamaized.net/hls/live/2097112/qst/master.m3u8
+#EXTINF:-1 tvg-id="QVCZwei.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/f94kPed.png" group-title="Shop",QVC Zwei
+https://qvcde-live.akamaized.net/hls/live/2097104/qps/master.m3u8
+#EXTINF:-1 tvg-id="RedTVShop.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/I7yB176.png" group-title="Shop",Red TV Shop
+https://master.tucableip.com/redtvshop/index.m3u8
 #EXTINF:-1 tvg-id="ShinsegaeTVShopping.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/Hq3yjqA.png" group-title="Shop",Shinsegae TV Shopping
 https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="ShopChannel.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.shopch.jp/com/images/common/logo_2021.png" group-title="Shop",Shop Channel
@@ -81,8 +103,6 @@ https://stream3.shopch.jp/HLS/master.m3u8
 https://cdn-shop-lc-01.akamaized.net/Content/DASH_DASH/Live/channel(ott)/master.mpd
 #EXTINF:-1 tvg-id="ShoppingLive.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/EMmGnjV.png" group-title="Shop",Shopping Live
 https://nonmirya7cc.a.trbcdn.net/livemaster/tzrz5_sazlypl5ot.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ShoppingNT.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/BgbJp5X.png" group-title="Shop",Shopping NT
-https://live.shoppingntmall.com/live/10011.m3u8
 #EXTINF:-1 tvg-id="TeaTV.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/WorbnyD.jpg" group-title="Shop",Tea TV
 https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TimelessTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/bjcpeVH.png" group-title="Classic",Timeless TV
@@ -101,3 +121,5 @@ https://livefta.malimarcdn.com/ftaedge00/uniquely.sdp/playlist.m3u8
 https://live-11cinema.cdnvideo.ru/11cinema/11cinema/playlist.m3u8
 #EXTINF:-1 tvg-id="WShopping.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/hfXjVJd.png" group-title="Shop",W Shopping
 https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
+#EXTINF:-1 tvg-id="Yuvelirochka.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/IcWtXCZ.png" group-title="Shop",Yuvelirochka
+https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
