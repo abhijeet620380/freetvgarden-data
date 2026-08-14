@@ -9,12 +9,26 @@ https://dash3.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
 https://stream.a1mediagroep.nl/hls/a1tv.m3u8
 #EXTINF:-1 tvg-id="AltenaTV.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/0wblu0I.png" group-title="General",Altena TV
 https://dnx1f4sl30ba2.cloudfront.net/nlpo/clr-nlpo/altenatv/index.m3u8
+#EXTINF:-1 tvg-id="AssenTV.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/upik15D.png" group-title="General",Assen TV
+https://takeoff.jetstre.am/?account=OmroepAssen&file=OmroepAssenTV/playlist.m3u8&output=playlist.m3u8&protocol=https&service=webdav&type=live
+#EXTINF:-1 tvg-id="AT5.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/iAiSlEL.png" group-title="General",AT5
+https://takeoff.jetstre.am/?account=atvijf&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live
+#EXTINF:-1 tvg-id="BEATTV.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/egK33Dj.png" group-title="Music",BEATTV
+https://tv.beatfm.nl/live.m3u8
 #EXTINF:-1 tvg-id="CanalPlusActionEurope.nl" tvg-country="NL" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Canal%2B_Action_2024.svg/1920px-Canal%2B_Action_2024.svg.png" group-title="Movies",Canal+ Action Europe
 http://46.149.191.219:9106/play/a01g
+#EXTINF:-1 tvg-id="DeepHouseDistrict.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/IV2Qvc0.png" group-title="Music",Deep House District
+https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 #EXTINF:-1 tvg-id="DitisHelmond.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/fGAaBAs.png" group-title="General",Dit is Helmond
 http://ms2.mx-cd.net/tv/Omroep_Helmond.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="DocuBox.nl" tvg-country="NL" tvg-language="English" tvg-logo="https://i.imgur.com/pX4U9OG.png" group-title="Documentary",DocuBox
 https://dash3.antik.sk/live/test_docubox_medium_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="DTVDenBosch.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/aFBNbsy.png" group-title="General",DTV Den Bosch
+https://rrr.sz.xlcdn.com/?account=dtvmaasland&file=dtv2&output=playlist.m3u8&protocol=https&service=wowza&type=live
+#EXTINF:-1 tvg-id="DTVMaashorst.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/5WaCCAC.png" group-title="General",DTV Maashorst
+https://rrr.sz.xlcdn.com/?account=dtvmaasland&file=dtv3&output=playlist.m3u8&protocol=https&service=wowza&type=live
+#EXTINF:-1 tvg-id="DTVOssBernheze.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/JL1f9Tx.png" group-title="General",DTV Oss & Bernheze
+https://rrr.sz.xlcdn.com/?account=dtvmaasland&file=dtv1&output=playlist.m3u8&protocol=https&service=wowza&type=live
 #EXTINF:-1 tvg-id="FashionBox.nl" tvg-country="NL" tvg-language="English" tvg-logo="https://i.imgur.com/Taqj4yi.png" group-title="Lifestyle",FashionBox
 https://dash2.antik.sk/live/test_fashionbox_medium_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="FastFunBox.nl" tvg-country="NL" tvg-language="English" tvg-logo="https://i.imgur.com/a9ZtP17.png" group-title="Sports",Fast&FunBox
@@ -67,12 +81,12 @@ https://ms7.mx-cd.net/dtv-09/246-2090022/Linq_Media_TV.smil/playlist.m3u8
 https://streamingserver02.omroepnuenen.nl/lon/lonweb/chunklist_w1463772894.m3u8
 #EXTINF:-1 tvg-id="MagicPowerRadio.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/sWcwIte.png" group-title="Entertainment",Magic PowerRadio
 https://server-23.stream-server.nl:1936/Magic-PowerRadio/Magic-PowerRadio/playlist.m3u8
-#EXTINF:-1 tvg-id="MaLive.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/0Vzg2OR.png" group-title="Entertainment",MaLive
-https://live.salto.nl/hls/malive_high.m3u8
 #EXTINF:-1 tvg-id="MerweTV.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/JjB7U1q.png" group-title="General",MerweTV
 https://d2ycaxub5x98iw.cloudfront.net/nlpo/clr-nlpo/merwetv/index.m3u8
 #EXTINF:-1 tvg-id="ML5TV.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/knjHdei.png" group-title="General",ML5 TV
 https://ms2.mx-cd.net/dtv-02/204-1147034/3ML_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NH.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/SPkK4md.png" group-title="General",NH
+https://takeoff.jetstre.am/?account=nhnieuws&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live
 #EXTINF:-1 tvg-id="NOOSTV.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/X8xLcpT.png" group-title="General",NOOS TV
 https://ms2.mx-cd.net/tv/276-2860564/Omroep_NOOS.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="OmroepBrabant.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/KLYsKKC.png" group-title="General",Omroep Brabant
@@ -119,6 +133,20 @@ https://d1xcc1603wntzx.cloudfront.net/nlpo/clr-nlpo/oogtv/index.m3u8
 https://ms2.mx-cd.net/tv/141-573555/OPEN_Rotterdam.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ORTSTV.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/RZM4Myo.png" group-title="General",ORTS TV
 https://ms7.mx-cd.net/tv/200-1006554/ORTS_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PodiumTV2.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/bAhMhuz.jpg" group-title="General",Podium.TV 2
+https://rrr.sz.xlcdn.com/?account=ndc_mediagroep&file=NDC2&output=playlist.m3u8&service=wowza&type=live
+#EXTINF:-1 tvg-id="PodiumTV3.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/bAhMhuz.jpg" group-title="General",Podium.TV 3
+https://rrr.sz.xlcdn.com/?account=ndc_mediagroep&file=NDC3&output=playlist.m3u8&service=wowza&type=live
+#EXTINF:-1 tvg-id="PodiumTV.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/bAhMhuz.jpg" group-title="General",Podium.TV
+https://rrr.sz.xlcdn.com/?account=ndc_mediagroep&file=NDC1&output=playlist.m3u8&service=wowza&type=live
+#EXTINF:-1 tvg-id="Radio10.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/2oGtj7r.png" group-title="General",Radio 10
+https://radio10.prd1.talpatvcdn.nl/2b725bc7c93f477eaf0e43955ea8a6c1/index.m3u8
+#EXTINF:-1 tvg-id="Radio350.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/3nkzXup.png" group-title="General",Radio 350
+https://stream.radio350.nl/hls/radio350.m3u8
+#EXTINF:-1 tvg-id="Radio538.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/sd7BX9H.png" group-title="General",Radio 538
+https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index.m3u8
+#EXTINF:-1 tvg-id="RadioAalsmeerTV.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/SYzjLlI.png" group-title="General",Radio Aalsmeer TV
+https://radioaalsmeer.nl:4443/live/tv.m3u8
 #EXTINF:-1 tvg-id="RadioJND.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/nyVlZeL.png" group-title="Music",Radio JND
 https://radiojnd.cdn.hostin.cc/radiojnd/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioToppers.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/9OMsUd7.png" group-title="Entertainment",RadioToppers
@@ -240,7 +268,7 @@ https://dvnftgdlbnemm.cloudfront.net/XITE_Just_Chill.m3u8
 #EXTINF:-1 tvg-id="XITEReggaeVibes.nl" tvg-country="NL" tvg-language="English" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c7506335-967f-46a9-917a-2a35475cd96c/xitereggaevibes_logo_light_-_Arlette_FiranRDX.png" group-title="Music",XITE Reggae Vibes
 https://dw2m7yrngfg8c.cloudfront.net/XITE_Reggae_Vibes.m3u8
 #EXTINF:-1 tvg-id="XITERockxMetal.nl" tvg-country="NL" tvg-language="English" tvg-logo="https://provider-static.plex.tv/epg/cms/production/40b11283-ff2c-4bf3-93a0-3448e10f2b2c/xiterockxmetal_logo_light_-_Arlette_FiranRDX.png" group-title="Music",XITE Rock x Metal
-https://d198ro05q94rc4.cloudfront.net/XITE_Rock_On.m3u8
+https://jmp2.uk/plu-623a1b5188ecdc0007c9ef5a.m3u8
 #EXTINF:-1 tvg-id="XON.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/xEUHgMj.png" group-title="General",XON
 http://ms2.mx-cd.net/tv/EdeTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ZFMZoetermeerTV.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/vrjACvy.png" group-title="Music",ZFM Zoetermeer TV

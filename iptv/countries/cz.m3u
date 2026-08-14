@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="BarrandovKrimi.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Logo-krimi-barrandov-color.svg/960px-Logo-krimi-barrandov-color.svg.png" group-title="General",Barrandov Krimi
+https://dash4.antik.sk/live/test_barrandov_plus_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-id="CNNPrimaNews.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/elZyUjX.png" group-title="News",CNN Prima News
 http://88.212.15.19/live/test_cnn_pirma_news/playlist.m3u8
 #EXTINF:-1 tvg-id="CT1.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/%C4%8CT1_logo_2012.svg/960px-%C4%8CT1_logo_2012.svg.png" group-title="General",CT1
@@ -12,7 +14,7 @@ http://88.212.15.19/live/ct_art_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="CTSport.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/%C4%8CT_sport_logo.png/960px-%C4%8CT_sport_logo.png" group-title="Sports",CT Sport
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="CurrentTimeTV.cz" tvg-country="CZ" tvg-language="Russian" tvg-logo="https://i.imgur.com/hKo8ApU.png" group-title="News",Current Time TV
-http://stream.mcquack.net/384/index.m3u8
+https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="Kids",Disney Channel
 http://88.212.15.19/live/test_disney/playlist.m3u8
 #EXTINF:-1 tvg-id="ElektrikaTV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/OLd5od5.png" group-title="General",Elektrika TV
@@ -93,6 +95,8 @@ https://dash2.antik.sk/live/sporty_tv/index.m3u8
 http://88.212.15.19/live/test_seznam_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBarrandov.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Logo_TV_Barrandov.png/960px-Logo_TV_Barrandov.png" group-title="General",TV Barrandov
 http://88.212.15.19/live/test_barrandov/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBrno1.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/8Xm3WSn.png" group-title="General",TV Brno 1
+https://stream.polar.cz/tvbrno1/tvbrno1live-1/playlist.m3u8
 #EXTINF:-1 tvg-id="ViasatExplore.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/DyT5pKB.png" group-title="Documentary",Viasat Explore
 http://88.212.15.29/live/test_viasat_explore_atk_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ViasatHistory.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/wRP9XA7.png" group-title="Documentary",Viasat History

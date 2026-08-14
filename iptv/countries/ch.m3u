@@ -1,6 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="CanalAlphaJura.ch" tvg-country="CH" tvg-language="German" tvg-logo="https://i.imgur.com/eQ8xHK9.jpg" group-title="General",Canal Alpha Jura
+https://canalalphaju.vedge.infomaniak.com/livecast/ik:canalalphaju/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalAlphaNeuchatel.ch" tvg-country="CH" tvg-language="German" tvg-logo="https://i.imgur.com/eQ8xHK9.jpg" group-title="General",Canal Alpha Neuchatel
+https://canalalpha.vedge.infomaniak.com/livecast/ik:canalalpha/playlist.m3u8
 #EXTINF:-1 tvg-id="Carac1.ch" tvg-country="CH" tvg-language="French" tvg-logo="https://i.imgur.com/TSc35U6.png" group-title="Entertainment",Carac 1
-http://145.239.5.177/371/index.m3u8
+https://edge13.vedge.infomaniak.com/livecast/ik:event/manifest.m3u8
 #EXTINF:-1 tvg-id="Carac2.ch" tvg-country="CH" tvg-language="French" tvg-logo="https://i.imgur.com/hCoIPen.png" group-title="Entertainment",Carac 2
 https://onefmmd.vedge.infomaniak.com/livecast/ik:onefmmd/manifest.m3u8
 #EXTINF:-1 tvg-id="Carac3.ch" tvg-country="CH" tvg-language="French" tvg-logo="https://i.imgur.com/C4e8cjt.png" group-title="Entertainment",Carac 3
@@ -17,6 +21,10 @@ https://cdn.katapy.io/cache/stream/katapytv/dieu/playlist.m3u8
 https://streaming.meteonews.net/hls/stream.m3u8
 #EXTINF:-1 tvg-id="MyCinemaEurope.ch" tvg-country="CH" tvg-language="English" tvg-logo="https://i.imgur.com/jz0d8tH.png" group-title="Movies",My Cinema Europe
 https://op-group1-densxvisionhd-1.dens.tv/h/h18/index.m3u8
+#EXTINF:-1 tvg-id="Radio3i.ch" tvg-country="CH" tvg-language="German" tvg-logo="https://i.imgur.com/0Kmh49G.png" group-title="General",Radio 3i
+https://vstream-cdn.ch/hls/radio3i.m3u8
+#EXTINF:-1 tvg-id="RADIODISCOuntTV.ch" tvg-country="CH" tvg-language="Italian" tvg-logo="https://i.imgur.com/ScNYMmx.png" group-title="Music",RADIO DISCOunt TV
+https://585b674743bbb.streamlock.net/9030/9030/playlist.m3u8
 #EXTINF:-1 tvg-id="RSILa2.ch" tvg-country="CH" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/960px-RSI_La_2_2012.svg.png" group-title="General",RSI La 2
 https://7nyaler.streamhostingcdn.top/stream/41/index.m3u8
 #EXTINF:-1 tvg-id="RTVPendimi.ch" tvg-country="CH" tvg-language="Albanian" tvg-logo="https://i.ibb.co/tD48GMD/RTV-Pendimi.png" group-title="Religious",RTV Pendimi
