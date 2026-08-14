@@ -7,8 +7,6 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/pla
 http://45.162.64.114/ARIRANG/index.m3u8
 #EXTINF:-1 tvg-id="ArirangUN.kr" tvg-country="KR" tvg-language="English" tvg-logo="https://i.imgur.com/Jdy3WNm.png" group-title="News",Arirang UN
 https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="BBSTV.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/01UmXRe.png" group-title="Religious",BBS TV
-http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="BTNTV.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/sOoS7RQ.png" group-title="Religious",BTN TV
 https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
 #EXTINF:-1 tvg-id="CJOnStyle.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/JiSfEBv.png" group-title="Shop",CJ OnStyle
@@ -39,8 +37,6 @@ http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8
 https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="GSShop.kr" tvg-country="KR" tvg-language="English" tvg-logo="https://i.imgur.com/F7QDbEy.png" group-title="Shop",GS Shop
 https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="GugakTV.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/Ey7Htm8.png" group-title="Music",Gugak TV
-https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="HLAJDTV.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/JM4rxGU.png" group-title="General",HLAJ-DTV
 https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
 #EXTINF:-1 tvg-id="HLAMDTV.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/5oraHc0.png" group-title="General",HLAM-DTV
@@ -85,12 +81,12 @@ https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8
 #EXTINF:-1 tvg-id="LotteOneTV.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/bXe7tYE.png" group-title="Shop",Lotte OneTV
 https://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8
-#EXTINF:-1 tvg-id="NationalAssemblyTV.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/UKdB8vD.png" group-title="Legislative",National Assembly TV
-https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/kr/natv.m3u8
 #EXTINF:-1 tvg-id="NBS.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/pOSroOE.png" group-title="Education",NBS
 https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
 #EXTINF:-1 tvg-id="NHTV.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/DfECkgB.png" group-title="Entertainment",NHTV
 http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
+#EXTINF:-1 tvg-id="OUN.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/7s6JtcU.png" group-title="Education",OUN
+https://live.knou.ac.kr/knou1/live1/playlist.m3u8
 #EXTINF:-1 tvg-id="RUTCTV.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.ibb.co/yPDhKBp/rutc-logo.jpg" group-title="Religious",RUTC TV
 http://d26sxnc75smwvh.cloudfront.net/livehttporigin/rutclive_720p2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ShinsegaeTVShopping.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/Hq3yjqA.png" group-title="Shop",Shinsegae TV Shopping
@@ -99,9 +95,5 @@ https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720
 https://live.shoppingntmall.com/live/10011.m3u8
 #EXTINF:-1 tvg-id="TBSTV.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/iOnWS6V.png" group-title="General",TBS TV
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVChosun2.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/Ev5JoBJ.png" group-title="General",TV Chosun 2
-http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
-#EXTINF:-1 tvg-id="TVChosun.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/62EwaCG.png" group-title="General",TV Chosun
-http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
 #EXTINF:-1 tvg-id="WShopping.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/hfXjVJd.png" group-title="Shop",W Shopping
 https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
