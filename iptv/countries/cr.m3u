@@ -4,7 +4,7 @@ http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 #EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/frd60hR.png" group-title="Outdoor",Agrotendencia TV
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
 #EXTINF:-1 tvg-id="BestClasicosTV.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/a/BRb8AVL.png" group-title="General",BestClasicosTV
-https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8
+https://acceso.mediosdecostarica.com:3873/live/bestclasicostvlive.m3u8
 #EXTINF:-1 tvg-id="Canal1.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.ibb.co/KhNS8Dy/cropped-logoo-1.png" group-title="General",Canal 1
 https://vid.canal1cr.com:3424/multi_live/play_720.m3u8
 #EXTINF:-1 tvg-id="Canal3KMKTV.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/sgRDRBK.jpg" group-title="Music",Canal 3 KMK TV
@@ -45,6 +45,8 @@ https://5cf4a2c2512a2.streamlock.net/8176/8176/playlist.m3u8
 https://5fe2654d6127d.streamlock.net/impactchannel/videoimpactchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="IQChannel.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/hwuaomt.png" group-title="Music",IQ Channel
 https://rtmp.info/iqtv/envivo/playlist.m3u8
+#EXTINF:-1 tvg-id="LaPotenteRadioTV.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ti5Fg5D.png" group-title="Entertainment",La Potente Radio TV
+https://latamvdo.com:3626/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="LimonTV.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.ibb.co/rdpcv7C/1689421727166.jpg" group-title="General",Limon TV
 http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
 #EXTINF:-1 tvg-id="LosSantosTV.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/5xw86wu.png" group-title="General",Los Santos TV
@@ -63,8 +65,6 @@ https://wowza.ucr.ac.cr/quinceucr/_definst_/quinceucr.stream/playlist.m3u8
 https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/playlist.m3u8
 #EXTINF:-1 tvg-id="SanJoseTV.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.ibb.co/mbB8hqL/blanco-crop.png" group-title="Religious",San Jose TV
 https://rtmp.info/sanjosetv/envivo/playlist.m3u8
-#EXTINF:-1 tvg-id="SanVitoTelevision.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Yd7JOxr.png" group-title="General",San Vito Television
-https://stream.lamegatv.com/hls/sanvitotelevision/index.m3u8
 #EXTINF:-1 tvg-id="SarapiquiTV.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/obTnd32.png" group-title="General",Sarapiqui TV
 http://tiquiciatv.com:1935/stv/web/playlist.m3u8
 #EXTINF:-1 tvg-id="SOYPlanchaTV.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.ibb.co/P4kpMgk/1689344714578.jpg" group-title="Music",SOY Plancha TV

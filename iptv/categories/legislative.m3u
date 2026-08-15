@@ -19,8 +19,12 @@ https://buenapark.cablecast.tv/live/stream-1/live.m3u8
 https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/brevardfl/G2111_002/playlist.m3u8
 #EXTINF:-1 tvg-id="CameradeiDeputati.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/hv4zi9N.png" group-title="Legislative",Camera dei Deputati
 https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalCongreso.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/erJDwtY.jpeg" group-title="Legislative",Canal Congreso
+http://138.121.15.230:9002/CANAL-CONGRESO/index.m3u8
 #EXTINF:-1 tvg-id="CanalGov.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/rHPY0Yv.png" group-title="Legislative",Canal Gov
 http://45.177.114.115/TV_BRASIL_2/index.m3u8
+#EXTINF:-1 tvg-id="CanalParlamento.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/BUO0wH6.png" group-title="Legislative",Canal Parlamento
+https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8
 #EXTINF:-1 tvg-id="CanalParlamentodelCongresodeJalisco.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/fLpkHfZ.png" group-title="Legislative",Canal Parlamento del Congreso de Jalisco
 https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CapitalCityConnectionMontgomery.us" tvg-country="US" tvg-language="English" tvg-logo="https://image.roku.com/developer_channels/prod/a2cb55884ff88035ebbbb32ef9c60a228314d0a2ac4c86722aff5ea1cb9abcd8.png" group-title="Legislative",Capital City Connection Montgomery
@@ -91,8 +95,6 @@ https://reflect-detroit-vod.cablecast.tv/live-2/live/stream-6/live.m3u8
 https://video.oct.dc.gov/out/u/DCN.m3u8
 #EXTINF:-1 tvg-id="EbS.be" tvg-country="BE" tvg-language="English" tvg-logo="https://i.imgur.com/DIIRPNN.png" group-title="Legislative",EbS
 https://streams.prd.commavservices.eu/live/ebs/index.m3u8
-#EXTINF:-1 tvg-id="EbSPlus.be" tvg-country="BE" tvg-language="English" tvg-logo="https://i.imgur.com/7V012zQ.png" group-title="Legislative",EbS+
-https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8
 #EXTINF:-1 tvg-id="FernandinaBeachChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/9UfyekJ.png" group-title="Legislative",Fernandina Beach Channel
 https://edge-f.swagit.com/live/fernandinabeachfl/live-1-a/playlist.m3u8
 #EXTINF:-1 tvg-id="FGTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/RXFmzVY.png" group-title="Legislative",FGTV
@@ -110,7 +112,7 @@ https://lin12.isilive.ca/live/greensboro/GTN/index.m3u8
 #EXTINF:-1 tvg-id="HCTVGovernmentChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/bVbpgiD.png" group-title="Legislative",HCTV Government Channel
 https://reflect-hudsonctv.cablecast.tv/live-26/live/stream-2/live.m3u8
 #EXTINF:-1 tvg-id="HellenicParliamentTV.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/o2cvqv3.png" group-title="Legislative",Hellenic Parliament TV
-https://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8
 #EXTINF:-1 tvg-id="HillsboroughTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/fUne7FX.png" group-title="Legislative",Hillsborough TV
 https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/hillsboroughcounty/G2155_002/playlist.m3u8
 #EXTINF:-1 tvg-id="HTV1HoustonTelevision.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/zvj1boM.jpg" group-title="Legislative",HTV 1 Houston Television
@@ -249,6 +251,10 @@ https://livestreaming.b67buv2.tweedekamer.nl/live/plenairezaal/index.m3u8?hd=1&k
 https://livestreaming.b67buv2.tweedekamer.nl/live/suzegroenewegzaal/index.m3u8?hd=1&keyframes=1&subtitles=live
 #EXTINF:-1 tvg-id="TweedeKamerThorbeckezaal.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/X9fezZ8.png" group-title="Legislative",Tweede Kamer: Thorbeckezaal
 https://livestreaming.b67buv2.tweedekamer.nl/live/thorbeckezaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+#EXTINF:-1 tvg-id="TweedeKamerTroelstrazaal.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/X9fezZ8.png" group-title="Legislative",Tweede Kamer: Troelstrazaal
+https://livestreaming.b67buv2.tweedekamer.nl/live/troelstrazaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+#EXTINF:-1 tvg-id="TweedeKamerWttewaallvanStoetwegenzaal.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/X9fezZ8.png" group-title="Legislative",Tweede Kamer: Wttewaall van Stoetwegenzaal
+https://livestreaming.b67buv2.tweedekamer.nl/live/wttewaallvanstoetwegenzaal/index.m3u8?hd=1&keyframes=1&subtitles=live
 #EXTINF:-1 tvg-id="YouDotGov.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/4Mc7baR.png" group-title="Legislative",YouDotGov
 https://reflect-communitytv.cablecast.tv/live-3/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-id="Yuma77.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/KBriwwj.png" group-title="Legislative",Yuma77
