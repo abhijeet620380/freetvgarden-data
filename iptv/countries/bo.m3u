@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="AbyaYalaTV.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://abyayala.tv.bo/wp-content/uploads/2024/04/MOSCA-BLANCA-OK-308x189.png" group-title="General",Abya Yala TV
 http://15.204.246.24:8080/AbyaYalaTvHD/index.m3u8
+#EXTINF:-1 tvg-id="AlegriaTV.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/MIBZ2pZ.png" group-title="Music",Alegria TV
+https://lbgo.bozztv.com/ssh101/ssh101/confirmatv/playlist.m3u8
 #EXTINF:-1 tvg-id="AmitelTV.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://amiteltv.com/wp-content/uploads/2026/01/LOGO-SIN-FONDO-WEB.png" group-title="General",Amitel TV
 https://stv2.boliviaplay.com.bo/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AsContenidos.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://ascontenidos.com.bo/wp-content/uploads/2023/07/cropped-logo512.png" group-title="General",As Contenidos
@@ -51,10 +53,10 @@ http://15.204.246.24:8080/PATSD/index.m3u8
 http://15.204.246.24:8080/PlusTLTHD/index.m3u8
 #EXTINF:-1 tvg-id="PoderdeDiosTV.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/jUfRz3L.png" group-title="Religious",Poder de Dios TV
 http://15.204.246.24:8080/PoderdeDiosHD/index.m3u8
-#EXTINF:-1 tvg-id="PTV.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/vPvR7dX.png" group-title="General",PTV
-https://giatv.bozztv.com/giatv/giatv-PTVonLINE/PTVonLINE/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioCentro.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/574/radio-centro-fm.e939fb1e.png" group-title="General",Radio Centro
 https://streamlov.alsolnet.com/grupocentrobo/live/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioClasicaTV.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://radioclasicapotosi.com/players/nexoplayer/assets/logo.png" group-title="Music",Radio Clasica TV
+https://ares.disfrutaenlared.com:1936/clasica/clasica/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioKollasuyo.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://kollasuyobucket.s3.amazonaws.com/wp_files/2022/08/01/rk-white-500.png" group-title="General",Radio Kollasuyo
 https://azura2.bitstreaming.net/hls/kollasuyo3/live.m3u8
 #EXTINF:-1 tvg-id="RadioMegaTVAmazonia.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/yzSNWZ3.png" group-title="General",Radio Mega TV Amazonia
