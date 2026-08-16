@@ -143,6 +143,8 @@ https://rrr.sz.xlcdn.com/?account=ndc_mediagroep&file=NDC2&output=playlist.m3u8&
 https://rrr.sz.xlcdn.com/?account=ndc_mediagroep&file=NDC3&output=playlist.m3u8&service=wowza&type=live
 #EXTINF:-1 tvg-id="PodiumTV.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/bAhMhuz.jpg" group-title="General",Podium.TV
 https://rrr.sz.xlcdn.com/?account=ndc_mediagroep&file=NDC1&output=playlist.m3u8&service=wowza&type=live
+#EXTINF:-1 tvg-id="Qmusic.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/fMTuqDu.png" group-title="Music",Qmusic
+https://stream.qmusic.nl/qmusic/videohls.m3u8
 #EXTINF:-1 tvg-id="Radio10.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/2oGtj7r.png" group-title="General",Radio 10
 https://radio10.prd1.talpatvcdn.nl/2b725bc7c93f477eaf0e43955ea8a6c1/index.m3u8
 #EXTINF:-1 tvg-id="Radio350.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/3nkzXup.png" group-title="General",Radio 350
@@ -255,6 +257,8 @@ https://livestreaming.b67buv2.tweedekamer.nl/live/thorbeckezaal/index.m3u8?hd=1&
 https://livestreaming.b67buv2.tweedekamer.nl/live/troelstrazaal/index.m3u8?hd=1&keyframes=1&subtitles=live
 #EXTINF:-1 tvg-id="TweedeKamerWttewaallvanStoetwegenzaal.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/X9fezZ8.png" group-title="Legislative",Tweede Kamer: Wttewaall van Stoetwegenzaal
 https://livestreaming.b67buv2.tweedekamer.nl/live/wttewaallvanstoetwegenzaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+#EXTINF:-1 tvg-id="UStad.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/9F8ieEz.png" group-title="General",UStad
+http://media.rtvutrecht.nl/live/rtvutrecht/ustad/index.m3u8
 #EXTINF:-1 tvg-id="VechtdalTV.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/MhcKEwr.png" group-title="General",Vechtdal TV
 https://ms2.mx-cd.net/tv/81-334271/VechtdalTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="WeertFMTV.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/8bt6xt2.png" group-title="General",WeertFM TV
@@ -263,6 +267,8 @@ https://ms2.mx-cd.net/tv/151-573495/WeertFM_TV.smil/playlist.m3u8
 https://ms2.mx-cd.net/dtv-11/99-660295/WOS.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="XITE.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/jxuwGRi.png" group-title="Music",XITE
 https://xite-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="XITEClassicCountry.nl" tvg-country="NL" tvg-language="English" tvg-logo="https://provider-static.plex.tv/epg/cms/production/511ebc88-a7f7-4f6d-85ff-38c849bbb4a3/xiteclassiccountry_logo_light_-_Arlette_FiranRDX.png" group-title="Music",XITE Classic Country
+https://jmp2.uk/plu-623b92a2ccefed0007b1db48.m3u8
 #EXTINF:-1 tvg-id="XITEHits.nl" tvg-country="NL" tvg-language="English" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b79c1102-0a7d-4310-a0df-6cbe6fb660e2/xitehits_logo_WHITE_-_Arlette_FiranRDX2.png" group-title="Music",XITE Hits
 https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8
 #EXTINF:-1 tvg-id="XITEJustChill.nl" tvg-country="NL" tvg-language="English" tvg-logo="https://provider-static.plex.tv/epg/cms/production/927dd614-017d-49dd-9eb9-0ed79d09084e/xitejustchill_logo_light_-_Arlette_FiranRDX.png" group-title="Music",XITE Just Chill
@@ -270,7 +276,7 @@ https://dvnftgdlbnemm.cloudfront.net/XITE_Just_Chill.m3u8
 #EXTINF:-1 tvg-id="XITEReggaeVibes.nl" tvg-country="NL" tvg-language="English" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c7506335-967f-46a9-917a-2a35475cd96c/xitereggaevibes_logo_light_-_Arlette_FiranRDX.png" group-title="Music",XITE Reggae Vibes
 https://dw2m7yrngfg8c.cloudfront.net/XITE_Reggae_Vibes.m3u8
 #EXTINF:-1 tvg-id="XITERockxMetal.nl" tvg-country="NL" tvg-language="English" tvg-logo="https://provider-static.plex.tv/epg/cms/production/40b11283-ff2c-4bf3-93a0-3448e10f2b2c/xiterockxmetal_logo_light_-_Arlette_FiranRDX.png" group-title="Music",XITE Rock x Metal
-https://d198ro05q94rc4.cloudfront.net/XITE_Rock_On.m3u8
+https://jmp2.uk/plu-623a1b5188ecdc0007c9ef5a.m3u8
 #EXTINF:-1 tvg-id="XON.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/xEUHgMj.png" group-title="General",XON
 http://ms2.mx-cd.net/tv/EdeTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ZFMZoetermeerTV.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/vrjACvy.png" group-title="Music",ZFM Zoetermeer TV

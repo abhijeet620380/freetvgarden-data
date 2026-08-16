@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="AGRFMTV.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/tg6EjTU.png" group-title="General",AGR FM TV
 https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8
+#EXTINF:-1 tvg-id="AlcanceFMPLAYTV.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ymcWecA.png" group-title="Music",Alcance FM PLAY TV
+https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8
 #EXTINF:-1 tvg-id="BrunoMasiTV.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.ibb.co/QFmyjZN/unnamed-1.png" group-title="General",Bruno Masi TV
 https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8
 #EXTINF:-1 tvg-id="C9N.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/iXkwP31.png" group-title="News",C9N
@@ -29,8 +31,6 @@ https://copacotf.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvacc
 http://159.203.148.226/live/farra.m3u8
 #EXTINF:-1 tvg-id="Gen.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/vEMnZF4.png" group-title="General",Gen
 https://gentvpeer.desdeparaguay.net/gentvpeer/gentv_py_alta/master.m3u8
-#EXTINF:-1 tvg-id="GOTV.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.ibb.co/jkvYVyz/Captura.png" group-title="Entertainment",GO TV
-https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
 #EXTINF:-1 tvg-id="HEiNow.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/oMHiGRN.png" group-title="Music",HEi Now
 https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion
 #EXTINF:-1 tvg-id="InvasivaTV.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/R9E6jEC.png" group-title="General",Invasiva TV
@@ -45,8 +45,12 @@ https://www.desde-paraguay.com/mega.m3u8
 https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
 #EXTINF:-1 tvg-id="MonumentalTV.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/kEcOYML.png" group-title="General",Monumental TV
 https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_alta/playlist.m3u8?admin=tvaccion
+#EXTINF:-1 tvg-id="NandejaraNeeTV.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/VFxuBdL.jpg" group-title="Religious",Nandejara Ne'e TV
+https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8?admin=tvaccion
+#EXTINF:-1 tvg-id="NandePortetepeTV.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/3taT6JK.jpeg" group-title="Music",Nande Portetepe TV
+https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8
 #EXTINF:-1 tvg-id="Nanduti.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://www.desdeparaguay.com/images_hpy/logos/radios/90x90px2/nandutitv.png" group-title="News",Nanduti
-https://nanduti.b-cdn.net/720p.m3u8
+https://nanduti.b-cdn.net/Source.m3u8
 #EXTINF:-1 tvg-id="NextHD.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/c2rF3SS.png" group-title="Movies",Next HD
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 #EXTINF:-1 tvg-id="NPY.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/pUEkaiW.png" group-title="News",NPY
