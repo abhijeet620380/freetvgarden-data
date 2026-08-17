@@ -27,10 +27,10 @@ https://eu1.streams.gr:8081/centertv/index.m3u8
 https://gra1.crystalweb.net:1936/channel8/channel8/playlist.m3u8
 #EXTINF:-1 tvg-id="CorfuChannel.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/EFL1Tjg.png" group-title="News",Corfu Channel
 https://itv.streams.ovh:1936/corfuchannel/corfuchannel/playlist.m3u8
+#EXTINF:-1 tvg-id="EcclesiaTV.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/QQSSMZx.png" group-title="General",Ecclesia TV
+https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
 #EXTINF:-1 tvg-id="EgnatiaTV.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/zuyYIca.png" group-title="News",Egnatia TV
 https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8
-#EXTINF:-1 tvg-id="EllinikosFM.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.ibb.co/y0ydCNB/unnamed-4.png" group-title="Music",Ellinikos FM
-https://rtmp.win:3603/live/ellinikosfmlive.m3u8
 #EXTINF:-1 tvg-id="EpilogesTV.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/3S4P7ob.png" group-title="General",Epiloges TV
 https://gra1.crystalweb.net:1936/epilogestv/epilogestv/playlist.m3u8
 #EXTINF:-1 tvg-id="ERTCosmos.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://www.ert.gr/wp-content/uploads/2026/05/ertcosmos-logo.svg" group-title="General",ERT Cosmos
@@ -101,5 +101,7 @@ https://av.hellasnet.tv/rst/trt/main_stream.m3u8
 https://gwebstream.net/hls/master.m3u8
 #EXTINF:-1 tvg-id="TVCreta.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/CpIeJyt.png" group-title="General",TV Creta
 http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
+#EXTINF:-1 tvg-id="VerginaTV.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/abQmFoH.png" group-title="News",Vergina TV
+https://verginanews.gr:8443/hls_live/stream1.m3u8
 #EXTINF:-1 tvg-id="ZouglaTV.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/AmW9d6H.jpg" group-title="General",Zougla TV
 https://zouglacam-mdc-secure.akamaized.net/zouglalive/backup/playlist.m3u8
