@@ -17,6 +17,18 @@ https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="KuriakosTV.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/xdAW0D5.png" group-title="Religious",Kuriakos TV
 https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ManaChurchOnline.pt" tvg-country="PT" tvg-language="English" tvg-logo="https://i.imgur.com/FRDJSim.png" group-title="Religious",Mana Church Online
+https://w2.manasat.com/church-online/smil:church-online.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ManaCirkevOnline.pt" tvg-country="PT" tvg-language="Slovak" tvg-logo="https://i.imgur.com/tYhXeRq.png" group-title="Religious",Mana Cirkev Online
+https://w2.manasat.com/cirkev-online/smil:cirkev-online.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ManaEgliseOnline.pt" tvg-country="PT" tvg-language="French" tvg-logo="https://i.imgur.com/xQYly8O.png" group-title="Religious",Mana Eglise Online
+https://w2.manasat.com/eglise-online/smil:eglise-online.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ManaIglesiaOnline.pt" tvg-country="PT" tvg-language="Spanish" tvg-logo="https://i.imgur.com/0IUvfcJ.png" group-title="Religious",Mana Iglesia Online
+https://w2.manasat.com/iglesia-online/smil:iglesia-online.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ManaIgrejaOnline.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/0IUvfcJ.png" group-title="Religious",Mana Igreja Online
+https://w1.manasat.com/igrejaonline/smil:igrejaonline.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ManaTserkovOnlayn.pt" tvg-country="PT" tvg-language="Russian" tvg-logo="https://i.imgur.com/PruXLqS.png" group-title="Religious",Mana Tserkov' Onlayn
+https://w2.manasat.com/tserkov-online/smil:tserkov-online.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ONFM.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://onfmwordpressfiles.ams3.digitaloceanspaces.com/wp-content/uploads/2023/03/17130121/logo-on-fm.png" group-title="Music",ON FM
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="PortoCanal.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/DwziwMY.png" group-title="General",Porto Canal
@@ -39,10 +51,6 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTPNoticias.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpnoticias_2026.png" group-title="News",RTP Noticias
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SICAltaDefinicao.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/VdPwyQv.png" group-title="General",SIC Alta Definicao
-https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8
-#EXTINF:-1 tvg-id="SICReplay.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/fj84mXz.png" group-title="General",SIC Replay
-https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8
 #EXTINF:-1 tvg-id="TVI.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/H8Tgl7m.png" group-title="General",TVI
 https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvi.m3u8
 #EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvificcao.png" group-title="Series",TVI Ficcao
@@ -61,5 +69,3 @@ https://w1.manasat.com/tvmana-english/smil:tvmana-english.smil/playlist.m3u8
 https://w1.manasat.com/tvmana-espanol/smil:tvmana-espanol.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVManaRusskiy.pt" tvg-country="PT" tvg-language="Russian" tvg-logo="https://i.imgur.com/fACHqmY.png" group-title="Religious",TV Mana Russkiy
 https://w1.manasat.com/tvmana-leste/smil:tvmana-leste.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="VPlusTVI.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/ef/V%2BTVI_Logo.png" group-title="General",V+ TVI
-https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/vmaistvi.m3u8

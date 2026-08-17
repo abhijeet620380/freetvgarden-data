@@ -3,6 +3,8 @@
 https://d2hng5r56zpsbw.cloudfront.net/out/v1/9c4c990f44bb4767bb46271f326dd574/index.m3u8
 #EXTINF:-1 tvg-id="Aflam.sa" tvg-country="SA" tvg-language="Egyptian Arabic" tvg-logo="https://i.imgur.com/cTLj7Yt.png" group-title="Movies",Aflam
 https://shd-amg-fast.edgenextcdn.net/tx001/playlist.m3u8
+#EXTINF:-1 tvg-id="AlArabiyaEnglish.sa" tvg-country="SA" tvg-language="English" tvg-logo="https://shahid.mbc.net/mediaObject/7cfc0baf-1201-477f-b722-d3099fafe17f?height=230&width=512&croppingPoint=&version=1&type=png" group-title="News",Al Arabiya English
+https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="AlEkhbariya.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/WcRlHQm.png" group-title="News",Al Ekhbariya
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
 #EXTINF:-1 tvg-id="AlHadath.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/De4SEWE.png" group-title="News",Al Hadath
@@ -14,7 +16,7 @@ http://m.live.net.sa:1935/live/quran/gmswf.m3u8
 #EXTINF:-1 tvg-id="AlRiyadhRadio.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/8PH1Lak.png" group-title="General",Al Riyadh Radio
 https://live.kwikmotion.com/sbrksariyadhradiolive/srpksariyadhradio/playlist.m3u8
 #EXTINF:-1 tvg-id="AlSaudiya.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/GRQTndk.png" group-title="General",Al Saudiya
-https://streams.comclark.com/pknsd/saudi/playlist.m3u8
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
 #EXTINF:-1 tvg-id="AlSaudiyaAlaan.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/sEOjApe.png" group-title="General",Al Saudiya Alaan
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-ksa-now/71ed3aa814c643306c0a8bc4fcc7d17f/index.m3u8
 #EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/S6LcTJv.png" group-title="Religious",Al Sunnah Al Nabawiyah TV
@@ -51,8 +53,18 @@ https://live.kwikmotion.com/sbrksajeddahradiolive/srpksajeddahradio/chunks.m3u8
 http://185.9.2.18/chid_327/index.m3u8
 #EXTINF:-1 tvg-id="MajidAlMohandis.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.discogs.com/Fk9Bm8gTYJYeVXIJKX-EOGmYQ90sVQPtkIW5ZK4fydo/rs:fit/g:sm/q:90/h:372/w:412/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE2OTY4/MzMtMTU2ODk0NjI5/MC01Njk2LmpwZWc.jpeg" group-title="Music",Majid Al Mohandis
 https://shd-amg-fast.edgenextcdn.net/tx019/playlist.m3u8
+#EXTINF:-1 tvg-id="MakkahTV.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/PRPcOi0.png" group-title="Religious",Makkah TV
+https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
+#EXTINF:-1 tvg-id="Maraya.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://shahid.mbc.net/mediaObject/d089a559-4f41-4def-a786-f98fcfbf0464?height=auto&width=288&croppingPoint=&version=1&type=png" group-title="Series",Maraya
+https://shd-amg-fast.edgenextcdn.net/tx008/playlist.m3u8
+#EXTINF:-1 tvg-id="MBCLoud.sa" tvg-country="SA" tvg-language="English" tvg-logo="https://i.imgur.com/mptwwLs.png" group-title="Music",MBC Loud
+https://radio-loud-fm.mbc.net/radio-loud-fm_1.m3u8
+#EXTINF:-1 tvg-id="MBCMasrDrama.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://media0070.elcinema.com/tvguide/1399_1.png" group-title="Series",MBC Masr Drama
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-drama/567b703c19ede6598222de81b0e4508b/index.m3u8
 #EXTINF:-1 tvg-id="MBCMood.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://www.mbcmood.com/images/Logo.png" group-title="Music",MBC Mood
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b26e8a41f173d/index.m3u8
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-mood/78367bf48ccdba501d0d014a10c21031/index.m3u8
+#EXTINF:-1 tvg-id="MBCPlusDrama.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lxWdjXG.png" group-title="Movies",MBC+ Drama
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8
 #EXTINF:-1 tvg-id="MohammedAbdo.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://assets.mbcmood.com/channels/1720184012Mohammed%20Abdo%20banner.png" group-title="Music",Mohammed Abdo
 https://d2ow8h651gs7dx.cloudfront.net/out/v1/371fb663da604e659a2fb99bf89d92d4/index.m3u8
 #EXTINF:-1 tvg-id="MoviesAction.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/NIVhISa.png" group-title="Movies",Movies Action
