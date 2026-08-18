@@ -37,8 +37,6 @@ http://stream.mcquack.net/291/index.m3u8
 https://cdn15.live-tv.cloud/ua_infinitas_tv/7tvod-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel8.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/6Sr5vJD.png" group-title="General",Channel 8
 https://ext.cdn.nashnet.tv/228.0.0.138/index.m3u8
-#EXTINF:-1 tvg-id="Channel24.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/24_Group_Ukraine_04.png/960px-24_Group_Ukraine_04.png" group-title="News",Channel 24
-https://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ChemodanTV.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/1WjGN8u.png" group-title="Education",Chemodan TV
 http://stream.mcquack.net/399/index.m3u8
 #EXTINF:-1 tvg-id="ContinentE.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/9M9Y9hh.png" group-title="General",Continent E
@@ -51,8 +49,6 @@ https://dash2.antik.sk/live/telekanal_dim/playlist.m3u8
 http://stream.mcquack.net/457/index.m3u8
 #EXTINF:-1 tvg-id="DniproTV.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/mbPTVh1.png" group-title="General",Dnipro TV
 http://vcdn1.produck.company:1935/out/dtv/playlist.m3u8
-#EXTINF:-1 tvg-id="DynamoKyivTV.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/ymxmyyG.png" group-title="Sports",Dynamo Kyiv TV
-http://stream.mcquack.net/396/index.m3u8
 #EXTINF:-1 tvg-id="EkoTV.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/WovATGb.png" group-title="Science",Eko TV
 https://ext.cdn.nashnet.tv/228.0.1.60/index.m3u8
 #EXTINF:-1 tvg-id="EnterFilm.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/wQbiGs6.png" group-title="Movies",Enter-Film
@@ -107,6 +103,8 @@ http://stream.mcquack.net/445/index.m3u8
 http://stream.mcquack.net/446/index.m3u8
 #EXTINF:-1 tvg-id="KusKus.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/4a4qX0P.png" group-title="General",Kus-Kus
 https://dash2.antik.sk/live/test_kuskus_tv_atktv/playlist.m3u8
+#EXTINF:-1 tvg-id="KvartalTV.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/6ZYWizP.png" group-title="Entertainment",Kvartal TV
+http://158.101.222.193:88/georgia_play.php?id=kvartal95
 #EXTINF:-1 tvg-id="KvartalTVInternational.ua" tvg-country="UA" tvg-language="Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Kvartal_TV_International_%28HD_Logo%29.png" group-title="Entertainment",Kvartal TV International
 https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Kyiv.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/TVuCY4N.png" group-title="News",Kyiv
@@ -157,10 +155,6 @@ http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
 http://stream.mcquack.net/448/index.m3u8
 #EXTINF:-1 tvg-id="OrbitaTV.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.ibb.co/Bj4T9wB/logo-Orbita-fin14.png" group-title="General",Orbita TV
 http://ftp.orbita.dn.ua/hls/orbita.m3u8
-#EXTINF:-1 tvg-id="OTSE.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/SeRNJIS.png" group-title="Entertainment",OTSE
-http://stream.mcquack.net/329/index.m3u8
-#EXTINF:-1 tvg-id="OTV.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/TkGGGAj.png" group-title="General",OTV
-https://stream.otv.ua/memfs/028e5947-073f-4b4e-a47f-70e59ca3ee36.m3u8
 #EXTINF:-1 tvg-id="Pershyi.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/osTQLED.png" group-title="General",Pershyi
 https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
 #EXTINF:-1 tvg-id="Pershyiavtomobilnyi.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/ul93Lse.png" group-title="Auto",Pershyi avtomobilnyi
@@ -185,12 +179,8 @@ http://stream.mcquack.net/463/index.m3u8
 http://stream.mcquack.net/464/index.m3u8
 #EXTINF:-1 tvg-id="RenomeTV.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/qL1uNlW.png" group-title="General",Renome TV
 http://85.238.112.40:8810/hls_sec/online/list-renome.m3u8
-#EXTINF:-1 tvg-id="Rivne1.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/ytz7jYV.png" group-title="General",Rivne 1
-https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8
-#EXTINF:-1 tvg-id="Rybalka.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/NafW0xT.png" group-title="Outdoor",Rybalka
-https://dash2.antik.sk/live/test_rybalka_tv_atktv/playlist.m3u8
-#EXTINF:-1 tvg-id="SaltTV.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/Y3FRF0g.png" group-title="General",Salt TV
-http://stream.mcquack.net/398/index.m3u8
+#EXTINF:-1 tvg-id="Reporter.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/LyA3kBR.png" group-title="News",Reporter
+http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8
 #EXTINF:-1 tvg-id="SetantaSportsPlusUkraine.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/gHAP4p0.png" group-title="Sports",Setanta Sports+ Ukraine
 http://stream.mcquack.net/390/index.m3u8
 #EXTINF:-1 tvg-id="SferaTV.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/S1h1t0G.png" group-title="General",Sfera-TV
