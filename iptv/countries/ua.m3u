@@ -53,6 +53,8 @@ http://stream.mcquack.net/457/index.m3u8
 http://vcdn1.produck.company:1935/out/dtv/playlist.m3u8
 #EXTINF:-1 tvg-id="DynamoKyivTV.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/ymxmyyG.png" group-title="Sports",Dynamo Kyiv TV
 http://stream.mcquack.net/396/index.m3u8
+#EXTINF:-1 tvg-id="EkoTV.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/WovATGb.png" group-title="Science",Eko TV
+https://ext.cdn.nashnet.tv/228.0.1.60/index.m3u8
 #EXTINF:-1 tvg-id="EnterFilm.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/wQbiGs6.png" group-title="Movies",Enter-Film
 http://stream.mcquack.net/322/index.m3u8
 #EXTINF:-1 tvg-id="Equalympic.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/ixSj4H7.png" group-title="Sports",Equalympic
@@ -105,14 +107,14 @@ http://stream.mcquack.net/445/index.m3u8
 http://stream.mcquack.net/446/index.m3u8
 #EXTINF:-1 tvg-id="KusKus.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/4a4qX0P.png" group-title="General",Kus-Kus
 https://dash2.antik.sk/live/test_kuskus_tv_atktv/playlist.m3u8
-#EXTINF:-1 tvg-id="KvartalTV.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/6ZYWizP.png" group-title="Entertainment",Kvartal TV
-http://158.101.222.193:88/georgia_play.php?id=kvartal95
 #EXTINF:-1 tvg-id="KvartalTVInternational.ua" tvg-country="UA" tvg-language="Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Kvartal_TV_International_%28HD_Logo%29.png" group-title="Entertainment",Kvartal TV International
 https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Kyiv.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/TVuCY4N.png" group-title="News",Kyiv
 https://api-tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
 #EXTINF:-1 tvg-id="Lale.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/CNhqVHd.png" group-title="Kids",Lale
 https://ext.cdn.nashnet.tv/228.0.0.50/index.m3u8
+#EXTINF:-1 tvg-id="Lugansk24.ua" tvg-country="UA" tvg-language="Russian" tvg-logo="https://i.imgur.com/AihoVc0.png" group-title="General",Lugansk 24
+https://streaming.televizor-24-tochka.ru/live/29.m3u8
 #EXTINF:-1 tvg-id="M1.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/wbRdUw8.png" group-title="Music",M1
 http://stream.mcquack.net/218/index.m3u8
 #EXTINF:-1 tvg-id="M2.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/AfcBWCg.png" group-title="Music",M2
@@ -139,8 +141,6 @@ http://stream.mcquack.net/456/index.m3u8
 https://cdn15.live-tv.cloud/ua_infinitas_tv/nashemus-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="Nauka.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/ClGdZCe.png" group-title="Science",Nauka
 http://stream.mcquack.net/403/index.m3u8
-#EXTINF:-1 tvg-id="NikiJunior.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/DrHsNin.png" group-title="Kids",Niki Junior
-http://158.101.222.193:88/georgia_play.php?id=nikijunior
 #EXTINF:-1 tvg-id="NovyiChannel.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/Dnfhdsm.png" group-title="Entertainment",Novyi Channel
 http://stream.mcquack.net/157/index.m3u8
 #EXTINF:-1 tvg-id="NTKTV.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://www.ntktv.ua/bitrix/templates/ntk_copy/images/logo.png" group-title="General",NTK TV
@@ -173,8 +173,6 @@ https://cdn15.live-tv.cloud/ua_infinitas_tv/pixel-abr/playlist.m3u8
 http://stream.mcquack.net/339/index.m3u8
 #EXTINF:-1 tvg-id="PTV.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/WDHoSVz.png" group-title="News",PTV
 https://cdn15.live-tv.cloud/ua_infinitas_tv/hrpl-abr/playlist.m3u8
-#EXTINF:-1 tvg-id="QuizTV.ua" tvg-country="UA" tvg-language="Russian" tvg-logo="https://i.imgur.com/I0ZE0M4.png" group-title="Entertainment",Quiz TV
-http://stream.mcquack.net/397/index.m3u8
 #EXTINF:-1 tvg-id="RadaTV.ua" tvg-country="UA" tvg-language="Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Rada_TV_%282021%29.svg/960px-Rada_TV_%282021%29.svg.png" group-title="Legislative",Rada TV
 https://lowa8026-cmyk.github.io/Ukraine/Edyni_Novyny/RADA.m3u8
 #EXTINF:-1 tvg-id="RAZ1.ua" tvg-country="UA" tvg-language="Russian" tvg-logo="https://s2.vcdn.biz/static/f/7607683721/image.jpg/pt/c192x192x4" group-title="Entertainment",RAZ 1
@@ -228,7 +226,7 @@ https://stream.rai.ua/rai/stream.m3u8
 #EXTINF:-1 tvg-id="Terra.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/HFY61gj.png" group-title="General",Terra
 http://stream.mcquack.net/402/index.m3u8
 #EXTINF:-1 tvg-id="TET.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/Wu6wtbe.png" group-title="General",TET
-http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6377/index.m3u8
+http://stream.mcquack.net/338/index.m3u8
 #EXTINF:-1 tvg-id="TISTV.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/jDaoUt5.png" group-title="General",TIS TV
 https://cdn10.live-tv.cloud/riood/tisod-abr/riood/tisod720/playlist.m3u8
 #EXTINF:-1 tvg-id="Trofei.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/VDt4mKB.png" group-title="Outdoor",Trofei
@@ -237,7 +235,5 @@ http://stream.mcquack.net/357/index.m3u8
 http://hls.cdn.ua/tva.ua_live/livestream/chunklist_w396178779.m3u8
 #EXTINF:-1 tvg-id="Tviyserial.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Tviy_Serial.svg/250px-Tviy_Serial.svg.png" group-title="Series",Tviy serial
 http://stream.mcquack.net/466/index.m3u8
-#EXTINF:-1 tvg-id="UNIANSerial.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%A3%D0%9D%D0%86%D0%90%D0%9D._%D0%A1%D0%B5%D1%80%D1%96%D0%B0%D0%BB.svg/1920px-%D0%A3%D0%9D%D0%86%D0%90%D0%9D._%D0%A1%D0%B5%D1%80%D1%96%D0%B0%D0%BB.svg.png" group-title="General",UNIAN Serial
-http://stream.mcquack.net/341/index.m3u8
 #EXTINF:-1 tvg-id="Zoom.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/ZoomUA_%282025%29.png" group-title="Entertainment",Zoom
 http://stream.mcquack.net/327/index.m3u8
