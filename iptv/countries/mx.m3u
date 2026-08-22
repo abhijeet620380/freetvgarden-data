@@ -11,6 +11,8 @@ https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 #EXTINF:-1 tvg-id="AntenaTV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/1sAgSME.png" group-title="General",Antena TV
 https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8
+#EXTINF:-1 tvg-id="AzCinema.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/B5UN7C8.png" group-title="Movies",Az Cinema
+https://cdn1tlinkgo.tlink.cl/azcinema/index.m3u8
 #EXTINF:-1 tvg-id="AztecaDeportesNetwork.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://match-images.icdb.tv/5913207f2494844101287828e87625eb.jpg" group-title="Sports",Azteca Deportes Network
 http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8
 #EXTINF:-1 tvg-id="AztecaInternacional.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="Entertainment",Azteca Internacional
@@ -43,8 +45,6 @@ https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
 https://stream.crealatv.com/live.m3u8
 #EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/aksM8pa.png" group-title="Movies",De Pelicula Latin America
 http://181.119.66.28:8081/DE-PELICULA/index.m3u8
-#EXTINF:-1 tvg-id="DespiertaTV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/hywjKNo.jpg" group-title="General",Despierta TV
-https://video2.lhdserver.es/despiertatv/live.m3u8
 #EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/960px-DistritoComediaLOGO2018.png" group-title="Comedy",Distrito Comedia
 http://181.119.66.28:8081/DISTRITO-COMEDIA/index.m3u8
 #EXTINF:-1 tvg-id="EclipseTV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/GiDD8xG.jpg" group-title="General",Eclipse TV
@@ -63,8 +63,6 @@ https://rpn.bozztv.com/gusa/gusa-goldentv/index.m3u8
 https://5fc584f3f19c9.streamlock.net/icrtvcolima/smil:icrtvcolima.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="IERTBCSCanal82.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/R3icGuG.png" group-title="Entertainment",IERTBCS Canal 8.2
 https://s5.mexside.net:1936/xhbzc82/xhbzc82/playlist.m3u8
-#EXTINF:-1 tvg-id="ILCECanal15SummaSaberes.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/r7czgOc.png" group-title="Education",ILCE Canal 15 Summa Saberes
-https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/lKrRvtS.png" group-title="General",Imagen TV
 https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
 #EXTINF:-1 tvg-id="ITVDeportes.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://iili.io/J1kV1Bn.png" group-title="Entertainment",ITV Deportes
@@ -74,11 +72,9 @@ https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
 #EXTINF:-1 tvg-id="JusticiaTV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/zyAS1hk.png" group-title="Legislative",Justicia TV
 https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
 #EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="General",Las Estrellas Latin America
-http://15.204.246.24:8080/LasEstrellasHD/index.m3u8
+http://190.93.224.42/CANAL-LAS-ESTRELLAS/index.m3u8
 #EXTINF:-1 tvg-id="LoboTV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/3fA50RJ.png" group-title="Music",Lobo TV
 https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
-#EXTINF:-1 tvg-id="MariaVision.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/GylOPxE.png" group-title="Religious",Maria Vision
-https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 #EXTINF:-1 tvg-id="MexiquenseTV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/iVfzakA.png" group-title="General",Mexiquense TV
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 #EXTINF:-1 tvg-id="MilenioTelevision.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/TG1T5Oh.png" group-title="News",Milenio Television
@@ -95,8 +91,6 @@ https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
 http://181.78.8.199:8000/play/a0bt/index.m3u8
 #EXTINF:-1 tvg-id="PopcornCentral.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ULGVjyC.png" group-title="Movies",Popcorn Central
 https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc.m3u8
-#EXTINF:-1 tvg-id="PresumiendoMexico.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/bFG4Rqz.png" group-title="Culture",Presumiendo Mexico
-https://60417ddeaf0d9.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PSN.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7i7GkSL.png" group-title="Entertainment",PSN
 https://srspsn.live/live/livestream.m3u8
 #EXTINF:-1 tvg-id="PSNCanal452.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7i7GkSL.png" group-title="News",PSN Canal 45.2
@@ -123,8 +117,6 @@ https://player.tvstream.mx/livestream/teleplay/livehd/playlist.m3u8
 https://servilive.com:3879/live/telesaltillolive.m3u8
 #EXTINF:-1 tvg-id="TlaxcalaTV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/5vaEhfy.png" group-title="General",Tlaxcala TV
 https://vid26.mega00.com:5443/live/streams/qNmc7nulmq8zPYZE1582752735050.m3u8
-#EXTINF:-1 tvg-id="TlnovelasLatinAmerica.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Rvm38Mu.png" group-title="Series",Tlnovelas Latin America
-http://209.14.115.253:8081/TELENOVELAS/index.m3u8
 #EXTINF:-1 tvg-id="TRCTV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/W4xwCdl.png" group-title="General",TRC TV
 https://5fe2654d6127d.streamlock.net/trc/videotrc/playlist.m3u8
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="General",TUDN
@@ -163,12 +155,12 @@ https://5ca3e84a76d30.streamlock.net/universidadgto/videouniversidadgto/playlist
 https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8
 #EXTINF:-1 tvg-id="UltraTVPuebla.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://www.ultralaradio.mx/sad/imagenes/sucursales/1.png" group-title="General",Ultra TV Puebla
 https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="UMTV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/sjxVdPh.png" group-title="General",UMTV
+https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u8
 #EXTINF:-1 tvg-id="UnivisionLatinAmerica.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png" group-title="General",Univision Latin America
 http://138.121.15.230:9002/UNIVISION/index.m3u8
 #EXTINF:-1 tvg-id="VBMediaTV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/5qlVblr.png" group-title="Entertainment",VB Media TV
 https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8
-#EXTINF:-1 tvg-id="VisionTelevision.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/HV5tgcM.png" group-title="Music",Vision Television
-https://cloudvideo.servers10.com:8081/8016/index.m3u8
 #EXTINF:-1 tvg-id="WeatherSpy.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/KIEKOt1.png" group-title="Weather",WeatherSpy
 https://jukin-weatherspy-2-mx.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="XEWHTDT.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/klhTyDU.png" group-title="General",XEWH-TDT
