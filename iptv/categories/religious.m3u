@@ -17,8 +17,6 @@ https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8
 https://3abn.bozztv.com/3abn2/Pro_live/smil:Pro_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="3ABNRussia.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/4fhBbam.png" group-title="Religious",3ABN Russia
 https://hls.tv.3angels.ru/stream.m3u8
-#EXTINF:-1 tvg-id="4E.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/Na0UCV7.png" group-title="Religious",4E
-http://eu2.tv4e.gr:1935/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="151BPB.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/hyxkJYV.png" group-title="Religious",15.1 BPB
 https://v2.tustreaming.cl/enlacebpbtv/index.m3u8
 #EXTINF:-1 tvg-id="A2iReligion.sn" tvg-country="SN" tvg-language="Wolof" tvg-logo="https://i.imgur.com/54WrwyN.jpg" group-title="Religious",A2i Religion
@@ -149,6 +147,8 @@ https://app-live.org/live/3268334b/index.m3u8
 https://live.legitpro.co.in/anandtv/index.m3u8
 #EXTINF:-1 tvg-id="AndesTelevision.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/CsW4Op8.png" group-title="Religious",Andes Television
 https://live-evg7.tv360.bitel.com.pe/bitel/andestvSRT/playlist.m3u8
+#EXTINF:-1 tvg-id="AndoTV.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/EpTsFVu.png" group-title="Religious",Ando TV
+http://play.kankanlive.com/live/1711956137852982.m3u8
 #EXTINF:-1 tvg-id="AngelTV.in" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ANGEL_TV/images/LOGO_HD/image.png" group-title="Religious",Angel TV
 https://janya-digimix.akamaized.net/vglive-sk-904559/africa/ngrp:angelafrica_all/playlist.m3u8
 #EXTINF:-1 tvg-id="ApostolTV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/C43Cc9N.png" group-title="Religious",Apostol TV
@@ -159,26 +159,22 @@ https://live.approvaltv.com/approvaltv/index.m3u8
 https://cdn-1.pishow.tv/live/961/master.m3u8
 #EXTINF:-1 tvg-id="ARCanal.pa" tvg-country="PA" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ejRJqSI.png" group-title="Religious",A&R Canal
 http://51.222.9.192:3589/stream/play.m3u8
-#EXTINF:-1 tvg-id="ArkTV.ug" tvg-country="UG" tvg-language="English" tvg-logo="https://i.imgur.com/yCHNZXD.png" group-title="Religious",Ark TV
-https://stream.hydeinnovations.com/arktv-international/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="ArputharYesuTV.in" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://arputharyesutv.net/wp-content/uploads/2022/07/AR-LOGO-PNG.png" group-title="Religious",Arputhar Yesu TV
 https://arputharyesutv.arputharyesutv.com/live/md/index.m3u8
 #EXTINF:-1 tvg-id="AshiilTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/bTktkcr.png" group-title="Religious",Ashiil TV
 https://5bf7b725107e5.streamlock.net/ashiiltv/ashiiltv/playlist.m3u8
 #EXTINF:-1 tvg-id="Asomavision.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/VqwyCV1.png" group-title="Religious",Asomavision
 https://asomatv.cloud-ip.cc/livestream/stream.m3u8
-#EXTINF:-1 tvg-id="AssiratTV.ir" tvg-country="IR" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ps4Gtj0.png" group-title="Religious",Assirat TV
-https://softverse.b-cdn.net/Assirat/assiratobs/playlist.m3u8
 #EXTINF:-1 tvg-id="ATVSat.us" tvg-country="US" tvg-language="Arabic" tvg-logo="https://i.imgur.com/pwM5txv.png" group-title="Religious",ATVSat
 https://stream.atvsat.com/atvsatlive/smil:atvsatlive.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AvivamientoTV.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ydoBp3b.png" group-title="Religious",Avivamiento TV
 https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8
+#EXTINF:-1 tvg-id="AwakeningTV.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Awakening-logo-transparent.png" group-title="Religious",Awakening TV
+https://mumt03.tangotv.in/Dsly5z3HAWAKENINGTV/index.m3u8
 #EXTINF:-1 tvg-id="AzanTV.ca" tvg-country="CA" tvg-language="Bengali" tvg-logo="https://i.imgur.com/JlqS6I4.jpeg" group-title="Religious",Azan TV
 https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
 #EXTINF:-1 tvg-id="BahrainQuran.bh" tvg-country="BH" tvg-language="Arabic" tvg-logo="https://i.imgur.com/er5hOK4.png" group-title="Religious",Bahrain Quran
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
-#EXTINF:-1 tvg-id="BBSTV.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/01UmXRe.png" group-title="Religious",BBS TV
-http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="BeautifulLifeTV.tw" tvg-country="TW" tvg-language="Chinese" tvg-logo="https://i.imgur.com/hkwcBM9.png" group-title="Religious",Beautiful Life TV
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 #EXTINF:-1 tvg-id="BeitolAbbasTVChannel.iq" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://i.imgur.com/s8PfUQy.png" group-title="Religious",BeitolAbbas TV Channel
@@ -197,8 +193,6 @@ https://cdn-1.pishow.tv/live/397/master.m3u8
 https://mumt05.tangotv.in/87NeALx2BHAKTISAGAR/index.m3u8
 #EXTINF:-1 tvg-id="BoonniyomTV.th" tvg-country="TH" tvg-language="Thai" tvg-logo="https://i.imgur.com/KvdFCD5.png" group-title="Religious",Boonniyom TV
 https://live.x2.co.th/live/bntv.m3u8
-#EXTINF:-1 tvg-id="BTNTV.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/sOoS7RQ.png" group-title="Religious",BTN TV
-https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
 #EXTINF:-1 tvg-id="BXInspire.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/PF71rdZ.png" group-title="Religious",BX Inspire
 https://reflect-stream-bronxnet.cablecast.tv/live-18/live/stream-7/live.m3u8
 #EXTINF:-1 tvg-id="Canal6VientoRecio.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/liyTNzK.png" group-title="Religious",Canal 6 Viento Recio
@@ -265,8 +259,6 @@ https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_024/Stream/playlist.m3u
 http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CieloTV.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/2PNw6BA.png" group-title="Religious",Cielo TV
 https://streaming.servervideo.net:1936/cielotv/cielotv/playlist.m3u8
-#EXTINF:-1 tvg-id="CityEdenTV.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/X9kACKi.png" group-title="General",City Eden TV
-https://cityeden.catcast.tv/content/34246/index.m3u8
 #EXTINF:-1 tvg-id="CMBTelevision.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/akGKPsk.png" group-title="Religious",CMB Television
 https://cdn1.cmbcolombia.tv/bethesda/video.m3u8
 #EXTINF:-1 tvg-id="ConectadosconDios.gt" tvg-country="GT" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Drn8nql.png" group-title="Religious",Conectados con Dios
@@ -297,6 +289,8 @@ https://yuppnimrestreammum.akamaized.net/181224/smil:cvrom1.smil/playlist.m3u8?h
 https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 #EXTINF:-1 tvg-id="DareToDreamNetwork.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/oNUpXA9.png" group-title="Religious",Dare To Dream Network
 https://3abn.bozztv.com/3abn2/d2d_live/smil:d2d_live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Darshan24.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Darshan_24.png" group-title="Religious",Darshan 24
+https://mumt05.tangotv.in/87NeALx2DARSHAN24/index.m3u8
 #EXTINF:-1 tvg-id="DaystarTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/IjzCv8f.png" group-title="Religious",Daystar TV
 https://live-mcl.cdn01.net/smarttv/48vy43564/playlist.m3u8
 #EXTINF:-1 tvg-id="DaystarTVEspanol.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4nP7j4M.png" group-title="Religious",Daystar TV Espanol
@@ -347,6 +341,8 @@ https://5bf8041cb3fed.streamlock.net/PuertoTV/PuertoTV/playlist.m3u8
 http://190.61.90.17:40000/play/a025/index.m3u8
 #EXTINF:-1 tvg-id="Enlace.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/YwUVTmS.png" group-title="Religious",Enlace
 http://177.234.249.178:8888/ENLACE/index.m3u8
+#EXTINF:-1 tvg-id="EnlaceJuvenil.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/GfpPQ5D.png" group-title="Religious",Enlace Juvenil
+https://livecdnusa.enlace.plus/ejtv/smil:ejtv-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ErfanHalghehTV.ca" tvg-country="CA" tvg-language="Persian" tvg-logo="https://i.ibb.co/mGC5BMR/erfan-halgheh-tv-au.png" group-title="Religious",Erfan Halgheh TV
 https://hls.erfanhalgheh.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Ertsulovneba.ge" tvg-country="GE" tvg-language="Georgian" tvg-logo="https://i.imgur.com/KuuODMM.png" group-title="Religious",Ertsulovneba
@@ -371,6 +367,8 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/q6xkg9py/480/chunklist.m3
 https://cdn3.wowza.com/1/ZHdrMWt1NjlDSzFu/bzdDVG10/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTNUkraine.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="" group-title="Religious",EWTN Ukraine
 https://cdn3.wowza.com/1/WjduMm1tYnlwNXQx/M01NV3Uz/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="ExodusTV.si" tvg-country="SI" tvg-language="Slovenian" tvg-logo="https://i.imgur.com/WKr5ncQ.png" group-title="Religious",Exodus TV
+https://584943999.r.worldssl.net/584943999/_definst_/vzivo/playlist.m3u8
 #EXTINF:-1 tvg-id="ExtremaTV.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/E9AuhOU.png" group-title="Religious",Extrema TV
 https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="FaithAfrica.za" tvg-country="ZA" tvg-language="English" tvg-logo="https://i.imgur.com/yAZE7aU.png" group-title="Religious",Faith Africa
@@ -381,8 +379,6 @@ https://faithnow-hls.secdn.net/faithnow-holland-channel/play/FaithTV.smil/playli
 https://faithnow-hls.secdn.net/faithnow-c-channel/play/FaithUK.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="FaithWorldTV.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/RLHRjQ3.png" group-title="Religious",Faith World TV
 https://faithworldtv.abs.tv/1826926230/index.m3u8
-#EXTINF:-1 tvg-id="FajarTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/mkuXxRK.png" group-title="Religious",Fajar TV
-http://122.248.43.242:1935/FAJARTV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="FarmodaTV.iq" tvg-country="IQ" tvg-language="Kurdish" tvg-logo="https://i.imgur.com/x4KCQlH.png" group-title="Religious",FarmodaTV
 https://avr.host247.net/live/FarmodaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="FarodeSantidadTV.pr" tvg-country="PR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/GoNBFzI.png" group-title="Religious",Faro de Santidad TV
@@ -397,6 +393,8 @@ https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8
 https://uni01rtmp.tulix.tv/firstlight/firstlight.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="FlameTV.ng" tvg-country="NG" tvg-language="English" tvg-logo="https://i.imgur.com/ORKcnzr.png" group-title="Religious",Flame TV
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_010/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="FonteTV.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/7q2BmNc.png" group-title="Religious",Fonte TV
+http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
 #EXTINF:-1 tvg-id="FortalezaTV.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/BJpop5n.png" group-title="Religious",Fortaleza TV
 https://multimedia.fortalezatv.cl/video/video.m3u8
 #EXTINF:-1 tvg-id="FrecuenciaFTV.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Cw5k96N.png" group-title="Religious",Frecuencia F TV
@@ -439,26 +437,16 @@ https://livecdn.live247stream.com/grace/tv/playlist.m3u8
 https://streamer1.nexgen.bz/GUADALUPE_MEDIA/index.m3u8
 #EXTINF:-1 tvg-id="GurSikhSabhaTV.ca" tvg-country="CA" tvg-language="Hindi" tvg-logo="https://i.imgur.com/2EKCtQm.png" group-title="Religious",GurSikh Sabha TV
 http://cdn12.henico.net:8080/live/gsctv/index.m3u8
-#EXTINF:-1 tvg-id="HabibTV.ir" tvg-country="IR" tvg-language="Arabic" tvg-logo="https://i.ibb.co/spZRy7mg/habib.png" group-title="Religious",Habib TV
-https://ncdn.telewebion.ir/habib/live/playlist.m3u8
 #EXTINF:-1 tvg-id="HareKrsnaTV.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/6669891abac4421ebc53365e/images/logo_20231219_202633_68.png" group-title="Religious",Hare Krsna TV
-https://hktv.harekrsnatv.com/HKTV/HKWebApp/manifest.mpd
-#EXTINF:-1 tvg-id="HarvestTV.in" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HARVEST_TV_24X7/images/LOGO_HD/image.png" group-title="Religious",Harvest TV
-https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvesttvlive1/bbb19eae240ec100af921d511efc86a0.sdp/index.m3u8
-#EXTINF:-1 tvg-id="HarvestTVKeralam.in" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/1DyPuIt.png" group-title="Religious",Harvest TV Keralam
-https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestenglish/d1796a22d24e8696c7d5d0b5c349fdd2.sdp/index.m3u8
-#EXTINF:-1 tvg-id="HarvestUSA.in" tvg-country="IN" tvg-language="English" tvg-logo="" group-title="Religious",Harvest USA
-https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="HebronTV.in" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i0.wp.com/hebrontv.in/wp-content/uploads/2023/11/hebron-.png?w=512" group-title="Religious",Hebron TV
-https://account20.livebox.co.in/charleshls/live.m3u8
-#EXTINF:-1 tvg-id="Hidabroot.il" tvg-country="IL" tvg-language="Hebrew" tvg-logo="https://i.imgur.com/CTH4Hu2.png" group-title="Religious",Hidabroot
-https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
+https://mumt05.tangotv.in/87NeALx2HAREKRSNA/index.m3u8
 #EXTINF:-1 tvg-id="HimlenTV7.fi" tvg-country="FI" tvg-language="Swedish" tvg-logo="https://i.imgur.com/k8a7KNn.png" group-title="Religious",Himlen TV7
 https://vod.tv7.fi/tv7-se/smil:tv7-se.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="HinduDharmam.in" tvg-country="IN" tvg-language="Telugu" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Hindu%20Dharmam.png" group-title="Religious",Hindu Dharmam
 https://mumt01.tangotv.in/O5aw8Zn3HINDUDHARMAM/index.m3u8
 #EXTINF:-1 tvg-id="HolyQuranRadio.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ut0kr4x.png" group-title="Religious",Holy Quran Radio
 https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8
+#EXTINF:-1 tvg-id="HolyQuranRadioNablus.ps" tvg-country="PS" tvg-language="Arabic" tvg-logo="https://quran-radio.com/assets/images/site/quran-radio-logo-h-rtl.png" group-title="Religious",Holy Quran Radio Nablus
+http://streaming.zaytonatube.com:8080/holyquran/holyquran/video.m3u8
 #EXTINF:-1 tvg-id="HomebaseTV.za" tvg-country="ZA" tvg-language="English" tvg-logo="https://i.imgur.com/MaLNfJG.png" group-title="Religious",Homebase TV
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_022/Stream/playlist.m3u8
 #EXTINF:-1 tvg-id="HopeChannelAfrica.za" tvg-country="ZA" tvg-language="English" tvg-logo="https://i.imgur.com/SFacyYO.png" group-title="Religious",Hope Channel Africa
@@ -479,6 +467,8 @@ https://jstre.am/live/jsl:UP9KAdlVrm8.m3u8
 https://jstre.am/live/jsl:cZXINbwrFj6.m3u8
 #EXTINF:-1 tvg-id="HopeChannelNorthAmerica.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/2qXqajS.png" group-title="Religious",Hope Channel North America
 https://jstre.am/live/jsl:0sUSK6VA7GT.m3u8
+#EXTINF:-1 tvg-id="HopeChannelPhilippines.ph" tvg-country="PH" tvg-language="English" tvg-logo="https://i.imgur.com/LB2vmMt.png" group-title="Religious",Hope Channel Philippines
+https://jstre.am/live/jsl:nX5eC7gQvZb.m3u8
 #EXTINF:-1 tvg-id="HopeChannelRussia.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/ah6VnFJ.png" group-title="Religious",Hope Channel Russia
 https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
 #EXTINF:-1 tvg-id="HopeChannelUkraine.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/mUx2P29.png" group-title="Religious",Hope Channel Ukraine
@@ -489,8 +479,6 @@ https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/playlist.m3u8
 https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
 #EXTINF:-1 tvg-id="HuzurTV.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/Abg1fct.png" group-title="Religious",Huzur TV
 https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
-#EXTINF:-1 tvg-id="IAmChannel.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/Gg6OcGT.png" group-title="Religious",I Am Channel
-https://61146e7ab7a66.streamlock.net:8089/tes/1/chunklist.m3u8
 #EXTINF:-1 tvg-id="IBNTV.tz" tvg-country="TZ" tvg-language="English" tvg-logo="https://i.imgur.com/hkV51ij.png" group-title="Religious",IBN TV
 http://138.68.138.119:8080/live/5a8993709ea19/index.m3u8
 #EXTINF:-1 tvg-id="IBNTVAfrica.tz" tvg-country="TZ" tvg-language="English" tvg-logo="https://i.imgur.com/eKy2ocd.png" group-title="Religious",IBN TV Africa
@@ -535,8 +523,6 @@ https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m
 https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist.m3u8
 #EXTINF:-1 tvg-id="IqraaQuran.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/HPVsIa4.png" group-title="Religious",Iqraa Quran
 https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8
-#EXTINF:-1 tvg-id="IqraBangla.uk" tvg-country="UK" tvg-language="Bengali" tvg-logo="https://i.imgur.com/BZBZAeC.png" group-title="Religious",Iqra Bangla
-https://tvsen3.aynaott.com/EuEy5mBW/index.m3u8
 #EXTINF:-1 tvg-id="IranJewishTV.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.ibb.co/JWXs7csN/en.png" group-title="Religious",Iran Jewish TV
 http://iran620.com:1935/live/IranJewishTv/playlist.m3u8
 #EXTINF:-1 tvg-id="IsaacTV.pk" tvg-country="PK" tvg-language="English" tvg-logo="https://i.imgur.com/RHDbsiO.png" group-title="Religious",Isaac TV
@@ -549,12 +535,18 @@ https://6n3yow8pl9ok-hls-live.5centscdn.com/ishwartvlive/tv.stream/playlist.m3u8
 https://itiswrittentv.akamaized.net/xR8gyATuHMVx69u9G79DXnpNRL/playlist.m3u8
 #EXTINF:-1 tvg-id="ItsSupernaturalNetwork.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/JWrdL9a.png" group-title="Religious",It's Supernatural! Network
 https://content.uplynk.com/channel/b880a791bf95426d917a509e0c44796a.m3u8
+#EXTINF:-1 tvg-id="IzzahTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/my7aqLc.png" group-title="Religious",Izzah TV
+https://streaming.radiosalamjambi.com/izzahtv.m3u8
+#EXTINF:-1 tvg-id="JayaTV.lk" tvg-country="LK" tvg-language="Sinhala" tvg-logo="https://i.imgur.com/J8NA1i9.jpeg" group-title="Religious",Jaya TV
+https://live.jayatv.lk/hls/stream.m3u8
 #EXTINF:-1 tvg-id="JBNTV.hn" tvg-country="HN" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4EbHIvf.png" group-title="Religious",JBN TV
 https://tv.webmedialive.com/jbn_live/enlace/playlist.m3u8
 #EXTINF:-1 tvg-id="JBS.us" tvg-country="US" tvg-language="English" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lDWY-W9dD7UvLlp1NuWLJs1wV6t_KjeOT-1iVVIGuLZ8U=s512-c-k-c0x00ffffff-no-rj" group-title="Religious",JBS
 https://rpn3.bozztv.com/jbstv-srt/srt-push/jbstv/playlist.m3u8
 #EXTINF:-1 tvg-id="JewishLifeTelevision.us" tvg-country="US" tvg-language="English" tvg-logo="https://yt3.googleusercontent.com/i6ETvgNzA8vvGCo-Ih6eo2XZUwz2VVMnstLyNZVXBlwa4uOeUIEl-3tzphB8phJaibe-FPQ5Fw=s512-c-k-c0x00ffffff-no-rj" group-title="Culture",Jewish Life Television
 https://jlt-jltv-strimm.otteravision.com/jlt/jltv/jltv.m3u8
+#EXTINF:-1 tvg-id="JFVTV.sv" tvg-country="SV" tvg-language="Spanish" tvg-logo="https://i.imgur.com/SrmI6nU.jpeg" group-title="Religious",JFV TV
+https://2nbyj587d53k-hls-live.5centscdn.com/09/25b94ec89b2aa708c3c4ad0014b09845.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="JinvaniChannel.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Jinvani%20Channel.png" group-title="Religious",Jinvani Channel
 https://cdn-2.pishow.tv/live/989/master.m3u8
 #EXTINF:-1 tvg-id="JN19.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/dudxyqk.png" group-title="Religious",JN 19
@@ -611,10 +603,16 @@ https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8
 https://jk3lzkn4lw79-hls-live.5centscdn.com/VTN2/bcaafe9ad8d42834b08e762ac58596b8.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="LalegulTV.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/wwCysFs.png" group-title="Religious",Lalegul TV
 https://lbl.netmedya.net/hls/lalegultv.m3u8
+#EXTINF:-1 tvg-id="LaVozdeJesusHD.do" tvg-country="DO" tvg-language="English" tvg-logo="https://gia.tv/streams/pstream/208429.png" group-title="Religious",La Voz de Jesus HD
+https://live20.bozztv.com/giatvplayout7/giatv-208429/playlist.m3u8
+#EXTINF:-1 tvg-id="LaVozdeMaria.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Zv8CxZX.png" group-title="Religious",La Voz de Maria
+https://live.lavozdemaria.com:3436/live/lavozdemarialive.m3u8
+#EXTINF:-1 tvg-id="LBFDRTV.cd" tvg-country="CD" tvg-language="French" tvg-logo="https://i.imgur.com/buMvLJc.jpeg" group-title="Religious",LBFD RTV
+https://tnt-television.com/LBFD_RTV/index.m3u8
 #EXTINF:-1 tvg-id="LGDTelevision.ve" tvg-country="VE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/a9E0DTY.jpeg" group-title="Religious",LGD Television
 https://streamtv.intervenhosting.net:3403/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="LifeTV.ee" tvg-country="EE" tvg-language="Russian" tvg-logo="https://i.imgur.com/JhrTB82.png" group-title="Religious",Life TV
-https://lifetv.bitflip.ee/live/stream1.m3u8
+http://lifetv.bitflip.ee/live/stream1_1/index.m3u8
 #EXTINF:-1 tvg-id="LifeTV.in" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.ibb.co/v1C0bdR/logo-1.png" group-title="Religious",Life TV
 https://lifetv.livebox.co.in/lifetvhls/lifetv.m3u8
 #EXTINF:-1 tvg-id="LifeTv.sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/jO8kAY2.png" group-title="Religious",LifeTv
@@ -685,32 +683,6 @@ https://mahaasintv.livebox.co.in/mahaasintvhls/mahaasintv.m3u8
 https://livetv.305streamhd.com:3667/live/majestadtvlive.m3u8
 #EXTINF:-1 tvg-id="MakkahTV.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/PRPcOi0.png" group-title="Religious",Makkah TV
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
-#EXTINF:-1 tvg-id="ManaChurchOnline.pt" tvg-country="PT" tvg-language="English" tvg-logo="https://i.imgur.com/FRDJSim.png" group-title="Religious",Mana Church Online
-https://w2.manasat.com/church-online/smil:church-online.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ManaCirkevOnline.pt" tvg-country="PT" tvg-language="Slovak" tvg-logo="https://i.imgur.com/tYhXeRq.png" group-title="Religious",Mana Cirkev Online
-https://w2.manasat.com/cirkev-online/smil:cirkev-online.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ManaEgliseOnline.pt" tvg-country="PT" tvg-language="French" tvg-logo="https://i.imgur.com/xQYly8O.png" group-title="Religious",Mana Eglise Online
-https://w2.manasat.com/eglise-online/smil:eglise-online.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ManaIglesiaOnline.pt" tvg-country="PT" tvg-language="Spanish" tvg-logo="https://i.imgur.com/0IUvfcJ.png" group-title="Religious",Mana Iglesia Online
-https://w2.manasat.com/iglesia-online/smil:iglesia-online.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ManaIgrejaOnline.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/0IUvfcJ.png" group-title="Religious",Mana Igreja Online
-https://w1.manasat.com/igrejaonline/smil:igrejaonline.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ManaTserkovOnlayn.pt" tvg-country="PT" tvg-language="Russian" tvg-logo="https://i.imgur.com/PruXLqS.png" group-title="Religious",Mana Tserkov' Onlayn
-https://w2.manasat.com/tserkov-online/smil:tserkov-online.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="MariaPlusVisionMedjugorje.ba" tvg-country="BA" tvg-language="Spanish" tvg-logo="https://i.imgur.com/xUOspBx.png" group-title="Religious",Maria+Vision Medjugorje
-https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Italiasette/playlist.m3u8
-#EXTINF:-1 tvg-id="MariaVision.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/GylOPxE.png" group-title="Religious",Maria Vision
-https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
-#EXTINF:-1 tvg-id="MariaVisionItalia.it" tvg-country="IT" tvg-language="Isekiri" tvg-logo="https://i.imgur.com/gP3XAlV.jpeg" group-title="Religious",Maria Vision Italia
-https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:CHANNEL_2/playlist.m3u8
-#EXTINF:-1 tvg-id="MariaVisionUSA.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/eaVt8R1.png" group-title="Religious",Maria Vision USA
-https://1601580044.rsc.cdn77.org/live/_jcn_/amls:PALMIAMI/playlist.m3u8
-#EXTINF:-1 tvg-id="MarjaeyatTVArabic.iq" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://i.imgur.com/LsYYkUI.png" group-title="Religious",Marjaeyat TV Arabic
-https://livefa.marjaeyattv.com/mtv_ar/playlist.m3u8
-#EXTINF:-1 tvg-id="MarjaeyatTVEnglish.iq" tvg-country="IQ" tvg-language="English" tvg-logo="https://i.imgur.com/Dvf61Jp.png" group-title="Religious",Marjaeyat TV English
-https://livefa.marjaeyattv.com/mtv_en/playlist.m3u8
-#EXTINF:-1 tvg-id="MarjaeyatTVPersian.iq" tvg-country="IQ" tvg-language="Persian" tvg-logo="https://i.imgur.com/fCj05f0.png" group-title="Religious",Marjaeyat TV Persian
-https://livefa.marjaeyattv.com/mtv_fa/playlist.m3u8
 #EXTINF:-1 tvg-id="MCNTelevision.gt" tvg-country="GT" tvg-language="Spanish" tvg-logo="https://i.imgur.com/SNUaCCw.png" group-title="Religious",MCN Television
 https://eu1.servers10.com:8081/8338/index.m3u8
 #EXTINF:-1 tvg-id="MercyandTruthMinistriesTelevision.jm" tvg-country="JM" tvg-language="English" tvg-logo="https://i.imgur.com/krcVhrx.png" group-title="Religious",Mercy and Truth Ministries Television
@@ -863,8 +835,6 @@ https://cdn-6.pishow.tv/live/1503/master.m3u8
 https://qatartv.akamaized.net/hls/live/20000612/qtvquran/master.m3u8
 #EXTINF:-1 tvg-id="QuoVadisTV.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://i.imgur.com/pEqDDHl.png" group-title="Religious",Quo Vadis TV
 https://tgn.bozztv.com/qvtv/qvtv-web/playlist.m3u8
-#EXTINF:-1 tvg-id="QuranTV.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/d/df/Quarntvlogo.png" group-title="Religious",Quran TV
-https://ncdn.telewebion.ir/quran/live/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioArmoniaTV.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/puWBnP3.png" group-title="Religious",Radio Armonia TV
 https://v2.tustreaming.cl/armoniamovil/index.m3u8
 #EXTINF:-1 tvg-id="RadioElSembrador.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/gBpMAc3.png" group-title="Religious",Radio El Sembrador
@@ -887,6 +857,8 @@ https://f-tx-edge-87.christianworldmedia.com/EJCFG/mp4:EJCFG/playlist.m3u8
 https://video1.getstreamhosting.com:1936/8560/8560/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioTeleSentinel.us" tvg-country="US" tvg-language="French" tvg-logo="https://i.imgur.com/hy3BJxj.png" group-title="Religious",Radio Tele Sentinel
 https://59d39900ebfb8.streamlock.net/radiotelesentinel/radiotelesentinel/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioTVElArcadelPacto.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Oq0i3Rb.png" group-title="Religious",Radio TV El Arca del Pacto
+https://video.wilohosting.com:19360/radiotvelarcadelpacto/radiotvelarcadelpacto.m3u8
 #EXTINF:-1 tvg-id="RasoulallahTv.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/Jh5ADee.png" group-title="Religious",RasoulallahTv
 https://avr.host247.net/live/rasoulallahtv/playlist.m3u8
 #EXTINF:-1 tvg-id="RCCTV.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/qdjBnRl.png" group-title="Religious",RCC TV
@@ -1005,6 +977,8 @@ https://bozztv.com/uni10rtmp/ssstv1-cdn/smil:ssstv1web.smil/playlist.m3u8
 https://bozztv.com/uni10rtmp/ssstv2-cdn/smil:ssstv2web.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SuyapaTV.hn" tvg-country="HN" tvg-language="Spanish" tvg-logo="https://i.imgur.com/I7GuToz.png" group-title="Religious",Suyapa TV
 https://streamingcws30.com/suyapa2/videosuyapa2/playlist.m3u8
+#EXTINF:-1 tvg-id="SVBC2.in" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/SVBC%202.png" group-title="Religious",SVBC 2
+https://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="SVBC3.in" tvg-country="IN" tvg-language="Kannada" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/SVBG-3-Transparent.png" group-title="Religious",SVBC 3
 https://player.mslivestream.net/svbc/2e628d7e1b65d31254fd7705ff7ee64d.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="SVBC4.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SVBC4.png" group-title="Religious",SVBC 4
@@ -1072,7 +1046,7 @@ https://vs.sednastream.com:1936/tv7/tv7/playlist.m3u8
 #EXTINF:-1 tvg-id="TV2000.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/0d/Logo_tv2000_2015.svg/960px-Logo_tv2000_2015.svg.png" group-title="Religious",TV2000
 https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 #EXTINF:-1 tvg-id="TVAparecida.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/kxrja0X.png" group-title="Religious",TV Aparecida
-http://45.162.64.114/TV_APARECIDA/index.m3u8
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCa.sv" tvg-country="SV" tvg-language="Spanish" tvg-logo="https://i.imgur.com/uPWWtCA.png" group-title="Religious",TVCa
 https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCARiBGospel.sx" tvg-country="SX" tvg-language="French" tvg-logo="https://i.imgur.com/fvGlwKo.png" group-title="Religious",TVCARiB Gospel
@@ -1087,6 +1061,30 @@ http://45.162.64.114/EVANGELIZAR/index.m3u8
 https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGetsemani.sv" tvg-country="SV" tvg-language="Spanish" tvg-logo="https://i.imgur.com/C9SJCcE.jpg" group-title="Religious",TV Getsemani
 https://serversv.com:8080/hls/tvgetsemani.m3u8
+#EXTINF:-1 tvg-id="TVGracia.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/tMl4ISO.png" group-title="Religious",TVGracia
+https://vs20.live.opencaster.com/diego_57244803/index.m3u8
+#EXTINF:-1 tvg-id="TVLuz.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/FZUQ2WP.png" group-title="Religious",TV Luz
+https://host.streamingnation.live/p/3780/live/tvluzlive.m3u8
+#EXTINF:-1 tvg-id="TVMana1.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/6jNqpTP.png" group-title="Religious",TV Mana 1
+https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMana2.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/VYNjVov.png" group-title="Religious",TV Mana 2
+https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVManaArgentina.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/jars0mP.png" group-title="Religious",TV Mana Argentina
+https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVManaBrasil.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/AFb712e.png" group-title="Religious",TV Mana Brasil
+https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVManaEnglish.pt" tvg-country="PT" tvg-language="English" tvg-logo="https://i.imgur.com/I66IkCw.png" group-title="Religious",TV Mana English
+https://w1.manasat.com/tvmana-english/smil:tvmana-english.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVManaEspanhol.pt" tvg-country="PT" tvg-language="Spanish" tvg-logo="https://i.imgur.com/sUlrSwP.png" group-title="Religious",TV Mana Espanhol
+https://w1.manasat.com/tvmana-espanol/smil:tvmana-espanol.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVManaMocambique.mz" tvg-country="MZ" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/R5YrV5s.png" group-title="Religious",TV Mana Mocambique
+https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVManaRusskiy.pt" tvg-country="PT" tvg-language="Russian" tvg-logo="https://i.imgur.com/fACHqmY.png" group-title="Religious",TV Mana Russkiy
+https://w1.manasat.com/tvmana-leste/smil:tvmana-leste.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMuslimThailand.th" tvg-country="TH" tvg-language="Thai" tvg-logo="https://i.imgur.com/aCFpuzW.png" group-title="Religious",TV Muslim Thailand
+https://vdo.plathong.net/tvmuslim/tvmuslim/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPadreCicero.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Y7b29VG.png" group-title="Religious",TV Padre Cicero
+https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPaiEterno.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/iuoXchN.png" group-title="Religious",TV Pai Eterno
 http://45.162.64.114/TV_PAI_ETERNO/index.m3u8
 #EXTINF:-1 tvg-id="TVTerceiroAnjo.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/PExKWNv.png" group-title="Religious",TV Terceiro Anjo
@@ -1095,20 +1093,24 @@ https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TVUniversalEcuador.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/TIsk5zN.png" group-title="Religious",TV Universal Ecuador
 https://cdn.mycloudstream.io/hls/live/broadcast/uwcedjt2/index.m3u8
+#EXTINF:-1 tvg-id="UnifeTV.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/TLM592m.png" group-title="Religious",Unife TV
+https://cdn.mycloudstream.io/hls/live/broadcast/xundwjvp/index.m3u8
 #EXTINF:-1 tvg-id="Vedic.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Vedic.png" group-title="Religious",Vedic
 https://aasthaott.akamaized.net/110923/smil:vedic.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="VelayatTVNetwork.us" tvg-country="US" tvg-language="Persian" tvg-logo="https://i.imgur.com/bRQSzhs.png" group-title="Religious",Velayat TV Network
+https://nl.livekadeh.com/hls2/velayattv.m3u8
 #EXTINF:-1 tvg-id="VidaMejorTV.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/1hJ16i0.png" group-title="Religious",Vida Mejor TV
 https://tgn.bozztv.com/betterlife/bettervida/bettervida/index.m3u8
 #EXTINF:-1 tvg-id="VillageTV.in" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/VillageTV.png" group-title="Religious",Village TV
 https://villagetv.applelive.in/villagetv/villagetv/index.m3u8
 #EXTINF:-1 tvg-id="Vision.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/gyuoNZk.png" group-title="Religious",Vision
 https://lbgo.bozztv.com/ssh101/ssh101/visiononline/playlist.m3u8
+#EXTINF:-1 tvg-id="VisionLatina.pa" tvg-country="PA" tvg-language="Spanish" tvg-logo="https://i.imgur.com/TG30lWA.jpg" group-title="Religious",Vision Latina
+https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/64917431-2f51-0a46-d4d0-04d111b2393f/master.m3u8
 #EXTINF:-1 tvg-id="W14DKD141.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/TjQP7kS.png" group-title="Religious",W14DK-D 14.1
 https://2-fss-2.streamhoster.com/pl_118/amlst:204972-1949480/playlist.m3u8
 #EXTINF:-1 tvg-id="WATCDT573.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4SmNFCX.png" group-title="Religious",WATC-DT 57.3
 https://tgn.bozztv.com/watc57/watc57-theloop/watc57-theloop/index.m3u8
-#EXTINF:-1 tvg-id="WDWL581.pr" tvg-country="PR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/B7lqYZe.png" group-title="Religious",WDWL 58.1
-https://67acccf130420.streamlock.net/enlacepr1/enlacepr1/playlist.m3u8
 #EXTINF:-1 tvg-id="WECN.pr" tvg-country="PR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/NYBZBY0.png" group-title="Religious",WECN
 https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/chunklist_w239411719.m3u8
 #EXTINF:-1 tvg-id="WELU81.pr" tvg-country="PR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/42UdwD0.png" group-title="Religious",WELU 8.1
