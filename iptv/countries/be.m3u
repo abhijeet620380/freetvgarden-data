@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ACTV.be" tvg-country="BE" tvg-language="French" tvg-logo="https://files.catbox.moe/8v2y8m.png" group-title="General",ACTV
-https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/4db788c7/index.m3u8
 #EXTINF:-1 tvg-id="ATV.be" tvg-country="BE" tvg-language="Dutch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/ATV_Belgium_logo.svg/960px-ATV_Belgium_logo.svg.png" group-title="General",ATV
 https://live.zendzend.com/mpegts/29375_107244/media_mpegts_0.m3u8
 #EXTINF:-1 tvg-id="Bouke.be" tvg-country="BE" tvg-language="French" tvg-logo="https://i.imgur.com/STLavel.png" group-title="General",Bouke
@@ -19,6 +17,8 @@ https://live.vrtcdn.be/groupb/live/9c429b62-e160-417a-b438-cdf985bcd352/live.ism
 http://193.111.198.85:8589/stream/mstv/rtbflatroislive26/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
 #EXTINF:-1 tvg-id="LaUne.be" tvg-country="BE" tvg-language="French" tvg-logo="https://i.imgur.com/jMwZp7z.png" group-title="Entertainment",La Une
 http://193.111.198.85:8589/stream/mstv/rtbflaunelive26/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
+#EXTINF:-1 tvg-id="Matele.be" tvg-country="BE" tvg-language="French" tvg-logo="https://i.imgur.com/rw72POr.png" group-title="General",Matele
+https://live.matele.be/hls/live.m3u8
 #EXTINF:-1 tvg-id="MNM.be" tvg-country="BE" tvg-language="Dutch" tvg-logo="https://i.imgur.com/L4cD18H.png" group-title="Music",MNM
 https://live.vrtcdn.be/groupa/live/1718328a-5c53-410d-87ec-d8db68124cfc/live.isml/.m3u8
 #EXTINF:-1 tvg-id="Notele.be" tvg-country="BE" tvg-language="Dutch" tvg-logo="https://i.imgur.com/fGS55nR.png" group-title="General",Notele
