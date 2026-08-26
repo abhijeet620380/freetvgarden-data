@@ -25,6 +25,8 @@ http://88.212.15.19/live/test_disney_junior/playlist.m3u8
 https://antik.streaming.tivio.studio/channels/IxLi19VRasgu94bIaXbH/index.m3u8
 #EXTINF:-1 tvg-id="ElektrikaTV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/OLd5od5.png" group-title="General",Elektrika TV
 https://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Eurosport4KCzechia.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/0o3zjC7.png" group-title="Sports",Eurosport 4K Czechia
+http://88.212.15.19/live/esp_4k_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="FilmPlus.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/OBYuY3S.png" group-title="Movies",Film+
 http://88.212.15.19/live/test_film_plus_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="GolfChannel.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/golfchannel.png" group-title="Sports",Golf Channel
@@ -81,8 +83,12 @@ https://stream.polar.cz/polar/polarlive-1/playlist.m3u8
 http://88.212.15.19/live/prima_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="PrimaCool.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Prima_Cool_logo_zelen%C3%A9.png/960px-Prima_Cool_logo_zelen%C3%A9.png" group-title="General",Prima Cool
 http://88.212.15.19/live/prima_cool_cz_avc/index.m3u8
+#EXTINF:-1 tvg-id="PrimaKrimi.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Prima_Krimi.png/960px-Prima_Krimi.png" group-title="General",Prima Krimi
+http://88.212.15.19/live/test_prima_krimi_cz/playlist.m3u8
 #EXTINF:-1 tvg-id="PrimaLove.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Prima_Love_logo_2018.png/960px-Prima_Love_logo_2018.png" group-title="General",Prima Love
 http://88.212.15.19/live/prima_love_cz_avc/index.m3u8
+#EXTINF:-1 tvg-id="PrimaMax.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/ePrdyLi.png" group-title="General",Prima Max
+http://88.212.15.19/live/test_prima_max_cz/playlist.m3u8
 #EXTINF:-1 tvg-id="PrimaShow.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/XbwAwkp.png" group-title="General",Prima Show
 http://88.212.15.19/live/test_prima_show_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="PrimaStar.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/ppqgNDA.png" group-title="General",Prima Star
@@ -113,6 +119,10 @@ http://88.212.15.19/live/test_barrandov/playlist.m3u8
 https://stream.polar.cz/tvbrno1/tvbrno1live-1/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPaprika.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/NSabYyT.png" group-title="Lifestyle",TV Paprika
 http://88.212.15.19/live/test_parpika_tv_sd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="UpNetwork.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/cwlHDjh.png" group-title="General",Up Network
+https://dash.antik.sk/live/test_upnetwork/playlist.m3u8
+#EXTINF:-1 tvg-id="UTV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/ulfeIwM.png" group-title="General",UTV
+https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8
 #EXTINF:-1 tvg-id="ViasatExplore.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/DyT5pKB.png" group-title="Documentary",Viasat Explore
 http://88.212.15.29/live/test_viasat_explore_atk_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ViasatHistory.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/wRP9XA7.png" group-title="Documentary",Viasat History
