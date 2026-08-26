@@ -1,6 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ACTV.be" tvg-country="BE" tvg-language="French" tvg-logo="https://files.catbox.moe/8v2y8m.png" group-title="General",ACTV
+https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/4db788c7/index.m3u8
 #EXTINF:-1 tvg-id="ATV.be" tvg-country="BE" tvg-language="Dutch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/ATV_Belgium_logo.svg/960px-ATV_Belgium_logo.svg.png" group-title="General",ATV
 https://live.zendzend.com/mpegts/29375_107244/media_mpegts_0.m3u8
+#EXTINF:-1 tvg-id="BAMTV.be" tvg-country="BE" tvg-language="French" tvg-logo="https://i.imgur.com/9UmR6cs.png" group-title="Culture",BAM-TV
+https://belafrikamediatv.vedge.infomaniak.com/livecast/ik:belafrikamediatv/manifest.m3u8
 #EXTINF:-1 tvg-id="Bouke.be" tvg-country="BE" tvg-language="French" tvg-logo="https://i.imgur.com/STLavel.png" group-title="General",Bouke
 https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/e1ccc6aa/index.m3u8
 #EXTINF:-1 tvg-id="BX1.be" tvg-country="BE" tvg-language="French" tvg-logo="https://i.imgur.com/0OkSa6c.png" group-title="General",BX1
@@ -27,8 +31,6 @@ https://streaming01.divercom.be/notele_live/direct.stream/playlist.m3u8
 https://live.vrtcdn.be/groupa/live/3c3a12b5-093d-4a19-ae1f-3e775433286e/live.isml/.m3u8
 #EXTINF:-1 tvg-id="Radio2.be" tvg-country="BE" tvg-language="Dutch" tvg-logo="https://i.ibb.co/47mc8nJ/VRT-Radio-2-2022-svg.png" group-title="General",Radio 2
 https://live.vrtcdn.be/groupa/live/66a9668e-b37b-4de2-878e-0218563b2dd2/live.isml/.m3u8
-#EXTINF:-1 tvg-id="SterkTV.be" tvg-country="BE" tvg-language="Kurdish" tvg-logo="https://i.imgur.com/bIheNAI.png" group-title="News",Sterk TV
-https://hlspackager.akamaized.net/live/DB/STERK_TV/HLS/STERK_TV.m3u8
 #EXTINF:-1 tvg-id="StuBru.be" tvg-country="BE" tvg-language="Dutch" tvg-logo="https://i.ibb.co/y0TcsXw/512px-VRT-Stu-Bru-logo-svg.png" group-title="Music",StuBru
 https://live.vrtcdn.be/groupb/live/450aa9d1-7173-47f3-aaaa-9701426f8ddd/live.isml/.m3u8
 #EXTINF:-1 tvg-id="TeleMB.be" tvg-country="BE" tvg-language="French" tvg-logo="https://i.imgur.com/XAggjM4.png" group-title="General",Tele MB
