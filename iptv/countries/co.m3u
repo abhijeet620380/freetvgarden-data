@@ -41,6 +41,8 @@ https://movil.ejeserver.com/live/teledoradahd.m3u8
 https://movil.ejeserver.com/live/nets.m3u8
 #EXTINF:-1 tvg-id="CanalOracionConSon.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/rfnFqU3.png" group-title="Religious",Canal Oracion Con Son
 https://canal.mediaserver.com.co/live/oracionconson.m3u8
+#EXTINF:-1 tvg-id="CanalPyC.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/3qxBDhV.png" group-title="News",Canal PyC
+https://live20.bozztv.com/akamaissh101/ssh101/pyctelevision/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalRCN.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="General",Canal RCN
 http://138.121.15.230:9002/RCN/index.m3u8
 #EXTINF:-1 tvg-id="CanalTelefamilia.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/D1s1Q3k.png" group-title="Religious",Canal Telefamilia
@@ -93,12 +95,8 @@ https://streamlov.alsolnet.com/hermandadsalsera/live/playlist.m3u8
 https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
 #EXTINF:-1 tvg-id="LaMoradaRadioTV.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/E3wDEX5.png" group-title="Music",La Morada Radio TV
 https://movil.ejeserver.com/live/lamoradatv.m3u8
-#EXTINF:-1 tvg-id="MarsellaTV.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/wwYOa00.png" group-title="General",Marsella TV
-https://stmv2.voxtvhd.com.br/marsella/marsella/playlist.m3u8
 #EXTINF:-1 tvg-id="MasMusicaFM.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/tCg7owd.png" group-title="Music",MasMusica FM
-https://movil.ejeserver.com/live/masmusica.m3u8
-#EXTINF:-1 tvg-id="MasNorteTV.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/NmsWlj6.jpeg" group-title="General",Mas Norte TV
-https://live.arnoproducciones.com/hls/norte.m3u8
+https://video.ejeserver.com/live/masmusica.m3u8
 #EXTINF:-1 tvg-id="MCITelevision.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://pbs.twimg.com/profile_images/1836009952420274177/FfYonU6r_400x400.jpg" group-title="Movies",MCI Television
 https://video.ejeserver.com/live/mcitelevision.m3u8
 #EXTINF:-1 tvg-id="Momento24.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/kLy6w9e.jpeg" group-title="News",Momento24
@@ -131,6 +129,8 @@ https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWE
 https://eu1.servers10.com:8081/8090/index.m3u8
 #EXTINF:-1 tvg-id="RumbaTV.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/WtVpWwI.png" group-title="Music",Rumba TV
 http://45.162.193.35/RUMBATV/index.m3u8
+#EXTINF:-1 tvg-id="SalsaGordaTelevision.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/3IhYd7G.jpg" group-title="Music",Salsa Gorda Television
+https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8
 #EXTINF:-1 tvg-id="SantelTV.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/jmJx0jo.png" group-title="Religious",Santel TV
 https://tv3.bitstreaming.net:3540/live/santeltvlive.m3u8
 #EXTINF:-1 tvg-id="SenalColombia.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Y9x16vl.png" group-title="General",Senal Colombia
@@ -157,6 +157,8 @@ https://liveingesta118.cdnmedia.tv/tvtelemedellinlive/smil:rtmp01.smil/playlist.
 https://live.amelbatv.co:81/telemocoalive/index.m3u8
 #EXTINF:-1 tvg-id="TeleQuindio.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/bJWj5ja.png" group-title="General",TeleQuindio
 https://live20.bozztv.com/akamaissh101/ssh101/telequindio/playlist.m3u8
+#EXTINF:-1 tvg-id="Telesangil.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.ibb.co/27Pzdvw/cropped-TELESANGIL-LOGO-1.png" group-title="General",Telesangil
+https://live20.bozztv.com/akamaissh101/ssh101/telesangil/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleVid.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/OZ4kiXP.png" group-title="Religious",Tele Vid
 https://liveingesta118.cdnmedia.tv/televidtvlive/smil:rtmp01.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TeveColombia.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/vPwiJTw.png" group-title="Entertainment",TeveColombia

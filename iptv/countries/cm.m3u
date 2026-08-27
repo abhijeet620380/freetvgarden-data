@@ -13,5 +13,13 @@ https://live1.acangroup.org:1929/publiclive/crtv_news/playlist.m3u8
 https://stream.az-multimedia.com:3325/live/foryoutvlive.m3u8
 #EXTINF:-1 tvg-id="LauraDaveMediaTV.cm" tvg-country="CM" tvg-language="French" tvg-logo="https://i.imgur.com/zzG1S2n.png" group-title="General",Laura Dave Media TV
 https://streaming.lauradavemedia.com/ldm/index.m3u8
+#EXTINF:-1 tvg-id="MyTVChannel.cm" tvg-country="CM" tvg-language="French" tvg-logo="https://i.imgur.com/vh2373L.png" group-title="General",My TV Channel
+http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
+#EXTINF:-1 tvg-id="PanafricanMediaTV.cm" tvg-country="CM" tvg-language="French" tvg-logo="https://i.imgur.com/wneSSYM.png" group-title="News",Panafrican Media TV
+https://live20.bozztv.com/giatv/giatv-pmtv/pmtv/playlist.m3u8
+#EXTINF:-1 tvg-id="PlayTV.cm" tvg-country="CM" tvg-language="French" tvg-logo="https://i.imgur.com/1dmBqpf.png" group-title="Music",Play TV
+http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8
+#EXTINF:-1 tvg-id="PLEXTV.cm" tvg-country="CM" tvg-language="French" tvg-logo="https://i.ibb.co/H4VktvG/Plex-TV-237.jpg" group-title="Entertainment",PLEX TV
+http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8
 #EXTINF:-1 tvg-id="TR24Television.cm" tvg-country="CM" tvg-language="French" tvg-logo="https://i.ibb.co/fQrBY1M/tr24-telepack.jpg" group-title="Entertainment",TR24 Television
 https://stream.it-innov.com/tr24/index.m3u8
