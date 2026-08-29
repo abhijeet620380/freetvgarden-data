@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="CanThoTV2.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.ibb.co/JjVvkMsf/cantho2-2025.png" group-title="Science",Can Tho TV 2
 https://live.canthotv.vn/cs2/live.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="CanThoTV3.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.ibb.co/d4G2PD9s/cantho3-2025.png" group-title="General",Can Tho TV 3
-https://live.canthotv.vn/cs3/tv/chunklist.m3u8
 #EXTINF:-1 tvg-id="CanThoTV.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.ibb.co/MDhNH26J/cantho1-2025.png" group-title="General",Can Tho TV
 https://live.canthotv.vn/live/tv/chunklist.m3u8
 #EXTINF:-1 tvg-id="CaoBangTV.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/dGonewm.png" group-title="General",Cao Bang TV
@@ -37,8 +35,14 @@ http://dvrfl05.bozztv.com/vch_vchannel18/index.m3u8
 https://qpvn.vn/live/qpvn/master.m3u8
 #EXTINF:-1 tvg-id="QuangNgaiTV.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/QckiN3H.png" group-title="General",Quang Ngai TV
 https://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/chunklist.m3u8
-#EXTINF:-1 tvg-id="SCTV9.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/OJMbhow.png" group-title="General",SCTV9
-https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv9/master.m3u8
+#EXTINF:-1 tvg-id="SCTV7.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/xbIUZYd.png" group-title="General",SCTV7
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv7/master.m3u8
+#EXTINF:-1 tvg-id="SCTV12.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/5pDFkH0.png" group-title="General",SCTV12
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv12/master.m3u8
+#EXTINF:-1 tvg-id="SCTV16.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/ldCYtvt.png" group-title="General",SCTV16
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv16/master.m3u8
+#EXTINF:-1 tvg-id="SCTV19.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/yBAFZRs.png" group-title="General",SCTV19
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv19/master.m3u8
 #EXTINF:-1 tvg-id="SonLaTV.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/MxV9psR.png" group-title="General",Son La TV
 https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/sonla-720p.m3u8
 #EXTINF:-1 tvg-id="TayNinhTV.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://tayninhtv.vn/static/images/logo.png" group-title="General",Tay Ninh TV
@@ -55,5 +59,7 @@ https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist/a
 https://livefta.malimarcdn.com/ftaedge00/uniquely.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="VietnamToday.vn" tvg-country="VN" tvg-language="English" tvg-logo="https://static.mediacdn.vn/vietnamtoday/images/logo-VNToday-light.svg" group-title="General",Vietnam Today
 https://amagi-live.ondemandkorea.com/amgplt0456.m3u8
+#EXTINF:-1 tvg-id="VSBetHD.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/sMhL2Nl.png" group-title="Sports",VSBet HD
+https://live05.meung.app/live/16226575.m3u8
 #EXTINF:-1 tvg-id="VTV2.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/qWWpYRR.png" group-title="General",VTV2
 http://125hvt.ddns.net:21585/vtv2/playlist.m3u8
