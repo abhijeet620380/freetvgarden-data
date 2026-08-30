@@ -59,8 +59,6 @@ https://nanduti.b-cdn.net/Source.m3u8
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 #EXTINF:-1 tvg-id="NPY.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/pUEkaiW.png" group-title="News",NPY
 https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion
-#EXTINF:-1 tvg-id="OasisTV.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/u9umNKp.jpeg" group-title="Entertainment",Oasis TV
-https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8
 #EXTINF:-1 tvg-id="OccidentalTV.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/8IRBA9h.png" group-title="General",Occidental TV
 https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8
 #EXTINF:-1 tvg-id="OviedoTV.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/6OlfgSQ.png" group-title="General",Oviedo TV
@@ -77,6 +75,8 @@ https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/playlist.m
 https://tvdatta.com:3041/live/colmenarlive.m3u8
 #EXTINF:-1 tvg-id="RadioGuairaTV.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/kLanG1t.jpeg" group-title="General",Radio Guaira TV
 https://tvdatta.com:3991/live/guairatvlive.m3u8
+#EXTINF:-1 tvg-id="RadioTVElArcadelPacto.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Oq0i3Rb.png" group-title="Religious",Radio TV El Arca del Pacto
+https://video.wilohosting.com:19360/radiotvelarcadelpacto/radiotvelarcadelpacto.m3u8
 #EXTINF:-1 tvg-id="RCCTV.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/qdjBnRl.png" group-title="Religious",RCC TV
 https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion
 #EXTINF:-1 tvg-id="RedDigital.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/3jj0MQP.jpg" group-title="General",Red Digital
@@ -89,6 +89,8 @@ https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8
 https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8
 #EXTINF:-1 tvg-id="SNT.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg" group-title="General",SNT
 https://d3epa8orr2qy3m.cloudfront.net/ts:abr.m3u8
+#EXTINF:-1 tvg-id="SucesoTV.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/BwRNes1.png" group-title="News",Suceso TV
+https://live.enhdtv.com:8081/8060/index.m3u8
 #EXTINF:-1 tvg-id="SURTVItapua.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ltJQvZd.png" group-title="General",SUR TV Itapua
 http://45.170.130.224:8000/play/a036/index.m3u8?hls
 #EXTINF:-1 tvg-id="Telefuturo.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/6lVrFvb.png" group-title="General",Telefuturo
@@ -107,10 +109,6 @@ http://45.170.130.224:8000/play/a03x/index.m3u8?hls
 https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8
 #EXTINF:-1 tvg-id="Unicanal.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://nyc3.digitaloceanspaces.com/media-unicanal/2025/06/Unicanal-logo.webp" group-title="News",Unicanal
 http://45.170.130.224:8000/play/a04y/index.m3u8?hls
-#EXTINF:-1 tvg-id="UnionTV.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/No9YzNC.png" group-title="General",Union TV
-https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8
-#EXTINF:-1 tvg-id="UniRadioTV.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Co3YrU0.png" group-title="General",UniRadio TV
-https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8
 #EXTINF:-1 tvg-id="VenusMedia.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/XwmUbfp.png" group-title="Music",Venus Media
 https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8
 #EXTINF:-1 tvg-id="VillaElisaRadioTV.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ryzCsvy.jpg" group-title="General",Villa Elisa Radio TV
