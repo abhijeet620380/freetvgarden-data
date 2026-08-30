@@ -29,8 +29,6 @@ http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
 https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
 #EXTINF:-1 tvg-id="ART.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://optim.tildacdn.com/tild3134-3836-4338-a138-666666653363/-/format/webp/__.png.webp" group-title="Culture",ART
 http://89.104.114.24:8080/art/index.m3u8
-#EXTINF:-1 tvg-id="Astrahan24.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/9WcnjQN.png" group-title="News",Astrahan 24
-https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8
 #EXTINF:-1 tvg-id="AstrahanRuSport.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/BKaEtqL.png" group-title="Sports",Astrahan.Ru Sport
 https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 #EXTINF:-1 tvg-id="AstrahanRuTV.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/w4ys6zm.png" group-title="General",Astrahan.Ru TV
@@ -62,7 +60,7 @@ http://stream.mcquack.net/92/index.m3u8
 #EXTINF:-1 tvg-id="BRIDGEHits.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/sIW9oR4.png" group-title="Music",BRIDGE Hits
 http://stream.mcquack.net/320/index.m3u8
 #EXTINF:-1 tvg-id="BST.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/IDotHmQ.png" group-title="General",BST
-http://bst.bratsk.ru/hls/bst2/index.m3u8
+https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8
 #EXTINF:-1 tvg-id="Carousel.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/4wmnx1W.png" group-title="Kids",Carousel
 http://185.37.150.46/Karusel/index.m3u8
 #EXTINF:-1 tvg-id="Channel5.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/5-tv_logo_%282023%29.svg/960px-5-tv_logo_%282023%29.svg.png" group-title="General",Channel 5
@@ -117,10 +115,10 @@ https://cityeden.catcast.tv/content/34100/index.m3u8
 https://cityeden.catcast.tv/content/47516/index.m3u8
 #EXTINF:-1 tvg-id="CityEdenSirtakiTV.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/V3MTfyc.png" group-title="Music",City Eden Sirtaki TV
 https://cityeden.catcast.tv/content/46421/index.m3u8
+#EXTINF:-1 tvg-id="CityEdenTeleNovella.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/mT5liTh.png" group-title="Series",City Eden TeleNovella
+https://cityeden.catcast.tv/content/46209/index.m3u8
 #EXTINF:-1 tvg-id="ClassicMusic.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/TpXs1qA.png" group-title="Music",Classic Music
 http://stream.mcquack.net/312/index.m3u8
-#EXTINF:-1 tvg-id="Dagestan.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/jumkRvc.png" group-title="General",Dagestan
-https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
 #EXTINF:-1 tvg-id="DaVinci.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/V8AUJP6.png" group-title="Education",Da Vinci
 http://hls127.freeott.top:8080/Da_Vinci_Learning/video.m3u8
 #EXTINF:-1 tvg-id="Dikayaokhota.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/EOue13e.png" group-title="Outdoor",Dikaya okhota
@@ -264,7 +262,7 @@ http://stream.mcquack.net/169/index.m3u8
 #EXTINF:-1 tvg-id="Mir24.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/dj9c8Yd.png" group-title="News",Mir 24
 http://5.188.159.128:8070/mir_24/index.m3u8
 #EXTINF:-1 tvg-id="Mir.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/AqWaJT8.png" group-title="General",Mir
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+http://tvcdn01.esilnet.kz/tv/mir/index.m3u8
 #EXTINF:-1 tvg-id="MMATVcom.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/QhdxNsB.png" group-title="Sports",MMA-TV.com
 https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MosfilmGoldCollection.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/95Y8jb6.png" group-title="Movies",Mosfilm Gold Collection
@@ -294,7 +292,9 @@ https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m
 #EXTINF:-1 tvg-id="MuzTV.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/BtqrHmz.png" group-title="Music",Muz-TV
 http://185.71.81.6:8080/20/index.m3u8
 #EXTINF:-1 tvg-id="Muzyka1.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/DIKe5vA.png" group-title="Music",Muzyka 1
-https://kino-1.catcast.tv/content/37742/index.m3u8
+https://kino-1.catcast.tv/content/37745/index.m3u8
+#EXTINF:-1 tvg-id="MuzykaKino.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/2SG0Swa.png" group-title="Music",Muzyka Kino
+https://kino-1.catcast.tv/content/37739/index.m3u8
 #EXTINF:-1 tvg-id="MuzykaLive.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://cdn2.red-media.ru/wp-content/uploads/2016/08/LOGO_MUSIC_LIVE.png" group-title="Music",Muzyka Live
 http://stream.mcquack.net/303/index.m3u8
 #EXTINF:-1 tvg-id="MuzykaPervogo.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/U0vKj3P.png" group-title="Music",Muzyka Pervogo
@@ -398,7 +398,7 @@ https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 #EXTINF:-1 tvg-id="RBKTV.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/CwhmJby.png" group-title="Business",RBK-TV
 http://hls127.freeott.top:8080/RBK/video.m3u8
 #EXTINF:-1 tvg-id="red.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/GET9Qut.png" group-title="Entertainment",.red
-http://stream.mcquack.net/69/index.m3u8
+http://5.188.159.128:8070/RED/index.m3u8
 #EXTINF:-1 tvg-id="RedLine.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/TgZ8Uv1.png" group-title="General",Red Line
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
 #EXTINF:-1 tvg-id="RENTV.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/0Tu5lte.png" group-title="General",REN TV
@@ -545,6 +545,8 @@ https://cdn4.skygo.mn/live/disk1/Telecafe/HLSv3-FTA/Telecafe.m3u8
 https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1 tvg-id="TelekanalKrasnodar.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/YVtutzp.png" group-title="General",Telekanal Krasnodar
 https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Telplus.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/1zbcZ3p.png" group-title="General",Telplus
+https://streaming.astrakhan.ru/telplushd/playlist.m3u8
 #EXTINF:-1 tvg-id="TiJi.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/QCOUJ30.png" group-title="Kids",TiJi
 http://stream.mcquack.net/111/index.m3u8
 #EXTINF:-1 tvg-id="TKR.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/VqtPB7L.png" group-title="General",TKR
@@ -585,8 +587,14 @@ https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?e=20
 http://5.188.159.128:8070/udar/index.m3u8
 #EXTINF:-1 tvg-id="UgraTV.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/561FRwI.png" group-title="General",Ugra-TV
 https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
+#EXTINF:-1 tvg-id="Unikum.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/kSJZjDL.png" group-title="General",Unikum
+https://stream8.cinerama.uz/1033/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="UniverTV.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/r3u0mxr.png" group-title="General",Univer TV
+https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="UnknownRussia.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/W7ste2f.png" group-title="General",Unknown Russia
 http://185.23.80.23:8080/NeizvestnayaRossia/index.m3u8
+#EXTINF:-1 tvg-id="Usadba.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/mf13haG.png" group-title="General",Usadba
+http://stream.mcquack.net/211/index.m3u8
 #EXTINF:-1 tvg-id="VestiFM.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/ZBHqSZj.png" group-title="News",Vesti FM
 https://stream.smotrim.ru/hls2/vesti_fm/playlist_4.m3u8
 #EXTINF:-1 tvg-id="Vetta24.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/zKH1b5k.png" group-title="General",Vetta 24
@@ -642,6 +650,6 @@ http://stream.mcquack.net/225/index.m3u8
 #EXTINF:-1 tvg-id="Zoopark.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/IO5jegK.png" group-title="General",Zoopark
 https://stream8.cinerama.uz/1417/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Zvezda.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/4PAcpfM.png" group-title="General",Zvezda
-https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:-1 tvg-id="ZvezdaPlus.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/NNmjD9Z.png" group-title="General",Zvezda Plus
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
