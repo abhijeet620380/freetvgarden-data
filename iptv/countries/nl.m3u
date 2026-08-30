@@ -19,6 +19,8 @@ http://46.149.191.219:9106/play/a01g
 http://ms2.mx-cd.net/tv/Omroep_Helmond.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="DocuBox.nl" tvg-country="NL" tvg-language="English" tvg-logo="https://i.imgur.com/pX4U9OG.png" group-title="Documentary",DocuBox
 https://dash3.antik.sk/live/test_docubox_medium_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="DTVMaashorst.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/5WaCCAC.png" group-title="General",DTV Maashorst
+https://rrr.sz.xlcdn.com/?account=dtvmaasland&file=dtv3&output=playlist.m3u8&protocol=https&service=wowza&type=live
 #EXTINF:-1 tvg-id="FashionBox.nl" tvg-country="NL" tvg-language="English" tvg-logo="https://i.imgur.com/Taqj4yi.png" group-title="Lifestyle",FashionBox
 https://dash2.antik.sk/live/test_fashionbox_medium_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="FastFunBox.nl" tvg-country="NL" tvg-language="English" tvg-logo="https://i.imgur.com/a9ZtP17.png" group-title="Sports",Fast&FunBox
@@ -123,8 +125,12 @@ https://s-d15f8b0b.b.cdn.bluebillywig.com/live/omropfryslan/f8f68bd5/index.m3u8
 https://d1xcc1603wntzx.cloudfront.net/nlpo/clr-nlpo/oogtv/index.m3u8
 #EXTINF:-1 tvg-id="OPENRotterdamTV.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/nWahRAb.png" group-title="General",OPEN Rotterdam TV
 https://ms2.mx-cd.net/tv/141-573555/OPEN_Rotterdam.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ORTSTV.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/RZM4Myo.png" group-title="General",ORTS TV
-https://ms7.mx-cd.net/tv/200-1006554/ORTS_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PodiumTV2.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/bAhMhuz.jpg" group-title="General",Podium.TV 2
+https://rrr.sz.xlcdn.com/?account=ndc_mediagroep&file=NDC2&output=playlist.m3u8&service=wowza&type=live
+#EXTINF:-1 tvg-id="PodiumTV3.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/bAhMhuz.jpg" group-title="General",Podium.TV 3
+https://rrr.sz.xlcdn.com/?account=ndc_mediagroep&file=NDC3&output=playlist.m3u8&service=wowza&type=live
+#EXTINF:-1 tvg-id="PodiumTV.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/bAhMhuz.jpg" group-title="General",Podium.TV
+https://rrr.sz.xlcdn.com/?account=ndc_mediagroep&file=NDC1&output=playlist.m3u8&service=wowza&type=live
 #EXTINF:-1 tvg-id="Radio10.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/2oGtj7r.png" group-title="General",Radio 10
 https://radio10.prd1.talpatvcdn.nl/2b725bc7c93f477eaf0e43955ea8a6c1/index.m3u8
 #EXTINF:-1 tvg-id="Radio350.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/3nkzXup.png" group-title="General",Radio 350

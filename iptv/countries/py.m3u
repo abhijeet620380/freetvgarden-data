@@ -5,14 +5,14 @@ https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8
 https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8
 #EXTINF:-1 tvg-id="AltMediaTV.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/YkOgWMc.png" group-title="Entertainment",Alt Media TV
 https://video.hostingcaaguazu.com:19360/altmedia/altmedia.m3u8
-#EXTINF:-1 tvg-id="AmericaParaguay.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/rCEu3fM.png" group-title="General",America Paraguay
-http://45.170.130.224:8000/play/a02o/index.m3u8?hls
 #EXTINF:-1 tvg-id="BrunoMasiTV.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.ibb.co/QFmyjZN/unnamed-1.png" group-title="General",Bruno Masi TV
 https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8
 #EXTINF:-1 tvg-id="CADTV.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/lafmmRa.jpeg" group-title="General",CAD TV
 https://videoserver.tmcreativos.com:19360/dcsajkpvrh/dcsajkpvrh.m3u8
 #EXTINF:-1 tvg-id="Canal5TVMax.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/6oihaDM.png" group-title="General",Canal 5 TV Max
 https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8
+#EXTINF:-1 tvg-id="Canal8CCProducciones.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/SVj5fjg.jpg" group-title="General",Canal 8 C&C Producciones
+https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8
 #EXTINF:-1 tvg-id="Canal8VisionTV.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/mKju6hk.png" group-title="General",Canal 8 Vision TV
 https://tigocloudgen.desdeparaguay.net/satelitaltv/satelitaltv/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalPro.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ah8n7jL.png" group-title="Business",Canal Pro
@@ -59,10 +59,8 @@ https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion
 #EXTINF:-1 tvg-id="OasisTV.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/u9umNKp.jpeg" group-title="Entertainment",Oasis TV
 https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8
-#EXTINF:-1 tvg-id="OccidentalTV.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/8IRBA9h.png" group-title="General",Occidental TV
-https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8
-#EXTINF:-1 tvg-id="OviedoTV.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/6OlfgSQ.png" group-title="General",Oviedo TV
-https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8
+#EXTINF:-1 tvg-id="ParaguayTV.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/fkK7i8g.png" group-title="General",Paraguay TV
+https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8
 #EXTINF:-1 tvg-id="Paravision.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/yd9Dw2G.png" group-title="General",Paravision
 http://45.170.130.224:8000/play/a032/index.m3u8?hls
 #EXTINF:-1 tvg-id="PopuTV.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/UqCogyZ.png" group-title="Entertainment",Popu TV
@@ -87,23 +85,15 @@ https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8
 https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8
 #EXTINF:-1 tvg-id="SNT.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg" group-title="General",SNT
 https://d3epa8orr2qy3m.cloudfront.net/ts:abr.m3u8
-#EXTINF:-1 tvg-id="SucesoTV.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/BwRNes1.png" group-title="News",Suceso TV
-https://live.enhdtv.com:8081/8060/index.m3u8
 #EXTINF:-1 tvg-id="SURTVItapua.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ltJQvZd.png" group-title="General",SUR TV Itapua
 http://45.170.130.224:8000/play/a036/index.m3u8?hls
 #EXTINF:-1 tvg-id="Telefuturo.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/6lVrFvb.png" group-title="General",Telefuturo
 https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8
 #EXTINF:-1 tvg-id="TigoSports.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Tigo_Sports_2025.png" group-title="Sports",Tigo Sports
 https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/0fd608d0807c48edb4713da6b80e8c34/index_6.m3u8?z=b
-#EXTINF:-1 tvg-id="TigoSportsPlus.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" group-title="Sports",Tigo Sports+
-https://stmv7.voxtvhd.com.br/xxvideo/xxvideo/playlist.m3u8
 #EXTINF:-1 tvg-id="Trece.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://media.trece.com.py/sites/2/2025/09/logotrece_2025.webp" group-title="General",Trece
 http://45.170.130.224:8000/play/a050/index.m3u8?hls
 #EXTINF:-1 tvg-id="TVAire.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7gHFKPZ.png" group-title="General",TV Aire
 https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8
-#EXTINF:-1 tvg-id="TVCamara.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Mfypr0t.png" group-title="Legislative",TV Camara
-http://45.170.130.224:8000/play/a03x/index.m3u8?hls
-#EXTINF:-1 tvg-id="TVCanindeyu.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/cateqjx.jpeg" group-title="General",TV Canindeyu
-https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8
 #EXTINF:-1 tvg-id="Unicanal.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://nyc3.digitaloceanspaces.com/media-unicanal/2025/06/Unicanal-logo.webp" group-title="News",Unicanal
 http://45.170.130.224:8000/play/a04y/index.m3u8?hls
