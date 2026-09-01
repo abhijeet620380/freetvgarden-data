@@ -29,6 +29,8 @@ https://cafetradehls.wns.live/hls/stream.m3u8
 https://clshls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="DejTV.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="General",Dej TV
 https://rdejhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="FarsTV.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/7/7b/Iribfars.png" group-title="General",Fars TV
+https://ncdn.telewebion.ir/fars/live/playlist.m3u8
 #EXTINF:-1 tvg-id="FX1.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="Entertainment",FX 1
 https://fxtvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="GoldStar.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="Movies",Gold Star
@@ -37,22 +39,10 @@ https://moviethls.wns.live/hls/stream.m3u8
 https://homeplushls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="IranJewishTV.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.ibb.co/JWXs7csN/en.png" group-title="Religious",Iran Jewish TV
 http://iran620.com:1935/live/IranJewishTv/playlist.m3u8
-#EXTINF:-1 tvg-id="IRIB1.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IRIBTV1.svg/960px-IRIBTV1.svg.png" group-title="General",IRIB 1
-https://ncdn.telewebion.ir/tv1/live/playlist.m3u8
-#EXTINF:-1 tvg-id="IRIB2.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/IRIB_TV2_logo.svg/960px-IRIB_TV2_logo.svg.png" group-title="General",IRIB 2
-https://ncdn.telewebion.ir/tv2/live/playlist.m3u8
-#EXTINF:-1 tvg-id="IRIBMostanad.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/8/89/Mostanad-tv.png" group-title="General",IRIB Mostanad
-https://ncdn.telewebion.ir/mostanad/live/playlist.m3u8
-#EXTINF:-1 tvg-id="IRIBOmid.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/IRIB_Omid.svg/500px-IRIB_Omid.svg.png" group-title="Kids",IRIB Omid
-https://ncdn.telewebion.ir/omid/live/playlist.m3u8
-#EXTINF:-1 tvg-id="IRINN2.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/8tzsC9h.png" group-title="News",IRINN 2
-https://ncdn.telewebion.ir/irinn2/live/playlist.m3u8
 #EXTINF:-1 tvg-id="IRINN.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/8tzsC9h.png" group-title="News",IRINN
 http://185.9.2.18/chid_926/index.m3u8
 #EXTINF:-1 tvg-id="IsfahanTV.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/IsfahanTV.svg/960px-IsfahanTV.svg.png" group-title="General",Isfahan TV
 https://ncdn.telewebion.ir/esfahan/live/playlist.m3u8
-#EXTINF:-1 tvg-id="JahanbinTV.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/4/4a/Shahrekord_Jahanbin.svg/960px-Shahrekord_Jahanbin.svg.png" group-title="General",Jahanbin TV
-https://ncdn.telewebion.ir/jahanbin/live/playlist.m3u8
 #EXTINF:-1 tvg-id="MetaFilmTV.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="Movies",Meta Film TV
 https://metafilmhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="MihanTV.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/XEMsM7w.png" group-title="News",Mihan TV
@@ -77,12 +67,12 @@ https://sltwohls.wns.live/hls/stream.m3u8
 https://live2.snn.ir/hls/snn2_hd720/index.m3u8
 #EXTINF:-1 tvg-id="T2TV.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/Wu8MBb7.png" group-title="Music",T2 TV
 https://t2hls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="TabarestanTV.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/IRIB_Mazandaran_Last_Orange_Logo.png/960px-IRIB_Mazandaran_Last_Orange_Logo.png" group-title="General",Tabarestan TV
+https://ncdn.telewebion.ir/tabarestan/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Tamasha.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/f/f2/IRIB_tamashaTV.svg/960px-IRIB_tamashaTV.svg.png" group-title="Movies",Tamasha
+https://ncdn.telewebion.ir/hdtest/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TBNNejatTV.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/e4WffQA.png" group-title="General",TBN Nejat TV
 https://hls.nejat.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="TehranTV.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/IRIBTV5.svg/500px-IRIBTV5.svg.png" group-title="General",Tehran TV
-https://ncdn.telewebion.ir/tehran/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Tekyemadahi.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="https://static.telewebion.com/channelsLogo/d602596d-7b8d-48ef-8f51-9344b4ac0eb6/default" group-title="General",Tekyemadahi
-https://ncdn.telewebion.ir/tekyemadahi/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TVITN.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/U4sKHWy.png" group-title="Entertainment",TV ITN
 https://itnhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="WiseHumanTv.ir" tvg-country="IR" tvg-language="Fataleka" tvg-logo="https://i.imgur.com/BT7EtfB.png" group-title="Religious",WiseHumanTv

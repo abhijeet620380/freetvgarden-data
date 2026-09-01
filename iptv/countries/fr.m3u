@@ -31,8 +31,6 @@ https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
 https://stream2.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8
 #EXTINF:-1 tvg-id="Caillou.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/RgKaoe4.png" group-title="General",Caillou
 https://do7nccdsswstc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1aso0bc668saa/a5233c83-f772-4a81-959a-45ec7877ef61/5.m3u8
-#EXTINF:-1 tvg-id="CanalPlusCinemas.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/fvPoNEa.jpeg" group-title="Movies",Canal+ Cinemas
-http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8
 #EXTINF:-1 tvg-id="CannesLerinsTV.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/atlgnum.png" group-title="General",Cannes Lerins TV
 https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8
 #EXTINF:-1 tvg-id="CineNanar.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/YnUZd3W.png" group-title="Movies",Cine Nanar
@@ -95,6 +93,8 @@ https://amg01596-gongnetworks-gong-ono-vh5f2.amagi.tv/1080p-vtt/index.m3u8
 http://99.27.51.147:8080/Gulli/index.m3u8
 #EXTINF:-1 tvg-id="HANDICAPTV.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/vXbAeD0.png" group-title="Lifestyle",HANDICAP TV
 https://srv.webtvmanager.fr:3697/stream/play.m3u8
+#EXTINF:-1 tvg-id="ILTV.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/fVhrJHK.png" group-title="General",ILTV
+https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="IntoCrime.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/43at4M2.png" group-title="Documentary",Into Crime
 https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="KozoomTV.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/M1Ee79b.png" group-title="Sports",Kozoom TV
@@ -113,6 +113,8 @@ http://stream.mcquack.net/276/index.m3u8
 https://fl718492-exthls-p1.flovp.com/fl718492/live/live.m3u8
 #EXTINF:-1 tvg-id="MTV.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" group-title="Entertainment",MTV
 http://99.27.51.147:8080/MTV/index.m3u8
+#EXTINF:-1 tvg-id="MyZenTV.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/fIi8o0C.png" group-title="Relax",MyZen TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
 #EXTINF:-1 tvg-id="NickelodeonJunior.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nickelodeon_Junior.png/960px-Nickelodeon_Junior.png" group-title="Kids",Nickelodeon Junior
 http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
 #EXTINF:-1 tvg-id="P2MTV.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/TrecSeG.png" group-title="Music",P2M TV

@@ -1,14 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1001Noites.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/dWA9y2J.png" group-title="Shop",1001 Noites
-https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
 #EXTINF:-1 tvg-id="AdessoTV.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/KgetM8j.png" group-title="General",Adesso TV
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
 #EXTINF:-1 tvg-id="AgroCanal.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/5XyopHf.png" group-title="Education",AgroCanal
 http://45.162.64.114/AGRO_CANAL/index.m3u8
 #EXTINF:-1 tvg-id="AgroMais.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/sFcOZeo.png" group-title="News",AgroMais
 http://45.162.64.114/AGROMAIS/index.m3u8
-#EXTINF:-1 tvg-id="AmazonSat.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/7rjCS5i.png" group-title="General",Amazon Sat
-https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:-1 tvg-id="ArarunaTV.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/jl39ula.png" group-title="General",Araruna TV
 https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
 #EXTINF:-1 tvg-id="AratuOn.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Ht4jCab.png" group-title="News",Aratu On
@@ -168,7 +164,7 @@ http://45.162.64.114/RECORD_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="RecordTVInteriorSP.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/VcHy0fu.png" group-title="General",RecordTV Interior SP
 http://200.77.176.130:8000/udp/224.0.0.4:49152
 #EXTINF:-1 tvg-id="RedeBrasil.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TXJKwzZ.png" group-title="General",Rede Brasil
-http://45.190.28.50/REDE_BRASIL_HD/index.m3u8
+https://redebrasil.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/jcasAmw.png" group-title="General",Rede CNT Rio de Janeiro
 http://45.162.64.114/CNT/index.m3u8
 #EXTINF:-1 tvg-id="RedeCNTSalvador.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/jcasAmw.png" group-title="General",Rede CNT Salvador
@@ -199,6 +195,8 @@ https://acesso.ecast.site:3648/live/ritlive.m3u8
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1 tvg-id="SBTNacional.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/tc1ALuu.png" group-title="General",SBT Nacional
 http://45.190.28.50/SBT_HD/index.m3u8
+#EXTINF:-1 tvg-id="SBTNews.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/SBT_News_2025.svg" group-title="News",SBT News
+https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8
 #EXTINF:-1 tvg-id="SESCTV.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Mu8O6CV.png" group-title="General",SESC TV
 http://45.162.64.114/SESC_TV/index.m3u8
 #EXTINF:-1 tvg-id="SICTV.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/mHxQyB2.png" group-title="General",SIC TV
@@ -323,8 +321,6 @@ https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
 https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u
 #EXTINF:-1 tvg-id="TVParanaTurismo.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/I6pKoBd.png" group-title="Travel",TV Parana Turismo
 http://200.189.113.201/hls/tve.m3u8
-#EXTINF:-1 tvg-id="TVPassoFundo.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/QFE6TiV.png" group-title="General",TV Passo Fundo
-https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPetropolis.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://web2.petropolis.rj.gov.br/imc/film-commission/uploads/profissional/perfil/785b645d9c574b4d88504a85dbd6ef37.png" group-title="General",TV Petropolis
 https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPlusPet.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.tvmaispet.com.br/images/tvpet-logo.png" group-title="Entertainment",TV+Pet
