@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="4E.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/Na0UCV7.png" group-title="Religious",4E
-http://eu2.tv4e.gr:1935/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="AcheloosTV.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/5SVMxcu.png" group-title="General",Acheloos TV
 https://acheloostv.streamings.gr/live/stream/index.m3u8
 #EXTINF:-1 tvg-id="Action24.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Action24-logo-small.png" group-title="Movies",Action 24
@@ -35,7 +33,7 @@ https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8
 https://rtmp.win:3603/live/ellinikosfmlive.m3u8
 #EXTINF:-1 tvg-id="EpilogesTV.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/3S4P7ob.png" group-title="General",Epiloges TV
 https://gra1.crystalweb.net:1936/epilogestv/epilogestv/playlist.m3u8
-#EXTINF:-1 tvg-id="ERTCosmos.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/ERT_Cosmos_Logo_2026.svg/960px-ERT_Cosmos_Logo_2026.svg.png" group-title="General",ERT Cosmos
+#EXTINF:-1 tvg-id="ERTCosmos.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://www.ert.gr/wp-content/uploads/2026/05/ertcosmos-logo.svg" group-title="General",ERT Cosmos
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos/default/index.m3u8
 #EXTINF:-1 tvg-id="ERTNews.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/HXbsPfB.png" group-title="News",ERT News
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.m3u8
@@ -59,8 +57,6 @@ https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
 https://eu1.streams.gr:8081/kostv/index.m3u8
 #EXTINF:-1 tvg-id="KritiTV.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/X7jKwYl.png" group-title="General",Kriti TV
 https://cretetvlive.siliconweb.com/cretetv/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="LepantoTV.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://static-media.streema.com/media/cache/52/5e/525e3ae49d881cb702f2d4156b3c14a3.jpg" group-title="General",Lepanto TV
-https://fr.crystalweb.net:1936/lepantotv/lepantotv/playlist.m3u8
 #EXTINF:-1 tvg-id="MessatidaTV.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/WEYrIrC.png" group-title="Music",Messatida TV
 https://rtmp.streams.ovh:8081/mtv/index.m3u8
 #EXTINF:-1 tvg-id="NaftemporikiTV.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/9OFdMud.png" group-title="News",Naftemporiki TV
@@ -73,8 +69,6 @@ https://es1.crystalweb.net:1936/netmaxtv/netmaxtv/playlist.m3u8
 https://srv.streamserver.gr:3451/stream/play.m3u8
 #EXTINF:-1 tvg-id="NRG91.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/1Zl1OJ5.png" group-title="Music",NRG 91
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
-#EXTINF:-1 tvg-id="PanikTV.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/13C3CPr.png" group-title="Music",Panik TV
-https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8
 #EXTINF:-1 tvg-id="PellaTV.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/JnDXKZo.png" group-title="General",Pella TV
 https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8
 #EXTINF:-1 tvg-id="PlayTV.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/JWFOYuD.png" group-title="Music",Play TV
@@ -93,6 +87,8 @@ https://telmaco-cdn.akamaized.net/starcgr/default/index.m3u8
 https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
 #EXTINF:-1 tvg-id="SyrosTV1.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/arQe5qS.png" group-title="General",Syros TV1
 https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8
+#EXTINF:-1 tvg-id="TopChannel.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/SfV2gJg.png" group-title="General",Top Channel
+https://fr.crystalweb.net:1936/topchannel/topchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="TRT.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/g0jPOcC.png" group-title="News",TRT
 https://av.hellasnet.tv/rst/trt/main_stream.m3u8
 #EXTINF:-1 tvg-id="TV100.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/OBH2DfE.png" group-title="General",TV 100

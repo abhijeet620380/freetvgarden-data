@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="AbejalesTV.ve" tvg-country="VE" tvg-language="Spanish" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgao1fVZ7tV_ExJErlM5JsI8Rxv5TXJSU7ZE6p-g_qSXOiRKrAjCmX650Aw1PYv6cPqML3eKDQGZ_Z5BPYpeLwwAbZay3g4mpTVBW9Xs5D9nEVPD1i9xfOKQsRCFrOJhBgRt9L9yhfLimbu7S4Ozio2tiZ5uc45lRtyS6RjMpI-Ts1n2m_THG8K19R4STns=w800" group-title="General",AbejalesTV
+https://183.bozztv.com/giatv/giatv-AbejalesTV/AbejalesTV/playlist.m3u8
 #EXTINF:-1 tvg-id="AguacateTV.ve" tvg-country="VE" tvg-language="Spanish" tvg-logo="https://i.ibb.co/wpWBsgf/IMG-20230705-154622.jpg" group-title="Entertainment",Aguacate TV
 https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="BTATV.ve" tvg-country="VE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/vygOosC.png" group-title="Music",BTA TV
@@ -27,10 +29,6 @@ https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8
 https://59d39900ebfb8.streamlock.net/islatv/islatv/playlist.m3u8
 #EXTINF:-1 tvg-id="KandelaTV.ve" tvg-country="VE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/cCFxyIp.jpg" group-title="Music",KandelaTV
 https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
-#EXTINF:-1 tvg-id="LaPuraCremaTelevision.ve" tvg-country="VE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/EJf1eRt.png" group-title="Music",LaPuraCrema Television
-https://streamlov.alsolnet.com/lapuracrema/live/playlist.m3u8
-#EXTINF:-1 tvg-id="LaraenRedes.ve" tvg-country="VE" tvg-language="Spanish" tvg-logo="https://laraenredes.com/wp-content/uploads/elementor/thumbs/LOGO-LARA-EN-REDES-2025-r768xu4o4gvkigl9v1lorc3aq3n35710u0g7cah8e0.jpg" group-title="Entertainment",Lara en Redes
-https://streamtv.laraenredes.com:3020/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="LaTeleTuya.ve" tvg-country="VE" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Tele_Tuya_Logo_%282026%29.png" group-title="Entertainment",La Tele Tuya
 http://181.78.8.199:8000/play/a0fs/index.m3u8
 #EXTINF:-1 tvg-id="LatinaTV.ve" tvg-country="VE" tvg-language="Spanish" tvg-logo="https://i0.wp.com/latinamedios.com/wp-content/uploads/2023/03/LOGO-LATINA-TV-H-500.png?w=500&ssl=1" group-title="General",Latina TV
@@ -47,7 +45,7 @@ https://maximatv.net/hls/stream.m3u8
 http://181.78.8.199:8000/play/a0fr/index.m3u8
 #EXTINF:-1 tvg-id="PlousTV.ve" tvg-country="VE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/OSet4en.png" group-title="Lifestyle",Plous TV
 https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
-#EXTINF:-1 tvg-id="PortuguesaTelevision.ve" tvg-country="VE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/jHUSfGz.png" group-title="General",Portuguesa Television
+#EXTINF:-1 tvg-id="PortuguesaTelevision.ve" tvg-country="VE" tvg-language="Spanish" tvg-logo="https://intervenhosting.net/roku/portutv/portutv.jpg" group-title="General",Portuguesa Television
 https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8
 #EXTINF:-1 tvg-id="PromarTV.ve" tvg-country="VE" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Promar_Television.png" group-title="General",PromarTV
 http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8
@@ -67,6 +65,8 @@ https://streamtv.intervenhosting.net:3531/live/telecentrovelive.m3u8
 https://mblenmain01.telesur.ultrabase.net/mblivev3/480p/playlist.m3u8
 #EXTINF:-1 tvg-id="Televen.ve" tvg-country="VE" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Televen_%282024%29.svg/1920px-Televen_%282024%29.svg.png" group-title="General",Televen
 http://181.78.8.199:8000/play/a09j/index.m3u8
+#EXTINF:-1 tvg-id="TelevisoradeOriente.ve" tvg-country="VE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/wFC6Xxq.png" group-title="General",Televisora de Oriente
+https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8
 #EXTINF:-1 tvg-id="TorococoTV.ve" tvg-country="VE" tvg-language="Spanish" tvg-logo="https://i.ibb.co/9N7Scn8/1400-Torococo-TV.png" group-title="General",Torococo TV
 https://us.streaminghd.cl/torococotelevision/video.m3u8
 #EXTINF:-1 tvg-id="TRT.ve" tvg-country="VE" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Canal_trt_logo.PNG" group-title="General",TRT
@@ -77,10 +77,8 @@ https://astl-mainstr.qvixsolutions.com/asltvtu_ext/index.m3u8
 https://59d39900ebfb8.streamlock.net/tvfamilia_270p/tvfamilia_270p/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMparati.ve" tvg-country="VE" tvg-language="Spanish" tvg-logo="https://intervenhosting.net/imagenes/tvmparati.jpg" group-title="General",TVM para ti
 https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8
-#EXTINF:-1 tvg-id="UN24.ve" tvg-country="VE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/nGJlulj.png" group-title="News",UN24
-https://59d39900ebfb8.streamlock.net/untv-720/untv-720/playlist.m3u8
-#EXTINF:-1 tvg-id="ValeTV.ve" tvg-country="VE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/NMI2Wed.png" group-title="General",Vale TV
-https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/playlist.m3u8
+#EXTINF:-1 tvg-id="TVOasisMonay.ve" tvg-country="VE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/hwd7osJ.jpeg" group-title="General",TV Oasis Monay
+https://servilive.com:3562/live/vav4c8z38live.m3u8
 #EXTINF:-1 tvg-id="Venevision.ve" tvg-country="VE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/gm1m8hW.png" group-title="General",Venevision
 http://177.234.249.178:8888/VENEVISION/index.m3u8
 #EXTINF:-1 tvg-id="VenevisionInternacional.ve" tvg-country="VE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/vtGED07.jpg" group-title="General",Venevision Internacional
