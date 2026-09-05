@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ARDBTV.kh" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://i.imgur.com/yOncWla.png" group-title="Outdoor",ARDB TV
-https://ardbtv.ardb.com.kh:8443/tv-live/tv-online.m3u8
 #EXTINF:-1 tvg-id="CTV8HD.kh" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://i.imgur.com/yrdr4Po.png" group-title="General",CTV8 HD
 https://ip.pdtvhd.com/Khmer/streams/CTV8HD.m3u8
 #EXTINF:-1 tvg-id="CTV9.kh" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://i.imgur.com/jgVJt2G.png" group-title="General",CTV 9
@@ -13,6 +11,8 @@ https://iptv.ebc.edu.kh/iptv/channel/1.m3u8
 http://streaming-android.freshnewsasia.tv:1935/live/ngrp:myStream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="HangMeasHDTV.kh" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://i.imgur.com/P8oOR8I.png" group-title="General",Hang Meas HDTV
 http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:hmhdt12356.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="iTVHD.kh" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://i.imgur.com/qIPvw8N.jpg" group-title="Entertainment",iTV HD
+https://ip.pdtvhd.com/Khmer/streams/ITVHD.m3u8
 #EXTINF:-1 tvg-id="MSJTV.kh" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://i.imgur.com/TilslGU.png" group-title="General",MSJ TV
 http://119.15.85.85:5080/LiveApp/streams/MSJTV_hd_playlist.m3u8
 #EXTINF:-1 tvg-id="OneTVESchoolCambodia.kh" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://i.imgur.com/wLzVdeT.png" group-title="Education",One TV E-School Cambodia
@@ -21,7 +21,11 @@ http://49.156.33.114:5080/live/streams/elearning.playlist.m3u8
 https://live.sangkemtv.com/memfs/sangkem.m3u8
 #EXTINF:-1 tvg-id="SEATV.kh" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://i.imgur.com/oZPorvg.png" group-title="General",SEA TV
 https://seatv.netlinkbroadcaster.com/hls/test.m3u8
+#EXTINF:-1 tvg-id="TV5Cambodia.kh" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://i.imgur.com/iMZLyoX.png" group-title="General",TV5 Cambodia
+https://ip.pdtvhd.com/Khmer/streams/CTV5.m3u8
 #EXTINF:-1 tvg-id="TVK2.kh" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://i.imgur.com/L36ptO2.png" group-title="Education",TVK 2
 https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVK.kh" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://i.imgur.com/5hPxjcl.png" group-title="General",TVK
 https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="WikiTV.kh" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://i.imgur.com/rnV0Ui1.png" group-title="Education",Wiki TV
+https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8
