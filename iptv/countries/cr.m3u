@@ -3,6 +3,8 @@
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 #EXTINF:-1 tvg-id="360RFTV.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/EBtgnxR.png" group-title="General",360 RFTV
 https://acceso.mediosdecostarica.com:3638/live/360rftvcrlive.m3u8
+#EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/frd60hR.png" group-title="Outdoor",Agrotendencia TV
+https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
 #EXTINF:-1 tvg-id="AntenaSeisTV.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/9Nh2mo9.png" group-title="General",Antena Seis TV
 https://video1.azulstream.com:8081/antenaseistv/index.m3u8
 #EXTINF:-1 tvg-id="BestClasicosTV.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/a/BRb8AVL.png" group-title="General",BestClasicosTV
@@ -11,12 +13,14 @@ https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8
 https://vid.canal1cr.com:3424/multi_live/play_720.m3u8
 #EXTINF:-1 tvg-id="Canal3KMKTV.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/sgRDRBK.jpg" group-title="Music",Canal 3 KMK TV
 https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8
+#EXTINF:-1 tvg-id="Canal4.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/5arZEgO.png" group-title="General",Canal 4
+http://45.186.106.207:8000/play/a09t/index.m3u8
 #EXTINF:-1 tvg-id="Canal6.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/nfKJftW.png" group-title="General",Canal 6
 http://45.5.118.188:8000/play/a02x/index.m3u8
 #EXTINF:-1 tvg-id="Canal8.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/nefPi2Y.png" group-title="General",Canal 8
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 #EXTINF:-1 tvg-id="Canal10.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/TO6WQbW.png" group-title="General",Canal 10
-https://acceso.mediosdecostarica.com:3606/live/canal10costaricalive.m3u8
+https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="Canal11.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/960px-Repretel_11_logo.png" group-title="General",Canal 11
 http://45.5.117.188:8000/play/a02w/index.m3u8
 #EXTINF:-1 tvg-id="ColosalTV.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/0DZB3eB.png" group-title="Entertainment",Colosal TV
@@ -39,12 +43,10 @@ https://d2n1wzrr0aogf5.cloudfront.net/ts:abr.m3u8
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
 #EXTINF:-1 tvg-id="ExtremaTV.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/E9AuhOU.png" group-title="Religious",Extrema TV
 https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1 tvg-id="GAMTVcr.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.ibb.co/xFCS7wM/GAMTVCR.png" group-title="General",GAMTV.cr
-https://v2.azulstream.com:8081/gamtv/gamtv/index.m3u8
+#EXTINF:-1 tvg-id="FUTV.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://premium.futvcr.com/assets/img/logo-premium.png" group-title="Sports",FUTV
+http://190.61.90.17:40000/play/a03v/index.m3u8
 #EXTINF:-1 tvg-id="GarabitoTV.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/sAYNKJ8.png" group-title="General",Garabito TV
 https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
-#EXTINF:-1 tvg-id="GexTV.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://gextv.com/LOGO-WHITE.png" group-title="Music",Gex TV
-https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8
 #EXTINF:-1 tvg-id="GuatusoTV.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://www.grupodgrajal.com/images/logoguatusochannel.png" group-title="General",Guatuso TV
 https://5cf4a2c2512a2.streamlock.net/8176/8176/playlist.m3u8
 #EXTINF:-1 tvg-id="ImpactChannel.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/YRRID7W.png" group-title="Religious",Impact Channel
@@ -55,8 +57,6 @@ https://rtmp.info/iqtv/envivo/playlist.m3u8
 https://latamvdo.com:3626/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="LimonTV.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.ibb.co/rdpcv7C/1689421727166.jpg" group-title="General",Limon TV
 http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
-#EXTINF:-1 tvg-id="LosSantosTV.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/5xw86wu.png" group-title="General",Los Santos TV
-https://lstv.duckdns.org:449/hls/lstv.m3u8
 #EXTINF:-1 tvg-id="LuzNacienteTV.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/GC2lubh.png" group-title="Religious",Luz Naciente TV
 https://streeming.protoscr.com:3858/live/streeminglive.m3u8
 #EXTINF:-1 tvg-id="NicoyaTV.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Lj2jRn3.png" group-title="General",NicoyaTV
@@ -69,8 +69,6 @@ https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/playlist.m3u8
 https://wowza.ucr.ac.cr/quinceucr/_definst_/quinceucr.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="SanJoseTV.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.ibb.co/mbB8hqL/blanco-crop.png" group-title="Religious",San Jose TV
 https://rtmp.info/sanjosetv/envivo/playlist.m3u8
-#EXTINF:-1 tvg-id="SarapiquiTV.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/obTnd32.png" group-title="General",Sarapiqui TV
-http://tiquiciatv.com:1935/stv/web/playlist.m3u8
 #EXTINF:-1 tvg-id="SOYPlanchaTV.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.ibb.co/P4kpMgk/1689344714578.jpg" group-title="Music",SOY Plancha TV
 https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8
 #EXTINF:-1 tvg-id="SuperCable.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/PJ46GHTH/SC.jpg" group-title="Entertainment",Super Cable
@@ -99,8 +97,6 @@ http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8
 http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSurCanal14.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/OpHYYZA.png" group-title="General",TV Sur Canal 14
 https://k20.usastreams.com:8081/tvsur/index.m3u8
-#EXTINF:-1 tvg-id="UrbanoTV.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/KVVU9PI.png" group-title="Music",Urbano TV
-https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
 #EXTINF:-1 tvg-id="VideoTourChannel.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/zEi8eMC.png" group-title="Music",Video Tour Channel
 http://k4.usastreams.com/videotour/videotour/playlist.m3u8
 #EXTINF:-1 tvg-id="VintageMusic.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/KImqYnN.jpeg" group-title="Music",Vintage Music
