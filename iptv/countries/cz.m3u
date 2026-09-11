@@ -96,7 +96,7 @@ http://88.212.15.19/live/test_prima_star_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="PrimaZoom.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/uNJqZ6p.png" group-title="General",Prima Zoom
 http://88.212.15.19/live/prima_zoom_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="RetroMusicTV.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/pyOjdZs.png" group-title="Music",Retro Music TV
-https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
+https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-id="SlagerMuzika.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/hKdXwrW.png" group-title="Music",Slager Muzika
 https://stream-23.mazana.tv/slagrmuzika.m3u8s
 #EXTINF:-1 tvg-id="SlagerOriginal.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/0YjeWcq.png" group-title="Music",Slager Original
@@ -117,6 +117,10 @@ http://88.212.15.19/live/test_seznam_hevc_25p/playlist.m3u8
 http://88.212.15.19/live/test_barrandov/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBrno1.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/8Xm3WSn.png" group-title="General",TV Brno 1
 https://stream.polar.cz/tvbrno1/tvbrno1live-1/playlist.m3u8
+#EXTINF:-1 tvg-id="TVNoe.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Noe-logo-2016.png/500px-Noe-logo-2016.png" group-title="General",TV Noe
+https://n105.quickmedia.tv/noetv/live/noetv/Ifd4_1_4/chunks_dvr_timeshift-0-7200.m3u8
+#EXTINF:-1 tvg-id="TVNoePlus.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/p4FtFUl.png" group-title="General",TV Noe+
+https://n105.quickmedia.tv/noetvplus/live/noetvplus/Shz3_1_1/chunks_dvr_timeshift-0-7200.m3u8
 #EXTINF:-1 tvg-id="TVPaprika.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/NSabYyT.png" group-title="Lifestyle",TV Paprika
 http://88.212.15.19/live/test_parpika_tv_sd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="ViasatExplore.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/DyT5pKB.png" group-title="Documentary",Viasat Explore
