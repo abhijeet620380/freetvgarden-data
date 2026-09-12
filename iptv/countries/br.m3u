@@ -13,8 +13,6 @@ https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
 https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
 #EXTINF:-1 tvg-id="Arte1.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Ivnk7A6.png" group-title="Culture",Arte 1
 http://45.162.64.114/ARTE1/index.m3u8
-#EXTINF:-1 tvg-id="AWTV.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/2tdMyef.png" group-title="Classic",AWTV
-https://awtv.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AXN.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Movies",AXN
 http://170.83.16.50/AXN/index.m3u8
 #EXTINF:-1 tvg-id="Band.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/1r5T6Pw.png" group-title="General",Band
@@ -23,14 +21,14 @@ https://media.cdntvms.com.br/band_sat/index.m3u8
 http://45.162.64.114/BAND_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="BandSports.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/EuPvzJe.png" group-title="Sports",Band Sports
 http://45.162.64.114/BAND_SPORTS/index.m3u8
+#EXTINF:-1 tvg-id="BMCNews.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/pOUY2Uz.png" group-title="News",BM&C News
+https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8
 #EXTINF:-1 tvg-id="BoasNovas.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/ZqhizdP.png" group-title="General",Boas Novas
 https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
 #EXTINF:-1 tvg-id="BoxKidsTV.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Boxkidstv.png" group-title="Kids",Box Kids TV
 http://170.83.49.66:8083/BOXKIDSHD/index.m3u8
 #EXTINF:-1 tvg-id="BR8TV.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.ibb.co/1QZv2q1/Br8-fb-graph.png" group-title="News",BR8 TV
 https://cdn.live.br1.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal25Jundiai.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/7igGMwH.png" group-title="General",Canal 25 Jundiai
-https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
 #EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/pVM5MhS.png" group-title="General",Canal do Boi
 http://45.162.64.114/CANAL_DO_BOI/index.m3u8
 #EXTINF:-1 tvg-id="CanalEducacao.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/OOB7nrS.png" group-title="Education",Canal Educacao
@@ -107,6 +105,8 @@ https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
 https://video01.brascast.com/d92ebb4f/d92ebb4f/playlist.m3u8
 #EXTINF:-1 tvg-id="JovemPanNews.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/960px-Jovem_Pan_logo_2018.svg.png" group-title="News",Jovem Pan News
 http://170.83.49.66:8083/JOVEMPANNEWSHD/index.m3u8
+#EXTINF:-1 tvg-id="KpopTVPlay.br" tvg-country="BR" tvg-language="Korean" tvg-logo="https://i.imgur.com/Tf0vweF.png" group-title="Music",KpopTV Play
+https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
 #EXTINF:-1 tvg-id="LaboralTV.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://tv.laboralsst.com.br/logo.png" group-title="Business",Laboral TV
 https://tv.laboralsst.com.br/hls/stream.m3u8
 #EXTINF:-1 tvg-id="LamoreRockShowWebTV.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.lamorerockshowwebtv.com.br/wp-content/uploads/2024/11/logo_rockshow.avif" group-title="Music",Lamore Rock Show WebTV
@@ -221,8 +221,6 @@ https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8
 https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
 #EXTINF:-1 tvg-id="TVAparecida.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/kxrja0X.png" group-title="Religious",TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
-#EXTINF:-1 tvg-id="TVArapuan.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/3395A2h.png" group-title="General",TV Arapuan
-https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 #EXTINF:-1 tvg-id="TVAssembleiaPiaui.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/eMguSjM.png" group-title="Legislative",TV Assembleia Piaui
 https://stmv1.srvstm.com/piaui8071/piaui8071/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBahia.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/sJOrvHg.png" group-title="General",TV Bahia
@@ -309,8 +307,6 @@ https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8
 http://45.162.64.114/TV_SENADO/index.m3u8
 #EXTINF:-1 tvg-id="TVSeries.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Ff5mj0o.png" group-title="Series",TV Series
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
-#EXTINF:-1 tvg-id="TVShowFortaleza.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://static.wixstatic.com/media/9af6b8_e963e864c8fb40d3954f5c1c8cab1b40~mv2.png" group-title="General",TV Show Fortaleza
-https://stmv8.samcast.com.br/raimundoanselmolimamororo1908/raimundoanselmolimamororo1908/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSimCachoeiro.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/t5oUK3C.png" group-title="News",TV Sim Cachoeiro
 https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSulBahia.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/qM6nMWm.png" group-title="General",TV Sul Bahia
@@ -323,5 +319,15 @@ https://app.tvufop.com.br/hls/tvufop.m3u8
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TVVicosa.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TZF55f9.png" group-title="Entertainment",TV Vicosa
 http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TVVilaReal.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Z1uWe7g.png" group-title="General",TV Vila Real
+https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
+#EXTINF:-1 tvg-id="TVZoom.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/jCGrjf5.png" group-title="Entertainment",TV Zoom
+https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
+#EXTINF:-1 tvg-id="UMATV.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/m0RVb79.png" group-title="Entertainment",UMA TV
+https://umatv.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="UnisulTV.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/N0TvAFz.png" group-title="Education",Unisul TV
+https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=
+#EXTINF:-1 tvg-id="VEJAPlusTV.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/n0pxHo4.png" group-title="News",VEJA+ TV
+https://gpa-vja.otteravision.com/gpa/vja/vja.m3u8
 #EXTINF:-1 tvg-id="WooHoo.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/me622pa.png" group-title="General",WooHoo
 http://45.162.64.114/WOOHOO/index.m3u8
