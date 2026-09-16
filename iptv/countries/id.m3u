@@ -19,8 +19,6 @@ http://122.248.43.242:1935/BALIKPAPANTV/_definst_/myStream/playlist.m3u8
 http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 #EXTINF:-1 tvg-id="BanjarTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/TA76a10.png" group-title="General",Banjar TV
 https://banjartv.siar.us/banjartv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="BantenTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/tbtF40p.png" group-title="General",Banten TV
-https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
 #EXTINF:-1 tvg-id="BatamTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/lo7YXnW.png" group-title="General",Batam TV
 http://122.248.43.242:1935/BATAMTV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="BMSTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/snMxng5.png" group-title="General",BMS TV
@@ -47,8 +45,6 @@ https://dutatv.siar.us/dutatv/live/playlist.m3u8
 https://live.efarinatv.com/hls/bgtaufikganteng.m3u8
 #EXTINF:-1 tvg-id="EInternational.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://hosting.renderforestsites.com/35126779/1659328/media/1058391c8059a0d092426e145d55951b.png" group-title="General",E International
 https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp315.520.789:8060.m3u8
-#EXTINF:-1 tvg-id="FajarTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/mkuXxRK.png" group-title="Religious",Fajar TV
-http://122.248.43.242:1935/FAJARTV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="FicomChannel.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/KMEf0Cc.png" group-title="Entertainment",Ficom Channel
 https://v3.siar.us/ficomchannel/live/playlist.m3u8
 #EXTINF:-1 tvg-id="GarudaTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/sXsAcZ3.png" group-title="General",Garuda TV
@@ -65,6 +61,8 @@ https://tvstreamcast.com/indonesiana.m3u8
 https://jambitv.globaldigitalcore.com/hls/sah5tu7Eiveepohyieyie3OoteL2anga.m3u8
 #EXTINF:-1 tvg-id="JawaPosTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/960px-Jawa_Pos_TV_2024.svg.png" group-title="General",Jawa Pos TV
 http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="JekTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/wh75d1f.png" group-title="General",Jek TV
+http://27.124.81.245:1935/jektv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="JogjaIstimewaTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/VEqQfTu.png" group-title="General",Jogja Istimewa TV
 http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="JogjaTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Jogjatvnew.png" group-title="General",Jogja TV
@@ -77,6 +75,8 @@ http://122.248.43.242:1935/KAWANUATV/_definst_/myStream/playlist.m3u8
 http://origin5.mediacdn.ru/live/kidstv/index.m3u8
 #EXTINF:-1 tvg-id="KilisuciTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e4/Kilisuci_TV_NEW_LOGO_2016.png" group-title="General",Kilisuci TV
 https://5bf7b725107e5.streamlock.net/kstv/kstv/playlist.m3u8
+#EXTINF:-1 tvg-id="LingkarTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://lingkartv.com/assets/img/logo-square.png" group-title="News",Lingkar TV
+https://lingkartv.my.id/hls/lingkartv.m3u8
 #EXTINF:-1 tvg-id="MadaniTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/8aonQ0v.png" group-title="Religious",Madani TV
 https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MaduTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/cKpgbgW.png" group-title="General",Madu TV
@@ -123,8 +123,8 @@ https://v10.siar.us/rctv/live/playlist.m3u8
 http://122.248.43.242:1935/RIAUTV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="RinjaniTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://lombokindustries.com/assunnah/zone/img/rinjanitv.png" group-title="Education",Rinjani TV
 https://rinjanitv.cloud/hls/tvkabel.m3u8
-#EXTINF:-1 tvg-id="RodjaTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/XwCeHlC.png" group-title="General",Rodja TV
-https://rodjatv.com/rodjatv/live.m3u8
+#EXTINF:-1 tvg-id="RRINet.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/RRI_NET_2023.svg/960px-RRI_NET_2023.svg.png" group-title="General",RRI Net
+https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_output_0.m3u8
 #EXTINF:-1 tvg-id="SalamTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/00Ifzgo.png" group-title="General",Salam TV
 https://live.salamtelevisi.com/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="SaliraTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Salira_TV.png" group-title="Culture",Salira TV
@@ -133,14 +133,14 @@ https://live.salira.tv/p/3870/hybrid/play.m3u8
 https://sampit-tv.siar.us/live/sampit-tv.m3u8
 #EXTINF:-1 tvg-id="SangajiTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/4rTNT8F.png" group-title="General",Sangaji TV
 https://cdn.adyadigitalteknologi.com:8090/vod/relay.m3u8
+#EXTINF:-1 tvg-id="SelaparangTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/ce/Logo_Selaparang_TV.png" group-title="General",Selaparang TV
+https://selaparangtv.siar.us/live/selaparangtv.m3u8
 #EXTINF:-1 tvg-id="SMTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/6e/Logo_SMTV_Sumedang.png" group-title="General",SMTV
 https://e.siar.us/live/smtv.m3u8
 #EXTINF:-1 tvg-id="SPOTV2.id" tvg-country="ID" tvg-language="English" tvg-logo="https://i.imgur.com/YD8fbTH.png" group-title="Sports",SPOTV 2
 http://58.8.186.128:10006/bysid/2630
 #EXTINF:-1 tvg-id="SPOTV.id" tvg-country="ID" tvg-language="English" tvg-logo="https://i.imgur.com/HaoVsm5.png" group-title="Sports",SPOTV
 http://58.8.186.128:10006/bysid/2614
-#EXTINF:-1 tvg-id="SriwijayaTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/75/SriwijayaTV_2014.png" group-title="General",Sriwijaya TV
-https://sriwijayatv.siar.us/live/sriwijayatv.m3u8
 #EXTINF:-1 tvg-id="StaraTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Stara_TV_Sumedang_fix.png" group-title="General",Stara TV
 https://cianjur.staratv.id/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="STV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/EIrXgT8.png" group-title="General",STV
@@ -153,8 +153,8 @@ http://122.248.43.242:1935/SULTRATV/_definst_/myStream/playlist.m3u8
 https://wahyu1ptv.pages.dev/SurauTV-HD.m3u8
 #EXTINF:-1 tvg-id="TATV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/1f0EC7t.png" group-title="General",TATV
 https://v2.siar.us/tatv/live.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="TheIndonesiaChannel.id" tvg-country="ID" tvg-language="English" tvg-logo="https://i.imgur.com/jAAPgpV.png" group-title="Culture",The Indonesia Channel
-https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8
+#EXTINF:-1 tvg-id="TV9Nusantara.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/ed/TV9_Nusantara.png" group-title="General",TV 9 Nusantara
+https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMu.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d0/TvMu.png" group-title="General",TV Mu
 https://e.siar.us/live/tvmu.m3u8
 #EXTINF:-1 tvg-id="TVRI.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png" group-title="General",TVRI
@@ -165,5 +165,7 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
 #EXTINF:-1 tvg-id="UChannel.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/qxkb0cy.png" group-title="General",U Channel
 https://srs.u-channel.tv/live/uchannel-tv.m3u8
+#EXTINF:-1 tvg-id="UGTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/iEKDH26.png" group-title="General",UGTV
+https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 #EXTINF:-1 tvg-id="YOYInternational.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://hosting.renderforestsites.com/35126779/1657983/media/3ed50b4273b16759c16450206bec0196.png" group-title="General",YOY International
 https://gist.githubusercontent.com/iptvonlinetv/8a6b2f12e5e968537378f1245cea02c9/raw/78bf84476f8e24cc8ea9d5ac24855078c61b18db/udp305.575.530:3030.m3u8
