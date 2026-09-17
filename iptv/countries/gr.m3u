@@ -44,7 +44,7 @@ https://s1.cystream.net/live/faros2/playlist.m3u8
 #EXTINF:-1 tvg-id="GnomiTV.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.ibb.co/ZNCXr79/gnomi-logo.png" group-title="General",Gnomi TV
 https://live.streams.ovh:8081/gnomitv/index.m3u8
 #EXTINF:-1 tvg-id="IonianTV.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/JILN3kS.png" group-title="General",Ionian TV
-https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
+http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
 #EXTINF:-1 tvg-id="KontraChannel.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://kontrachannel.gr/images/kontrachannel24.png" group-title="General",Kontra Channel
 https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
 #EXTINF:-1 tvg-id="KosTV.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/bdJnQ1W.png" group-title="General",Kos TV
@@ -63,12 +63,12 @@ https://live.neatv.gr:8888/hls/neatv.m3u8
 https://es1.crystalweb.net:1936/netmaxtv/netmaxtv/playlist.m3u8
 #EXTINF:-1 tvg-id="NotioiTV.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/Nq00n8h.png" group-title="General",Notioi TV
 https://srv.streamserver.gr:3451/stream/play.m3u8
-#EXTINF:-1 tvg-id="NRG91.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/1Zl1OJ5.png" group-title="Music",NRG 91
-http://tv.nrg91.gr:1935/onweb/live/master.m3u8
 #EXTINF:-1 tvg-id="OneChannel.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/One_Channel_Logo_2019.png" group-title="General",One Channel
 https://onechannel.siliconweb.com/one/stream/chunks.m3u8
 #EXTINF:-1 tvg-id="PanikTV.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/13C3CPr.png" group-title="Music",Panik TV
 https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8
+#EXTINF:-1 tvg-id="PellaTV.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/JnDXKZo.png" group-title="General",Pella TV
+https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8
 #EXTINF:-1 tvg-id="PlayTV.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/JWFOYuD.png" group-title="Music",Play TV
 http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
 #EXTINF:-1 tvg-id="ReloadPlay.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/TZUsA2W.jpg" group-title="General",Reload Play
