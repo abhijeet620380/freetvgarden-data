@@ -29,6 +29,8 @@ https://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
 http://88.212.15.19/live/esp_4k_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="FilmPlus.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/OBYuY3S.png" group-title="Movies",Film+
 http://88.212.15.19/live/test_film_plus_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="GolfChannel.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/golfchannel.png" group-title="Sports",Golf Channel
+https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8
 #EXTINF:-1 tvg-id="History2.cz" tvg-country="CZ" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/960px-History2_logo_%282022%29.svg.png" group-title="General",History2
 http://88.212.15.19/live/test_h2/playlist.m3u8
 #EXTINF:-1 tvg-id="History.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="Documentary",History
@@ -121,8 +123,6 @@ https://n105.quickmedia.tv/noetv/live/noetv/Ifd4_1_4/chunks_dvr_timeshift-0-7200
 https://n105.quickmedia.tv/noetvplus/live/noetvplus/Shz3_1_1/chunks_dvr_timeshift-0-7200.m3u8
 #EXTINF:-1 tvg-id="TVPaprika.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/NSabYyT.png" group-title="Lifestyle",TV Paprika
 http://88.212.15.19/live/test_parpika_tv_sd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="UpNetwork.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/cwlHDjh.png" group-title="General",Up Network
-https://dash.antik.sk/live/test_upnetwork/playlist.m3u8
 #EXTINF:-1 tvg-id="ViasatExplore.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/DyT5pKB.png" group-title="Documentary",Viasat Explore
 http://88.212.15.29/live/test_viasat_explore_atk_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ViasatHistory.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://i.imgur.com/wRP9XA7.png" group-title="Documentary",Viasat History
