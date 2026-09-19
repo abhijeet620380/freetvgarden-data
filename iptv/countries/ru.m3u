@@ -78,7 +78,7 @@ http://stream.mcquack.net/320/index.m3u8
 #EXTINF:-1 tvg-id="BRIDGERock.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/MHuwct2.png" group-title="Music",BRIDGE Rock
 http://178.134.1.158:8081/BRIDGEROCK/index.m3u8
 #EXTINF:-1 tvg-id="BST.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/IDotHmQ.png" group-title="General",BST
-http://bst.bratsk.ru/hls/bst2/index.m3u8
+https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8
 #EXTINF:-1 tvg-id="Carousel.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/4wmnx1W.png" group-title="Kids",Carousel
 http://185.37.150.46/Karusel/index.m3u8
 #EXTINF:-1 tvg-id="CarouselInternational.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/DnlngRZ.png" group-title="Kids",Carousel International
@@ -107,18 +107,10 @@ https://fs.uplink.kz/perviy_kanal_sng/mono.m3u8?token=onlinetv
 http://flussonic.linkintel.ru/che/index.m3u8
 #EXTINF:-1 tvg-id="Cinema.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/b5e9qUA.png" group-title="Movies",Cinema
 https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="CityEdenTeleNovella.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/mT5liTh.png" group-title="Series",City Eden TeleNovella
-https://cityeden.catcast.tv/content/46209/index.m3u8
-#EXTINF:-1 tvg-id="CityEdenTV.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/X9kACKi.png" group-title="General",City Eden TV
-https://cityeden.catcast.tv/content/34246/index.m3u8
 #EXTINF:-1 tvg-id="ClassicMusic.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/TpXs1qA.png" group-title="Music",Classic Music
 http://stream.mcquack.net/312/index.m3u8
-#EXTINF:-1 tvg-id="Crimea24.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/k4C0uvp.png" group-title="News",Crimea 24
-https://streaming.televizor-24-tochka.ru/live/28.m3u8
 #EXTINF:-1 tvg-id="Dagestan.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/jumkRvc.png" group-title="General",Dagestan
 https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
-#EXTINF:-1 tvg-id="DanceHits80.ru" tvg-country="RU" tvg-language="English" tvg-logo="https://i.imgur.com/uMw3kks.png" group-title="Music",DanceHits80
-http://dancehits80.denvs.ru:8080/index.m3u8
 #EXTINF:-1 tvg-id="DaVinci.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/V8AUJP6.png" group-title="Education",Da Vinci
 http://stream.mcquack.net/238/index.m3u8
 #EXTINF:-1 tvg-id="Detskimir.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/51.png" group-title="Kids",Detski mir
@@ -142,9 +134,9 @@ https://fs.uplink.kz/dom_kino/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="DomkinoPremium.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/rJpQtvK.png" group-title="Movies",Dom kino Premium
 http://stream.mcquack.net/108/index.m3u8
 #EXTINF:-1 tvg-id="Dorama.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/ZH5LuXU.png" group-title="Movies",Dorama
-http://stream.mcquack.net/412/index.m3u8
+http://str2.iptvhd.ru:8080/dorama_hd/index.m3u8
 #EXTINF:-1 tvg-id="Drive.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/FnuwfSC.png" group-title="Auto",Drive
-https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8
+http://str2.iptvhd.ru:8080/Drayv/index.m3u8
 #EXTINF:-1 tvg-id="DumaTV.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/JvlO3PU.png" group-title="Legislative",Duma TV
 http://185.23.80.23:8080/DumaTV/index.m3u8
 #EXTINF:-1 tvg-id="Dushevnoe.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/vTRHAvD.png" group-title="General",Dushevnoe
@@ -169,8 +161,6 @@ http://fashionlive.mediacdn.ru/cdn/fashiontv/playlist.m3u8
 https://stream8.cinerama.uz/1272/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="FoodTime.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/gxCYAwH.png" group-title="Cooking",FoodTime
 http://str2.iptvhd.ru:8080/Eda/index.m3u8
-#EXTINF:-1 tvg-id="Football.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/pEuaZVx.png" group-title="Sports",Football
-http://str2.iptvhd.ru:8080/Futbol/index.m3u8
 #EXTINF:-1 tvg-id="Friday.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/UfmlXxe.png" group-title="Entertainment",Friday!
 http://stream.mcquack.net/181/index.m3u8
 #EXTINF:-1 tvg-id="FridayInternational.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/N2z3EZC.png" group-title="Entertainment",Friday! International
@@ -248,7 +238,7 @@ http://stream.mcquack.net/68/index.m3u8
 #EXTINF:-1 tvg-id="Komediynoe.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/cEKe8XC.png" group-title="Comedy",Komediynoe
 http://stream.mcquack.net/74/index.m3u8
 #EXTINF:-1 tvg-id="KongressTV.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://tvcongress.ru/bitrix/templates/mbntheme/img/logo_tvc.svg" group-title="General",Kongress TV
-https://stitch.teletarget.ru/api/v1/hls/504/158/index.m3u8
+https://live-3.otcnet.ru/congresstv/index.m3u8
 #EXTINF:-1 tvg-id="KrikTV.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/rtuChZR.png" group-title="News",Krik-TV
 http://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8
 #EXTINF:-1 tvg-id="Ktoestkto.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/PmD17UQ.png" group-title="Education",Kto est kto
@@ -330,7 +320,7 @@ https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m
 #EXTINF:-1 tvg-id="MuzTV.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/BtqrHmz.png" group-title="Music",Muz-TV
 http://46.32.176.50/muztv/index.m3u8
 #EXTINF:-1 tvg-id="Muzyka1.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/DIKe5vA.png" group-title="Music",Muzyka 1
-https://kino-1.catcast.tv/content/37745/index.m3u8
+https://kino-1.catcast.tv/content/37742/index.m3u8
 #EXTINF:-1 tvg-id="MuzykaKino.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/2SG0Swa.png" group-title="Music",Muzyka Kino
 https://kino-1.catcast.tv/content/37739/index.m3u8
 #EXTINF:-1 tvg-id="MuzykaLive.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://cdn2.red-media.ru/wp-content/uploads/2016/08/LOGO_MUSIC_LIVE.png" group-title="Music",Muzyka Live
@@ -357,12 +347,8 @@ https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
 https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8
 #EXTINF:-1 tvg-id="Nostalgia.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/YBdBc0J.png" group-title="Classic",Nostalgia
 https://fs.uplink.kz/nostalgia/mono.m3u8?token=onlinetv
-#EXTINF:-1 tvg-id="NovgorOblTV.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/2JspHVY.png" group-title="General",NovgorOblTV
-https://rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R02_NOVGORODTV/variant.m3u8
 #EXTINF:-1 tvg-id="NST.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/uv2yxa5.png" group-title="General",NST
 http://stream.mcquack.net/207/index.m3u8
-#EXTINF:-1 tvg-id="NTK21.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/W9s1flH.png" group-title="General",NTK 21
-https://s97982.cdn.ngenix.net/hls/CH_R79_OTT_DV_HVSK_NTK/variant.m3u8
 #EXTINF:-1 tvg-id="NTM.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/AH50pGT.png" group-title="General",NTM
 https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="NTS.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/skkDR7q.png" group-title="General",NTS
@@ -596,9 +582,7 @@ https://svoetv.mediacdn.ru/cdn/svoetv/playlist.m3u8
 #EXTINF:-1 tvg-id="T24.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/1W6R14o.png" group-title="General",T24
 http://178.134.1.158:8081/t24/index.m3u8
 #EXTINF:-1 tvg-id="Tamyr.ru" tvg-country="RU" tvg-language="Bashkir" tvg-logo="https://i.imgur.com/Ia3acCB.png" group-title="Kids",Tamyr
-https://bstonline.mediacdn.ru/cdn/tamyr/playlist.m3u8
-#EXTINF:-1 tvg-id="Tavriya.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/gqung6i.png" group-title="General",Tavriya
-https://streaming.televizor-24-tochka.ru/live/24.m3u8
+https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8
 #EXTINF:-1 tvg-id="Telecafe.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/1H3h1HL.png" group-title="Cooking",Telecafe
 https://cdn4.skygo.mn/live/disk1/Telecafe/HLSv3-FTA/Telecafe.m3u8
 #EXTINF:-1 tvg-id="TeleDom.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/071JRrb.png" group-title="General",TeleDom
@@ -635,6 +619,8 @@ http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
 http://194.143.148.28:8080/Mir24/index.m3u8
 #EXTINF:-1 tvg-id="Tooku.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://tooku.ru/wp-content/uploads/2024/11/tooku-kanal-logo.png" group-title="Animation",Tooku
 http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
+#EXTINF:-1 tvg-id="TopSecret.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/HM4xy4G.png" group-title="Documentary",Top Secret
+http://str2.iptvhd.ru:8080/Sovershenno_sekretno/index.m3u8
 #EXTINF:-1 tvg-id="TravelPlusAdventure.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/AlpdXC4.png" group-title="Travel",Travel+Adventure
 http://stream.mcquack.net/206/index.m3u8
 #EXTINF:-1 tvg-id="TV3.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/JLAvq8O.png" group-title="Entertainment",TV-3
@@ -659,14 +645,8 @@ http://rtmp.tvpro-online.ru/hls/ch1.m3u8
 https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?e=2066519758&s=9cPc1rCGu6M932eqrifRhQ&scheme=https
 #EXTINF:-1 tvg-id="UDAR.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://mt.media/upload/iblock/2b3/2b3cf99141bf7f99cda377eec62ec084.png" group-title="Sports",UDAR
 http://5.188.159.128:8070/udar/index.m3u8
-#EXTINF:-1 tvg-id="UgraTV.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/561FRwI.png" group-title="General",Ugra-TV
-https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
-#EXTINF:-1 tvg-id="UniverTV.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/r3u0mxr.png" group-title="General",Univer TV
-https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="UnknownRussia.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/W7ste2f.png" group-title="General",Unknown Russia
 http://185.23.80.23:8080/NeizvestnayaRossia/index.m3u8
-#EXTINF:-1 tvg-id="Usadba.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/mf13haG.png" group-title="General",Usadba
-http://stream.mcquack.net/211/index.m3u8
 #EXTINF:-1 tvg-id="VestiFM.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/ZBHqSZj.png" group-title="News",Vesti FM
 https://stream.smotrim.ru/hls2/vesti_fm/playlist_4.m3u8
 #EXTINF:-1 tvg-id="Vetta24.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/zKH1b5k.png" group-title="General",Vetta 24
