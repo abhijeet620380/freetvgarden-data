@@ -59,6 +59,8 @@ https://cloudfront44.lexanetwork.com:1344/relay01/broadcast007.sdp/playlist.m3u8
 http://88.212.15.19/live/jim_jam_hun/index.m3u8
 #EXTINF:-1 tvg-id="JockyTV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/wLawFVP.png" group-title="Entertainment",Jocky TV
 http://88.212.15.19/live/jocky/index.m3u8
+#EXTINF:-1 tvg-id="KanizsaTV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/l02znlE.png" group-title="General",Kanizsa TV
+https://cloudfront44.lexanetwork.com:1344/freerelay/kanizsavtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="KecskemetiTV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/yxwrX2N.png" group-title="General",Kecskemeti TV
 http://rtmp1.40e.hu:8000/live/ktv.m3u8
 #EXTINF:-1 tvg-id="Kolyokklub.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/K%C3%B6ly%C3%B6kklub_II.svg/1920px-K%C3%B6ly%C3%B6kklub_II.svg.png" group-title="Kids",Kolyokklub
@@ -189,3 +191,5 @@ https://cloudfront44.lexanetwork.com:1344/relay01/HDE051.sdp/playlist.m3u8
 https://cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Zenebutik.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/xGUlF78.png" group-title="General",Zenebutik
 http://88.212.15.19/live/zenebutik/index.m3u8
+#EXTINF:-1 tvg-id="ZugloTV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/wPqCtwR.png" group-title="Entertainment",Zuglo TV
+https://cloudfront44.lexanetwork.com:1344/freerelay/zuglotv.sdp/playlist.m3u8
