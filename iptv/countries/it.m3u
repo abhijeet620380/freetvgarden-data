@@ -3,8 +3,6 @@
 https://stream10.xdevel.com/video1s976543-1932/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="12TVParma.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/mBYxWOg.png" group-title="General",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="50Canale.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/D3OTRzf.png" group-title="General",50 Canale
-https://load-balancer.azotosolutions.com/cdnedge37/canale50/playlist.m3u8
 #EXTINF:-1 tvg-id="51RadioTV.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://www.51news.it/images/loghi/logo_tv_radio_51news.png" group-title="Music",51 Radio TV
 http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8
 #EXTINF:-1 tvg-id="111TV.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/kVREx1Q.png" group-title="General",111 TV
@@ -51,6 +49,8 @@ https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8
 https://amg14891-amg14891c5-amgplt0020.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CompanyTV.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/ccdwsWj.png" group-title="Music",Company TV
 https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
+#EXTINF:-1 tvg-id="CusanoItaliaTV.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/fOluzuE.png" group-title="General",Cusano Italia TV
+https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="DeejayTV.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/YV27Chs.png" group-title="General",Deejay TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 #EXTINF:-1 tvg-id="DellaTV.it" tvg-country="IT" tvg-language="English" tvg-logo="https://i.imgur.com/6lvQ3Xz.png" group-title="General",DellaTV
@@ -157,12 +157,16 @@ https://5f22d76e220e1.streamlock.net/pacicontemporarychannel/pacicontemporarycha
 https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="ParolediVita.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/vkFlXbR.png" group-title="Religious",Parole di Vita
 https://stream.paroledivita.org/paroledivita.m3u8
+#EXTINF:-1 tvg-id="PeerTVAltoAdige.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-alto-adige.png" group-title="Outdoor",Peer TV Alto Adige
+https://iptv.peer.biz/live/peertv-it.m3u8
+#EXTINF:-1 tvg-id="PeerTVSouthTyrol.it" tvg-country="IT" tvg-language="English" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-south-tyrol.png" group-title="Outdoor",Peer TV South Tyrol
+https://iptv.peer.biz/live/peertv-en.m3u8
+#EXTINF:-1 tvg-id="PeerTVSudtirol.it" tvg-country="IT" tvg-language="German" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-suedtirol.png" group-title="Outdoor",Peer TV Sudtirol
+https://iptv.peer.biz/live/peertv.m3u8
 #EXTINF:-1 tvg-id="PrimaFree.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://irp.cdn-website.com/184bfd6a/MOBILE/jpg/477.jpg" group-title="General",Prima Free
 https://5f22d76e220e1.streamlock.net/primafree/primafree/playlist.m3u8
 #EXTINF:-1 tvg-id="Primocanale.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/eunZ2Sa.png" group-title="General",Primocanale
 https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="PromovideoTV.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/eKpS5Ck.png" group-title="General",Promovideo TV
-https://media2021.rtvweb.com/promovideo_web/promovideo/playlist.m3u8
 #EXTINF:-1 tvg-id="QuartoCanaleFlegreo.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/XfNSWp0.png" group-title="General",Quarto Canale Flegreo
 https://live.mariatvcdn.com/dialogos/171e41deedf405f10c7dd6311387fb43.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="QVC.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/6TWUVrh.png" group-title="Shop",QVC
@@ -263,8 +267,6 @@ https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
 https://bild-und-ton.stream/sophiatv-it/smil:sophia-tv-it.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Sportitalia.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/0CJGGgd.png" group-title="Sports",Sportitalia
 https://edge-001.streamup.eu/sportitalia/sihd_abr/playlist.m3u8
-#EXTINF:-1 tvg-id="SportitaliaSolocalcio.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/hu56Ya5.png" group-title="Sports",Sportitalia Solocalcio
-https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Stereo5TV.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/sCDcYFW.png" group-title="General",Stereo 5 TV
 https://stream1.aswifi.it/stereo5/live/index.m3u8
 #EXTINF:-1 tvg-id="Super.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Super%21_logo_2021.svg/960px-Super%21_logo_2021.svg.png" group-title="Kids",Super!
@@ -349,8 +351,6 @@ https://eu1.servers10.com:8081/8032/index.m3u8
 https://live.mariatvcdn.com/tvprato/2db0dd5674586686a867ec52c3aa8e06.sdp/index.m3u8
 #EXTINF:-1 tvg-id="TVQuiModena.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/YfMVNDE.png" group-title="General",TV Qui Modena
 https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8
-#EXTINF:-1 tvg-id="UmbriaTV.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/olJIJ7c.png" group-title="General",Umbria TV
-https://umbriatv.stream.rubidia.it:8083/live/umbriatv/playlist.m3u8
 #EXTINF:-1 tvg-id="UniNettunoUniversityTV.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/c9So8nf.png" group-title="General",UniNettuno University TV
 https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
 #EXTINF:-1 tvg-id="Value24TV.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/FdEyI96.png" group-title="General",Value 24 TV

@@ -15,12 +15,14 @@ http://stream.mcquack.net/28/index.m3u8
 https://fs.uplink.kz/atameken/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Balapan.kz" tvg-country="KZ" tvg-language="Kazakh" tvg-logo="https://vote.rtrk.kz/img/balapan-logo.png" group-title="Kids",Balapan
 https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
+#EXTINF:-1 tvg-id="BalapanInternational.kz" tvg-country="KZ" tvg-language="Kazakh" tvg-logo="https://otv.server-img.lfstrm.tv/images/channel_logos/logo_638108d82e47243302bc81f1.png" group-title="Kids",Balapan International
+https://live-3.otcnet.ru/Balapan/index.m3u8
 #EXTINF:-1 tvg-id="Channel7.kz" tvg-country="KZ" tvg-language="Kazakh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Seven_Channel.png" group-title="General",Channel 7
 http://stream.mcquack.net/27/index.m3u8
 #EXTINF:-1 tvg-id="ChannelOneEurasia.kz" tvg-country="KZ" tvg-language="Kazakh" tvg-logo="https://i.imgur.com/vm5sJHP.png" group-title="General",Channel One Eurasia
 https://fs.uplink.kz/perviy_kanal_evrasia/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="JibekJoly.kz" tvg-country="KZ" tvg-language="Kazakh" tvg-logo="https://i.imgur.com/SqyXtgK.png" group-title="General",Jibek Joly
-https://stream.qazcdn.net/ex6r514/jjtv/playlist.m3u8
+https://fs.uplink.kz/jibek_joly/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Khabar.kz" tvg-country="KZ" tvg-language="Kazakh" tvg-logo="https://i.imgur.com/upZ0Cuu.png" group-title="General",Khabar
 https://fs.uplink.kz/habar/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="KinoBoevik.kz" tvg-country="KZ" tvg-language="Kazakh" tvg-logo="https://kt.server-img.lfstrm.tv/images/channel_logos/logo_66b351f01f828dca40d006b3.png" group-title="Movies",KinoBoevik
@@ -51,3 +53,5 @@ https://hlspackager.akamaized.net/live/DB/SILKWAY/SILKWAY/SILKWAY.m3u8
 https://stream.qazcdn.net/ex6r514/silkwaycinema/index.m3u8
 #EXTINF:-1 tvg-id="SportPlusQazaqstan.kz" tvg-country="KZ" tvg-language="Kazakh" tvg-logo="https://i.imgur.com/vIV7x6n.png" group-title="Sports",Sport+ Qazaqstan
 https://fs.uplink.kz/sport+/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="TDK42.kz" tvg-country="KZ" tvg-language="Russian" tvg-logo="https://i.imgur.com/iVhdcS7.png" group-title="General",TDK 42
+https://live-tdk42kz.cdnvideo.ru/tdk42kz/tdk42kz_720.smil/playlist.m3u8
