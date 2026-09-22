@@ -22,15 +22,17 @@ https://cloud37.ecuatel.com/ciracutv/live/manifest.m3u8
 #EXTINF:-1 tvg-id="EcotelTV.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/pVlZUSV.png" group-title="News",Ecotel TV
 https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 #EXTINF:-1 tvg-id="EcuadorTV.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/hj6EYwe.png" group-title="General",Ecuador TV
-https://video-eu1.streamerr.co/hls/s64029a8fdf/live.m3u8
+http://45.224.97.181:9999/EcuadorTV/index.m3u8
 #EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="General",Ecuavisa
-https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
+https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
 #EXTINF:-1 tvg-id="EducaTV.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/nDRVsIc.png" group-title="Education",Educa TV
 https://avm.ecuamedia.net/educatv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ElSolNetworkTV.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/TIH3zlP.png" group-title="Music",El Sol Network TV
 https://tv.wracanal10.com:3025/live/elsoltvlive.m3u8
 #EXTINF:-1 tvg-id="FMMundo.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/1nNnYQO.png" group-title="Music",FM Mundo
 https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8
+#EXTINF:-1 tvg-id="Gamavision.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="General",Gamavision
+http://45.224.97.181:9999/Gamavision/index.m3u8
 #EXTINF:-1 tvg-id="GaviotaTV.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/1vlZA6O.png" group-title="Entertainment",Gaviota TV
 https://gaviotatv.streamseguro.com:3195/live/gaviotatvlive.m3u8
 #EXTINF:-1 tvg-id="HechosEcuador.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/koMQZNX.png" group-title="General",Hechos Ecuador
@@ -41,12 +43,8 @@ https://cloud37.ecuatel.com/iglesia2020/Stream1/playlist.m3u8
 https://s2.tvdatta.com:3753/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="LaNuevaRadioTV977.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/19FN4Lp.png" group-title="Entertainment",La Nueva Radio TV 97.7
 https://sv72.ecuaradiotv.net/lanuevatv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="LatacungaTV.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/YjgYYH3.png" group-title="Entertainment",LatacungaTV
-https://stmv1.voxtvhd.com.br/latacungatv/latacungatv/playlist.m3u8
 #EXTINF:-1 tvg-id="MakroDigitalTelevision.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://makrodigitaltelevision.com/logo.jpg" group-title="Entertainment",MakroDigital Television
 https://makrodigitaltv.makrodigital.com/makrodigitaltelevision/iptv/playlist.m3u8
-#EXTINF:-1 tvg-id="Manavision.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/mZkW342.png" group-title="Culture",Manavision
-https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8
 #EXTINF:-1 tvg-id="MarcaTV.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ez1NxwJ.jpg" group-title="General",Marca TV
 http://200.7.219.221:8088/live/livetv/index.m3u8
 #EXTINF:-1 tvg-id="MelRadioTV.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/uu8Clh2.png" group-title="Entertainment",Mel Radio TV
@@ -56,7 +54,7 @@ https://eu1.servers10.com:8081/8214/index.m3u8
 #EXTINF:-1 tvg-id="NukaTV.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4r2Ycju.png" group-title="General",Nuka TV
 https://cloudvideo.servers10.com:8081/8118/index.m3u8
 #EXTINF:-1 tvg-id="OromarTV.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://oromartv.com/images/OTV400.png" group-title="General",Oromar TV
-https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
+http://45.224.97.181:9999/Oromar/index.m3u8
 #EXTINF:-1 tvg-id="OromarTVPlus.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://oromartv.com/images/OTV400.png" group-title="General",Oromar TV+
 https://stream.oromar.tv/hls/camriva/index.m3u8
 #EXTINF:-1 tvg-id="PlanetaChannel.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/XyBKaXI.png" group-title="General",Planeta Channel
@@ -76,7 +74,9 @@ https://s2.tvdatta.com:3825/live/redtvelive.m3u8
 #EXTINF:-1 tvg-id="RTRTV.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/dvP2yqB.png" group-title="General",RTRTV
 https://tv3ecuador.site/hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="RTS.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/PML8cJA.png" group-title="General",RTS
-http://157.100.248.242:8080/RTSHD/index.m3u8
+http://45.224.97.181:9999/RTS/index.m3u8
+#EXTINF:-1 tvg-id="RTU.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/1OWvMP4.png" group-title="News",RTU
+http://45.224.97.181:9999/RTU/index.m3u8
 #EXTINF:-1 tvg-id="RTV.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/DzxGHRZ.png" group-title="General",RTV
 https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8
 #EXTINF:-1 tvg-id="SonoOndaTV.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/HWHeqWY.png" group-title="General",Sono Onda TV
@@ -84,25 +84,21 @@ https://live.obslivestream.com/sonoondatv/index.m3u8
 #EXTINF:-1 tvg-id="StudioPlusTV.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://carjocosa.space/studio/logo.png" group-title="General",Studio + TV
 https://vd01.streaminghd.net.ar:3113/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="TCTelevision.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/okK02EN.png" group-title="General",TC Television
-http://177.234.218.66:8084/play/a089/index.m3u8
+http://45.224.97.181:9999/TC/index.m3u8
 #EXTINF:-1 tvg-id="Teleamazonas.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/960px-Teleamazonas_Logo.png" group-title="General",Teleamazonas
-http://157.100.248.242:8080/TeleamazonasHD/index.m3u8
+http://45.224.97.181:9999/Teleamazonas/index.m3u8
 #EXTINF:-1 tvg-id="Telemar.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/0vX9oJF.png" group-title="General",Telemar
 https://cloudpro.servidoresdestream.com:8081/8020/index.m3u8
 #EXTINF:-1 tvg-id="Telerama.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/whIRrjo.png" group-title="General",Telerama
 https://play.once.net.ec/telerama/live.tv/538.m3u8
 #EXTINF:-1 tvg-id="TVC.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/zhdIwlm.png" group-title="General",TVC
-http://157.100.248.242:8080/TVCHD/index.m3u8
+http://45.224.97.181:9999/TVC/index.m3u8
 #EXTINF:-1 tvg-id="TVColorCanal36.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/QJW6khK.jpg" group-title="General",TV Color Canal 36
 https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
-#EXTINF:-1 tvg-id="TVLegislativa.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/9eeLsgg.png" group-title="Legislative",TV Legislativa
-https://streamingav.asambleanacional.gob.ec/hls/stream.m3u8
 #EXTINF:-1 tvg-id="TvOro.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/9d02qUU.jpeg" group-title="General",TvOro
 http://45.187.0.19:9090/tvusa/index.m3u8
 #EXTINF:-1 tvg-id="TVUniversalEcuador.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/TIsk5zN.png" group-title="Religious",TV Universal Ecuador
 https://cdn.mycloudstream.io/hls/live/broadcast/uwcedjt2/index.m3u8
-#EXTINF:-1 tvg-id="UNIANDESTV.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/1rluyB7.png" group-title="Education",UNIANDES TV
-https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8
 #EXTINF:-1 tvg-id="VosyTV.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/294FDCB.png" group-title="Music",Vos y TV
 https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
 #EXTINF:-1 tvg-id="WuanPlus.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/pJNx1za.png" group-title="General",Wuan+
