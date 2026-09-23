@@ -157,16 +157,14 @@ https://fox.hostlagarto.com:8081/hmtv/index.m3u8
 https://hilandofinotv.essastream.com:3606/live/canalhilandofinotvlive.m3u8
 #EXTINF:-1 tvg-id="HTVLive.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/0WBsAin.png" group-title="Entertainment",HTV Live
 https://fox.hostlagarto.com:8081/canalhtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ImagenUniversalTV.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/DP6HmDV.png" group-title="General",Imagen Universal TV
+https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 #EXTINF:-1 tvg-id="InformeTV.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://imgur.com/TmJaXrO.jpg" group-title="General",Informe TV
 https://edge.essastream.com/informetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="JARABACOATV.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://imgur.com/m9WCrlw.jpg" group-title="Entertainment",JARABACOA TV
 https://streaming.jarabacoatv.com/Jarabacoa_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="JimaniTV.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://imgur.com/EPYHUSc.jpeg" group-title="General",Jimani TV
 https://cloud2.streaminglivehd.com:1936/8246/8246/playlist.m3u8
-#EXTINF:-1 tvg-id="JPDTV.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i0.wp.com/juanpabloduartetv.com/wp-content/uploads/2024/08/logo-JPDTV-100-x-100.png" group-title="General",JPD TV
-https://imagenuniversaltv.net:3026/live/juanpabloduartetvlive.m3u8
-#EXTINF:-1 tvg-id="JuniorTechnologiaTV.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3812-294x165-FFFFFF.jpg" group-title="General",Junior Technologia TV
-https://streamunoapp.com:3616/live/juniorrodrigueztvlive.m3u8
 #EXTINF:-1 tvg-id="LaDescargaTV.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://imgur.com/kq1CrDE.png" group-title="General",La Descarga TV
 https://video.udwn.net:19360/ladescargatv/ladescargatv.m3u8
 #EXTINF:-1 tvg-id="LagunaTV.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://dominicanchannels.com/wp-content/uploads/lagunatv.jpg" group-title="General",Laguna TV
@@ -211,6 +209,8 @@ https://edge.essastream.com/miavisiontv/playlist.m3u8
 https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
 #EXTINF:-1 tvg-id="MisionELTV.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/hwC1stN.png" group-title="Religious",Mision ELTV
 https://rd.tvabierta.net/live/misioneltv.m3u8
+#EXTINF:-1 tvg-id="MITurnoTV.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://imgur.com/uODDaEY.png" group-title="General",MI Turno TV
+https://video.udwn.net:19360/miturnotv/miturnotv.m3u8
 #EXTINF:-1 tvg-id="MontecristiDigital8.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://imgur.com/ExoOHQI.jpeg" group-title="General",Montecristi Digital 8
 https://soportedvb.click:3400/live/montecristitvlive.m3u8
 #EXTINF:-1 tvg-id="MontonesTV.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://montonestv.com/wp-content/uploads/2025/11/montones-logo.png" group-title="Music",Montones TV
@@ -229,8 +229,6 @@ https://5790d294af2dc.streamlock.net/Nexxo/Nexxo/playlist.m3u8
 https://vs20.live.opencaster.com/bznudxxdtppv/index.m3u8
 #EXTINF:-1 tvg-id="Noticias16.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="" group-title="News",Noticias 16
 https://edge.essastream.com/noticias16/playlist.m3u8
-#EXTINF:-1 tvg-id="NotisurTV.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://rdomint.com/images/station/300.jpg" group-title="General",Notisur TV
-https://ss2.tvrdomi.com:1936/notisur/notisur/playlist.m3u8
 #EXTINF:-1 tvg-id="OEPMTV.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/QghtwMB.jpeg" group-title="Travel",OEPM TV
 https://cnn.hostlagarto.com/oepmtelevision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="OndaTV.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/RUIyD9a.png" group-title="General",Onda TV
@@ -289,40 +287,8 @@ https://ss2.tvrdomi.com:1936/supertv55/supertv55/playlist.m3u8
 https://ss2.tvrdomi.com:1936/eradiofonicas/eradiofonicas/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleAntillas.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/G1pJZkC.png" group-title="General",Tele Antillas
 http://45.171.108.253:8888/TELEANTILLAS/index.m3u8
-#EXTINF:-1 tvg-id="TeleBendicion.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/nh4sNVI.png" group-title="Religious",TeleBendicion
-https://ss2.tvrdomi.com:1936/telebendicion/telebendicion/playlist.m3u8
-#EXTINF:-1 tvg-id="Telecanal12.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/90cTK8S.png" group-title="General",Telecanal 12
-https://edge.essastream.com/telecanal12/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Telecanal28.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/hEJ6lZ9.png" group-title="General",Telecanal 28
-https://edge.essastream.com/telecanal28/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Telecentro.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/F17zNXh.png" group-title="General",Telecentro
-https://live4.telemicro.com.do/live/telecentrocast_1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="TeleCibaoHD.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/IpInp05.png" group-title="General",TeleCibaoHD
-https://edge.essastream.com/telecibaotv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="TelecomercioTV.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://imgur.com/FtV5TCs.jpg" group-title="General",Telecomercio TV
-https://streaming.grupomediosdelnorte.com:19360/telecomerciotv/telecomerciotv.m3u8
-#EXTINF:-1 tvg-id="Telecontacto.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/TMvV9dF.png" group-title="General",Telecontacto
-https://streaming.grupomediosdelnorte.com:19360/telecontacto/telecontacto.m3u8
-#EXTINF:-1 tvg-id="TeleDominicanaTV.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://dominicanchannels.com/wp-content/uploads/teledominicana.png" group-title="Music",Tele Dominicana TV
-https://vdopanel.jlahozconsulting.com/p/3417/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="Telefuturo.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/QpnctoU.png" group-title="General",Telefuturo
 http://190.122.104.210:5080/LiveApp/streams/tfuturo.m3u8
-#EXTINF:-1 tvg-id="Teleimpacto.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/dBEysOV.png" group-title="General",Teleimpacto
-https://vpss2003.streamprolive.com/hls/live.m3u8
-#EXTINF:-1 tvg-id="Telemax.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/QvKmjvV.png" group-title="Entertainment",Telemax
-https://edge.essastream.com/telemax/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="TelemediosCanal8.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/xhEAw7z.png" group-title="General",Telemedios Canal 8
-https://hls.tvabierta.net/hls/008.m3u8
-#EXTINF:-1 tvg-id="TelemetroTV.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://imgur.com/Ck2NL0t.png" group-title="General",Telemetro TV
-https://streamunoapp.com:3366/live/telemetrolive.m3u8
-#EXTINF:-1 tvg-id="Telemicro.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/WhgySAk.png" group-title="General",Telemicro
-https://live2.telemicro.com.do/live/55/playlist.m3u8
-#EXTINF:-1 tvg-id="TelenewsTV.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3878-294x165-FFFFFF.jpg" group-title="News",Telenews TV
-https://hilandofinotv.essastream.com:3480/live/telenewscanallive.m3u8
-#EXTINF:-1 tvg-id="Telenord8.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/1Ei0kB8.png" group-title="General",Telenord 8
-https://fox.hostlagarto.com:8081/telenord8/playlist.m3u8
-#EXTINF:-1 tvg-id="Telenord10.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/1Ei0kB8.png" group-title="General",Telenord 10
-https://fox.hostlagarto.com:8081/telenord10/playlist.m3u8
 #EXTINF:-1 tvg-id="Telenord12.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/o7EzEsV.png" group-title="General",Telenord 12
 https://fox.hostlagarto.com:8081/telenord12/playlist.m3u8
 #EXTINF:-1 tvg-id="Telenovisa43.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/iHvf3bR.png" group-title="General",Telenovisa43
@@ -331,16 +297,10 @@ https://fox.hostlagarto.com:8081/telenonisa43/tracks-v1a1/mono.m3u8
 https://cdn.telepoder.online:3229/dash/stream.m3u8
 #EXTINF:-1 tvg-id="TeleProyectoTV.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://imgur.com/LmBxN5x.png" group-title="General",Tele Proyecto TV
 https://5790d294af2dc.streamlock.net/Teleproyecto/Teleproyecto/playlist.m3u8
-#EXTINF:-1 tvg-id="TELESIGLO.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2195-294x165-FFFFFF.jpg" group-title="General",TELESIGLO
-https://cnn.hostlagarto.com/telesiglo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Telesistema11.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ZzeZKCu.png" group-title="General",Telesistema 11
 https://cdn4.wind.do/streams/telesistema/telesistema_master.m3u8
-#EXTINF:-1 tvg-id="Teletur.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Ig4gR93.png" group-title="Travel",Teletur
-https://fox.hostlagarto.com:8081/teleturtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Teleunion.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/vTfxkjW.png" group-title="General",Teleunion
-http://server2grupocam.com:1945/teleunion/TU/playlist.m3u8
-#EXTINF:-1 tvg-id="Teleuniverso.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/gQev8ST.png" group-title="General",Teleuniverso
-https://hls.tvabierta.net/hls/029.m3u8
+http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8
 #EXTINF:-1 tvg-id="Telever.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://imgur.com/ejKctXc.png" group-title="General",Telever
 https://soportedvb.click:3413/live/televerlive.m3u8
 #EXTINF:-1 tvg-id="Televida.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/S8Zdn41.png" group-title="Religious",Televida
@@ -391,16 +351,18 @@ https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
 https://cloud5.livescast.com:19360/canalvegateve/canalvegateve.m3u8
 #EXTINF:-1 tvg-id="VegavisionCanal18.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/352jxnd.png" group-title="General",Vegavision Canal 18
 https://fox.hostlagarto.com:8081/canal26/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Vision3000.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/mogsnzp.png" group-title="General",Vision 3000
-https://ss2.tvrdomi.com:1936/vision3000/vision3000/playlist.m3u8
 #EXTINF:-1 tvg-id="VisionNDV.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4gj5NMa.png" group-title="Entertainment",Vision NDV
 https://soportedvb.click:3891/live/visionndvlive.m3u8
 #EXTINF:-1 tvg-id="VTVCanal32.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/qjm4B0J.png" group-title="General",VTV Canal 32
 https://cnn.livestreaminggroup.info:3507/live/vtv32live.m3u8
+#EXTINF:-1 tvg-id="XtraTv.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://xtratvrd.com/logo512.png" group-title="General",Xtra Tv
+https://edge.essastream.com/xtratv/index.m3u8
 #EXTINF:-1 tvg-id="XtremoChannel.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/bvPh0Uq.png" group-title="General",Xtremo Channel
 https://ss2.tvrdomi.com:1936/xtremochannel/xtremochannel/playlist.m3u8
 #EXTINF:-1 tvg-id="Yunavision.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/YjceEv5.png" group-title="Entertainment",Yunavision
 https://tele-stream.telecasa.net/live/st1/yunavision-hd/index.m3u8
+#EXTINF:-1 tvg-id="ZASTV.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/4058-294x165-FFFFFF.jpg" group-title="General",ZAS TV
+https://cloud5.zastv.net/hls/zastv.m3u8
 #EXTINF:-1 tvg-id="ZincNombreTV.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3751-294x165-FFFFFF.jpg" group-title="General",Zinc Nombre TV
 https://5790d294af2dc.streamlock.net/zincnombretv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ZonavisionTV.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://imgur.com/B3PrrMH.png" group-title="General",Zonavision TV
