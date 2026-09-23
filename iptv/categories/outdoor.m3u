@@ -9,6 +9,8 @@ http://45.162.64.114/AGRO_CANAL/index.m3u8
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
 #EXTINF:-1 tvg-id="AgroTV.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/tPMNDtD.png" group-title="Outdoor",Agro TV
 https://restr2.bgtv.bg/agro/hls/agro.m3u8
+#EXTINF:-1 tvg-id="AgroTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/1uLGa3w.png" group-title="Outdoor",Agro TV
+https://play.agenciastreaming.com:8081/agrotv/index.m3u8
 #EXTINF:-1 tvg-id="AgroTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/S7X1PiC.png" group-title="Outdoor",Agro TV
 https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
 #EXTINF:-1 tvg-id="AKCTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/XRTfoSp.png" group-title="Outdoor",AKC TV
@@ -27,10 +29,16 @@ http://74.91.26.218:82/live/cctv17hd.m3u8
 https://lbgo.bozztv.com/ssh101/ssh101/verycoolfgr/playlist.m3u8
 #EXTINF:-1 tvg-id="DDKisan.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_KISAN/images/LOGO_HD/image.png" group-title="Education",DD Kisan
 https://mumbai-edge.smartplaytv.in/DDKisan/index.m3u8
+#EXTINF:-1 tvg-id="Dikayaokhota.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/EOue13e.png" group-title="Outdoor",Dikaya okhota
+http://stream.mcquack.net/274/index.m3u8
+#EXTINF:-1 tvg-id="Dikayarybalka.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/e3BFVgt.png" group-title="Outdoor",Dikaya rybalka
+http://stream.mcquack.net/275/index.m3u8
 #EXTINF:-1 tvg-id="Dikij.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/VDXDiPC.png" group-title="Outdoor",Dikij
 https://stream3.cinerama.uz/1230/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="DuckHuntingTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://image.roku.com/developer_channels/prod/b2a80f0a20fc338f22a8289f23d20d19d958470ff1b8df3845c57cbc54ec1245.png" group-title="Outdoor",Duck Hunting TV
 https://main.duckhunting.playout.vju.tv/duckhuntingtv/main.m3u8
+#EXTINF:-1 tvg-id="ElMundodelCampo.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/xG2apUG.jpeg" group-title="Outdoor",El Mundo del Campo
+https://movil.ejeserver.com/live/elmundodelcampo.m3u8
 #EXTINF:-1 tvg-id="FishTV.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.fishtv.com/public/site/images/logos/fishtv.svg" group-title="Outdoor",Fish TV
 http://45.162.64.114/FISH_TV/index.m3u8
 #EXTINF:-1 tvg-id="HorseCountryTV.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/1x6zYZr.png" group-title="Outdoor",Horse & Country TV
@@ -49,18 +57,8 @@ http://91.226.120.120/chid210/tracks-v1a1/mono.m3u8
 http://stream.mcquack.net/194/index.m3u8
 #EXTINF:-1 tvg-id="Okhotairybalka.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/nZwBaeW.png" group-title="Outdoor",Okhota i rybalka
 http://stream.mcquack.net/155/index.m3u8
-#EXTINF:-1 tvg-id="OutdoorAmerica.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/UKfimFD.png" group-title="Outdoor",Outdoor America
-https://d1e354daam8g5r.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Kh4MWaY.png" group-title="Outdoor",Outdoor Channel
 http://23.237.104.106:8080/USA_OUTDOOR/index.m3u8
-#EXTINF:-1 tvg-id="OutsideTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/666988d3bac4421ebc533616/images/logo_20231219_220634_59.png" group-title="Outdoor",Outside TV
-https://outsidetv-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="PeerTVAltoAdige.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-alto-adige.png" group-title="Outdoor",Peer TV Alto Adige
-https://iptv.peer.biz/live/peertv-it.m3u8
-#EXTINF:-1 tvg-id="PeerTVSouthTyrol.it" tvg-country="IT" tvg-language="English" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-south-tyrol.png" group-title="Outdoor",Peer TV South Tyrol
-https://iptv.peer.biz/live/peertv-en.m3u8
-#EXTINF:-1 tvg-id="PeerTVSudtirol.it" tvg-country="IT" tvg-language="German" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-suedtirol.png" group-title="Outdoor",Peer TV Sudtirol
-https://iptv.peer.biz/live/peertv.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAdventure.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/653bdb0fbdf3cf00089cc395/colorLogoSVG.svg" group-title="Entertainment",Pluto TV Adventure
 https://jmp2.uk/plu-653bdb0fbdf3cf00089cc395.m3u8
 #EXTINF:-1 tvg-id="PlutoTVBackcountry.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/KnlQzs7.png" group-title="Outdoor",Pluto TV Backcountry
@@ -71,6 +69,8 @@ https://jmp2.uk/plu-619e1874e0d3a7000729a036.m3u8
 https://jmp2.uk/plu-5dd85eac039bba0009e86d1d.m3u8
 #EXTINF:-1 tvg-id="Poehali.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/ZNCpbII.png" group-title="Entertainment",Poehali!
 https://fs.uplink.kz/poehali/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="ProductivaTV.py" tvg-country="PY" tvg-language="Spanish" tvg-logo="https://i.imgur.com/KXHK7UP.png" group-title="Outdoor",Productiva TV
+https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/playlist.m3u8?admin=nacion
 #EXTINF:-1 tvg-id="PursuitUP.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/5Vzwqts.png" group-title="Outdoor",PursuitUP
 https://linear-205.frequency.stream/dist/glewedtv/205/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="RedBullTV.at" tvg-country="AT" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Red_Bull_TV.png" group-title="Sports",Red Bull TV
@@ -97,8 +97,6 @@ http://45.162.64.114/TERRAVIVA/index.m3u8
 http://88.212.15.19/live/fishing_hun/index.m3u8
 #EXTINF:-1 tvg-id="Trofei.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/VDt4mKB.png" group-title="Outdoor",Trofei
 http://stream.mcquack.net/357/index.m3u8
-#EXTINF:-1 tvg-id="UMCTV.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/YQUK4wO.png" group-title="Outdoor",UMC TV
-https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8
 #EXTINF:-1 tvg-id="WaterBear.ch" tvg-country="CH" tvg-language="English" tvg-logo="https://framerusercontent.com/images/41VQQ7F0fYlp1MX1N4Ixog5QnPI.png" group-title="Documentary",WaterBear
 https://amg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv/playlist/amg01415-waterbearnetwor-waterbear-samsunguk/playlist.m3u8
 #EXTINF:-1 tvg-id="WaypointTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/9vvlJN9.png" group-title="Outdoor",Waypoint TV
