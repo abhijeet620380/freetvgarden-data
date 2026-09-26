@@ -9,6 +9,8 @@ https://dash3.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
 https://stream.a1mediagroep.nl/hls/a1tv.m3u8
 #EXTINF:-1 tvg-id="AltenaTV.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/0wblu0I.png" group-title="General",Altena TV
 https://dnx1f4sl30ba2.cloudfront.net/nlpo/clr-nlpo/altenatv/index.m3u8
+#EXTINF:-1 tvg-id="AssenTV.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/upik15D.png" group-title="General",Assen TV
+https://takeoff.jetstre.am/?account=OmroepAssen&file=OmroepAssenTV/playlist.m3u8&output=playlist.m3u8&protocol=https&service=webdav&type=live
 #EXTINF:-1 tvg-id="AT5.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/iAiSlEL.png" group-title="General",AT5
 https://takeoff.jetstre.am/?account=atvijf&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live
 #EXTINF:-1 tvg-id="BEATTV.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/egK33Dj.png" group-title="Music",BEATTV
@@ -17,18 +19,10 @@ https://tv.beatfm.nl/live.m3u8
 https://bnr-cache-cdp.triple-it.nl/studio/index.m3u8
 #EXTINF:-1 tvg-id="CanalPlusActionEurope.nl" tvg-country="NL" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Canal%2B_Action_2024.svg/1920px-Canal%2B_Action_2024.svg.png" group-title="Movies",Canal+ Action Europe
 http://46.149.191.219:9106/play/a01g
-#EXTINF:-1 tvg-id="DanceTelevision.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_400x400.jpg" group-title="Music",Dance Television
-https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
-#EXTINF:-1 tvg-id="DeepHouseDistrict.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/IV2Qvc0.png" group-title="Music",Deep House District
-https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 #EXTINF:-1 tvg-id="DitisHelmond.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/fGAaBAs.png" group-title="General",Dit is Helmond
 http://ms2.mx-cd.net/tv/Omroep_Helmond.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="DocuBox.nl" tvg-country="NL" tvg-language="English" tvg-logo="https://i.imgur.com/pX4U9OG.png" group-title="Documentary",DocuBox
 https://dash3.antik.sk/live/test_docubox_medium_atk/playlist.m3u8
-#EXTINF:-1 tvg-id="DTVMaashorst.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/5WaCCAC.png" group-title="General",DTV Maashorst
-https://rrr.sz.xlcdn.com/?account=dtvmaasland&file=dtv3&output=playlist.m3u8&protocol=https&service=wowza&type=live
-#EXTINF:-1 tvg-id="DTVOssBernheze.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/JL1f9Tx.png" group-title="General",DTV Oss & Bernheze
-https://rrr.sz.xlcdn.com/?account=dtvmaasland&file=dtv1&output=playlist.m3u8&protocol=https&service=wowza&type=live
 #EXTINF:-1 tvg-id="FashionBox.nl" tvg-country="NL" tvg-language="English" tvg-logo="https://i.imgur.com/Taqj4yi.png" group-title="Lifestyle",FashionBox
 https://dash2.antik.sk/live/test_fashionbox_medium_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="FastFunBox.nl" tvg-country="NL" tvg-language="English" tvg-logo="https://i.imgur.com/a9ZtP17.png" group-title="Sports",Fast&FunBox
@@ -211,8 +205,6 @@ https://salto-streams.nl/hls/sotv2.m3u8
 https://live.salto.nl/hls/at5.m3u8
 #EXTINF:-1 tvg-id="SaltoBrasaMusic.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.vimeocdn.com/portrait/31947989_640x640" group-title="Music",Salto Brasa Music
 https://salto-streams.nl/hls/sotv1.m3u8
-#EXTINF:-1 tvg-id="SchieTV.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/kt4Aqvq.png" group-title="General",Schie TV
-https://d2n2i1jp4j20kw.cloudfront.net/nlpo/clr-nlpo/schietv/index.m3u8
 #EXTINF:-1 tvg-id="SleutelstadTV.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/ljVGMWV.png" group-title="General",Sleutelstad TV
 https://video-eu1.streamerr.co/hls/s7fdeb27a49/live.m3u8
 #EXTINF:-1 tvg-id="SOL2.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/VEbhJRA.png" group-title="General",SOL2
