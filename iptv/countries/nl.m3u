@@ -27,8 +27,6 @@ https://dash3.antik.sk/live/test_docubox_medium_atk/playlist.m3u8
 https://rrr.sz.xlcdn.com/?account=dtvmaasland&file=dtv2&output=playlist.m3u8&protocol=https&service=wowza&type=live
 #EXTINF:-1 tvg-id="DTVMaashorst.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/5WaCCAC.png" group-title="General",DTV Maashorst
 https://rrr.sz.xlcdn.com/?account=dtvmaasland&file=dtv3&output=playlist.m3u8&protocol=https&service=wowza&type=live
-#EXTINF:-1 tvg-id="DTVOssBernheze.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/JL1f9Tx.png" group-title="General",DTV Oss & Bernheze
-https://rrr.sz.xlcdn.com/?account=dtvmaasland&file=dtv1&output=playlist.m3u8&protocol=https&service=wowza&type=live
 #EXTINF:-1 tvg-id="FashionBox.nl" tvg-country="NL" tvg-language="English" tvg-logo="https://i.imgur.com/Taqj4yi.png" group-title="Lifestyle",FashionBox
 https://dash2.antik.sk/live/test_fashionbox_medium_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="FastFunBox.nl" tvg-country="NL" tvg-language="English" tvg-logo="https://i.imgur.com/a9ZtP17.png" group-title="Sports",Fast&FunBox
@@ -49,8 +47,6 @@ https://d2qm50imcbcfqx.cloudfront.net/nlpo/clr-nlpo/haarlem105/index.m3u8
 https://ms7.mx-cd.net/tv/286-3043214/HTR_Media_TV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="HypeVisualRadio.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://cdn.onlineradiobox.com/img/fblogo/1/97371.v21.png" group-title="Music",Hype Visual Radio
 https://streammix.alsolnet.com/hyperadio/live/playlist.m3u8
-#EXTINF:-1 tvg-id="IdeaalTV.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/JLYQFoX.png" group-title="General",Ideaal TV
-https://ms2.mx-cd.net/dtv-09/236-2051366/Ideaal_TV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="INFAST.nl" tvg-country="NL" tvg-language="English" tvg-logo="https://i.imgur.com/VwAMqA7.png" group-title="Lifestyle",INFAST
 https://amg00861-terninternation-lifestyle-samsungau-kdlyy.amagi.tv/playlist/amg00861-terninternation-lifestyle-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="INTRAVEL.nl" tvg-country="NL" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Intravel.png" group-title="Travel",INTRAVEL
@@ -87,8 +83,6 @@ https://d2ycaxub5x98iw.cloudfront.net/nlpo/clr-nlpo/merwetv/index.m3u8
 https://ms2.mx-cd.net/dtv-02/204-1147034/3ML_TV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="NH.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/SPkK4md.png" group-title="General",NH
 https://takeoff.jetstre.am/?account=nhnieuws&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live
-#EXTINF:-1 tvg-id="NicktoonsScandinavia.nl" tvg-country="NL" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png" group-title="Kids",Nicktoons Scandinavia
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PE7C639D6VY8TCQQ4BYRZT7X/12059/index.m3u8
 #EXTINF:-1 tvg-id="NOOSTV.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/X8xLcpT.png" group-title="General",NOOS TV
 https://ms2.mx-cd.net/tv/276-2860564/Omroep_NOOS.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="OmroepBrabant.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/KLYsKKC.png" group-title="General",Omroep Brabant
@@ -175,6 +169,8 @@ http://stream.rtvmaastricht.nl:8081/rtvm_live/tv/playlist.m3u8
 https://d2eanln3bsfb0d.cloudfront.net/nlpo/clr-nlpo/rtvmeppel/index.m3u8
 #EXTINF:-1 tvg-id="RTVNoord.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/l92Cb6H.png" group-title="General",RTV Noord
 https://media.rtvnoord.nl/live/rtvnoord/tv/index.m3u8
+#EXTINF:-1 tvg-id="RTVNoordExtra.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/T0UvltB.png" group-title="General",RTV Noord Extra
+https://media.rtvnoord.nl/live/rtvnoord/extra/index.m3u8
 #EXTINF:-1 tvg-id="RTVOost.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/nTR6q9H.png" group-title="General",RTV Oost
 https://d34cg2bnc08ruf.cloudfront.net/live/rtvoost/tv/index.m3u8
 #EXTINF:-1 tvg-id="RTVPurmerend.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/dLKSpqz.png" group-title="General",RTV Purmerend
@@ -223,8 +219,28 @@ https://stream.studiorhedenlive.nl/hlstv/stream.m3u8
 http://cdn22.streampartner.nl/tvellef/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVRain.nl" tvg-country="NL" tvg-language="Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Tvrain.svg/960px-Tvrain.svg.png" group-title="General",TV Rain
 https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
+#EXTINF:-1 tvg-id="TweedeKamerActualiteitenkanaal.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/X9fezZ8.png" group-title="Legislative",Tweede Kamer: Actualiteitenkanaal
+https://livestreaming.b67buv2.tweedekamer.nl/live/evenementenkanaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+#EXTINF:-1 tvg-id="TweedeKamerAlettaJacobszaal.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/X9fezZ8.png" group-title="Legislative",Tweede Kamer: Aletta Jacobszaal
+https://livestreaming.b67buv2.tweedekamer.nl/live/alettajacobszaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+#EXTINF:-1 tvg-id="TweedeKamerEnquetezaal.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/X9fezZ8.png" group-title="Legislative",Tweede Kamer: Enquetezaal
+https://livestreaming.b67buv2.tweedekamer.nl/live/enquetezaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+#EXTINF:-1 tvg-id="TweedeKamerGroenvanPrinstererzaal.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/X9fezZ8.png" group-title="Legislative",Tweede Kamer: Groen van Prinstererzaal
+https://livestreaming.b67buv2.tweedekamer.nl/live/groenvanprinstererzaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+#EXTINF:-1 tvg-id="TweedeKamerKlompezaal.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/X9fezZ8.png" group-title="General",Tweede Kamer: Klompezaal
+https://livestreaming.b67buv2.tweedekamer.nl/live/klompezaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+#EXTINF:-1 tvg-id="TweedeKamerMaxvanderStoelzaal.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/X9fezZ8.png" group-title="Legislative",Tweede Kamer: Max van der Stoelzaal
+https://livestreaming.b67buv2.tweedekamer.nl/live/maxvanderstoelzaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+#EXTINF:-1 tvg-id="TweedeKamerPlenairezaal.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/X9fezZ8.png" group-title="Legislative",Tweede Kamer: Plenaire zaal
+https://livestreaming.b67buv2.tweedekamer.nl/live/plenairezaal/index.m3u8?hd=1&keyframes=1&subtitles=live
 #EXTINF:-1 tvg-id="TweedeKamerSuzeGroenewegzaal.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/X9fezZ8.png" group-title="Legislative",Tweede Kamer: Suze Groenewegzaal
 https://livestreaming.b67buv2.tweedekamer.nl/live/suzegroenewegzaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+#EXTINF:-1 tvg-id="TweedeKamerThorbeckezaal.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/X9fezZ8.png" group-title="Legislative",Tweede Kamer: Thorbeckezaal
+https://livestreaming.b67buv2.tweedekamer.nl/live/thorbeckezaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+#EXTINF:-1 tvg-id="TweedeKamerTroelstrazaal.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/X9fezZ8.png" group-title="Legislative",Tweede Kamer: Troelstrazaal
+https://livestreaming.b67buv2.tweedekamer.nl/live/troelstrazaal/index.m3u8?hd=1&keyframes=1&subtitles=live
+#EXTINF:-1 tvg-id="TweedeKamerWttewaallvanStoetwegenzaal.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/X9fezZ8.png" group-title="Legislative",Tweede Kamer: Wttewaall van Stoetwegenzaal
+https://livestreaming.b67buv2.tweedekamer.nl/live/wttewaallvanstoetwegenzaal/index.m3u8?hd=1&keyframes=1&subtitles=live
 #EXTINF:-1 tvg-id="WeertFMTV.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/8bt6xt2.png" group-title="General",WeertFM TV
 https://ms2.mx-cd.net/tv/151-573495/WeertFM_TV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="WOS.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/L7MUBIo.png" group-title="General",WOS
@@ -234,7 +250,7 @@ https://xite-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="XITEClassicCountry.nl" tvg-country="NL" tvg-language="English" tvg-logo="https://provider-static.plex.tv/epg/cms/production/511ebc88-a7f7-4f6d-85ff-38c849bbb4a3/xiteclassiccountry_logo_light_-_Arlette_FiranRDX.png" group-title="Music",XITE Classic Country
 https://pb-wgi5ljoabjgdm.akamaized.net/XITE_Countrys_Finest.m3u8
 #EXTINF:-1 tvg-id="XITEHits.nl" tvg-country="NL" tvg-language="English" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b79c1102-0a7d-4310-a0df-6cbe6fb660e2/xitehits_logo_WHITE_-_Arlette_FiranRDX2.png" group-title="Music",XITE Hits
-https://d726x48n2pd5h.cloudfront.net/XITE_Hits.m3u8
+https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8
 #EXTINF:-1 tvg-id="XITEJustChill.nl" tvg-country="NL" tvg-language="English" tvg-logo="https://provider-static.plex.tv/epg/cms/production/927dd614-017d-49dd-9eb9-0ed79d09084e/xitejustchill_logo_light_-_Arlette_FiranRDX.png" group-title="Music",XITE Just Chill
 https://dvnftgdlbnemm.cloudfront.net/XITE_Just_Chill.m3u8
 #EXTINF:-1 tvg-id="XITEReggaeVibes.nl" tvg-country="NL" tvg-language="English" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c7506335-967f-46a9-917a-2a35475cd96c/xitereggaevibes_logo_light_-_Arlette_FiranRDX.png" group-title="Music",XITE Reggae Vibes

@@ -17,8 +17,6 @@ https://sd343444.vodu.store:3356/live/Alghadeer/index.m3u8
 https://imn-live.esite-lab.com/hls/iraqia-general.m3u8
 #EXTINF:-1 tvg-id="AlIraqiaKurdish.iq" tvg-country="IQ" tvg-language="Kurdish" tvg-logo="https://gateway.esite-lab.com/file-storage/api/v1/public/uploads/2025/3/8/7a8a2548d8e5850e87066d2e573796189.png" group-title="General",Al Iraqia Kurdish
 https://imn-live.esite-lab.com/hls/iraqia-kurdish.m3u8
-#EXTINF:-1 tvg-id="AlIraqiaNews.iq" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://i.imgur.com/feQTXeZ.jpg" group-title="News",Al Iraqia News
-https://imn-live.esite-lab.com/hls/iraqia-news.m3u8
 #EXTINF:-1 tvg-id="AlIraqiaSport.iq" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://i.imgur.com/DrrlxTO.png" group-title="Sports",Al Iraqia Sport
 https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8
 #EXTINF:-1 tvg-id="AlJanoubTV.iq" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://i.imgur.com/rxDh6W1.png" group-title="News",Al Janoub TV
@@ -33,6 +31,8 @@ https://media1.livaat.com/static/AL-RASHEED-HD/playlist.m3u8
 http://185.9.2.18/chid_144/index.m3u8
 #EXTINF:-1 tvg-id="AmozhgaryTV.iq" tvg-country="IQ" tvg-language="Kurdish" tvg-logo="https://i.imgur.com/sseqFsO.png" group-title="Religious",Amozhgary TV
 https://app-live.org/live/3268334b/index.m3u8
+#EXTINF:-1 tvg-id="AnwarTV2.iq" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://i.imgur.com/yHZXPcn.png" group-title="News",Anwar TV2
+https://cloud.odysee.live/content/f92670235a1ce2bce4cf77671cc4dcc2188baa1d/master.m3u8
 #EXTINF:-1 tvg-id="AvarTV.iq" tvg-country="IQ" tvg-language="Kurdish" tvg-logo="https://i.imgur.com/JazFBkW.jpeg" group-title="General",Avar TV
 https://avr.host247.net/live/AvarTv/playlist.m3u8
 #EXTINF:-1 tvg-id="BeitolAbbasTVChannel.iq" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://i.imgur.com/s8PfUQy.png" group-title="Religious",BeitolAbbas TV Channel
@@ -45,18 +45,8 @@ https://ghaasiflu.online/Dijlah/index.m3u8
 https://avr.host247.net/live/emantv/playlist.m3u8
 #EXTINF:-1 tvg-id="FarmodaTV.iq" tvg-country="IQ" tvg-language="Kurdish" tvg-logo="https://i.imgur.com/x4KCQlH.png" group-title="Religious",FarmodaTV
 https://avr.host247.net/live/FarmodaTV/playlist.m3u8
-#EXTINF:-1 tvg-id="ImamHusseinTV1.iq" tvg-country="IQ" tvg-language="Persian" tvg-logo="https://i.imgur.com/pDdUvz7.png" group-title="Religious",Imam Hussein TV 1
-https://live.imamhossaintv.com/live/ih1.m3u8
-#EXTINF:-1 tvg-id="ImamHusseinTV2.iq" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://i.imgur.com/IXVSPdJ.png" group-title="Religious",Imam Hussein TV 2
-https://live.imamhossaintv.com/live/ih2.m3u8
-#EXTINF:-1 tvg-id="ImamHusseinTV3.iq" tvg-country="IQ" tvg-language="English" tvg-logo="https://i.imgur.com/emQRHQZ.png" group-title="Religious",Imam Hussein TV 3
-https://live.imamhossaintv.com/live/ih3.m3u8
-#EXTINF:-1 tvg-id="ImamHusseinTV4.iq" tvg-country="IQ" tvg-language="Urdu" tvg-logo="https://i.imgur.com/0UYcylY.png" group-title="Religious",Imam Hussein TV 4
-https://live.imamhossaintv.com/live/ih4.m3u8
 #EXTINF:-1 tvg-id="INews.iq" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://i.imgur.com/9lOuzHQ.png" group-title="News",I News
 https://live.i-news.tv/hls/stream.m3u8
-#EXTINF:-1 tvg-id="IraqFuture.iq" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Z7woTe5.png" group-title="General",Iraq Future
-https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_040/Stream/playlist.m3u8
 #EXTINF:-1 tvg-id="IshtarTV.iq" tvg-country="IQ" tvg-language="Assyrian Neo-Aramaic" tvg-logo="https://i.imgur.com/qzApokm.png" group-title="Culture",Ishtar TV
 https://stream.ishtartv.com/live/iShtarHD/playlist.m3u8
 #EXTINF:-1 tvg-id="KarbalaDocumentary.iq" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://www.karbala-tv.iq/documentary/static/img/logo.png" group-title="Religious",Karbala Documentary
@@ -71,8 +61,6 @@ https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
 https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
 #EXTINF:-1 tvg-id="KurdsatNews.iq" tvg-country="IQ" tvg-language="Kurdish" tvg-logo="https://i.imgur.com/F3XRwkt.png" group-title="News",Kurdsat News
 https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
-#EXTINF:-1 tvg-id="ManuChat.iq" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://i.imgur.com/voyoljW.png" group-title="General",Manu Chat
-https://vmi747311.contaboserver.net/hls/livetv.m3u8
 #EXTINF:-1 tvg-id="MarjaeyatTVArabic.iq" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://i.imgur.com/LsYYkUI.png" group-title="Religious",Marjaeyat TV Arabic
 https://livefa.marjaeyattv.com/mtv_ar/playlist.m3u8
 #EXTINF:-1 tvg-id="MarjaeyatTVEnglish.iq" tvg-country="IQ" tvg-language="English" tvg-logo="https://i.imgur.com/Dvf61Jp.png" group-title="Religious",Marjaeyat TV English
