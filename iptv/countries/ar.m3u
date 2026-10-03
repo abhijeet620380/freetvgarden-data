@@ -51,8 +51,6 @@ https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8
 https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal4Posadas.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/tElJr3e.png" group-title="General",Canal 4 Posadas
 https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal4SanJuan.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/MsCnwRA.png" group-title="General",Canal 4 San Juan
-https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal4Teleaire.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/XyiNvbY.png" group-title="General",Canal 4 Teleaire
 https://stmvideo6.livecastv.com/canal4/canal4/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal4VillaDolores.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ZKSnGfw.png" group-title="General",Canal 4 Villa Dolores
@@ -167,8 +165,6 @@ https://cloud.tvomix.com/KPOPMIX/index.m3u8
 https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8
 #EXTINF:-1 tvg-id="LAMIL35TV.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3544498_ico.png" group-title="Classic",LAMIL35 TV
 https://streamingvideo.com.ar/hls/eea3c96df781e0a3.m3u8
-#EXTINF:-1 tvg-id="LitusTV.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/QIGSf4L.png" group-title="General",Litus TV
-https://edge.enhdtv.com/litustv/index.m3u8
 #EXTINF:-1 tvg-id="MasFM.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/TJ4gWQM.png" group-title="Music",Mas FM
 https://vivo.solumedia.com:19360/masfm/masfm.m3u8
 #EXTINF:-1 tvg-id="MercurioNoticias.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/sfd87LX.png" group-title="News",Mercurio Noticias
@@ -225,6 +221,8 @@ http://138.121.15.230:9002/SONY/index.m3u8
 https://stream.t5satelital.blog/hls/t5satelitalweb.m3u8
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="General",Telefe
 http://45.173.231.22:8000/play/a053/index.m3u8
+#EXTINF:-1 tvg-id="TelefeBuenosAires.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="General",Telefe Buenos Aires
+http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 #EXTINF:-1 tvg-id="TelefeInternacional.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/HNcCX3h.png" group-title="General",Telefe Internacional
 http://190.108.83.69:8000/play/a08l/index.m3u8
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/960px-Telemax_Argentina_%282018%29.png" group-title="General",Telemax
@@ -244,9 +242,13 @@ https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
 #EXTINF:-1 tvg-id="TVUniversidad.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/0MXsQ25.png" group-title="Education",TV Universidad
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="Sports",TyC Sports
-http://38.44.109.41:8003/play/a02l/index.m3u8
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 #EXTINF:-1 tvg-id="TyCSportsUSA.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="Sports",TyC Sports USA
 http://45.170.130.224:8000/play/a020/index.m3u8
+#EXTINF:-1 tvg-id="UnifeTV.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/TLM592m.png" group-title="Religious",Unife TV
+https://cdn.mycloudstream.io/hls/live/broadcast/xundwjvp/index.m3u8
+#EXTINF:-1 tvg-id="Uniteve.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://pbs.twimg.com/profile_images/720276300888453120/a_SDOmBc_400x400.jpg" group-title="General",Uniteve
+https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
 #EXTINF:-1 tvg-id="VillaManteroTV.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/mmEenTm.png" group-title="General",Villa Mantero TV
 https://micanal.ovh/livestreams/515.AUTOOAAZ721F.m3u8
 #EXTINF:-1 tvg-id="XLevelMedia.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/BGwQdQW.jpeg" group-title="Music",X Level Media
