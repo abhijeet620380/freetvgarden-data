@@ -3,6 +3,8 @@
 https://livestream.telvue.com/accvision2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="ACTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Z6lB0Ww.png" group-title="Legislative",ACTV
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/athens/live/ch2/video.m3u8
+#EXTINF:-1 tvg-id="ANTV.ve" tvg-country="VE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Qm88HT0.png" group-title="Legislative",ANTV
+http://181.78.8.199:8000/play/a0fo/index.m3u8
 #EXTINF:-1 tvg-id="ARTV.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/y00t9hr.png" group-title="Legislative",ARTV
 https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8
 #EXTINF:-1 tvg-id="ATL26.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/s4fqNMt.png" group-title="Legislative",ATL 26
@@ -69,8 +71,6 @@ https://video.oct.dc.gov/out/u/15_12.m3u8
 https://video.oct.dc.gov/out/u/97_12.m3u8
 #EXTINF:-1 tvg-id="Denver8TV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/wMIy5jb.png" group-title="Legislative",Denver 8 TV
 https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/denver/G0080_002/playlist.m3u8
-#EXTINF:-1 tvg-id="DerryTV17.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/MRR6UL3.png" group-title="Legislative",DerryTV 17
-https://livestream.telvue.com/derrynh1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="DistrictofColumbiaNetwork.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/GGZ8BQ8.png" group-title="Legislative",District of Columbia Network
 https://video.oct.dc.gov/out/u/DCN.m3u8
 #EXTINF:-1 tvg-id="DumaTV.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/JvlO3PU.png" group-title="Legislative",Duma TV
@@ -127,6 +127,10 @@ https://stream.convergen.co/mbg_stream/smil:mbStream.smil/playlist.m3u8
 https://edge-f.swagit.com/live/miamibeachfl/live-1-a/playlist.m3u8
 #EXTINF:-1 tvg-id="MonroeCountyTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/YJfzdSu.png" group-title="Legislative",Monroe County TV
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/monroe/live/ch1/video.m3u8
+#EXTINF:-1 tvg-id="NatickGovernmentChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/eA2WSXa.png" group-title="Legislative",Natick Government Channel
+https://livestream.telvue.com/natickpegasus3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="NationalAssemblyTV.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/UKdB8vD.png" group-title="Legislative",National Assembly TV
+https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/kr/natv.m3u8
 #EXTINF:-1 tvg-id="NMBTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/HTNoNnh.png" group-title="Legislative",NMBTV
 https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/citynmb/G2044_002/playlist.m3u8
 #EXTINF:-1 tvg-id="Olelo49.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/4C5Xp8M.png" group-title="Legislative",Olelo 49
@@ -175,8 +179,6 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/in
 https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
 #EXTINF:-1 tvg-id="SFGovTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/uYXuwmV.png" group-title="Legislative",SFGovTV
 https://cdn3.wowza.com/5/ZFdxUW9BQWt2UWRL/sanfrancisco/G0051_048/playlist.m3u8
-#EXTINF:-1 tvg-id="SMCTVChannel23.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/J2SKPoY.png" group-title="Legislative",SMCTV Channel 23
-https://livestream.telvue.com/santamariactv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="SPTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/fl8I3cg.png" group-title="Legislative",SPTV
 https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/stpete/G0187_003/playlist.m3u8
 #EXTINF:-1 tvg-id="ThaiParliamentTelevision.th" tvg-country="TH" tvg-language="Thai" tvg-logo="https://i.imgur.com/Okcnmt6.png" group-title="Legislative",Thai Parliament Television
@@ -195,8 +197,6 @@ http://45.162.64.114/TV_CAMARA/index.m3u8
 http://45.170.130.224:8000/play/a03x/index.m3u8?hls
 #EXTINF:-1 tvg-id="TVfromtheDanishParliament.dk" tvg-country="DK" tvg-language="Danish" tvg-logo="https://i.imgur.com/RqQDUzX.png" group-title="Legislative",TV from the Danish Parliament
 https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8
-#EXTINF:-1 tvg-id="TVLegislativa.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/9eeLsgg.png" group-title="Legislative",TV Legislativa
-https://streamingav.asambleanacional.gob.ec/hls/stream.m3u8
 #EXTINF:-1 tvg-id="TVNRSR.sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/hsJsu3I.png" group-title="Legislative",TV NRSR
 https://n11.stv.livebox.sk/stv-tv/stv4.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSAGovernmentChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/3Om5TUc.png" group-title="Legislative",TVSA Government Channel
@@ -225,7 +225,3 @@ https://livestreaming.b67buv2.tweedekamer.nl/live/wttewaallvanstoetwegenzaal/ind
 https://reflect-communitytv.cablecast.tv/live-3/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-id="Yuma77.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/KBriwwj.png" group-title="Legislative",Yuma77
 https://securestream10.champds.com/LIVE/YumaCoAZLIVE/YumaCoAZLIVE.m3u8
-#EXTINF:-1 tvg-id="YumaChannel72.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/QsFBCWv.png" group-title="Legislative",Yuma Channel 72
-https://livestream.telvue.com/yumaaz1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="YumaChannel73.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/QsFBCWv.png" group-title="Legislative",Yuma Channel 73
-https://livestream.telvue.com/yumaaz2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
