@@ -29,8 +29,6 @@ https://s5.mexside.net:1936/envio2/envio2/playlist.m3u8
 http://181.78.106.127:5000/play/ca064/index.m3u8
 #EXTINF:-1 tvg-id="bitMe.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/79hrcx8.png" group-title="Entertainment",bitMe
 http://181.119.66.28:8081/BITME/index.m3u8
-#EXTINF:-1 tvg-id="CaliforniaMediosTV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/IDvpRNI.png" group-title="General",California Medios TV
-https://s5.mexside.net:1936/medios/medios/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/cBC2Jre.png" group-title="General",Canal 5
 http://45.189.151.7:8000/play/a05s
 #EXTINF:-1 tvg-id="Canal5TVCozumel.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/0nzNMuP.jpeg" group-title="General",Canal 5 TV Cozumel
@@ -95,6 +93,8 @@ http://45.5.118.152:8000/play/a03p/index.m3u8
 https://5fc584f3f19c9.streamlock.net/icrtvcolima/smil:icrtvcolima.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="IERTBCSCanal82.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/R3icGuG.png" group-title="Entertainment",IERTBCS Canal 8.2
 https://s5.mexside.net:1936/xhbzc82/xhbzc82/playlist.m3u8
+#EXTINF:-1 tvg-id="ILCECanal15SummaSaberes.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/r7czgOc.png" group-title="Education",ILCE Canal 15 Summa Saberes
+https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/lKrRvtS.png" group-title="General",Imagen TV
 https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
 #EXTINF:-1 tvg-id="ITVDeportes.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://iili.io/J1kV1Bn.png" group-title="Entertainment",ITV Deportes
@@ -165,6 +165,8 @@ https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
 https://player.tvstream.mx/livestream/teleplay/livehd/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleSaltillo.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/PgBtvgO.png" group-title="General",Tele Saltillo
 https://servilive.com:3879/live/telesaltillolive.m3u8
+#EXTINF:-1 tvg-id="TeleUV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/8MdUH69.jpeg" group-title="Education",Tele UV
+https://58fe359775f31.streamlock.net/tvuv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleYucatan.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/XkpDSmO.png" group-title="General",Tele Yucatan
 https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8
 #EXTINF:-1 tvg-id="TlaxcalaTV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/5vaEhfy.png" group-title="General",Tlaxcala TV
@@ -173,6 +175,8 @@ https://vid26.mega00.com:5443/live/streams/qNmc7nulmq8zPYZE1582752735050.m3u8
 http://138.121.15.230:9002/TELENOVELAS/index.m3u8
 #EXTINF:-1 tvg-id="TlnovelasMexico.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="Series",Tlnovelas Mexico
 http://167.249.23.102:8000/play/a0g8/index.m3u8
+#EXTINF:-1 tvg-id="TransmediaTelevisionMorelia.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/jYMpVQA.png" group-title="General",Transmedia Television Morelia
+http://streamingcws20.com:1935/tmtv/videotmtv/playlist.m3u8
 #EXTINF:-1 tvg-id="TRCTV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/W4xwCdl.png" group-title="General",TRC TV
 https://5fe2654d6127d.streamlock.net/trc/videotrc/playlist.m3u8
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="General",TUDN
@@ -213,6 +217,8 @@ https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlis
 https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u8
 #EXTINF:-1 tvg-id="UnivisionLatinAmerica.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png" group-title="General",Univision Latin America
 http://138.121.15.230:9002/UNIVISION/index.m3u8
+#EXTINF:-1 tvg-id="VBMediaTV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/5qlVblr.png" group-title="Entertainment",VB Media TV
+https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8
 #EXTINF:-1 tvg-id="VisionTelevision.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/HV5tgcM.png" group-title="Music",Vision Television
 https://cloudvideo.servers10.com:8081/8016/index.m3u8
 #EXTINF:-1 tvg-id="WeatherSpy.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/KIEKOt1.png" group-title="Weather",WeatherSpy
