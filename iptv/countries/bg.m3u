@@ -1,6 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="AgroTV.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/tPMNDtD.png" group-title="Outdoor",Agro TV
+https://restr2.bgtv.bg/agro/hls/agro.m3u8
 #EXTINF:-1 tvg-id="cinebox.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="" group-title="Movies",cine.box
 http://212.70.131.37:8000/play/a08b
+#EXTINF:-1 tvg-id="CityTV.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/mFL452f.png" group-title="Music",City TV
+https://tv.city.bg/play/tshls/citytv/index.m3u8
 #EXTINF:-1 tvg-id="CodeFashionTV.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/mVc2g64.png" group-title="Lifestyle",Code Fashion TV
 https://cdn2.invivo.bg/Codefashion_5500/index.m3u8
 #EXTINF:-1 tvg-id="CodeHealthTV.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/NXBMzGV.png" group-title="Lifestyle",Code Health TV
@@ -27,8 +31,6 @@ https://streamer103.neterra.tv/tiankov-folk/live.m3u8
 https://streamer103.neterra.tv/tiankov-orient/live.m3u8
 #EXTINF:-1 tvg-id="TravelTV.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/5xllfed.png" group-title="Travel",Travel TV
 https://streamer103.neterra.tv/travel/live.m3u8
-#EXTINF:-1 tvg-id="TV1000.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/GHNsctR.png" group-title="Movies",TV1000
-http://stream.mcquack.net/100/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
 #EXTINF:-1 tvg-id="TVSpravedlivaBulgariya.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://tvsb.bg/theme/images/logo.png" group-title="General",TV Spravedliva Bulgariya
 https://tv.tvsb.bg/112.m3u8
 #EXTINF:-1 tvg-id="TVZagora.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/DvBboqe.png" group-title="General",TV Zagora
