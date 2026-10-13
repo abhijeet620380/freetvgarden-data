@@ -3,6 +3,8 @@
 https://lbgo.bozztv.com/ssh101/ssh101/confirmatv/playlist.m3u8
 #EXTINF:-1 tvg-id="AmitelTV.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://amiteltv.com/wp-content/uploads/2026/01/LOGO-SIN-FONDO-WEB.png" group-title="General",Amitel TV
 https://stv2.boliviaplay.com.bo/hls/stream.m3u8
+#EXTINF:-1 tvg-id="AsContenidos.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://ascontenidos.com.bo/wp-content/uploads/2023/07/cropped-logo512.png" group-title="General",As Contenidos
+https://master.tucableip.com/ascontenido/index.m3u8
 #EXTINF:-1 tvg-id="Audiokiss.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://www.audiokiss.com/audiokiss/wp-content/uploads/sites/4/2021/02/Audio_kiss800-768x405.png" group-title="Music",Audiokiss
 https://master.tucableip.com/audiokisstv/index.m3u8
 #EXTINF:-1 tvg-id="AYNITV.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.ibb.co/SPCkBR8/ayni-tv-bo.png" group-title="General",AYNI TV
@@ -35,6 +37,8 @@ https://tv2.bitstreaming.net:3576/multi_live/play.m3u8
 https://tv.centaurychile.com/imperial/streams/EnCyCiwNLsqEQ2kv2852222720686498.m3u8
 #EXTINF:-1 tvg-id="PoderdeDiosTV.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/jUfRz3L.png" group-title="Religious",Poder de Dios TV
 https://s3.tvdatta.com:3846/live/poderdedioslive.m3u8
+#EXTINF:-1 tvg-id="PTV.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/vPvR7dX.png" group-title="General",PTV
+https://giatv.bozztv.com/giatv/giatv-PTVonLINE/PTVonLINE/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioCentro.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/574/radio-centro-fm.e939fb1e.png" group-title="General",Radio Centro
 https://streamlov.alsolnet.com/grupocentrobo/live/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioClasicaTV.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://radioclasicapotosi.com/players/nexoplayer/assets/logo.png" group-title="Music",Radio Clasica TV
@@ -58,13 +62,9 @@ https://master.tucableip.com/redtvshop/index.m3u8
 #EXTINF:-1 tvg-id="RedUno.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Uno_logo.svg" group-title="General",Red Uno
 https://tv.centaurychile.com/interactiva/streams/KIgB6QvZ0L8XaSLd3211668845221245.m3u8
 #EXTINF:-1 tvg-id="RTP.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Rtpbolivia2021.png" group-title="General",RTP
-https://rtp.noxun.net/hls480/stream2.m3u8
-#EXTINF:-1 tvg-id="SPCCanal15.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/8GzjELt.jpeg" group-title="General",SPC Canal 15
-https://tv.centaurychile.com/magicatv/streams/22AdscM3Y6Un17Zo4747081346569358.m3u8
+https://rtp.noxun.net/hls720/stream3.m3u8
 #EXTINF:-1 tvg-id="SucremantaTV.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/noN0Yhe.png" group-title="General",Sucremanta TV
 https://lbgo.bozztv.com/ssh101/ssh101/ok2026/playlist.m3u8
-#EXTINF:-1 tvg-id="TDTMultimedia.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/JkCywl5.png" group-title="General",TDT Multimedia
-https://video01.brascast.com/juan6318/juan6318/playlist.m3u8
 #EXTINF:-1 tvg-id="TELE6.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/p7tt72X.png" group-title="General",TELE 6
 https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleFeBolivia.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="" group-title="General",Tele Fe Bolivia
@@ -81,8 +81,6 @@ https://castv10.plugstreaming.com:19360/redtv/redtv.m3u8
 https://edge.enhdtv.com/tvoff/index.m3u8
 #EXTINF:-1 tvg-id="TVUSucre.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7c0b4Y4.png" group-title="General",TVU Sucre
 https://edge.enhdtv.com/8214/index.m3u8
-#EXTINF:-1 tvg-id="UMSATVUInternacional.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://tvu.umsa.bo/documents/780216/12171558/Logo+TVU-Int.png/b67c9c61-7516-e38a-a425-72e61f3824c6?t=1751574228493" group-title="Education",UMSA TVU Internacional
-https://edge.enhdtv.com/8026/index.m3u8
 #EXTINF:-1 tvg-id="UMSATVULP.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://tvu.umsa.bo/documents/780216/12171558/logo+tvu+icon.png/4367e79e-4541-d340-0e82-3943b73e7b18?t=1747686917412" group-title="News",UMSA TVU LP
 https://edge.enhdtv.com/8190/index.m3u8
 #EXTINF:-1 tvg-id="VosTV.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Cm1Xjeq.png" group-title="General",Vos TV
