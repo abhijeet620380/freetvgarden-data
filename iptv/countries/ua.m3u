@@ -173,6 +173,12 @@ http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
 http://stream.mcquack.net/448/index.m3u8
 #EXTINF:-1 tvg-id="OrbitaTV.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.ibb.co/Bj4T9wB/logo-Orbita-fin14.png" group-title="General",Orbita TV
 http://ftp.orbita.dn.ua/hls/orbita.m3u8
+#EXTINF:-1 tvg-id="OTSE.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/SeRNJIS.png" group-title="Entertainment",OTSE
+http://stream.mcquack.net/329/index.m3u8
+#EXTINF:-1 tvg-id="OTV.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/TkGGGAj.png" group-title="General",OTV
+https://stream.otv.ua/memfs/028e5947-073f-4b4e-a47f-70e59ca3ee36.m3u8
+#EXTINF:-1 tvg-id="Pershyi.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/osTQLED.png" group-title="General",Pershyi
+https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
 #EXTINF:-1 tvg-id="Pershyiavtomobilnyi.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/ul93Lse.png" group-title="Auto",Pershyi avtomobilnyi
 http://stream.mcquack.net/404/index.m3u8
 #EXTINF:-1 tvg-id="PershyiZahidnyi.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/SnljTbR.png" group-title="Legislative",Pershyi Zahidnyi
@@ -180,11 +186,13 @@ http://stream.mcquack.net/246/index.m3u8
 #EXTINF:-1 tvg-id="PervyygorodskoyOdessa.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/8qdc6aO.png" group-title="General",Pervyy gorodskoy. Odessa
 http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
 #EXTINF:-1 tvg-id="PixelTV.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/ECro8Ah.png" group-title="Kids",Pixel TV
-http://stream.mcquack.net/323/index.m3u8
+https://cdn15.live-tv.cloud/ua_infinitas_tv/pixel-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="PLUSPLUS.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/9bPhStm.png" group-title="Kids",PLUSPLUS
 http://stream.mcquack.net/339/index.m3u8
 #EXTINF:-1 tvg-id="PTV.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/WDHoSVz.png" group-title="News",PTV
 https://cdn15.live-tv.cloud/ua_infinitas_tv/hrpl-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="QuizTV.ua" tvg-country="UA" tvg-language="Russian" tvg-logo="https://i.imgur.com/I0ZE0M4.png" group-title="Entertainment",Quiz TV
+http://stream.mcquack.net/397/index.m3u8
 #EXTINF:-1 tvg-id="RadaTV.ua" tvg-country="UA" tvg-language="Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Rada_TV_%282021%29.svg/960px-Rada_TV_%282021%29.svg.png" group-title="Legislative",Rada TV
 https://cdn15.live-tv.cloud/ua_infinitas_tv/rada-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="RAZ1.ua" tvg-country="UA" tvg-language="Russian" tvg-logo="https://s2.vcdn.biz/static/f/7607683721/image.jpg/pt/c192x192x4" group-title="Entertainment",RAZ 1
@@ -199,6 +207,8 @@ https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8
 http://85.238.112.40:8810/hls_sec/online/list-renome.m3u8
 #EXTINF:-1 tvg-id="Reporter.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/LyA3kBR.png" group-title="News",Reporter
 http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8
+#EXTINF:-1 tvg-id="Rivne1.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/ytz7jYV.png" group-title="General",Rivne 1
+https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="Rybalka.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/NafW0xT.png" group-title="Outdoor",Rybalka
 https://dash2.antik.sk/live/test_rybalka_tv_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="SaltTV.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/Y3FRF0g.png" group-title="General",Salt TV
@@ -251,10 +261,6 @@ http://hls.cdn.ua/tva.ua_live/livestream/chunklist_w396178779.m3u8
 http://stream.mcquack.net/466/index.m3u8
 #EXTINF:-1 tvg-id="UAMusic.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/UA_Music.png?_=20230223183537" group-title="Music",UA Music
 http://stream.mcquack.net/281/index.m3u8
-#EXTINF:-1 tvg-id="ViasatExplore.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/RBqKj6R.png" group-title="General",Viasat Explore
-http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODUvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTMyOTgmc3Q9eWVMNVRuX0tiUlAwVWd0UjctYTBMZw%3D%3D&master=79
-#EXTINF:-1 tvg-id="ViasatHistory.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/39qZ68J.png" group-title="Documentary",Viasat History
-http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODYvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTM0ODYmc3Q9MVprUlhpb2xfODRPc2RMR2R0VDNzQQ%3D%3D&master=78
 #EXTINF:-1 tvg-id="ViasatKino.ua" tvg-country="UA" tvg-language="Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Viasat_Kino_Logo_2025.svg" group-title="Movies",Viasat Kino
 http://176.61.157.250/TV1000/index.m3u8
 #EXTINF:-1 tvg-id="ViasatKinoAction.ua" tvg-country="UA" tvg-language="Russian" tvg-logo="https://i.imgur.com/HwsNIDK.png" group-title="Movies",Viasat Kino Action
@@ -263,10 +269,6 @@ http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjU
 http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk4Mzcmc3Q9UzRPS1VZemNocmREQWhnSTJkTDJ5QQ%3D%3D&master=249
 #EXTINF:-1 tvg-id="ViasatKinoWorld.ua" tvg-country="UA" tvg-language="Russian" tvg-logo="https://i.imgur.com/GPiE2Rb.png" group-title="Movies",Viasat Kino World
 http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDgvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk5NDcmc3Q9N3ROblpCZy02WTBka1RuekRIZjU0QQ%3D%3D&master=102
-#EXTINF:-1 tvg-id="ViasatNature.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/YY0LfBA.png" group-title="General",Viasat Nature
-http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTMxMTAmc3Q9dTZrbUNadl9LWlpqMllkWVJRbDVBdw%3D%3D&master=77
-#EXTINF:-1 tvg-id="ViasatSerial.ua" tvg-country="UA" tvg-language="Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Viasat_Serial.svg" group-title="Movies",Viasat Serial
-http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDUvdHJhY2tzLXYyYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA2MDExNzAmc3Q9VS12czVHQmhOdF9WQXJ4bHVYVzR2dw%3D%3D&master=599
 #EXTINF:-1 tvg-id="VivaLatino.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/KRakHAq.png" group-title="Music",¡Viva Latino!
 http://stream.mcquack.net/285/index.m3u8
 #EXTINF:-1 tvg-id="Zoom.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/ZoomUA_%282025%29.png" group-title="Entertainment",Zoom
