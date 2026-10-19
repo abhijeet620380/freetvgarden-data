@@ -7,8 +7,6 @@ https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
 https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8
 #EXTINF:-1 tvg-id="8LaMarinaTV.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/BTJvvBK.png" group-title="General",8 La Marina TV
 https://streaming005.gestec-video.com/hls/canal24.m3u8
-#EXTINF:-1 tvg-id="9laLomaTV.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/WQP3el2.png" group-title="General",9 la Loma TV
-https://9laloma.tv/live.m3u8
 #EXTINF:-1 tvg-id="12tv.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/VSTgXsh.png" group-title="General",12tv
 https://cloud.streamingconnect.tv/hls/12tv/12tv2.m3u8
 #EXTINF:-1 tvg-id="24Horas.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.ibb.co/21sXZ3GT/24h.png" group-title="News",24 Horas
@@ -82,7 +80,7 @@ https://ingest2-video.streaming-pro.com/canalterrassa/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CetelmonTV.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/GGn7itj.png" group-title="Religious",Cetelmon TV
 http://player.cetelmon.tv/protecteddfd43c2f3a8b41f3f28582bf8993aca6/992_high.m3u8
 #EXTINF:-1 tvg-id="CineFriki.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/b3Ospym.png" group-title="Movies",Cine Friki
-https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8
+https://zylo-cinefriki-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CineWestern.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/2UROzSc.png" group-title="Movies",Cine Western
 https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8
 #EXTINF:-1 tvg-id="CiudadesdelOcioTV.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/CTQgqsM.png" group-title="Entertainment",Ciudades del Ocio TV
@@ -243,16 +241,8 @@ https://common01.todostreaming.es/live/ribera-livestream.m3u8
 https://rtvelivestream.rtve.es/rtvesec/rne/rne_para_todos_main.m3u8
 #EXTINF:-1 tvg-id="ROTVValencia.es" tvg-country="ES" tvg-language="Romanian" tvg-logo="https://i.imgur.com/0TDnVQ4.png" group-title="Entertainment",ROTV Valencia
 https://rotv.romediavalencia.com:3839/live/rotvlive.m3u8
-#EXTINF:-1 tvg-id="RTVCCardedeu.es" tvg-country="ES" tvg-language="Catalan" tvg-logo="https://i.imgur.com/rrCJyza.png" group-title="General",RTVC Cardedeu
-https://liveingesta118.cdnmedia.tv/cardedeutvlive/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTVManilva.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/zKgrnXx.png" group-title="General",RTV Manilva
-https://stream.castr.com/627a72d21914543be01c1720/live_e2ae1780dc2a11eca660b7b17b7952a5/index.m3u8
-#EXTINF:-1 tvg-id="RTVVida.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/EqUfEAh.png" group-title="Music",RTV Vida
-https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
 #EXTINF:-1 tvg-id="SevillaFCTV.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/yujGVbm.png" group-title="General",Sevilla FC TV
 https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8
-#EXTINF:-1 tvg-id="SolMusica.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/rbJrmPw.png" group-title="Music",Sol Musica
-https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
 #EXTINF:-1 tvg-id="SpektraTV.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://lh3.googleusercontent.com/p/AF1QipNaX6JUYdDuKJ1A8HJqNGG5w0xtct-K_2h5X_3C=s680-w680-h510-rw" group-title="Music",SpektraTV
 https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="StorieCriminali.es" tvg-country="ES" tvg-language="Italian" tvg-logo="https://images.pluto.tv/channels/66177d18c8311c0008d077d0/colorLogoPNG.png" group-title="Documentary",Storie Criminali
@@ -283,6 +273,10 @@ https://cloud.tvomix.com/TITOTV/index.m3u8
 https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8
 #EXTINF:-1 tvg-id="Trailers.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/RwZ1hCN.png" group-title="News",Trailers
 https://amg01821-lovetvchannels-lovemagazineuk-samsungse-p1sf1.amagi.tv/playlist/amg01821-lovetvchannels-lovemagazineuk-samsungse/playlist.m3u8
+#EXTINF:-1 tvg-id="TVA.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/aobkgrS.png" group-title="General",TVA
+https://streaming007.gestec-video.com/hls/artequatreTVA.m3u8
+#EXTINF:-1 tvg-id="TVBRICSSpanish.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/vLpm8tN.png" group-title="General",TV BRICS Spanish
+https://espbrics.mediacdn.ru/cdn/brics/spanish/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCostaBrava.es" tvg-country="ES" tvg-language="Catalan" tvg-logo="https://i.imgur.com/i6EnVZa.png" group-title="General",TV Costa Brava
 https://liveingesta318.cdnmedia.tv/costabravatvlive/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVEInternacionalAmerica.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/960px-TVE.svg.png" group-title="General",TVE Internacional America
@@ -295,8 +289,6 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_1080.m3u8
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
 #EXTINF:-1 tvg-id="TVG2.es" tvg-country="ES" tvg-language="Galician" tvg-logo="https://i.imgur.com/yFy6gxg.png" group-title="General",TVG2
 https://crtvg-tvg2.flumotion.cloud/playlist.m3u8
-#EXTINF:-1 tvg-id="TVLHospitalet.es" tvg-country="ES" tvg-language="Catalan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Logotip_TV_L%27H.svg/960px-Logotip_TV_L%27H.svg.png" group-title="General",TV L'Hospitalet
-https://liveingesta318.cdnmedia.tv/tvhospitaletlive/smil:tvhospitalet.smil/playlist.m3u8?DVR=
 #EXTINF:-1 tvg-id="TVOJesus.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://tvomix.com/Logos/Tvojesus.png" group-title="General",TVO Jesus
 https://cloud.tvomix.com/TVOJESUS/index.m3u8
 #EXTINF:-1 tvg-id="TVOMIX.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://ugc.production.linktr.ee/7ef61237-c46d-456b-afe3-a42ef49a979e_Mejorado2.png" group-title="Music",TVOMIX
@@ -305,14 +297,10 @@ https://cloud.tvomix.com/TVOMIX/index.m3u8
 https://eu1.servers10.com:8081/8166/index.m3u8
 #EXTINF:-1 tvg-id="TVSabadellValles.es" tvg-country="ES" tvg-language="Catalan" tvg-logo="https://i.imgur.com/fSTsGbG.png" group-title="General",TV Sabadell-Valles
 https://ingest1-video.streaming-pro.com/canaltaronja/sabadell/playlist.m3u8
-#EXTINF:-1 tvg-id="UneVinalopo.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/WpGR7RQ.png" group-title="General",Une Vinalopo
-https://streamingtvi.gestec-video.com/hls/unesd.m3u8
 #EXTINF:-1 tvg-id="Vision6TV.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/TB1wMQ7.jpg" group-title="General",Vision 6 TV
 https://streaming.proceso.info:8888/vision6-web/stream.m3u8
 #EXTINF:-1 tvg-id="VOTV.es" tvg-country="ES" tvg-language="Catalan" tvg-logo="https://i.imgur.com/1g2Z64L.png" group-title="General",VOTV
 https://ingest2-video.streaming-pro.com/votv/streaming_web/playlist.m3u8
-#EXTINF:-1 tvg-id="VoyagesSaveurs.es" tvg-country="ES" tvg-language="French" tvg-logo="https://images.pluto.tv/channels/680291e38e1ff89c2427aefd/colorLogoPNG_1749650211442.png" group-title="Travel",Voyages & Saveurs
-https://jmp2.uk/plu-680291e38e1ff89c2427aefd.m3u8
 #EXTINF:-1 tvg-id="XPTV1.es" tvg-country="ES" tvg-language="English" tvg-logo="https://i.imgur.com/Ty7GkoN.png" group-title="Music",XPTV1
 https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8
 #EXTINF:-1 tvg-id="XPTV2.es" tvg-country="ES" tvg-language="English" tvg-logo="https://i.imgur.com/74Z8ATB.png" group-title="Entertainment",XPTV2

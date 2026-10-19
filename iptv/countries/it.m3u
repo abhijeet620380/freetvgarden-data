@@ -151,6 +151,8 @@ https://5db313b643fd8.streamlock.net/MinformoTV/MinformoTV/playlist.m3u8
 https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="NickJr.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/6p3eFgf.png" group-title="Kids",Nick Jr.
 http://102.129.186.182:81/nick/index.m3u8
+#EXTINF:-1 tvg-id="Odeon24.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/Ho7SdXY.png" group-title="General",Odeon 24
+https://5f11919dca3bd.streamlock.net/odeonjump/_definst_/odeonjump/playlist.m3u8
 #EXTINF:-1 tvg-id="OndaNovaraTV.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/DTxhOhT.png" group-title="General",Onda Novara TV
 https://585b674743bbb.streamlock.net/9006/9006/master.m3u8
 #EXTINF:-1 tvg-id="OndaTV.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/9/99/Ondatv.jpg/512px-Ondatv.jpg" group-title="General",Onda TV
@@ -187,8 +189,10 @@ http://178.32.140.155/canale51/canale51/playlist.m3u8
 https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioBrunoTV.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/WBcwDb7.png" group-title="Music",Radio Bruno TV
 http://stream7.xdevel.com/video0s975758-1051/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioCapitalTiVu.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/38/Radio_Capital_logo_%282020%29.svg" group-title="Music",Radio Capital TiVu
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
 #EXTINF:-1 tvg-id="Radiofreccia.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/RxeRlar.png" group-title="Music",Radiofreccia
-https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
 #EXTINF:-1 tvg-id="RadioIbizaTV.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/KfFqYQi.png" group-title="General",Radio Ibiza TV
 https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioIglesias.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/2OXQpZM.png" group-title="General",Radio Iglesias
@@ -196,7 +200,7 @@ http://wms.shared.streamshow.it/visualradio/mp4:visualradio/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioIglesiasSardegna.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/KDtVpLl.png" group-title="General",Radio Iglesias Sardegna
 https://59d7d6f47d7fc.streamlock.net/visualradio/visualradio/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioItaliaTrendTV.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/HNrKqGM.png" group-title="Music",Radio Italia Trend TV
-https://radioitalia-samsungitaly.amagi.tv/playlist.m3u8
+https://amg00745-radioitailaspa-radioitalia-rakuten-sucsc.amagi.tv/hls/amagi_hls_data_rakutenAA-radioitalia-rakuten/CDN/master.m3u8
 #EXTINF:-1 tvg-id="RadioNorbaTV.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/Tucoyzy.png" group-title="General",Radio Norba TV
 https://stream12.xdevel.com/video0s975885-2349/stream/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="RadioNumberOne.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/8cpuaG5.png" group-title="General",Radio Number One
@@ -211,14 +215,22 @@ https://stream2.xdevel.com/video1s3-7/stream/playlist.m3u8
 https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
 #EXTINF:-1 tvg-id="Rai1.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/960px-Rai_1_-_Logo_2016.svg.png" group-title="General",Rai 1
 https://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=2606803
+#EXTINF:-1 tvg-id="Rai2.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/960px-Rai_2_-_Logo_2016.svg.png" group-title="General",Rai 2
+https://d3k8wzt41aflvx.cloudfront.net/RAI2/Live.m3u8
 #EXTINF:-1 tvg-id="Rai3.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/960px-Rai_3_-_Logo_2016.svg.png" group-title="General",Rai 3
 https://d3k8wzt41aflvx.cloudfront.net/RAI3/Live.m3u8
+#EXTINF:-1 tvg-id="RaiGulp.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/irAhPJM.png" group-title="General",Rai Gulp
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953
 #EXTINF:-1 tvg-id="RaiItalia.it" tvg-country="IT" tvg-language="English" tvg-logo="https://i.imgur.com/1nN4rEP.png" group-title="General",Rai Italia
 https://d3k8wzt41aflvx.cloudfront.net/RAIHD/Live.m3u8
+#EXTINF:-1 tvg-id="RaiMovie.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/0FjxXU9.png" group-title="Movies",Rai Movie
+http://team-tv.co:81/raimovie/index.m3u8
 #EXTINF:-1 tvg-id="RaiNews24.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/n2u57y3.png" group-title="News",Rai News 24
 https://d3k8wzt41aflvx.cloudfront.net/RAINEWS24/Live.m3u8
 #EXTINF:-1 tvg-id="RaiStoria.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_Storia_-_Logo_2017.svg/960px-Rai_Storia_-_Logo_2017.svg.png" group-title="General",Rai Storia
 https://d3k8wzt41aflvx.cloudfront.net/RAIStoria/Live.m3u8
+#EXTINF:-1 tvg-id="RaiSudtirol.it" tvg-country="IT" tvg-language="German" tvg-logo="https://i.imgur.com/Z3npd4M.png" group-title="General",Rai Sudtirol
+https://wzstreaming.rai.it/TVlive/smil:liveStream.smil/index.m3u8
 #EXTINF:-1 tvg-id="RaiWorldPremium.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/tDuKkh3.png" group-title="General",Rai World Premium
 https://d3k8wzt41aflvx.cloudfront.net/RAIP/Live.m3u8
 #EXTINF:-1 tvg-id="RDSSocialTV.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/bxGvE8C.png" group-title="General",RDS Social TV
@@ -239,28 +251,38 @@ https://57068da1deb21.streamlock.net/retetvitalia/retetvitalia/playlist.m3u8
 https://stream10.xdevel.com/video0s977363-1901/stream/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="RTCTelecalabria.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/NnFopuS.png" group-title="General",RTC Telecalabria
 https://w1.mediastreaming.it/calabriachannel/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="RTL1025Best.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/9PNlbaq.png" group-title="Music",RTL 102.5 Best
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/playlist_video.m3u8
+#EXTINF:-1 tvg-id="RTL1025BroSis.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/EWbK4XZ.png" group-title="Music",RTL 102.5 Bro&Sis
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/playlist_video.m3u8
+#EXTINF:-1 tvg-id="RTL1025Caliente.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/P0zsi6I.png" group-title="Music",RTL 102.5 Caliente
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/playlist_video.m3u8
+#EXTINF:-1 tvg-id="RTL1025Disco.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/JA1OPrz.png" group-title="Music",RTL 102.5 Disco
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/playlist_video.m3u8
+#EXTINF:-1 tvg-id="RTL1025Napule.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/HFPw1YW.png" group-title="Music",RTL 102.5 Napule
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/playlist_video.m3u8
+#EXTINF:-1 tvg-id="RTL1025Traffic.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/EBftMcB.png" group-title="Music",RTL 102.5 Traffic
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
+#EXTINF:-1 tvg-id="RTL1025TV.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/75qUdR7.png" group-title="Music",RTL 102.5 TV
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
 #EXTINF:-1 tvg-id="RTMTV.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/w9Twxsi.png" group-title="General",RTM TV
 https://5f22d76e220e1.streamlock.net/rtm/rtm/playlist.m3u8
 #EXTINF:-1 tvg-id="RTP.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/8/86/Logo_Radio_Televisione_Peloritana.svg/512px-Logo_Radio_Televisione_Peloritana.svg.png" group-title="General",RTP
 https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
-#EXTINF:-1 tvg-id="RTTRTrento.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/6DyzN8M.png" group-title="General",RTTR Trento
-https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="RTV38.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/YOlwudm.png" group-title="General",RTV38
-https://streamcdne1-845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live_main/mainabr/rtv38_live_main/main_576/chunks_dvr.m3u8
 #EXTINF:-1 tvg-id="SenatoTV.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/h4NyN5d.png" group-title="Legislative",Senato TV
 https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
 #EXTINF:-1 tvg-id="SophiaTV.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/RPXusvS.png" group-title="General",Sophia TV
 https://bild-und-ton.stream/sophiatv-it/smil:sophia-tv-it.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Sportitalia.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/0CJGGgd.png" group-title="Sports",Sportitalia
 https://edge-001.streamup.eu/sportitalia/sihd_abr/playlist.m3u8
+#EXTINF:-1 tvg-id="SportitaliaSolocalcio.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/hu56Ya5.png" group-title="Sports",Sportitalia Solocalcio
+https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Super.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Super%21_logo_2021.svg/960px-Super%21_logo_2021.svg.png" group-title="Kids",Super!
 https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
 #EXTINF:-1 tvg-id="SuperSix.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/SuperSix_TV_Logo.png" group-title="General",Super Six
 https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
 #EXTINF:-1 tvg-id="SuperTV.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/hxF3yhw.png" group-title="General",Super TV
 http://wms.shared.streamshow.it/supertv/mp4:supertv/playlist.m3u8
-#EXTINF:-1 tvg-id="TaurianovaTV.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://www.taurianovatv.it/wp-content/uploads/2024/04/cropped-FotoJet-2-HD15.jpg" group-title="General",Taurianova TV
-https://5f22d76e220e1.streamlock.net/taurianovatv/taurianovatv/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleAbruzzo.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/XymK2PR.png" group-title="General",Tele Abruzzo
 http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleArena.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/cTmsGJD.png" group-title="General",TeleArena
@@ -319,19 +341,17 @@ https://d3k8wzt41aflvx.cloudfront.net/TGCOM24/Live.m3u8
 https://5f22d76e220e1.streamlock.net/tltmolise/tltmolise/playlist.m3u8
 #EXTINF:-1 tvg-id="TRSport.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/ELXmaqg.png" group-title="Sports",TR Sport
 https://livetr.teleromagna.it/mia/live/playlist.m3u8
-#EXTINF:-1 tvg-id="TV7Benevento.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/VBhVaKB.png" group-title="General",TV7 Benevento
-http://streaming.senecadot.com/live/flv:tv7.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="tv9Telemaremma.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/3WAyf6H.png" group-title="News",tv9 Telemaremma
 https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/2095a288-1384-ed2e-5da0-278ccbb72295.m3u8
 #EXTINF:-1 tvg-id="TV2000.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/0d/Logo_tv2000_2015.svg/960px-Logo_tv2000_2015.svg.png" group-title="Religious",TV2000
-http://mi1.wz.tv2000.it/tv2000_alfa.m3u8
+https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
+#EXTINF:-1 tvg-id="TVAVicenza.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/0f/TVA_Vicenza_-_Logo_2018.svg/512px-TVA_Vicenza_-_Logo_2018.svg.png" group-title="General",TVA Vicenza
+http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCampane1.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/GsdVpll.png" group-title="General",TV Campane 1
+https://eu1.servers10.com:8081/8032/index.m3u8
 #EXTINF:-1 tvg-id="TVPrato.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/72mAJtf.png" group-title="General",TV Prato
 https://live.mariatvcdn.com/tvprato/2db0dd5674586686a867ec52c3aa8e06.sdp/index.m3u8
 #EXTINF:-1 tvg-id="TVQuiModena.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/YfMVNDE.png" group-title="General",TV Qui Modena
 https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8
-#EXTINF:-1 tvg-id="UniNettunoUniversityTV.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/c9So8nf.png" group-title="General",UniNettuno University TV
-https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
-#EXTINF:-1 tvg-id="Value24TV.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/FdEyI96.png" group-title="General",Value 24 TV
-https://5f22d76e220e1.streamlock.net/canale1/canale1/playlist.m3u8
 #EXTINF:-1 tvg-id="VisualRadio.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/ah14ah0.png" group-title="General",Visual Radio
 http://wms.shared.streamshow.it:1935/visualradio/visualradio/live.m3u8
