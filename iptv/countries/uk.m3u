@@ -37,8 +37,6 @@ https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_c
 https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_afghan_tv/pc_hd_abr_v2.mpd
 #EXTINF:-1 tvg-id="BBCPersian.uk" tvg-country="UK" tvg-language="Persian" tvg-logo="https://i.imgur.com/4uTMnPb.png" group-title="News",BBC Persian
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.mpd
-#EXTINF:-1 tvg-id="BBCUHD4.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/960px-BBC_Logo_2021.svg.png" group-title="General",BBC UHD 4
-http://45.14.84.37/bbc4/index.m3u8
 #EXTINF:-1 tvg-id="BritAsiaTV.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/6669894cbac4421ebc5336a0/images/logo_20231219_185045_64.png" group-title="General",Brit Asia TV
 https://hls.autopo.st/hls/britasiatv/index.m3u8
 #EXTINF:-1 tvg-id="Canaf54TV.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/viB0FS2.png" group-title="General",Canaf54 TV
@@ -64,7 +62,7 @@ https://stream.berosat.live/hls/der-tv/der-tv.m3u8
 #EXTINF:-1 tvg-id="DiscoveryScienceEurope.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/960px-Discovery_Science_2017_Logo.svg.png" group-title="Science",Discovery Science Europe
 http://57.128.231.171:8080/279/index.m3u8
 #EXTINF:-1 tvg-id="DontTellTheBride.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/h0bc3Fa.png" group-title="Series",Don't Tell The Bride
-https://amg00426-lds-amg00426c15-samsung-au-3684.playouts.now.amagi.tv/playlist.m3u8
+https://amg00426-lds-amg00426c15-samsung-nz-3685.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="DunyaNewsUK.uk" tvg-country="UK" tvg-language="Urdu" tvg-logo="https://i.imgur.com/dtrTfZC.png" group-title="News",Dunya News UK
 https://ukintl.dunyanews.tv/liveuk/ngrp:dunyalive_all/playlist.m3u8
 #EXTINF:-1 tvg-id="EnglishClubTV.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/9FMvaRK.png" group-title="Education",English Club TV
@@ -87,36 +85,18 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8
 https://techtraveleat.in/stream.m3u8?id=foodxp
 #EXTINF:-1 tvg-id="GBNews.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/960px-GB_News_Logo.svg.png" group-title="News",GB News
 https://amg01076-lightningintern-gbnewsau-samsungau-et7fz.amagi.tv/playlist/amg01076-lightningintern-gbnewsau-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="GODTV.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/hW4g2oe.png" group-title="Religious",GOD TV
-https://d1msejlow1t3l4.cloudfront.net/211125/godtv/chunks.m3u8
-#EXTINF:-1 tvg-id="GREATmovies.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3709.png" group-title="Movies",GREAT! movies
-https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8
-#EXTINF:-1 tvg-id="GREATromance.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3643.png" group-title="Movies",GREAT! romance
-https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-lggb/playlist.m3u8
-#EXTINF:-1 tvg-id="HalaLondon.uk" tvg-country="UK" tvg-language="Arabic" tvg-logo="https://i.imgur.com/bM4VZDH.png" group-title="General",Hala London
-https://halalondon-live.ercdn.net/halalondon/halalondon.m3u8
-#EXTINF:-1 tvg-id="HellenicTV.uk" tvg-country="UK" tvg-language="Greek" tvg-logo="https://i.imgur.com/NE7ddhC.png" group-title="General",Hellenic TV
-https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
-#EXTINF:-1 tvg-id="HistoryHit.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/ulHoqlP.png" group-title="Documentary",History Hit
-https://ldsaaaaaa-timeline-samsungau-awedz.amagi.tv/playlist/ldsAAAAAA-timeline-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="HobbyMaker.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/VWHp5Tl.png" group-title="Lifestyle",Hobby Maker
-https://lo3.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="HorseCountryTV.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/1x6zYZr.png" group-title="Outdoor",Horse & Country TV
-https://hncfree-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="IqraBangla.uk" tvg-country="UK" tvg-language="Bengali" tvg-logo="https://i.imgur.com/BZBZAeC.png" group-title="Religious",Iqra Bangla
-https://tvsen3.aynaott.com/EuEy5mBW/index.m3u8
-#EXTINF:-1 tvg-id="IraneFardaTV.uk" tvg-country="UK" tvg-language="Persian" tvg-logo="https://i.imgur.com/ixgcgZY.png" group-title="News",IraneFarda TV
-https://iranefardalive.com/stream/live.m3u8
 #EXTINF:-1 tvg-id="IranInternational.uk" tvg-country="UK" tvg-language="Persian" tvg-logo="https://i.imgur.com/55RpaF3.png" group-title="News",Iran International
-https://hlspackager.akamaized.net/live/DB/IRAN_INTERNATIONAL/HLS/IRAN_INTERNATIONAL.m3u8
+https://live.livetvstream.co.uk/LS-63503-4/index.m3u8
 #EXTINF:-1 tvg-id="JimJamEurope.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/ODhkYyx.png" group-title="Kids",JimJam Europe
-http://stream.mcquack.net/150/index.m3u8
+http://212.5.144.156:8080/jimjam/index.m3u8
 #EXTINF:-1 tvg-id="KalemehTV.uk" tvg-country="UK" tvg-language="Persian" tvg-logo="https://i.imgur.com/RsKKULI.png" group-title="Religious",Kalemeh TV
 https://klmhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="KanalJadid.uk" tvg-country="UK" tvg-language="Persian" tvg-logo="https://i.imgur.com/7oGGgfD.png" group-title="General",Kanal Jadid
 https://kjhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="KanshiTV.uk" tvg-country="UK" tvg-language="Hindi" tvg-logo="https://i.imgur.com/w6uXMrK.png" group-title="Religious",Kanshi TV
 https://live.kanshitv.co.uk/mobile/kanshitvkey.m3u8
+#EXTINF:-1 tvg-id="LatestTV.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/Cl1iGEb.jpeg" group-title="General",Latest TV
+https://5a0e89631aa14.streamlock.net/live/LatestTelevision/playlist.m3u8
 #EXTINF:-1 tvg-id="MagnavisionTV.uk" tvg-country="UK" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/mUHixbi.png" group-title="Entertainment",Magnavision TV
 https://manatv.akamaized.net/120723/smil:magnavision.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MasterChefsAcademyTV.uk" tvg-country="UK" tvg-language="Arabic" tvg-logo="https://platform-iuoamc.uk/storage/tv/branding/mca-tv-official-logo.png" group-title="Cooking",Master Chefs Academy TV
@@ -126,7 +106,7 @@ https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_030/Stream/playlist.m3u
 #EXTINF:-1 tvg-id="MoonbugKids.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/vZHtxQb.png" group-title="Kids",Moonbug Kids
 https://tvsen6.aynaott.com/MoonbugKids/index.m3u8
 #EXTINF:-1 tvg-id="MostHaunted.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/66d722d31878f200081c2c64/colorLogoPNG.png" group-title="Series",Most Haunted
-https://jmp2.uk/plu-66d722d31878f200081c2c64.m3u8
+https://jmp2.uk/plu-6081648340382e0007f73d45.m3u8
 #EXTINF:-1 tvg-id="MrBeanAnimated.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png" group-title="Animation",Mr Bean Animated
 https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MrBeanLiveAction.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1360f1ba-3ea1-4cc1-9ab9-6e99776c1a89/MrBeanLiveAction_Logo_Light_1500x1000_-_Harry_Marshall.png" group-title="Comedy",Mr Bean Live Action
