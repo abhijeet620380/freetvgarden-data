@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="4E.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/Na0UCV7.png" group-title="Religious",4E
+http://eu2.tv4e.gr:1935/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="AcheloosTV.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/5SVMxcu.png" group-title="General",Acheloos TV
 https://acheloostv.streamings.gr/live/stream/index.m3u8
 #EXTINF:-1 tvg-id="Action24.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Action24-logo-small.png" group-title="Movies",Action 24
@@ -39,14 +41,10 @@ https://cdn5.smart-tv-data.com/ena/ena_channel/playlist.m3u8
 https://gra1.crystalweb.net:1936/epilogestv/epilogestv/playlist.m3u8
 #EXTINF:-1 tvg-id="ERTCosmos.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://www.ert.gr/wp-content/uploads/2026/05/ertcosmos-logo.svg" group-title="General",ERT Cosmos
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos/default/index.m3u8
-#EXTINF:-1 tvg-id="ERTNews.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/HXbsPfB.png" group-title="News",ERT News
-https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.m3u8
 #EXTINF:-1 tvg-id="EuroTV.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://www.eurotv.gr/wp-content/uploads/2018/03/ima-euro-channel-190-x-400.png" group-title="News",Euro TV
 https://lbgo.bozztv.com/ssh101/ssh101/eurotvlive/playlist.m3u8
 #EXTINF:-1 tvg-id="ExtraProNews.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/VKW9xw6.png" group-title="News",Extra ProNews
 http://62.1.176.18:8888/extra/index.m3u8
-#EXTINF:-1 tvg-id="FarosTV2.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/7xtz1Jo.png" group-title="General",Faros TV2
-https://s1.cystream.net/live/faros2/playlist.m3u8
 #EXTINF:-1 tvg-id="GnomiTV.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.ibb.co/ZNCXr79/gnomi-logo.png" group-title="General",Gnomi TV
 https://live.streams.ovh:8081/gnomitv/index.m3u8
 #EXTINF:-1 tvg-id="IonianTV.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/JILN3kS.png" group-title="General",Ionian TV
