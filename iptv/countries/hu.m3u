@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="7TV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/CnUhAlK.png" group-title="General",7.TV
 https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8
+#EXTINF:-1 tvg-id="16tvBudapest.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/04fCzHl.png" group-title="General",16tv Budapest
+https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Animal_Planet_2018_II.svg/revision/latest?cb=20191206182106" group-title="General",Animal Planet
 http://88.212.15.17/live/animal_hun/index.m3u8
 #EXTINF:-1 tvg-id="ApostolTV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/C43Cc9N.png" group-title="Religious",Apostol TV
@@ -111,14 +113,10 @@ http://88.212.15.17/live/nick_junior_hun/index.m3u8
 http://88.212.15.17/live/nicktoons_hungary/index.m3u8
 #EXTINF:-1 tvg-id="OroszlanyiVarosiTelevizio.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/P0fxUH5.png" group-title="General",Oroszlanyi Varosi Televizio
 https://cloudfront44.lexanetwork.com:1344/relay01/broadcast002.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="OrszaggyulesOGYplenaris.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/hbblRpZ.png" group-title="Legislative",Orszaggyules: OGY plenaris
-https://plenaris.parlament.hu:446/edgelive/smil:mkogyplen.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="OrszaggyulesOGYTAB.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/hbblRpZ.png" group-title="Legislative",Orszaggyules: OGY TAB
 https://tab.parlament.hu:446/edgelive/smil:mkogytab.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="OxygenMusic.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://oxygenmusic.hu/static/media/logo.png" group-title="Music",Oxygen Music
 https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
-#EXTINF:-1 tvg-id="OzdiVarosiTV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/t0Aq3UD.png" group-title="General",Ozdi Varosi TV
-http://stream.nmih.hu:7980/live.m3u8
 #EXTINF:-1 tvg-id="OzoneTV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/eSNF9qt.png" group-title="Science",Ozone TV
 http://88.212.15.17/live/ozone/index.m3u8
 #EXTINF:-1 tvg-id="Prime.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/VvZEP4s.png" group-title="General",Prime
@@ -157,8 +155,12 @@ http://88.212.15.17/live/sport2_hun/index.m3u8
 http://88.212.15.17/live/story_4_cze_atk/index.m3u8
 #EXTINF:-1 tvg-id="SuperTV2.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/JCu1u2v.png" group-title="General",Super TV2
 http://88.212.15.17/live/test_super_tv2_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="SzolnokTV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/Eiab9MP.png" group-title="General",Szolnok TV
+https://cloudfront44.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TataiTV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/skXYntc.png" group-title="General",Tatai TV
 https://cloudfront44.lexanetwork.com:1344/relay01/broadcast006.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TelePaks.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/T8ueztB.png" group-title="General",TelePaks
+https://cloudfront44.lexanetwork.com:1344/relay02/livestream004.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TheFishingHuntingChannel.hu" tvg-country="HU" tvg-language="Czech" tvg-logo="https://i.imgur.com/KcTTnUA.png" group-title="Outdoor",The Fishing & Hunting Channel
 http://88.212.15.17/live/fishing_hun/index.m3u8
 #EXTINF:-1 tvg-id="TLC.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png" group-title="Lifestyle",TLC
@@ -175,6 +177,8 @@ http://88.212.15.17/live/tv2_kids/index.m3u8
 http://88.212.15.17/live/test_lichi_tv_atk_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TV4.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/cjypCfu.png" group-title="General",TV4
 http://88.212.15.17/live/test_tv_4_hun_atk_1200/playlist.m3u8
+#EXTINF:-1 tvg-id="TVEger.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/GUVW073.png" group-title="General",TV Eger
+http://stream.tveger.hu:8010/live.m3u8
 #EXTINF:-1 tvg-id="TVKeszthely.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/2LE8xSW.png" group-title="General",TV Keszthely
 https://cloudfront44.lexanetwork.com:1344/freerelay/keszthelyivtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPaprika.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/KLpZIS6.png" group-title="Lifestyle",TV Paprika
@@ -195,3 +199,5 @@ https://cloudfront44.lexanetwork.com:1344/relay01/HDE051.sdp/playlist.m3u8
 https://cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Zenebutik.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/xGUlF78.png" group-title="General",Zenebutik
 http://88.212.15.17/live/zenebutik/index.m3u8
+#EXTINF:-1 tvg-id="ZugloTV.hu" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/wPqCtwR.png" group-title="Entertainment",Zuglo TV
+https://cloudfront44.lexanetwork.com:1344/freerelay/zuglotv.sdp/playlist.m3u8
