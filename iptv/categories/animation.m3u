@@ -28,7 +28,7 @@ https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.pk" tvg-country="PK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Animation",Cartoon Network
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87H/chunks.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Animation",Cartoon Network
-https://turnerlive.warnermediacdn.com/hls/live/2023160/tooneast/noslate/VIDEO_3_1928000.m3u8
+http://tvsen7.aynascope.net/cartoonnetwork/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkArabic.ae" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/960px-Cartoon_Network_Arabic_logo.png" group-title="Animation",Cartoon Network Arabic
 http://149.100.11.252:8000/play/a056/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-country="SG" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Animation",Cartoon Network Asia
@@ -44,7 +44,7 @@ https://jmp2.uk/plu-609ae66b359b270007869ff1.m3u8
 #EXTINF:-1 tvg-id="Crunchyroll.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/2FlIQUO.png" group-title="Animation",Crunchyroll
 https://jmp2.uk/plu-65652f7fc0fc88000883537a.m3u8
 #EXTINF:-1 tvg-id="DetectiveConan.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/629a066860ef810008267b70/colorLogoPNG.png?w=512" group-title="Animation",Detective Conan
-https://jmp2.uk/plu-629a066860ef810008267b70.m3u8
+https://jmp2.uk/plu-62f3e8ad2a8e8000077b013d.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Animation",Disney Channel Latin America
 http://181.78.8.199:8000/play/a0dn/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Animation",Disney Jr. Latin America
@@ -55,8 +55,6 @@ http://138.121.15.230:9002/DREAMWORKS/index.m3u8
 https://cloudvideo.servers10.com:8081/8020/index.m3u8
 #EXTINF:-1 tvg-id="EnerGeek.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://cdn.energeek.cl/logos/EG-Retro-2025_pfp.png" group-title="Animation",EnerGeek
 https://cl-2.backend.energeek.cl/bkp/egretroweb/index.m3u8?token=IPTVgh26
-#EXTINF:-1 tvg-id="EnerGeekFAN.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://cdn.energeek.cl/logos/EG-Fan-2025_pfp.png" group-title="Animation",EnerGeek FAN
-https://cl-2.backend.energeek.cl/bkp/egfan/mobile/index.m3u8?token=IPTVgh26
 #EXTINF:-1 tvg-id="eSportsMaxTV.ve" tvg-country="VE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/OprRgQN.png" group-title="Animation",eSports Max TV
 https://cdnlive.klicgo.net/esportsmax/live/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="ExtremaKidsTV.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3027-294x165-FFFFFF.jpg" group-title="Animation",Extrema Kids TV
@@ -67,12 +65,16 @@ http://stream.mcquack.net/420/index.m3u8
 https://dvu7aia8rjlfm.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="GikTVMX.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Gwz78jZ.png" group-title="Culture",GikTVMX
 https://pistream.ddns.net/hls/stream.m3u8
-#EXTINF:-1 tvg-id="JapanimTV.be" tvg-country="BE" tvg-language="French" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/6b97e19f-4243-4d48-b794-ff8cf54d795f-profile_image-300x300.png" group-title="Animation",JapanimTV
-https://foxkidstv.be:3369/stream/play.m3u8
+#EXTINF:-1 tvg-id="Gong.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/lA9UFMG.png" group-title="Animation",Gong
+https://amg01596-gongnetworks-gong-ono-vh5f2.amagi.tv/1080p-vtt/index.m3u8
+#EXTINF:-1 tvg-id="HasbroLegends.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/JDM9rEV.png" group-title="Animation",Hasbro Legends
+https://amg02713-amg02713c11-amgplt0852.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg02713-amg02713c11-amgplt0852/playlist.m3u8
 #EXTINF:-1 tvg-id="KuriakosKids.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/SRX6EPY.png" group-title="Animation",Kuriakos Kids
 https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="LAMIL35TV.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.pinimg.com/736x/2d/fa/25/2dfa25f5d2e4d5c19886a3a263706317.jpg" group-title="Classic",LAMIL35 TV
 https://vtm2.msinteractiva.com/lamil35/lamil35/playlist.m3u8
+#EXTINF:-1 tvg-id="LasTortugasNinja.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/63dd5d7a4e83e700088fbca8/colorLogoSVG_1768926025034.svg" group-title="Animation",Las Tortugas Ninja
+https://jmp2.uk/plu-63dd5d7a4e83e700088fbca8.m3u8
 #EXTINF:-1 tvg-id="MAXAnime.ve" tvg-country="VE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Oj3hEBh.jpg" group-title="Animation",MAX Anime
 https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8
 #EXTINF:-1 tvg-id="MCN6MusicChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/j6IiysJ.png" group-title="Music",MCN6 Music Channel
@@ -80,11 +82,9 @@ https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
 #EXTINF:-1 tvg-id="MrBeanAnimated.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png" group-title="Animation",Mr Bean Animated
 https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Naruto.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/M8X3Kvc.png" group-title="Animation",Naruto
-https://jmp2.uk/plu-5f6df5a173d7340007c559f7.m3u8
-#EXTINF:-1 tvg-id="Narutoenespanol.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/hG8F0RY.png" group-title="Animation",Naruto en espanol
-https://jmp2.uk/plu-5ee92e72fb286e0007285fec.m3u8
+https://jmp2.uk/plu-65d5fc39a25d5e00082895c4.m3u8
 #EXTINF:-1 tvg-id="NarutoShippuden.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/64c92fea3c3344000869e8a9/colorLogoPNG.png" group-title="Animation",Naruto Shippuden
-https://jmp2.uk/plu-64c92f965580090008084968.m3u8
+https://jmp2.uk/plu-64c92fea3c3344000869e8a9.m3u8
 #EXTINF:-1 tvg-id="NickelodeonPlutoTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoSVG.svg" group-title="Animation",Nickelodeon Pluto TV
 https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
 #EXTINF:-1 tvg-id="NickOnline.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://x1colegal.com/logo.png" group-title="Kids",NickOnline
@@ -155,26 +155,14 @@ https://jmp2.uk/plu-62bdb919d36cbd0007e6ab8a.m3u8
 https://jmp2.uk/plu-664f0eaa8ce31100088036bd.m3u8
 #EXTINF:-1 tvg-id="SouthParkKennyCollection.de" tvg-country="DE" tvg-language="German" tvg-logo="https://images.pluto.tv/channels/646b1404ee6a2f00082b5d66/colorLogoSVG.svg" group-title="Animation",South Park: Kenny Collection
 https://jmp2.uk/plu-646b1404ee6a2f00082b5d66.m3u8
-#EXTINF:-1 tvg-id="SouthParkKennyCollection.se" tvg-country="SE" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/65d879bd0d4561000805d190/colorLogoSVG.svg" group-title="Animation",South Park: Kenny Collection
-https://jmp2.uk/plu-65d879bd0d4561000805d190.m3u8
-#EXTINF:-1 tvg-id="SouthParkKennyCollection.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/65df47f428730900089f83ac/colorLogoSVG.svg" group-title="Animation",South Park: Kenny Collection
-https://jmp2.uk/plu-65df47f428730900089f83ac.m3u8
 #EXTINF:-1 tvg-id="SouthParkKyleCollection.de" tvg-country="DE" tvg-language="German" tvg-logo="https://images.pluto.tv/channels/646b14d0e1979c0008915a09/colorLogoSVG.svg" group-title="Animation",South Park: Kyle Collection
 https://jmp2.uk/plu-646b14d0e1979c0008915a09.m3u8
-#EXTINF:-1 tvg-id="SouthParkKyleCollection.se" tvg-country="SE" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/65d87a908145cb0008265c6d/colorLogoSVG.svg" group-title="Animation",South Park: Kyle Collection
-https://jmp2.uk/plu-65d87a908145cb0008265c6d.m3u8
 #EXTINF:-1 tvg-id="SouthParkKyleCollection.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/65df49b30d45610008172c5b/colorLogoSVG.svg" group-title="Animation",South Park: Kyle Collection
 https://jmp2.uk/plu-65df49b30d45610008172c5b.m3u8
-#EXTINF:-1 tvg-id="SouthParkOriginalVersion.de" tvg-country="DE" tvg-language="German" tvg-logo="https://images.pluto.tv/channels/646b150a15939400089e2702/colorLogoSVG.svg" group-title="Animation",South Park: Original Version
-https://jmp2.uk/plu-646b150a15939400089e2702.m3u8
 #EXTINF:-1 tvg-id="SouthParkRockinOut.se" tvg-country="SE" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/664f132c8ea5560008ce4d86/colorLogoSVG.svg" group-title="Animation",South Park Rockin' Out
 https://jmp2.uk/plu-664f132c8ea5560008ce4d86.m3u8
-#EXTINF:-1 tvg-id="SouthParkStanCollection.de" tvg-country="DE" tvg-language="German" tvg-logo="https://images.pluto.tv/channels/646b1438e94c3800082a8cff/colorLogoSVG.svg" group-title="Animation",South Park: Stan Collection
-https://jmp2.uk/plu-646b1438e94c3800082a8cff.m3u8
 #EXTINF:-1 tvg-id="SouthParkStanCollection.se" tvg-country="SE" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/65d879e266eec8000887e91b/colorLogoSVG.svg" group-title="Animation",South Park: Stan Collection
 https://jmp2.uk/plu-65d879e266eec8000887e91b.m3u8
-#EXTINF:-1 tvg-id="SouthParkStanCollection.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/65df48ba28730900089f8480/colorLogoSVG.svg" group-title="Animation",South Park: Stan Collection
-https://jmp2.uk/plu-65df48ba28730900089f8480.m3u8
 #EXTINF:-1 tvg-id="SouthParkVersionOriginal.de" tvg-country="DE" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/63d7a8e5a9957100086bfc23/colorLogoSVG.svg" group-title="Animation",South Park Version Original
 https://jmp2.uk/plu-63d7a8e5a9957100086bfc23.m3u8
 #EXTINF:-1 tvg-id="SouthParkWelcometoCanada.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/663115d923e24f000843b49c/colorLogoSVG.svg" group-title="Animation",South Park: Welcome to Canada!
@@ -183,25 +171,21 @@ https://jmp2.uk/plu-663115d923e24f000843b49c.m3u8
 https://live-uae-next.spacetoongo.com/ST_MENA_NEXT/hls/r9p2hjipmw2kl.m3u8
 #EXTINF:-1 tvg-id="SpacetoonTurkey.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/2/2b/Spacetoon_logo.png" group-title="Animation",Spacetoon Turkey
 https://live-tr-next.spacetoongo.com/ST_TR_NEXT/hls/h7qefeiwfbjn1.m3u8
-#EXTINF:-1 tvg-id="SuperHungama.in" tvg-country="IN" tvg-language="English" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUPER_HUNGAMA/images/LOGO_HD/image.png" group-title="Animation",Super Hungama
-http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8
-#EXTINF:-1 tvg-id="TeenageMutantNinjaTurtles.de" tvg-country="DE" tvg-language="Italian" tvg-logo="https://images.pluto.tv/channels/62619405c733e8000732d1fe/colorLogoSVG.svg" group-title="Animation",Teenage Mutant Ninja Turtles
-https://jmp2.uk/plu-62619405c733e8000732d1fe.m3u8
 #EXTINF:-1 tvg-id="TeletoonPlus.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/T%C3%A9l%C3%A9toon%2B_Logo.png/960px-T%C3%A9l%C3%A9toon%2B_Logo.png" group-title="Animation",Teletoon+
 http://92.114.85.87:8009/play/a006/index.m3u8
 #EXTINF:-1 tvg-id="TigueritoTV.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://dominicanchannels.com/wp-content/uploads/tigueritos-tv.jpg" group-title="Animation",Tiguerito TV
 https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
 #EXTINF:-1 tvg-id="Tokusato.us" tvg-country="US" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/tWpjXtl.png" group-title="Animation",Tokusato
-https://jmp2.uk/plu-5ff608e60e2996000768c366.m3u8
+https://jmp2.uk/plu-5ff609de50ab210008025c1b.m3u8
 #EXTINF:-1 tvg-id="Tooku.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://tooku.ru/wp-content/uploads/2024/11/tooku-kanal-logo.png" group-title="Animation",Tooku
 http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
 #EXTINF:-1 tvg-id="ToonamiAftermath.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/aSjhZK7.png" group-title="Animation",Toonami Aftermath
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 #EXTINF:-1 tvg-id="Tooncast.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/3yXRbQy.png" group-title="Animation",Tooncast
-http://38.134.250.110:8000/play/a01t/index.m3u8
+https://streaming.onnethn.com/TOONCAST/playlist.m3u8
 #EXTINF:-1 tvg-id="WOWKidz.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/channel/logos/mjvezt.png" group-title="Animation",WOW Kidz
 https://yuppparoriglin.akamaized.net/181224/smil:wowkidzhindi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="XtremaCartoons.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/X2d8y4e.png" group-title="Animation",Xtrema Cartoons
 https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
 #EXTINF:-1 tvg-id="YuGiOh.us" tvg-country="US" tvg-language="English" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e10f9ed3-8112-4287-8355-cc00be4413a8/Wurl_Yu-Gi-Oh_Channel_Logo_light_Astridrdx.png" group-title="Animation",Yu-Gi-Oh!
-https://jmp2.uk/plu-63eb96754e83e70008ab8941.m3u8
+https://jmp2.uk/plu-642d4493aa2d690008f0a03f.m3u8

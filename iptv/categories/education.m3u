@@ -8,7 +8,7 @@ http://82.212.74.98:8000/live/7815.m3u8
 #EXTINF:-1 tvg-id="AlHiwarTV.uk" tvg-country="UK" tvg-language="Arabic" tvg-logo="https://i.imgur.com/UjOxwdd.png" group-title="Education",Al Hiwar TV
 https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ARDalpha.de" tvg-country="DE" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/960px-ARD_alpha.svg.png" group-title="Education",ARD-alpha
-https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
+https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8
 #EXTINF:-1 tvg-id="AsharqDiscovery.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Czxi7yk.png" group-title="Documentary",Asharq Discovery
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="BATVEducationalChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/eDoJqtg.png" group-title="Education",BATV Educational Channel
@@ -17,6 +17,8 @@ https://livestream.telvue.com/billerica2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/pl
 https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
 #EXTINF:-1 tvg-id="BUTV10.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Iv1Fe67.png" group-title="Education",BUTV10
 https://cdnapisec.kaltura.com/p/2184561/sp/218456100/playManifest/entryId/1_68qxw4eu/format/applehttp/a.m3u8
+#EXTINF:-1 tvg-id="BVG.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/BVG.png" group-title="Education",BVG
+https://mumt05.tangotv.in/87NeALx2BVG/index.m3u8
 #EXTINF:-1 tvg-id="CampusTV.hn" tvg-country="HN" tvg-language="Spanish" tvg-logo="https://i.imgur.com/E1TmADM.png" group-title="Education",Campus TV
 https://5e85d90130e77.streamlock.net/6052/6052/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalEducacao.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/OOB7nrS.png" group-title="Education",Canal Educacao
@@ -27,8 +29,6 @@ https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8
 http://45.162.64.114/FUTURA/index.m3u8
 #EXTINF:-1 tvg-id="CanalUniversidad.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/trmPKYw.png" group-title="Education",Canal Universidad
 https://videostream.shockmedia.com.ar/hls/canaluniversidadmdp/canaluniversidadmdp.m3u8
-#EXTINF:-1 tvg-id="CanThoTV2.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.ibb.co/JjVvkMsf/cantho2-2025.png" group-title="Science",Can Tho TV 2
-https://live.canthotv.vn/cs2/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTV7.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/CKcPMQC.png" group-title="Education",CCTV-7
 http://74.91.26.218:82/live/cctv7hd.m3u8
 #EXTINF:-1 tvg-id="CCTV10.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/sSSO7UD.png" group-title="Education",CCTV-10
@@ -123,6 +123,12 @@ http://stream.mcquack.net/401/index.m3u8
 http://170.83.49.66:8083/FUTURAHD/index.m3u8
 #EXTINF:-1 tvg-id="GillettePublicAccessTelevisionChannel189.us" tvg-country="US" tvg-language="English" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqMoPQ32FU8R2lR71LXhYrC3tCHfjJEXcm6E9PEO=s176-c-k-c0x00ffffff-no-rj" group-title="Education",Gillette Public Access Television Channel 189
 https://securestream11.champds.com/LIVE/GilletteWYLIVE3/GilletteWYLIVE3.m3u8
+#EXTINF:-1 tvg-id="GVision.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/jUPHG21.png" group-title="Education",GVision
+https://videostream.chileservidores.com:8081/tome/index.m3u8
+#EXTINF:-1 tvg-id="Gyandarshan.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GYANDARSHAN/images/LOGO_HD/image.png" group-title="Education",Gyandarshan
+https://cdn.pishow.tv/ott/live/14/master.m3u8
+#EXTINF:-1 tvg-id="ILCECanal15SummaSaberes.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/r7czgOc.png" group-title="Education",ILCE Canal 15 Summa Saberes
+https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8
 #EXTINF:-1 tvg-id="iSTUFF.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/1V3UXVb.jpg" group-title="Education",iSTUFF
 https://relay2.cdn.fem-net.de/hls/loop/istuff_live/istuff_live-720p.m3u8
 #EXTINF:-1 tvg-id="ISTV.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/RUKVrOH.png" group-title="Education",ISTV
@@ -243,10 +249,6 @@ https://tls-cl.cdnz.cl/umag1/ngrp:live_all/playlist.m3u8
 https://edge.enhdtv.com/8026/index.m3u8
 #EXTINF:-1 tvg-id="UMSATVULP.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://tvu.umsa.bo/documents/780216/12171558/logo+tvu+icon.png/4367e79e-4541-d340-0e82-3943b73e7b18?t=1747686917412" group-title="News",UMSA TVU LP
 https://edge.enhdtv.com/8190/index.m3u8
-#EXTINF:-1 tvg-id="UNIANDESTV.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/1rluyB7.png" group-title="Education",UNIANDES TV
-https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8
-#EXTINF:-1 tvg-id="UTalcaTV.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/2AK61FQ.png" group-title="Education",UTalca TV
-https://unlimited1-us.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-id="VyasChannel.in" tvg-country="IN" tvg-language="English" tvg-logo="https://www.yupptv.com/seo_img/UGC_GEC_big.jpg" group-title="Education",Vyas Channel
 https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8
 #EXTINF:-1 tvg-id="WikiTV.kh" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://i.imgur.com/rnV0Ui1.png" group-title="Education",Wiki TV
