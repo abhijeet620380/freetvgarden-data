@@ -19,8 +19,16 @@ http://15.204.196.147:22880/CABLE-MAGES-AZCINEMA/video.m3u8
 http://200.115.120.1:8000/play/ca020/index.m3u8
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="General",Azteca 7
 http://187.245.231.226:8000/play/a0uz/index.m3u8
+#EXTINF:-1 tvg-id="AztecaDeportesNetwork.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://match-images.icdb.tv/5913207f2494844101287828e87625eb.jpg" group-title="Sports",Azteca Deportes Network
+https://live-manifest.production-public.tubi.io/live/6bf131c3-d664-424c-93c9-49188a788980/playlist.m3u8
 #EXTINF:-1 tvg-id="AztecaInternacional.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="Entertainment",Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-1 tvg-id="B15Fresnillo.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/kaUhEQy.png" group-title="General",B15 Fresnillo
+https://s5.mexside.net:1936/lsac/lsac/playlist.m3u8
+#EXTINF:-1 tvg-id="B15Zacatecas.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/kaUhEQy.png" group-title="General",B15 Zacatecas
+https://s5.mexside.net:1936/envio2/envio2/playlist.m3u8
+#EXTINF:-1 tvg-id="BAMOSTV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ntK4D64.png" group-title="Religious",BAMOS TV
+https://video2.getstreamhosting.com:19360/8092/8092.m3u8
 #EXTINF:-1 tvg-id="Bandamax.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4DfnOTA.png" group-title="Music",Bandamax
 http://181.78.106.127:5000/play/ca064/index.m3u8
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/cBC2Jre.png" group-title="General",Canal 5
@@ -102,7 +110,7 @@ https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="General",Las Estrellas
 http://45.189.151.7:8000/play/a07s
 #EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="General",Las Estrellas Latin America
-http://190.93.224.42/CANAL-LAS-ESTRELLAS/index.m3u8
+http://15.204.246.24:8080/LasEstrellasHD/index.m3u8
 #EXTINF:-1 tvg-id="LoboTV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/3fA50RJ.png" group-title="Music",Lobo TV
 https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
 #EXTINF:-1 tvg-id="MariaVision.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/GylOPxE.png" group-title="Religious",Maria Vision
