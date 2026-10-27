@@ -44,7 +44,7 @@ https://movil.ejeserver.com/live/nets.m3u8
 #EXTINF:-1 tvg-id="CanalOracionConSon.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/rfnFqU3.png" group-title="Religious",Canal Oracion Con Son
 https://canal.mediaserver.com.co/live/oracionconson.m3u8
 #EXTINF:-1 tvg-id="CanalRCN.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="General",Canal RCN
-http://138.121.15.230:9002/RCN/index.m3u8
+http://190.61.47.54:8000/play/a01f/index.m3u8
 #EXTINF:-1 tvg-id="CanalTelefamilia.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/D1s1Q3k.png" group-title="Religious",Canal Telefamilia
 https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalTelesantiago.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/DmkH5p8.jpg" group-title="Religious",Canal Telesantiago
@@ -62,7 +62,7 @@ https://stmv4.voxtvhd.com.br/canicatv/canicatv/playlist.m3u8
 #EXTINF:-1 tvg-id="CaracolHD2.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Fww94l9.png" group-title="General",Caracol HD2
 http://181.78.14.26:4000/play/a00d/index.m3u8
 #EXTINF:-1 tvg-id="CaracolInternacional.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/h7LWbt5.png" group-title="General",Caracol Internacional
-http://167.249.23.102:8000/play/a0ax/index.m3u8
+http://138.59.177.78:9999/play/a0a8/index.m3u8
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/WbfdJbk.png" group-title="General",Caracol TV
 http://138.121.15.230:9002/CARACOL/index.m3u8
 #EXTINF:-1 tvg-id="CitytvBogota.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/h7K9EW9.png" group-title="General",Citytv Bogota
@@ -171,8 +171,6 @@ https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp02.smil/playlist.m3
 https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
 #EXTINF:-1 tvg-id="Telemedellin.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/6NGOIhH.png" group-title="General",Telemedellin
 https://liveingesta118.cdnmedia.tv/tvtelemedellinlive/smil:rtmp01.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TeleMocoaCanal10.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/XHtpEfu.png" group-title="General",Tele Mocoa Canal 10
-https://live.amelbatv.co:81/telemocoalive/index.m3u8
 #EXTINF:-1 tvg-id="TeleNostalgia.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/WZeMZNy.png" group-title="Classic",TeleNostalgia
 http://38.134.250.110:8000/play/a01q/index.m3u8
 #EXTINF:-1 tvg-id="Telepacifico.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/39hy97J.png" group-title="General",Telepacifico
@@ -185,6 +183,8 @@ https://liveingesta118.cdnmedia.tv/televidtvlive/smil:rtmp01.smil/playlist.m3u8
 https://cloud6.livescast.com:3900/live/tevecolombialive.m3u8
 #EXTINF:-1 tvg-id="Trece.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/nEBsIlf.png" group-title="General",Trece
 https://liveingesta118.cdnmedia.tv/trecetvlive/smil:rtmp01.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TV3LaPlata.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/uRMq5HC.jpeg" group-title="General",TV3 La Plata
+https://live.amelbatv.co:81/teleopita/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="TVAgro.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/9nzY7Ch.png" group-title="Outdoor",TVAgro
 http://190.61.47.54:8000/play/a01k/index.m3u8
 #EXTINF:-1 tvg-id="TVGolfoUraba.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Nd5axnS.png" group-title="Entertainment",TV Golfo Uraba
