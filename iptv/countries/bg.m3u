@@ -15,8 +15,6 @@ https://tv.city.bg/play/tshls/citytv/index.m3u8
 https://cdn2.invivo.bg/Codefashion_5500/index.m3u8
 #EXTINF:-1 tvg-id="CodeHealthTV.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/NXBMzGV.png" group-title="Lifestyle",Code Health TV
 https://cdn2.invivo.bg/codehealth_test/index.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/UxrAiAe.png" group-title="Kids",Disney Channel
-http://87.120.179.187:8000/play/a010
 #EXTINF:-1 tvg-id="DSTV.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/YMgzzkf.png" group-title="Music",DSTV
 http://46.249.95.140:8081/hls/data.m3u8
 #EXTINF:-1 tvg-id="EKids.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="" group-title="Kids",EKids
@@ -27,6 +25,8 @@ https://streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8
 https://bss1.neterra.tv/magictv/magictv.m3u8
 #EXTINF:-1 tvg-id="MovieStar.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/DdZH49P.png" group-title="Movies",Movie Star
 https://shift03.isp.bg/MovieStar/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids",Nickelodeon
+http://87.120.179.187:8000/play/a00x
 #EXTINF:-1 tvg-id="PlovdivOrthodoxTV.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="" group-title="Religious",Plovdiv Orthodox TV
 http://78.130.149.196:1935/live/pptv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TheVoice.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/OoJSmoj.png" group-title="Music",The Voice
@@ -47,9 +47,3 @@ https://shift03.isp.bg/RodinaTV/index.m3u8
 https://tv.tvsb.bg/112.m3u8
 #EXTINF:-1 tvg-id="TVZagora.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/DvBboqe.png" group-title="General",TV Zagora
 http://zagoratv.ddns.net:8080/tvzagora.m3u8
-#EXTINF:-1 tvg-id="ViasatExplore.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Viasat_Explore_2026.svg" group-title="Documentary",Viasat Explore
-https://shift03.isp.bg/ViasatExplorer_HD/index.m3u8
-#EXTINF:-1 tvg-id="ViasatHistory.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Viasat_History_2026.svg" group-title="Documentary",Viasat History
-https://shift03.isp.bg/ViasatHistory_HD/index.m3u8
-#EXTINF:-1 tvg-id="ViasatNature.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Cropped-viasat-nature.png" group-title="Documentary",Viasat Nature
-https://shift03.isp.bg/ViasatNature_HD/index.m3u8
