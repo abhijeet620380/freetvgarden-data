@@ -13,6 +13,8 @@ https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
 #EXTINF:-1 tvg-id="Africa24English.fr" tvg-country="FR" tvg-language="English" tvg-logo="https://africa24tv.com/wp-content/uploads/2023/12/logo-Africa24TVEnglish.png" group-title="News",Africa 24 English
 https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8
+#EXTINF:-1 tvg-id="Africa24Sport.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i0.wp.com/africa24tv.com/wp-content/uploads/2023/12/LOGO-AFRICASPORT-4-HD-sans-fond.png?fit=512%2C107&ssl=1" group-title="News",Africa 24 Sport
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 #EXTINF:-1 tvg-id="AfricanewsEnglish.fr" tvg-country="FR" tvg-language="English" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/6669892cbac4421ebc533679/images/logo_20231218_175639_70.png" group-title="News",Africanews English
 https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiOTU0NDAyODQtOTU0My00Yzc2LThmZjQtNDRhY2YwYmQxYTYwIiwibWt0IjoicGwiLCJjaCI6NjYwNiwicHRmIjo1fQ==/26036/africanews-en.m3u8
 #EXTINF:-1 tvg-id="AfricanewsFrench.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/5UxU4zc.png" group-title="News",Africanews French
@@ -35,10 +37,6 @@ https://stream2.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8
 https://do7nccdsswstc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1aso0bc668saa/a5233c83-f772-4a81-959a-45ec7877ef61/5.m3u8
 #EXTINF:-1 tvg-id="CannesLerinsTV.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/atlgnum.png" group-title="General",Cannes Lerins TV
 https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8
-#EXTINF:-1 tvg-id="CineNanar.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/YnUZd3W.png" group-title="Movies",Cine Nanar
-https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CineWestern.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/tteOFkL.png" group-title="Movies",Cine Western
-https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-id="CNews.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/sSNhk2g.png" group-title="News",CNews
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/CNews.m3u8
 #EXTINF:-1 tvg-id="CNEWSPRIME.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://www.cnews.fr/themes/cnews/img/cnews-prime.png" group-title="News",CNEWS PRIME
@@ -53,22 +51,14 @@ https://rakutenaa-zylo-emotional-rakuten-r1zkm.amagi.tv/playlist/rakutenAA-zylo-
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
 #EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-country="FR" tvg-language="English" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/66698907bac4421ebc533647/images/logo_20231218_175557_70.png" group-title="News",Euronews English
 https://dash4.antik.sk/live/test_euronews/playlist.m3u8
-#EXTINF:-1 tvg-id="EuronewsFrench.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://provider-static.plex.tv/epg/cms/production/29d2a047-b486-4123-8642-45fe71d022fe/Logo_Euronews_stacked_white_on_french_1500x1000.png" group-title="News",Euronews French
-https://cdn-euronews.akamaized.net/live/eds/euronews-fr/25026/index.m3u8
-#EXTINF:-1 tvg-id="EuronewsGerman.fr" tvg-country="FR" tvg-language="German" tvg-logo="https://staticcyl.euronews.com/wp-content/uploads/2023/03/Logo_Euronews_white-on-neon_german_RGB.png" group-title="News",Euronews German
-https://cdn-euronews.akamaized.net/live/eds/euronews-de/25027/index.m3u8
 #EXTINF:-1 tvg-id="EuronewsGreek.fr" tvg-country="FR" tvg-language="Greek" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Greek
 https://cdn-euronews.akamaized.net/live/eds/euronews-el/25068/index.m3u8
 #EXTINF:-1 tvg-id="EuronewsHungarian.fr" tvg-country="FR" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Hungarian
 https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/index.m3u8
 #EXTINF:-1 tvg-id="EuronewsItalian.fr" tvg-country="FR" tvg-language="Italian" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ca19114a-f498-4ac3-bade-257fb304e0be/ITLogo_Euronews_stacked_white_on_italien_1500x1000whtrdx2.png" group-title="News",Euronews Italian
 https://cdn-euronews.akamaized.net/live/eds/euronews-it/25085/index.m3u8
-#EXTINF:-1 tvg-id="EuronewsPortuguese.fr" tvg-country="FR" tvg-language="Portuguese" tvg-logo="https://provider-static.plex.tv/epg/cms/production/73b5e777-8a44-4def-8e33-be43f7f8177c/Logo_Euronews_stacked_white_on_portuguese_1500x1000rdxWHITE.png" group-title="News",Euronews Portuguese
-https://cdn-euronews.akamaized.net/live/eds/euronews-pt/25040/index.m3u8
 #EXTINF:-1 tvg-id="EuronewsRussian.fr" tvg-country="FR" tvg-language="Russian" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Russian
 https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
-#EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-country="FR" tvg-language="Spanish" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/66698908bac4421ebc533648/images/logo_20231218_175505_70.png" group-title="News",Euronews Spanish
-https://cdn-euronews.akamaized.net/live/eds/euronews-es/25053/index.m3u8
 #EXTINF:-1 tvg-id="Europe1TV.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.ibb.co/rGqB5FcH/Europe1-TV.png" group-title="News",Europe 1 TV
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/misc/europe-1-tv-dm.m3u8
 #EXTINF:-1 tvg-id="Eurosport1.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="Sports",Eurosport 1
@@ -91,6 +81,8 @@ http://149.62.177.107:9999/France_4/index.m3u8
 http://149.62.177.107:9999/France_5/index.m3u8
 #EXTINF:-1 tvg-id="France24.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Estrella_TV_Logo_2020.png/500px-Estrella_TV_Logo_2020.png" group-title="News",France 24
 https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="Franceinfo.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/eITXz6A.png" group-title="News",Franceinfo
+http://149.62.177.107:9999/franceinfo:/index.m3u8
 #EXTINF:-1 tvg-id="FrequenceNovelas.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/fEjNAps.png" group-title="Series",Frequence Novelas
 https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8
 #EXTINF:-1 tvg-id="GenerationsTV.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/NgBrDMe.png" group-title="General",Generations TV
@@ -107,14 +99,6 @@ https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fdd6f243-f971-4a1a-9510-97ac01d6b37f/manifest.m3u8
 #EXTINF:-1 tvg-id="LCI.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/DED8EXs.png" group-title="News",LCI
 http://149.62.177.107:9999/LCI/index.m3u8
-#EXTINF:-1 tvg-id="LCP.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/k7UImOJ.png" group-title="Legislative",LCP
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8
-#EXTINF:-1 tvg-id="LeFigaroTVIledeFrance.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/a8RuRUQ.png" group-title="General",Le Figaro TV Ile-de-France
-https://static.lefigaro.fr/secom/tnt.m3u8
-#EXTINF:-1 tvg-id="LEquipe.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/t35zhM9.png" group-title="Sports",L'Equipe
-https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8
-#EXTINF:-1 tvg-id="LittoralFMTV.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/DCZKAQ1.png" group-title="Music",Littoral FM TV
-https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="M6.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/1280px-Logo_M6_%282020%2C_fond_clair%29.svg.png" group-title="Entertainment",M6
 http://99.27.51.147:8080/M6/index.m3u8
 #EXTINF:-1 tvg-id="MDL.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/REN30bx.png" group-title="General",MDL
@@ -125,8 +109,6 @@ http://stream.mcquack.net/276/index.m3u8
 https://fl718492-exthls-p1.flovp.com/fl718492/live/live.m3u8
 #EXTINF:-1 tvg-id="NOVO19.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Logo_NOVO19_-_2025.svg/960px-Logo_NOVO19_-_2025.svg.png" group-title="General",NOVO19
 http://149.62.177.107:9999/NOVO19/index.m3u8
-#EXTINF:-1 tvg-id="P2MTV.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/TrecSeG.png" group-title="Music",P2M TV
-https://vdo2.pro-fhi.net:3207/stream/play.m3u8
 #EXTINF:-1 tvg-id="PersianaCinema.fr" tvg-country="FR" tvg-language="Persian" tvg-logo="https://i.imgur.com/hgIro9r.png" group-title="Movies",Persiana Cinema
 https://cinehls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PersianaComedy.fr" tvg-country="FR" tvg-language="Persian" tvg-logo="https://i.imgur.com/DBZ3Pi5.png" group-title="Comedy",Persiana Comedy
@@ -159,8 +141,6 @@ https://ptravelhls.persiana.live/hls/stream.m3u8
 https://turkhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PersianaVibe.fr" tvg-country="FR" tvg-language="Persian" tvg-logo="" group-title="Music",Persiana Vibe
 https://raphls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PuissanceTV.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://pbs.twimg.com/profile_images/1274572654016675842/A6v8Qo_X_400x400.jpg" group-title="General",Puissance TV
-https://event.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8
 #EXTINF:-1 tvg-id="QwestTV.fr" tvg-country="FR" tvg-language="English" tvg-logo="https://i.imgur.com/DjgNNHK.png" group-title="Music",Qwest TV
 https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8
 #EXTINF:-1 tvg-id="QwestTVJazzBeyond.fr" tvg-country="FR" tvg-language="English" tvg-logo="https://i.imgur.com/89yWH5L.png" group-title="Music",Qwest TV Jazz & Beyond
@@ -172,7 +152,9 @@ https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="RMCStory.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/Logo_RMC_Story_2025.png/960px-Logo_RMC_Story_2025.png" group-title="General",RMC Story
 https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fqkqiax1078up/RMC_Story_FR.m3u8
 #EXTINF:-1 tvg-id="RTFrance.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RT-France-logo.svg/960px-RT-France-logo.svg.png" group-title="News",RT France
-https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
+https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
+#EXTINF:-1 tvg-id="ScreamIN.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/tGmKbil.png" group-title="Movies",ScreamIN
+https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8
 #EXTINF:-1 tvg-id="SonyOneBlacklist.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/uJC8rXr.png" group-title="Series",Sony One Blacklist
 https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8
 #EXTINF:-1 tvg-id="SonyOneFavoris.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/RO4AM4b.png" group-title="Movies",Sony One Favoris
@@ -180,7 +162,7 @@ https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="SonyOneHitsAction.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/pXsZEsR.png" group-title="Movies",Sony One Hits Action
 https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8
 #EXTINF:-1 tvg-id="SonyOneHitsComedie.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/8sHuxxS.png" group-title="Movies",Sony One Hits Comedie
-https://d3nvxupr08boay.cloudfront.net/playlist.m3u8
+https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8
 #EXTINF:-1 tvg-id="T18.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_de_la_chaine_T18.svg/500px-Logo_de_la_chaine_T18.svg.png" group-title="General",T18
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
 #EXTINF:-1 tvg-id="TF1.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/QxHt9NC.png" group-title="Entertainment",TF1
@@ -237,14 +219,14 @@ http://27.131.164.187:8080/TV5_Monde/index.m3u8
 https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
 #EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/rPAbMSu.png" group-title="General",TV5Monde Europe
 http://5.180.164.197:8080/TV5MONDE/index.m3u8
-#EXTINF:-1 tvg-id="TV5MondeStyle.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/cwC7Q2V.png" group-title="Lifestyle",TV5Monde Style
-https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
 #EXTINF:-1 tvg-id="TV7Colmar.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/kSdGi43.png" group-title="General",TV7 Colmar
 https://tv7.live-kd.com/live/tv7/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVAlsace.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://academie.kasumay.international/ico/radioalsace.png" group-title="General",TV Alsace
 http://194.163.157.137:8080/hls/radioalsace.m3u8
 #EXTINF:-1 tvg-id="TVMulhouse.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://academie.kasumay.international/ico/radiomulhouse.png" group-title="General",TV Mulhouse
 http://194.163.157.137:8080/hls/radiomulhouse.m3u8
+#EXTINF:-1 tvg-id="ViaMatele.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/XVCV9rj.png" group-title="General",ViaMatele
+https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8
 #EXTINF:-1 tvg-id="viaTelePaese.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/TLZsAKK.png" group-title="General",viaTelePaese
 https://srv.webtvmanager.fr:3970/live/viatelepaeselive.m3u8
 #EXTINF:-1 tvg-id="VosgesTV.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/7y7ancc.png" group-title="General",Vosges TV
