@@ -85,6 +85,8 @@ http://213.91.179.28:8000/play/a063
 http://78.130.149.196:1935/live/pptv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="RING.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="" group-title="Kids",RING
 http://213.91.179.28:8000/play/a06e
+#EXTINF:-1 tvg-id="RMTV.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://rmtv.bg/img/logo.png" group-title="General",RMTV
+https://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8
 #EXTINF:-1 tvg-id="StarChannel.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" group-title="Movies",Star Channel
 http://213.91.179.28:8000/play/a0c9
 #EXTINF:-1 tvg-id="StarCrime.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Star_Crime_2023.svg/960px-Star_Crime_2023.svg.png" group-title="Series",Star Crime
@@ -109,6 +111,8 @@ https://shift03.isp.bg/RodinaTV/index.m3u8
 https://tv.tvsb.bg/112.m3u8
 #EXTINF:-1 tvg-id="TVZagora.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/DvBboqe.png" group-title="General",TV Zagora
 http://zagoratv.ddns.net:8080/tvzagora.m3u8
+#EXTINF:-1 tvg-id="ViasatExplore.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Viasat_Explore_2026.svg" group-title="Documentary",Viasat Explore
+https://shift03.isp.bg/ViasatExplorer_HD/index.m3u8
 #EXTINF:-1 tvg-id="ViasatHistory.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Viasat_History_2026.svg" group-title="Documentary",Viasat History
 https://shift03.isp.bg/ViasatHistory_HD/index.m3u8
 #EXTINF:-1 tvg-id="ViasatNature.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Cropped-viasat-nature.png" group-title="Documentary",Viasat Nature
