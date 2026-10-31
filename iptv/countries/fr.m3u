@@ -13,6 +13,8 @@ https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
 #EXTINF:-1 tvg-id="Africa24English.fr" tvg-country="FR" tvg-language="English" tvg-logo="https://africa24tv.com/wp-content/uploads/2023/12/logo-Africa24TVEnglish.png" group-title="News",Africa 24 English
 https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8
+#EXTINF:-1 tvg-id="Africa24Sport.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i0.wp.com/africa24tv.com/wp-content/uploads/2023/12/LOGO-AFRICASPORT-4-HD-sans-fond.png?fit=512%2C107&ssl=1" group-title="News",Africa 24 Sport
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 #EXTINF:-1 tvg-id="AfricanewsEnglish.fr" tvg-country="FR" tvg-language="English" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/6669892cbac4421ebc533679/images/logo_20231218_175639_70.png" group-title="News",Africanews English
 https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiOTU0NDAyODQtOTU0My00Yzc2LThmZjQtNDRhY2YwYmQxYTYwIiwibWt0IjoicGwiLCJjaCI6NjYwNiwicHRmIjo1fQ==/26036/africanews-en.m3u8
 #EXTINF:-1 tvg-id="AfricanewsFrench.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/5UxU4zc.png" group-title="News",Africanews French
@@ -31,8 +33,6 @@ https://live-cdn-bfmtvlyo-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
 https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
 #EXTINF:-1 tvg-id="BrionnaisTV.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/y94bhqX.jpg" group-title="General",Brionnais TV
 https://stream2.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8
-#EXTINF:-1 tvg-id="Caillou.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/RgKaoe4.png" group-title="General",Caillou
-https://do7nccdsswstc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1aso0bc668saa/a5233c83-f772-4a81-959a-45ec7877ef61/5.m3u8
 #EXTINF:-1 tvg-id="CannesLerinsTV.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/atlgnum.png" group-title="General",Cannes Lerins TV
 https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8
 #EXTINF:-1 tvg-id="CineNanar.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/YnUZd3W.png" group-title="Movies",Cine Nanar
@@ -112,11 +112,11 @@ http://149.62.177.107:9999/LCI/index.m3u8
 #EXTINF:-1 tvg-id="LCP.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/k7UImOJ.png" group-title="Legislative",LCP
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8
 #EXTINF:-1 tvg-id="LeFigaroTVIledeFrance.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/a8RuRUQ.png" group-title="General",Le Figaro TV Ile-de-France
-https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
-#EXTINF:-1 tvg-id="LEquipe.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/t35zhM9.png" group-title="Sports",L'Equipe
-https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8
+https://static.lefigaro.fr/secom/tnt.m3u8
 #EXTINF:-1 tvg-id="LittoralFMTV.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/DCZKAQ1.png" group-title="Music",Littoral FM TV
 https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="M6.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/1280px-Logo_M6_%282020%2C_fond_clair%29.svg.png" group-title="Entertainment",M6
+http://99.27.51.147:8080/M6/index.m3u8
 #EXTINF:-1 tvg-id="MDL.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/REN30bx.png" group-title="General",MDL
 http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MezzoLive.fr" tvg-country="FR" tvg-language="English" tvg-logo="https://i.imgur.com/H9ytKPN.png" group-title="Music",Mezzo Live
@@ -125,8 +125,6 @@ http://stream.mcquack.net/276/index.m3u8
 https://fl718492-exthls-p1.flovp.com/fl718492/live/live.m3u8
 #EXTINF:-1 tvg-id="NOVO19.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Logo_NOVO19_-_2025.svg/960px-Logo_NOVO19_-_2025.svg.png" group-title="General",NOVO19
 http://149.62.177.107:9999/NOVO19/index.m3u8
-#EXTINF:-1 tvg-id="P2MTV.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/TrecSeG.png" group-title="Music",P2M TV
-https://vdo2.pro-fhi.net:3207/stream/play.m3u8
 #EXTINF:-1 tvg-id="PersianaCinema.fr" tvg-country="FR" tvg-language="Persian" tvg-logo="https://i.imgur.com/hgIro9r.png" group-title="Movies",Persiana Cinema
 https://cinehls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PersianaComedy.fr" tvg-country="FR" tvg-language="Persian" tvg-logo="https://i.imgur.com/DBZ3Pi5.png" group-title="Comedy",Persiana Comedy
@@ -159,10 +157,8 @@ https://ptravelhls.persiana.live/hls/stream.m3u8
 https://turkhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PersianaVibe.fr" tvg-country="FR" tvg-language="Persian" tvg-logo="" group-title="Music",Persiana Vibe
 https://raphls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PuissanceTV.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://pbs.twimg.com/profile_images/1274572654016675842/A6v8Qo_X_400x400.jpg" group-title="General",Puissance TV
-https://event.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8
 #EXTINF:-1 tvg-id="QwestTV.fr" tvg-country="FR" tvg-language="English" tvg-logo="https://i.imgur.com/DjgNNHK.png" group-title="Music",Qwest TV
-https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8
+https://amg00447-qwesttv-qwestjazz-cineverse-ve12d.amagi.tv/playlist/amg00447-qwesttv-qwestjazz-cineverse/playlist.m3u8
 #EXTINF:-1 tvg-id="QwestTVJazzBeyond.fr" tvg-country="FR" tvg-language="English" tvg-logo="https://i.imgur.com/89yWH5L.png" group-title="Music",Qwest TV Jazz & Beyond
 https://samsungau-qwestjazz-samsungtv-zw2jc.amagi.tv/playlist/samsungau-qwestjazz-samsungtv/playlist.m3u8
 #EXTINF:-1 tvg-id="RMCDecouverte.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/960px-RMC_D%C3%A9couverte_logo_2017.svg.png" group-title="General",RMC Decouverte
