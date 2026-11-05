@@ -3,6 +3,8 @@
 https://streamcdnr6-dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/playlist.m3u8
 #EXTINF:-1 tvg-id="12TVParma.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/mBYxWOg.png" group-title="General",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="50Canale.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/D3OTRzf.png" group-title="General",50 Canale
+https://load-balancer.azotosolutions.com/cdnedge37/canale50/playlist.m3u8
 #EXTINF:-1 tvg-id="51RadioTV.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://www.51news.it/images/loghi/logo_tv_radio_51news.png" group-title="Music",51 Radio TV
 http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8
 #EXTINF:-1 tvg-id="111TV.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/kVREx1Q.png" group-title="General",111 TV
@@ -109,6 +111,8 @@ https://webstream.multistream.it/memfs/a3195c96-f884-4c74-924f-2648814fc0b5_outp
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/HGTV/CMAF/index.m3u8
 #EXTINF:-1 tvg-id="HorseTV.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/nK4UUX4.png" group-title="Sports",Horse TV
 https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="IcaroTV.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/nWBWzNy.png" group-title="General",Icaro TV
+https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8
 #EXTINF:-1 tvg-id="InterTV.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/FUTqh2L.png" group-title="Sports",Inter TV
 https://d3k8wzt41aflvx.cloudfront.net/INTERTV/Live.m3u8
 #EXTINF:-1 tvg-id="Italia2.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Logo_Italia2.svg/960px-Logo_Italia2.svg.png" group-title="Entertainment",Italia 2
@@ -135,8 +139,6 @@ http://102.129.186.182:81/la7d/index.m3u8
 https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8
 #EXTINF:-1 tvg-id="LaCTV.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/TF4LKp0.png" group-title="General",La C TV
 https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JWjL3xqPf4bX/playlist.m3u8
-#EXTINF:-1 tvg-id="LaltroCorriereTV.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/05YWVCq.png" group-title="News",L'altro Corriere TV
-https://52ee6512fee4427889eba89957975fa0.msvdn.net/live/S24350460/BEj8ZmQiQ9UG/playlist.m3u8
 #EXTINF:-1 tvg-id="LaNuovaTV.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/OHMv86A.png" group-title="General",La Nuova TV
 https://5dcabf026b188.streamlock.net/lanuovatvbas/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="LaTR3Marsala.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/R4sqZQu.png" group-title="General",La TR3 Marsala
@@ -167,8 +169,6 @@ https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8
 http://102.129.186.182:81/nick/index.m3u8
 #EXTINF:-1 tvg-id="Nove.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/rTjIkGO.png" group-title="General",Nove
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/NOVE/CMAF/index.m3u8
-#EXTINF:-1 tvg-id="Odeon24.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/Ho7SdXY.png" group-title="General",Odeon 24
-https://5f11919dca3bd.streamlock.net/odeonjump/_definst_/odeonjump/playlist.m3u8
 #EXTINF:-1 tvg-id="OndaNovaraTV.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/DTxhOhT.png" group-title="General",Onda Novara TV
 https://585b674743bbb.streamlock.net/9006/9006/master.m3u8
 #EXTINF:-1 tvg-id="OndaTV.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/9/99/Ondatv.jpg/512px-Ondatv.jpg" group-title="General",Onda TV
@@ -230,7 +230,7 @@ https://stream2.xdevel.com/video1s3-7/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioZeta.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/K2xLMin.png" group-title="Music",Radio Zeta
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
 #EXTINF:-1 tvg-id="Rai1.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/960px-Rai_1_-_Logo_2016.svg.png" group-title="General",Rai 1
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803
+https://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=2606803
 #EXTINF:-1 tvg-id="Rai2.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/960px-Rai_2_-_Logo_2016.svg.png" group-title="General",Rai 2
 https://d3k8wzt41aflvx.cloudfront.net/RAI2/Live.m3u8
 #EXTINF:-1 tvg-id="Rai3.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/960px-Rai_3_-_Logo_2016.svg.png" group-title="General",Rai 3
@@ -286,13 +286,11 @@ https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
 #EXTINF:-1 tvg-id="SophiaTV.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/RPXusvS.png" group-title="General",Sophia TV
 https://bild-und-ton.stream/sophiatv-it/smil:sophia-tv-it.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Sportitalia.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/0CJGGgd.png" group-title="Sports",Sportitalia
-https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8
+https://edge-001.streamup.eu/sportitalia/sihd_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="SportitaliaSolocalcio.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/hu56Ya5.png" group-title="Sports",Sportitalia Solocalcio
-https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8
+https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="Stereo5TV.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/sCDcYFW.png" group-title="General",Stereo 5 TV
 https://stream1.aswifi.it/stereo5/live/index.m3u8
-#EXTINF:-1 tvg-id="Super.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Super%21_logo_2021.svg/960px-Super%21_logo_2021.svg.png" group-title="Kids",Super!
-https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
 #EXTINF:-1 tvg-id="SuperSix.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/SuperSix_TV_Logo.png" group-title="General",Super Six
 https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
 #EXTINF:-1 tvg-id="SuperTV.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/hxF3yhw.png" group-title="General",Super TV
@@ -323,8 +321,6 @@ https://playerssl.telemia.tv/fileadmin/hls/TelemiaHD/telemia85_mediachunks.m3u8
 https://playerssl.telemia.tv/fileadmin/hls/TelemiaExtra/telemiaextra_mediachunks.m3u8
 #EXTINF:-1 tvg-id="TeleMistretta.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/BLhvyEi.png" group-title="General",TeleMistretta
 https://live.mariatvcdn.com/telemistretta/8fbcd205ada81b295ee6c211c3a80dde.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="Telemolise.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/aTs88Es.png" group-title="General",Telemolise
-http://185.202.128.1:1935/TelemoliseStream/telemoliseTV.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Telenova.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/lo9OiWg.png" group-title="General",Telenova
 https://64b16f23efbee.streamlock.net/telenova/telenova/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleOne16.it" tvg-country="IT" tvg-language="Italian" tvg-logo="" group-title="General",Tele One 16
@@ -355,8 +351,6 @@ https://d3k8wzt41aflvx.cloudfront.net/TGCOM24/Live.m3u8
 https://5f22d76e220e1.streamlock.net/tltmolise/tltmolise/playlist.m3u8
 #EXTINF:-1 tvg-id="TRSport.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/ELXmaqg.png" group-title="Sports",TR Sport
 https://livetr.teleromagna.it/mia/live/playlist.m3u8
-#EXTINF:-1 tvg-id="TV7Benevento.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/VBhVaKB.png" group-title="General",TV7 Benevento
-http://streaming.senecadot.com/live/flv:tv7.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TV8.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6d/TV8_Logo_2016.svg/500px-TV8_Logo_2016.svg.png" group-title="General",TV8
 http://102.129.186.182:81/tv8/index.m3u8
 #EXTINF:-1 tvg-id="tv9Telemaremma.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/3WAyf6H.png" group-title="News",tv9 Telemaremma
