@@ -17,6 +17,8 @@ https://jmp2.uk/plu-622f6e1e2792150007e0b2ff.m3u8
 https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="AltenburgTV.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/3JriZGR.png" group-title="General",Altenburg TV
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/132661/132661_264_live.m3u8
+#EXTINF:-1 tvg-id="ARDalpha.de" tvg-country="DE" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/960px-ARD_alpha.svg.png" group-title="Education",ARD-alpha
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 #EXTINF:-1 tvg-id="arte.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/ecXMjNl.png" group-title="Entertainment",arte
 https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="AuctionHunters.de" tvg-country="DE" tvg-language="German" tvg-logo="https://images.pluto.tv/channels/5ede45d077746000072be0fe/colorLogoSVG.svg" group-title="Entertainment",Auction Hunters
@@ -45,6 +47,8 @@ https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
 https://jmp2.uk/plu-6960c5a906d76f50db2816dc.m3u8
 #EXTINF:-1 tvg-id="CCPlutoTV.de" tvg-country="DE" tvg-language="German" tvg-logo="https://images.pluto.tv/channels/5d4947590ba40f75dc29c26b/colorLogoSVG.svg" group-title="Comedy",CC Pluto TV
 https://jmp2.uk/plu-5d4947590ba40f75dc29c26b.m3u8
+#EXTINF:-1 tvg-id="CineThrillersbyPlutoTV.de" tvg-country="DE" tvg-language="French" tvg-logo="https://images.pluto.tv/channels/60c3472a51a2050008dad272/colorLogoSVG_1751272093061.svg" group-title="Movies",Cine Thrillers by Pluto TV
+https://jmp2.uk/plu-60c3472a51a2050008dad272.m3u8
 #EXTINF:-1 tvg-id="CineWesternbyPlutoTV.de" tvg-country="DE" tvg-language="French" tvg-logo="https://images.pluto.tv/channels/65cca3e2ec452d0008af3a65/colorLogoSVG_1751272826035.svg" group-title="Movies",Cine Western by Pluto TV
 https://jmp2.uk/plu-65cca3e2ec452d0008af3a65.m3u8
 #EXTINF:-1 tvg-id="CiraTV.de" tvg-country="DE" tvg-language="Kurdish" tvg-logo="https://i.imgur.com/YFnmSLW.png" group-title="General",Cira TV
@@ -171,8 +175,6 @@ https://jmp2.uk/plu-5f1aadf373bed3000794d1d7.m3u8
 https://jmp2.uk/plu-63eb9495a8b227000841bf64.m3u8
 #EXTINF:-1 tvg-id="MunchenTV.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/lt7xNWW.png" group-title="General",Munchen TV
 https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="N24Doku.de" tvg-country="DE" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/N24Doku.svg/960px-N24Doku.svg.png" group-title="Documentary",N24 Doku
-https://jmp2.uk/plu-60080e8a4bf36000076a81b1.m3u8
 #EXTINF:-1 tvg-id="Nachrichten360.de" tvg-country="DE" tvg-language="German" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE4300003MR_20251209T125847SQUARE.png" group-title="News",Nachrichten 360
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01821-lovetvfast-nachrichten360-samsungde/playlist.m3u8
 #EXTINF:-1 tvg-id="NDRFernsehen.de" tvg-country="DE" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/960px-Logo_NDR_Fernsehen_2017.svg.png" group-title="General",NDR Fernsehen
@@ -547,10 +549,8 @@ https://dash4.antik.sk/live/test_swr_tizen/playlist.m3u8
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 #EXTINF:-1 tvg-id="TakeshisCastle.de" tvg-country="DE" tvg-language="German" tvg-logo="https://images.pluto.tv/channels/6054a9f4bc8a5f000771504c/colorLogoSVG.svg" group-title="Comedy",Takeshi's Castle
 https://jmp2.uk/plu-6054a9f4bc8a5f000771504c.m3u8
-#EXTINF:-1 tvg-id="TeenageMutantNinjaTurtles.de" tvg-country="DE" tvg-language="Italian" tvg-logo="https://images.pluto.tv/channels/62619405c733e8000732d1fe/colorLogoSVG.svg" group-title="Animation",Teenage Mutant Ninja Turtles
-https://jmp2.uk/plu-62619405c733e8000732d1fe.m3u8
 #EXTINF:-1 tvg-id="TeenMom.de" tvg-country="DE" tvg-language="Italian" tvg-logo="https://images.pluto.tv/channels/62e7fc8c0d061100083946a9/colorLogoSVG.svg" group-title="Entertainment",Teen Mom
-https://jmp2.uk/plu-62f3f05505e621000783df2f.m3u8
+https://jmp2.uk/plu-62e7fc8c0d061100083946a9.m3u8
 #EXTINF:-1 tvg-id="TELE5.de" tvg-country="DE" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tele_5_Logo_2021.svg/500px-Tele_5_Logo_2021.svg.png" group-title="General",TELE 5
 https://s6.hopslan.com/tele5X/index.m3u8
 #EXTINF:-1 tvg-id="teltOwkanal.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/G0cImlU.png" group-title="General",teltOwkanal
@@ -563,8 +563,6 @@ https://jmp2.uk/plu-68d2759a59fd82da3226492d.m3u8
 https://jmp2.uk/plu-5e393d5c696b3b0009775c8b.m3u8
 #EXTINF:-1 tvg-id="TLC.de" tvg-country="DE" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png" group-title="Lifestyle",TLC
 https://s6.hopslan.com/tlcX/index.m3u8
-#EXTINF:-1 tvg-id="TortuesNinjaTV.de" tvg-country="DE" tvg-language="French" tvg-logo="https://images.pluto.tv/channels/5f8ecc1b37867f00071469e9/colorLogoSVG.svg" group-title="Kids",Tortues Ninja TV
-https://jmp2.uk/plu-5f8ecc1b37867f00071469e9.m3u8
 #EXTINF:-1 tvg-id="TotallyTurtles.de" tvg-country="DE" tvg-language="German" tvg-logo="https://images.pluto.tv/channels/5d6792bd6be2998ad0ccce30/colorLogoSVG.svg" group-title="Kids",Totally Turtles
 https://jmp2.uk/plu-5d6792bd6be2998ad0ccce30.m3u8
 #EXTINF:-1 tvg-id="ToutlemondedetesteChris.de" tvg-country="DE" tvg-language="French" tvg-logo="https://images.pluto.tv/channels/67b4b4a21a5ca760802d25fd/colorLogoSVG_1747394750165.svg" group-title="Series",Tout le monde deteste Chris
@@ -588,7 +586,7 @@ https://dash4.antik.sk/live/test_vox_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="WDR1Live.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/RbqDMYx.png" group-title="Entertainment",WDR 1 Live
 https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master.m3u8
 #EXTINF:-1 tvg-id="WDRFernsehen.de" tvg-country="DE" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/WDR_Fernsehen_Logo_2018.svg/960px-WDR_Fernsehen_Logo_2018.svg.png" group-title="General",WDR Fernsehen
-https://wdrlokalzeit.akamaized.net/hls/live/2018019-b/wdrlz_aachen/master.m3u8
+https://wdrlokalzeit.akamaized.net/hls/live/2018026-b/wdrlz_bielefeld/master.m3u8
 #EXTINF:-1 tvg-id="WELT.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/s4TZoxx.png" group-title="News",WELT
 https://dash4.antik.sk/live/test_welt_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="WeltderWunderTV.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/DLXssJe.png" group-title="General",Welt der Wunder TV
