@@ -28,7 +28,7 @@ https://stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="GoTraveler.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/IaRcN1G.png" group-title="Travel",GoTraveler
 https://amg09501-amg09501c1-klowdtv-us-2398.playouts.now.amagi.tv/playlist/amg09501-quester-gotraveler-klowdtvus/playlist.m3u8
 #EXTINF:-1 tvg-id="GuangxiVarietyTravelChannel.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://www.tvchinese.net/uploads/tv/gxzypd.jpg" group-title="General",Guangxi Variety & Travel Channel
-http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?authid=0&key=txiptv&playlive=1
 #EXTINF:-1 tvg-id="INTRAVEL.nl" tvg-country="NL" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Intravel.png" group-title="Travel",INTRAVEL
 https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Journy.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/1JNrLxq.png" group-title="Travel",Journy
@@ -69,8 +69,6 @@ http://170.83.49.66:8083/TRAVELBOXHD/index.m3u8
 http://92.114.85.87:8011/play/a00d/index.m3u8
 #EXTINF:-1 tvg-id="TravelMix.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/4dMeEQO.png" group-title="Travel",Travel Mix
 https://hls02ns.antenaplay.ro/hls/travel-mix-hd/index.m3u8
-#EXTINF:-1 tvg-id="TravelPlusAdventure.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/AlpdXC4.png" group-title="Travel",Travel+Adventure
-http://stream.mcquack.net/206/index.m3u8
 #EXTINF:-1 tvg-id="TravelTV.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/5xllfed.png" group-title="Travel",Travel TV
 https://streamer103.neterra.tv/travel/live.m3u8
 #EXTINF:-1 tvg-id="Travelxp.in" tvg-country="IN" tvg-language="English" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png" group-title="Travel",Travelxp
@@ -87,3 +85,5 @@ http://200.189.113.201/hls/tve.m3u8
 https://rpn.bozztv.com/gusa/gusa-tvstravel/index.m3u8
 #EXTINF:-1 tvg-id="Vkus.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://www.cableman.ru/sites/default/files/logo%20%287%29%20%281%29.png" group-title="Travel",Vkus
 http://178.134.1.158:8081/vkus/index.m3u8
+#EXTINF:-1 tvg-id="VoyagesSaveurs.es" tvg-country="ES" tvg-language="French" tvg-logo="https://images.pluto.tv/channels/680291e38e1ff89c2427aefd/colorLogoPNG_1749650211442.png" group-title="Travel",Voyages & Saveurs
+https://jmp2.uk/plu-680291e38e1ff89c2427aefd.m3u8

@@ -45,16 +45,6 @@ https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
 https://jmp2.uk/plu-6960c5a906d76f50db2816dc.m3u8
 #EXTINF:-1 tvg-id="CCPlutoTV.de" tvg-country="DE" tvg-language="German" tvg-logo="https://images.pluto.tv/channels/5d4947590ba40f75dc29c26b/colorLogoSVG.svg" group-title="Comedy",CC Pluto TV
 https://jmp2.uk/plu-5d4947590ba40f75dc29c26b.m3u8
-#EXTINF:-1 tvg-id="CinedAsiebyPlutoTV.de" tvg-country="DE" tvg-language="French" tvg-logo="https://images.pluto.tv/channels/62f3e2d000418d00070f7dbc/colorLogoSVG_1751272759741.svg" group-title="Movies",Cine d'Asie by Pluto TV
-https://jmp2.uk/plu-62f3e2d000418d00070f7dbc.m3u8
-#EXTINF:-1 tvg-id="CineRetrobyPlutoTV.de" tvg-country="DE" tvg-language="French" tvg-logo="https://images.pluto.tv/channels/5f8ed168f72fcd0007e56269/colorLogoSVG_1751272859596.svg" group-title="Movies",Cine Retro by Pluto TV
-https://jmp2.uk/plu-5f8ed168f72fcd0007e56269.m3u8
-#EXTINF:-1 tvg-id="CineRomancebyPlutoTV.de" tvg-country="DE" tvg-language="French" tvg-logo="https://images.pluto.tv/channels/60812fc8539963000707d1e1/colorLogoSVG_1775048649579.svg" group-title="Movies",Cine Romance by Pluto TV
-https://jmp2.uk/plu-60812fc8539963000707d1e1.m3u8
-#EXTINF:-1 tvg-id="CineSciFibyPlutoTV.de" tvg-country="DE" tvg-language="French" tvg-logo="https://images.pluto.tv/channels/60c34592c911890007f29a73/colorLogoSVG.svg" group-title="Movies",Cine Sci-Fi by Pluto TV
-https://jmp2.uk/plu-60c34592c911890007f29a73.m3u8
-#EXTINF:-1 tvg-id="CineThrillersbyPlutoTV.de" tvg-country="DE" tvg-language="French" tvg-logo="https://images.pluto.tv/channels/60c3472a51a2050008dad272/colorLogoSVG_1751272093061.svg" group-title="Movies",Cine Thrillers by Pluto TV
-https://jmp2.uk/plu-60c3472a51a2050008dad272.m3u8
 #EXTINF:-1 tvg-id="CineWesternbyPlutoTV.de" tvg-country="DE" tvg-language="French" tvg-logo="https://images.pluto.tv/channels/65cca3e2ec452d0008af3a65/colorLogoSVG_1751272826035.svg" group-title="Movies",Cine Western by Pluto TV
 https://jmp2.uk/plu-65cca3e2ec452d0008af3a65.m3u8
 #EXTINF:-1 tvg-id="CiraTV.de" tvg-country="DE" tvg-language="Kurdish" tvg-logo="https://i.imgur.com/YFnmSLW.png" group-title="General",Cira TV
@@ -100,7 +90,7 @@ https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_all/playlist.
 #EXTINF:-1 tvg-id="ErzTVStollberg.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/6FHl9B1.png" group-title="General",Erz-TV Stollberg
 https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTN.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/NXeygNk.png" group-title="Religious",EWTN
-https://dash3.antik.sk/live/test_ewtn_tizen/playlist.m3u8
+https://cdn3.wowza.com/1/ZUkxSDBrZHlMbjVn/ZkhNRFNZ/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Filstalwelle.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/19iKLvf.png" group-title="General",Filstalwelle
 https://h055.video-stream-hosting.de/filstalwelle-live/_definst_/mp4:livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="FolxMusicTelevision.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/ze04puX.png" group-title="Music",Folx Music Television
@@ -145,8 +135,12 @@ https://elephant.t62a.com/hls/8103/index.m3u8
 https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="KulturMD.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/io7cJ1Z.png" group-title="Culture",KulturMD
 http://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8
+#EXTINF:-1 tvg-id="labor14.de" tvg-country="DE" tvg-language="German" tvg-logo="https://www.tlm.de/assets/uploads/general/Sonstiges/LogoExt/_500xAUTO_crop_center-center_none/21labor14.jpg" group-title="General",labor14
+https://5acade5fc0c29.streamlock.net/OKGera/tmbz_live_high.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Lausitzwelle.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/4kYF4bK.png" group-title="Music",Lausitzwelle
 https://h056.video-stream-hosting.de/easycast11-live/_definst_/mp4:livestreamhd2/playlist.m3u8?ref=
+#EXTINF:-1 tvg-id="LightChannel.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/0OmBlfE.png" group-title="Religious",Light Channel
+http://streamer1.streamhost.org:1935/salive/lctvde/playlist.m3u8
 #EXTINF:-1 tvg-id="McLeodsTochter.de" tvg-country="DE" tvg-language="German" tvg-logo="https://images.pluto.tv/channels/66c6fcfc6838ee00085beb1a/colorLogoSVG.svg" group-title="Series",McLeods Tochter
 https://jmp2.uk/plu-66c6fcfc6838ee00085beb1a.m3u8
 #EXTINF:-1 tvg-id="MCTV.de" tvg-country="DE" tvg-language="Turkish" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/c/ca/MC_TV_logosu.png" group-title="Entertainment",MC TV
@@ -198,7 +192,7 @@ https://stream03.welocal.stream/stream/sat-nby/ngrp:sat-nby.stream_all/index.m3u
 #EXTINF:-1 tvg-id="NiederbayernTVDeggendorfStraubing.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/mAaIh3C.png" group-title="General",Niederbayern TV Deggendorf & Straubing
 https://stream03.welocal.stream/stream/fhd-nbydeggendorf_99148/ngrp:stream_all/index.m3u8
 #EXTINF:-1 tvg-id="NiederbayernTVLandshut.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/5sHzZAh.png" group-title="General",Niederbayern TV Landshut
-https://isar-tv.iptv-playoutcenter.de/isar-tv/isar-tv.stream_1/playlist.m3u8
+https://stream03.welocal.stream/stream/fhd-nbylandshut_75262/ngrp:stream_all/index.m3u8
 #EXTINF:-1 tvg-id="NiederbayernTVPassau.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/0wnFhNi.png" group-title="General",Niederbayern TV Passau
 https://stream03.welocal.stream/stream/fhd-nbypassau_49171/ngrp:stream_all/index.m3u8
 #EXTINF:-1 tvg-id="Nitro.de" tvg-country="DE" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Nitro_Logo.svg/960px-Nitro_Logo.svg.png" group-title="Entertainment",Nitro
@@ -226,13 +220,15 @@ http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-merseburg_high/playlist.m3
 #EXTINF:-1 tvg-id="OKSalzwedel.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/jDmiTOS.png" group-title="General",OK Salzwedel
 http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-salzwedel_high/playlist.m3u8
 #EXTINF:-1 tvg-id="OKStendal.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/s9wo85l.png" group-title="General",OK Stendal
-http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-stendal_high/playlist.m3u8
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-stendal_high/playlist.m3u8
 #EXTINF:-1 tvg-id="OKWernigerode.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/3gQvhSy.png" group-title="General",OK Wernigerode
 http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-wernigerode_high/playlist.m3u8
 #EXTINF:-1 tvg-id="OneAdria.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/NYkMamU.png" group-title="Music",One Adria
 https://oneadriaapp.b-cdn.net/1080p/index.m3u8
 #EXTINF:-1 tvg-id="OneMusicTelevision.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/dLgoKJ0.png" group-title="Music",One Music Television
 https://oneapp.b-cdn.net/1080p/index.m3u8
+#EXTINF:-1 tvg-id="OstWest24.de" tvg-country="DE" tvg-language="Russian" tvg-logo="https://i.imgur.com/voeQ6x1.png" group-title="Culture",Ost West 24
+http://stream.mcquack.net/455/index.m3u8
 #EXTINF:-1 tvg-id="Parlamentsfernsehen1.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/mksEgwx.png" group-title="Legislative",Parlamentsfernsehen 1
 https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8
 #EXTINF:-1 tvg-id="PlutoTV90sClassics.de" tvg-country="DE" tvg-language="French" tvg-logo="https://images.pluto.tv/channels/66b4990746762a00084c2f78/colorLogoSVG.svg" group-title="Movies",Pluto TV 90's Classics
@@ -472,25 +468,39 @@ https://jmp2.uk/plu-5f8eb8a8b2619a000710605c.m3u8
 #EXTINF:-1 tvg-id="RockAntenne.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/nvFXRjH.png" group-title="General",Rock Antenne
 https://stream.rockantenne.de/rockantenne/stream/mp3
 #EXTINF:-1 tvg-id="RTDE.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/v1PIbB2.png" group-title="News",RT DE
-https://rt-ger.rttv.com/live/rtdeutsch/playlist.m3u8
+https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
 #EXTINF:-1 tvg-id="RTL.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/94K94k2.png" group-title="General",RTL
 https://dash4.antik.sk/live/test_rtl_ger_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="RTLSuper.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/KbdK8t9.png" group-title="General",RTL Super
 https://s6.hopslan.com/superX/index.m3u8
 #EXTINF:-1 tvg-id="RTLZwei.de" tvg-country="DE" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/960px-RTLZWEI_Logo_2019.svg.png" group-title="General",RTL Zwei
 https://s6.hopslan.com/rtl2q/index.m3u8
+#EXTINF:-1 tvg-id="Rugrats.de" tvg-country="DE" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/610c09219fc0430007a3fce6/colorLogoSVG-1632239853368.svg" group-title="Kids",Rugrats
+https://jmp2.uk/plu-610c09219fc0430007a3fce6.m3u8
 #EXTINF:-1 tvg-id="SaarlandFernsehen1.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/OodehFV.png" group-title="General",Saarland Fernsehen 1
 https://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-id="SaarlandFernsehen2.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/Yv7j4ia.png" group-title="General",Saarland Fernsehen 2
 https://saarland2.iptv-playoutcenter.de/saarland2/saarland2.stream_2/playlist.m3u8
+#EXTINF:-1 tvg-id="SabrinaTheTeenageWitch.de" tvg-country="DE" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/66276091cee0d900085fe053/colorLogoSVG.svg" group-title="Comedy",Sabrina The Teenage Witch
+https://jmp2.uk/plu-66276091cee0d900085fe053.m3u8
+#EXTINF:-1 tvg-id="SabrinaTotalverhext.de" tvg-country="DE" tvg-language="German" tvg-logo="https://images.pluto.tv/channels/622f40c901d4b70007ad7609/colorLogoSVG.svg" group-title="Comedy",Sabrina: Total verhext!
+https://jmp2.uk/plu-622f40c901d4b70007ad7609.m3u8
 #EXTINF:-1 tvg-id="SachsenEins.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/2EXNdd8.png" group-title="General",Sachsen Eins
 https://sachsen1.iptv-playoutcenter.de/sachsen1/sachsen1.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="SachsenFernsehenChemnitz.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/4SEAbVf.png" group-title="General",Sachsen Fernsehen Chemnitz
+https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="SachsenFernsehenDresden.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/rnvprGj.png" group-title="General",Sachsen Fernsehen Dresden
+https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="SachsenFernsehenLeipzig.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/easmJUw.png" group-title="General",Sachsen Fernsehen Leipzig
+https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-id="SAT1Gold.de" tvg-country="DE" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Sat.1_Gold_Logo_2019.svg/960px-Sat.1_Gold_Logo_2019.svg.png" group-title="General",SAT.1 Gold
 https://dash4.antik.sk/live/test_sat_eins_gold_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="Seenluft24.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/3TgBg9v.jpg" group-title="General",Seenluft24
 https://h056.video-stream-hosting.de/easycast7-live/_definst_/mp4:livestreamhd20/playlist.m3u8?ref=
 #EXTINF:-1 tvg-id="SenderNeuJerusalem.de" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="General",Sender Neu Jerusalem
 https://bild-und-ton.stream/snj-de/snj-de.smil/.m3u8
+#EXTINF:-1 tvg-id="SensaCineTVxPluto.de" tvg-country="DE" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/676e7b4a4bd636000819c6a7/colorLogoSVG_1748957676055.svg" group-title="Movies",SensaCine TV x Pluto
+https://jmp2.uk/plu-676e7b4a4bd636000819c6a7.m3u8
 #EXTINF:-1 tvg-id="SeriesbyPlutoTV.de" tvg-country="DE" tvg-language="French" tvg-logo="https://images.pluto.tv/channels/5f8ed2d1c34c2300073bf02c/colorLogoSVG_1775048963457.svg" group-title="Series",Series by Pluto TV
 https://jmp2.uk/plu-5f8ed2d1c34c2300073bf02c.m3u8
 #EXTINF:-1 tvg-id="sixx.de" tvg-country="DE" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sixx_Logo.svg/960px-Sixx_Logo.svg.png" group-title="General",sixx
@@ -535,10 +545,12 @@ https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8
 https://dash4.antik.sk/live/test_swr_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="tagesschau24.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/LH0Gctv.png" group-title="General",tagesschau24
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+#EXTINF:-1 tvg-id="TakeshisCastle.de" tvg-country="DE" tvg-language="German" tvg-logo="https://images.pluto.tv/channels/6054a9f4bc8a5f000771504c/colorLogoSVG.svg" group-title="Comedy",Takeshi's Castle
+https://jmp2.uk/plu-6054a9f4bc8a5f000771504c.m3u8
 #EXTINF:-1 tvg-id="TeenageMutantNinjaTurtles.de" tvg-country="DE" tvg-language="Italian" tvg-logo="https://images.pluto.tv/channels/62619405c733e8000732d1fe/colorLogoSVG.svg" group-title="Animation",Teenage Mutant Ninja Turtles
 https://jmp2.uk/plu-62619405c733e8000732d1fe.m3u8
 #EXTINF:-1 tvg-id="TeenMom.de" tvg-country="DE" tvg-language="Italian" tvg-logo="https://images.pluto.tv/channels/62e7fc8c0d061100083946a9/colorLogoSVG.svg" group-title="Entertainment",Teen Mom
-https://jmp2.uk/plu-62d550d81054990007db7798.m3u8
+https://jmp2.uk/plu-62f3f05505e621000783df2f.m3u8
 #EXTINF:-1 tvg-id="TELE5.de" tvg-country="DE" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tele_5_Logo_2021.svg/500px-Tele_5_Logo_2021.svg.png" group-title="General",TELE 5
 https://s6.hopslan.com/tele5X/index.m3u8
 #EXTINF:-1 tvg-id="teltOwkanal.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/G0cImlU.png" group-title="General",teltOwkanal
@@ -565,8 +577,6 @@ https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist
 https://rtmp.radiobozsike.com/hls/stream1.m3u8
 #EXTINF:-1 tvg-id="TVIngolstadt.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/Ymh11VV.png" group-title="General",TV Ingolstadt
 https://stream01.welocal.stream/stream/fhd-tvingolstadt_44349/ngrp:stream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="TVMainfranken.de" tvg-country="DE" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvmainfranken.png" group-title="General",TV Mainfranken
-https://tvtouringw.iptv-playoutcenter.de/tvtouringw/tvtouringw.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-id="TVOberfranken.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/tjD9fX2.png" group-title="General",TV Oberfranken
 https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-id="TVRUS.de" tvg-country="DE" tvg-language="Russian" tvg-logo="https://i.imgur.com/2mJKi7g.png" group-title="General",TVRUS
@@ -578,7 +588,7 @@ https://dash4.antik.sk/live/test_vox_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="WDR1Live.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/RbqDMYx.png" group-title="Entertainment",WDR 1 Live
 https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master.m3u8
 #EXTINF:-1 tvg-id="WDRFernsehen.de" tvg-country="DE" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/WDR_Fernsehen_Logo_2018.svg/960px-WDR_Fernsehen_Logo_2018.svg.png" group-title="General",WDR Fernsehen
-https://wdrlokalzeit.akamaized.net/hls/live/2018026-b/wdrlz_bielefeld/master.m3u8
+https://wdrlokalzeit.akamaized.net/hls/live/2018019-b/wdrlz_aachen/master.m3u8
 #EXTINF:-1 tvg-id="WELT.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/s4TZoxx.png" group-title="News",WELT
 https://dash4.antik.sk/live/test_welt_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="WeltderWunderTV.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/DLXssJe.png" group-title="General",Welt der Wunder TV
