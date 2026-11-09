@@ -30,15 +30,19 @@ https://xykt-fix.github.io/channel/ottliv-038/index.m3u8
 #EXTINF:-1 tvg-id="MalchinTV.mn" tvg-country="MN" tvg-language="Mongolian" tvg-logo="https://www.mongolsat.mn/assets/img/channel/12.png" group-title="Culture",Malchin TV
 https://cdn4.skygo.mn/live/disk1/Malchin/DASH-FTA/Malchin.mpd
 #EXTINF:-1 tvg-id="MNB.mn" tvg-country="MN" tvg-language="Mongolian" tvg-logo="https://i.imgur.com/RdRd0to.png" group-title="General",MNB
-https://cdn4.skygo.mn/live/disk1/MNB/HLSv3-FTA/MNB.m3u8
+https://live.mnb.mn/hls/mnb.stream.m3u8
 #EXTINF:-1 tvg-id="MNBMongoliinMedee.mn" tvg-country="MN" tvg-language="Mongolian" tvg-logo="https://www.mongolsat.mn/assets/img/channel/21.png" group-title="General",MNB Mongoliin Medee
-https://cdn4.skygo.mn/live/disk1/MNB2/HLSv3-FTA/MNB2.m3u8
+https://live.mnb.mn/hls/mn2.stream.m3u8
 #EXTINF:-1 tvg-id="MNBSport.mn" tvg-country="MN" tvg-language="Mongolian" tvg-logo="https://i.imgur.com/z854PC3.png" group-title="Sports",MNB Sport
-https://cdn4.skygo.mn/live/disk1/MNBSport/HLSv3-FTA/MNBSport.m3u8
+https://live.mnb.mn/hls/mnb_sport.stream.m3u8
 #EXTINF:-1 tvg-id="MNBWorld.mn" tvg-country="MN" tvg-language="English" tvg-logo="https://www.mongolsat.mn/assets/img/channel/22.png" group-title="General",MNB World
-https://cdn4.skygo.mn/live/disk1/MNB_World/HLSv3-FTA/MNB_World.m3u8
+https://live.mnb.mn/hls/mnb_world.stream.m3u8
+#EXTINF:-1 tvg-id="MNPlus.mn" tvg-country="MN" tvg-language="Mongolian" tvg-logo="https://new.skytel.mn/uploads/channel/mn-676145a957d06.jpeg" group-title="Movies",MN+
+https://cdn4.skygo.mn/live/disk1/MNplus91/HLSv3-FTA/MNplus91.m3u8
+#EXTINF:-1 tvg-id="MongolianNewsChannel.mn" tvg-country="MN" tvg-language="Mongolian" tvg-logo="https://www.mongolsat.mn/assets/img/channel/25.png" group-title="News",Mongolian News Channel
+https://cdn4.skygo.mn/live/disk1/MNCTV/DASH-FTA/MNCTV.mpd
 #EXTINF:-1 tvg-id="MovieBox.mn" tvg-country="MN" tvg-language="Mongolian" tvg-logo="https://www.mongolsat.mn/assets/img/channel/909.png" group-title="Movies",MovieBox
-https://cdn4.skygo.mn/live/disk1/Moviebox/HLSv3-FTA/Moviebox.m3u8
+https://cdn4.skygo.mn/live/disk1/Moviebox/DASH-FTA/Moviebox.mpd
 #EXTINF:-1 tvg-id="NTV.mn" tvg-country="MN" tvg-language="Mongolian" tvg-logo="https://www.mongolsat.mn/assets/img/channel/10.png" group-title="General",NTV
 https://xykt-fix.github.io/channel/ottliv-036/index.m3u8
 #EXTINF:-1 tvg-id="ONTV.mn" tvg-country="MN" tvg-language="Mongolian" tvg-logo="https://i.imgur.com/EzODUBO.png" group-title="General",ONTV
@@ -49,6 +53,8 @@ https://cdn4.skygo.mn/live/disk1/Parlament/DASH-FTA/Parlament.mpd
 https://cdn4.skygo.mn/live/disk1/SBN/DASH-FTA/SBN.mpd
 #EXTINF:-1 tvg-id="SoyonGegeeruulegchTV.mn" tvg-country="MN" tvg-language="Mongolian" tvg-logo="https://i.imgur.com/iBZVvtW.png" group-title="General",Soyon Gegeeruulegch TV
 https://cdn4.skygo.mn/live/disk1/SoyonGegeeruulegch/DASH-FTA/SoyonGegeeruulegch.mpd
+#EXTINF:-1 tvg-id="StarTV.mn" tvg-country="MN" tvg-language="Mongolian" tvg-logo="https://www.mongolsat.mn/assets/img/channel/15.png" group-title="General",Star TV
+https://cdn4.skygo.mn/live/disk1/Star/DASH-FTA/Star.mpd
 #EXTINF:-1 tvg-id="SuldTV.mn" tvg-country="MN" tvg-language="Mongolian" tvg-logo="https://www.mongolsat.mn/assets/img/channel/20.png" group-title="General",Suld TV
 https://cdn4.skygo.mn/live/disk1/SuldTV/DASH-FTA/SuldTV.mpd
 #EXTINF:-1 tvg-id="TenGerTV.mn" tvg-country="MN" tvg-language="Mongolian" tvg-logo="https://www.mongolsat.mn/assets/img/channel/17.png" group-title="General",TenGer TV
