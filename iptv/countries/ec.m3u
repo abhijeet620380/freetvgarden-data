@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AmericaEstereoGuayaquil.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/gUqKymM.png" group-title="General",America Estereo Guayaquil
-https://video.makrodigital.com/americaestereoguayaquil/americaestereoguayaquil/playlist.m3u8
 #EXTINF:-1 tvg-id="AmericaEstereoIbarra.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/gUqKymM.png" group-title="General",America Estereo Ibarra
 https://video.makrodigital.com/americaestereoibarra/americaestereoibarra/playlist.m3u8
 #EXTINF:-1 tvg-id="AmericaEstereoQuito.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/gUqKymM.png" group-title="General",America Estereo Quito
@@ -73,6 +71,8 @@ http://190.107.232.9:8082/livestream/stream.m3u8
 https://cloud37.ecuatel.com/monumentaltv/live/manifest.m3u8
 #EXTINF:-1 tvg-id="RedTVEVentanas.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Pzf2ZAW.png" group-title="General",Red TVE Ventanas
 https://s2.tvdatta.com:3825/live/redtvelive.m3u8
+#EXTINF:-1 tvg-id="RTRTV.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/dvP2yqB.png" group-title="General",RTRTV
+https://tv3ecuador.site/hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="RTS.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/PML8cJA.png" group-title="General",RTS
 http://45.224.97.181:9999/RTS/index.m3u8
 #EXTINF:-1 tvg-id="RTU.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/1OWvMP4.png" group-title="News",RTU
@@ -99,6 +99,8 @@ https://streamingav.asambleanacional.gob.ec/hls/stream.m3u8
 http://45.187.0.19:9090/tvusa/index.m3u8
 #EXTINF:-1 tvg-id="TVUniversalEcuador.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/TIsk5zN.png" group-title="Religious",TV Universal Ecuador
 https://cdn.mycloudstream.io/hls/live/broadcast/uwcedjt2/index.m3u8
+#EXTINF:-1 tvg-id="UNIANDESTV.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/1rluyB7.png" group-title="Education",UNIANDES TV
+https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8
 #EXTINF:-1 tvg-id="UnsionTV.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/HQGBqGU.png" group-title="General",Unsion TV
 http://provedores.unsion.tv:8081/srt/1/playlist.m3u8
 #EXTINF:-1 tvg-id="VosyTV.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/294FDCB.png" group-title="Music",Vos y TV

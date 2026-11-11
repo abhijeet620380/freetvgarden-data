@@ -49,14 +49,14 @@ https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
 https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal3Pinamar.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/IABFaH1.png" group-title="General",Canal 3 Pinamar
 http://intelincloud01.com.ar/hls/cn3/index.m3u8
+#EXTINF:-1 tvg-id="Canal3Tacural.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/RKvSa52.jpeg" group-title="General",Canal 3 Tacural
+http://vivo.canal3tacural.com.ar:8081/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Canal4Esquel.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/6kbOr16.png" group-title="General",Canal 4 Esquel
 https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal4Jujuy.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/qB6I274.png" group-title="General",Canal 4 Jujuy
 https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal4Posadas.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/tElJr3e.png" group-title="General",Canal 4 Posadas
 http://190.128.214.97:64333/play/a06l/index.m3u8
-#EXTINF:-1 tvg-id="Canal4SanJuan.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/MsCnwRA.png" group-title="General",Canal 4 San Juan
-https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal4Teleaire.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/XyiNvbY.png" group-title="General",Canal 4 Teleaire
 https://stmvideo6.livecastv.com/canal4/canal4/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal4VillaDolores.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ZKSnGfw.png" group-title="General",Canal 4 Villa Dolores
@@ -117,6 +117,8 @@ https://vivo.solumedia.com:19360/cardinal/cardinal.m3u8
 https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalProvincial.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/bXHHtcb.png" group-title="General",Canal Provincial
 https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8
+#EXTINF:-1 tvg-id="CanalPulpoTV.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://new.opencaster.com/uploads/logos/logo_306_1756336707.png" group-title="Entertainment",Canal Pulpo TV
+https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8
 #EXTINF:-1 tvg-id="CanalSantaMaria.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://www.canalsantamaria.com.ar/images/santamaria_logo.jpg" group-title="Religious",Canal Santa Maria
 https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8
 #EXTINF:-1 tvg-id="CanalShowsport.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/0L9tW3Z.png" group-title="Sports",Canal Showsport
@@ -255,8 +257,6 @@ http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 http://200.115.120.1:8000/play/ca016/index.m3u8
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/960px-Telemax_Argentina_%282018%29.png" group-title="General",Telemax
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
-#EXTINF:-1 tvg-id="TelePosadas.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/sfUBb7I.jpeg" group-title="General",Tele Posadas
-https://iptv.ixfo.com.ar:30443/live/TelePosadasTv/playlist.m3u8
 #EXTINF:-1 tvg-id="TIVTelevision.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/gsgXGEj.png" group-title="General",TIV Television
 https://videohd.live:19360/8008/8008.m3u8
 #EXTINF:-1 tvg-id="TN.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/vFwPhPS.png" group-title="News",TN
