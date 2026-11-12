@@ -47,8 +47,6 @@ https://atomic.streamnet.ro/atomictv.m3u8
 https://hls02ns.antenaplay.ro/hls/b1-tv-hd/index.m3u8
 #EXTINF:-1 tvg-id="BanatTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/yVsocid.png" group-title="General",Banat TV
 https://www.btv.ro/hls/banat-tv.m3u8
-#EXTINF:-1 tvg-id="BihorTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/Bihortvlogo.png/revision/latest/scale-to-width-down/1000?cb=20241223065621" group-title="General",Bihor TV
-https://bihor-tv.ro/hls/bihortv.m3u8
 #EXTINF:-1 tvg-id="BollywoodClassic.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/ugPo6ca.png" group-title="Movies",Bollywood Classic
 https://hls02ns.antenaplay.ro/hls/bollywood-sd/index.m3u8
 #EXTINF:-1 tvg-id="BollywoodHD.ro" tvg-country="RO" tvg-language="Hindi" tvg-logo="https://i.imgur.com/scDKOLS.png" group-title="Movies",Bollywood HD
@@ -61,6 +59,8 @@ https://www.bucovinatv.ro/proxy/video/playlist.m3u8
 https://live77cdn2.antenaplay.ro/live2_fast/ch5/stream.m3u8
 #EXTINF:-1 tvg-id="Chefiro.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/Chefi.ro_2026.png" group-title="Cooking",Chefi.ro
 https://live77cdn2.antenaplay.ro/live2_aws4_sdi13/live2_aws4_sdi13_5000k.m3u8
+#EXTINF:-1 tvg-id="CineWow.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://cdn.gamma.app/tfnglu66dwji8hw/d36b2d5c45a544749b3739d46fb119cc/original/CineWow.png" group-title="Movies",CineWow
+https://hls01ns.antenaplay.ro/hls/cinewow-sd/index.m3u8
 #EXTINF:-1 tvg-id="ColumnaTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/C5dIgsc.png" group-title="General",Columna TV
 https://cdn.streamnet.pro/columnatv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ComedyPlay.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/6kAeVOk.png" group-title="Comedy",Comedy Play
@@ -115,8 +115,6 @@ https://live.intermediatv.ro/ram/playlist.m3u8
 https://live77cdn2.antenaplay.ro/live2_fast/ch3/stream.m3u8
 #EXTINF:-1 tvg-id="iUmor.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://assets.antenaplay.ro/2026/05/07/pB32HtJzC1i0xlH75Rb0.png" group-title="Comedy",iUmor
 https://live77cdn2.antenaplay.ro/live2_fast/ch2/stream.m3u8
-#EXTINF:-1 tvg-id="JOBTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/UzcZNe3.png" group-title="Business",JOB TV
-https://jobtvserver.eu/hls/stream.m3u8
 #EXTINF:-1 tvg-id="KanalD2.ro" tvg-country="RO" tvg-language="Romany" tvg-logo="https://i.imgur.com/0SMSIm9.png" group-title="General",Kanal D2
 https://stream2.kanald.ro/iphone/knd2-live.m3u8
 #EXTINF:-1 tvg-id="KanalD.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/15ILp0P.png" group-title="General",Kanal D
@@ -140,7 +138,7 @@ https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
 #EXTINF:-1 tvg-id="MireasaPlus.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/URwmGuY.png" group-title="Entertainment",Mireasa+
 https://live77cdn2.antenaplay.ro/live2_mireasadoi/live2_mireasadoi.m3u8
 #EXTINF:-1 tvg-id="MISATV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/2RxQNm6.png" group-title="Religious",MISA TV
-https://vidl.youniverse.name:5050/MSTV/czech_360p/playlist.m3u8
+https://vidh.youniverse.name:5050/MSTV/english/chunklist_w1133422319.m3u8
 #EXTINF:-1 tvg-id="MuscelTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.ibb.co/Bq9CHyn/Musceltv1.png" group-title="General",Muscel TV
 https://cdn.streamnet.pro/musceltv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="NasulTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/MoguWme.png" group-title="General",Nasul TV
@@ -159,8 +157,6 @@ https://hls02ns.antenaplay.ro/hls/nostalgia-hd/index.m3u8
 http://novapress.ro:2022/live/nova/playlist.m3u8
 #EXTINF:-1 tvg-id="ObservatorNews.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/f6xEIAr.png" group-title="News",Observator News
 https://live77cdn2.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
-#EXTINF:-1 tvg-id="OrizontTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/Orizont_TV.svg/revision/latest/scale-to-width-down/1000?cb=20241219232954" group-title="Music",Orizont TV
-https://hls01ns.antenaplay.ro/hls/orizont-tv-sd/index.m3u8
 #EXTINF:-1 tvg-id="PartyMix.ro" tvg-country="RO" tvg-language="English" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lCn4ThcMw7giX9jeLHURb1oqoNIYN3YlObhwLkrsSNfg=w226-c-h226-k-c0x00ffffff-no-l90-rj" group-title="Music",Party Mix
 https://hls02ns.antenaplay.ro/hls/party-mix-hd/index.m3u8
 #EXTINF:-1 tvg-id="PrimaNews.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Prima_News_logo_2022.svg/1280px-Prima_News_logo_2022.svg.png" group-title="News",Prima News
@@ -185,6 +181,8 @@ https://live.djemba.ro/memfs/474f9942-f72b-4130-817a-435cd54b2c36.m3u8
 https://streamlov.alsolnet.com/radiofxnet/live/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioRomania3Net.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://www.radio3net.ro/img/logos/logo_3.png" group-title="Music",Radio Romania 3Net
 https://media.3netmedia.ro/hls/stream.m3u8
+#EXTINF:-1 tvg-id="RadioRomaniaAntenaSatelor.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://www.antenasatelor.ro/templates/default/images/custom/logo-main.svg" group-title="Music",Radio Romania Antena Satelor
+https://stream3.srr.ro/live/antenasatelor/chunklist_w1642210843.m3u8
 #EXTINF:-1 tvg-id="RadioRomaniaIasi.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://www.radioiasi.ro/wp-content/themes/radioiasi/images/custom/logo-iasi.svg" group-title="General",Radio Romania Iasi
 https://stream3.srr.ro/live/radio-iasi/chunklist_w1565024915.m3u8
 #EXTINF:-1 tvg-id="RadioRomaniaOlteniaCraiova.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://www.rador.ro/wp-content/uploads/2017/06/logo-radio-oltenia-craiova.png" group-title="General",Radio Romania Oltenia-Craiova
@@ -245,6 +243,8 @@ https://hls01ns.antenaplay.ro/hls/tralala-hd/index.m3u8
 https://hls02ns.antenaplay.ro/hls/travel-mix-hd/index.m3u8
 #EXTINF:-1 tvg-id="TrinitasTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Trinitas_TV_%282018%29.svg/revision/latest?cb=20210506192259" group-title="General",Trinitas TV
 https://hls01ns.antenaplay.ro/hls/trinitas-tv-sd/index.m3u8
+#EXTINF:-1 tvg-id="TV1.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://tv1sm.ro/uploads/logo/logo_6725d98a792221-79839652.jpg" group-title="General",TV1
+https://netstreaming.eu/tv1.m3u8
 #EXTINF:-1 tvg-id="TVArad.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/4yZV72X.png" group-title="General",TV Arad
 https://live.djemba.ro/memfs/1b01c281-126d-4787-9d51-9e06c96bb9f9.m3u8
 #EXTINF:-1 tvg-id="TVAS.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/06/TV_AS.png/revision/latest/scale-to-width-down/1000?cb=20241117150631" group-title="Music",TV AS
@@ -283,6 +283,8 @@ https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/playlist.
 http://89.38.8.130:39443
 #EXTINF:-1 tvg-id="TVSE.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/r4zKU1e.png" group-title="General",TV SE
 http://89.38.8.130:39419
+#EXTINF:-1 tvg-id="UTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/aBdz9IT.png" group-title="General",UTV
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/714.m3u8
 #EXTINF:-1 tvg-id="VoyoEvents.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Voyo_2026.svg/revision/latest/scale-to-width-down/1000?cb=20261006171646" group-title="Sports",Voyo Events
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-plus5/live_fullhd?offsetSeconds=0
 #EXTINF:-1 tvg-id="VoyoSport1.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/VoyoSport1.svg" group-title="Sports",Voyo Sport 1

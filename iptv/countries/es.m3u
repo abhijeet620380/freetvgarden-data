@@ -15,6 +15,8 @@ https://cloud.streamingconnect.tv/hls/12tv/12tv2.m3u8
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-id="24HorasCanarias.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.ibb.co/21sXZ3GT/24h.png" group-title="News",24 Horas Canarias
 https://ztnr.rtve.es/ztnr/5473142.m3u8
+#EXTINF:-1 tvg-id="24HorasCatalunya.es" tvg-country="ES" tvg-language="Catalan" tvg-logo="https://i.ibb.co/21sXZ3GT/24h.png" group-title="News",24 Horas Catalunya
+https://ztnr.rtve.es/ztnr/4952053.m3u8
 #EXTINF:-1 tvg-id="28kanala.es" tvg-country="ES" tvg-language="Basque" tvg-logo="https://i.imgur.com/DyvK28q.png" group-title="General",28 kanala
 https://streaming.28kanala.eus/hls/z.m3u8
 #EXTINF:-1 tvg-id="101tvAntequera.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/GzI3RC4.png" group-title="General",101tv Antequera
@@ -37,6 +39,8 @@ http://88.212.15.50/live/test_axn/playlist.m3u8
 https://live1.ovalcast.com:3916/live/bcngospeltvlive.m3u8
 #EXTINF:-1 tvg-id="BDN.es" tvg-country="ES" tvg-language="Catalan" tvg-logo="https://i.imgur.com/ktasO33.png" group-title="News",BDN
 https://liveingesta318.cdnmedia.tv/badalonatvlive/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Boing.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/nUYuCAP.png" group-title="Kids",Boing
+http://digisat.ddns.net:4022/udp/239.0.5.177:8208
 #EXTINF:-1 tvg-id="BonDiaTV.es" tvg-country="ES" tvg-language="Catalan" tvg-logo="https://i.imgur.com/VgRCu2U.png" group-title="General",Bon Dia TV
 https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8
 #EXTINF:-1 tvg-id="CadenaElite.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/3yeGDTP.png" group-title="Music",Cadena Elite
@@ -57,6 +61,8 @@ https://videos.canal56.com/directe/stream/index.m3u8
 http://canal2000.berkano-systems.net/streaming/streams/canal2000.m3u8
 #EXTINF:-1 tvg-id="CanalDiocesano.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/uWhVKL3.png" group-title="General",Canal Diocesano
 https://nlb2-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/master.m3u8
+#EXTINF:-1 tvg-id="CanalDonana.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/0WrKIxm.png" group-title="General",Canal Donana
+https://secure5.todostreaming.es/live/division-alm.m3u8
 #EXTINF:-1 tvg-id="CanalMalagaRTV.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/QSUOxtM.png" group-title="General",Canal Malaga RTV
 https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalParlamento.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/BUO0wH6.png" group-title="Legislative",Canal Parlamento
@@ -79,6 +85,10 @@ https://ingest1-video.streaming-pro.com/canaltaronja/osona/playlist.m3u8
 https://ingest2-video.streaming-pro.com/canalterrassa/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CetelmonTV.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/GGn7itj.png" group-title="Religious",Cetelmon TV
 http://player.cetelmon.tv/protecteddfd43c2f3a8b41f3f28582bf8993aca6/992_high.m3u8
+#EXTINF:-1 tvg-id="CineFriki.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/b3Ospym.png" group-title="Movies",Cine Friki
+https://zylo-cinefriki-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CineWestern.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/2UROzSc.png" group-title="Movies",Cine Western
+https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8
 #EXTINF:-1 tvg-id="CiudadesdelOcioTV.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/CTQgqsM.png" group-title="Entertainment",Ciudades del Ocio TV
 https://cloudvideo.servers10.com:8081/8024/index.m3u8
 #EXTINF:-1 tvg-id="Clan.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Clan_2026.svg/960px-Clan_2026.svg.png" group-title="Kids",Clan
@@ -117,12 +127,12 @@ https://directes-tv-int.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8
 https://elche7tv.gestec-video.com/hls/canal2.m3u8
 #EXTINF:-1 tvg-id="ElMueble.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d64983e2-55b1-410b-9599-98a28f7b94ba/Logo_ElMueble_1500x1000_AllWhite_-_Belen_Bruno.png" group-title="Lifestyle",El Mueble
 https://jmp2.uk/plu-690dd10a37b131228d76d5b1.m3u8
+#EXTINF:-1 tvg-id="ElToroTV.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Eltorotv.png" group-title="General",El Toro TV
+https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
 #EXTINF:-1 tvg-id="EmpordaTV.es" tvg-country="ES" tvg-language="Catalan" tvg-logo="https://i.imgur.com/jc0lUbX.png" group-title="General",Emporda TV
 https://video3.lhdserver.es/empordatv2/live.m3u8
 #EXTINF:-1 tvg-id="Esport3.es" tvg-country="ES" tvg-language="Catalan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/960px-Esport3.svg.png" group-title="Public",Esport3
 https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8
-#EXTINF:-1 tvg-id="EsteponaTelevision.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/rMAB720.png" group-title="General",Estepona Television
-https://cloudvideo.servers10.com:8081/8022/index.m3u8
 #EXTINF:-1 tvg-id="EsTuTele.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/bsAbcmC.png" group-title="General",EsTuTele
 https://cloud.streamingconnect.tv/hls/estutele/estutele.m3u8
 #EXTINF:-1 tvg-id="ETB1.es" tvg-country="ES" tvg-language="Basque" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/ETB1_2022_logo.svg/960px-ETB1_2022_logo.svg.png" group-title="General",ETB 1
@@ -207,6 +217,8 @@ https://cloudvideo.servers10.com:8081/8116/index.m3u8
 https://liveingesta318.cdnmedia.tv/rtvvilafrancalive/smil:live.smil/playlist.m3u8?DVR=
 #EXTINF:-1 tvg-id="PlatziTV.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/vEzeqHP.png" group-title="Education",Platzi TV
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
+#EXTINF:-1 tvg-id="PopularTVMelilla.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/TbevWX4.png" group-title="General",Popular TV Melilla
+http://5940924978228.streamlock.net:1935/8009/8009/playlist.m3u8
 #EXTINF:-1 tvg-id="PopularTVMurcia.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/jFg9dGO.png" group-title="General",Popular TV Murcia
 https://cloud.fastchannel.es/mic/manifiest/populartvrm.m3u8
 #EXTINF:-1 tvg-id="POPWorldTV.es" tvg-country="ES" tvg-language="English" tvg-logo="https://i.imgur.com/LQB6G3s.jpg" group-title="Music",POP World TV
@@ -219,6 +231,8 @@ https://rtvelivestream.rtve.es/rtvesec/rne/rne3_main.m3u8
 http://185.81.77.4/BocairentTV/index.m3u8
 #EXTINF:-1 tvg-id="RadioCarnavalTV.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/cdpbkSo.png" group-title="Music",Radio Carnaval TV
 https://eu1.servers10.com:8081/8116/index.m3u8
+#EXTINF:-1 tvg-id="RadioTelevisionMarbella.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/o9Ro8TR.png" group-title="General",Radio Television Marbella
+https://streaming.rtvmarbella.tv/hls/streamingweb.m3u8
 #EXTINF:-1 tvg-id="RakutenTVActionMovies.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Movies",Rakuten TV Action Movies
 https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6066/master.m3u8
 #EXTINF:-1 tvg-id="RakutenTVComedyMovies.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Movies",Rakuten TV Comedy Movies
@@ -237,6 +251,8 @@ https://rtvelivestream.rtve.es/rtvesec/rne/rne_para_todos_main.m3u8
 https://rotv.romediavalencia.com:3839/live/rotvlive.m3u8
 #EXTINF:-1 tvg-id="RTVCCardedeu.es" tvg-country="ES" tvg-language="Catalan" tvg-logo="https://i.imgur.com/rrCJyza.png" group-title="General",RTVC Cardedeu
 https://liveingesta118.cdnmedia.tv/cardedeutvlive/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTVManilva.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/zKgrnXx.png" group-title="General",RTV Manilva
+https://stream.castr.com/627a72d21914543be01c1720/live_e2ae1780dc2a11eca660b7b17b7952a5/index.m3u8
 #EXTINF:-1 tvg-id="RTVVida.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/EqUfEAh.png" group-title="Music",RTV Vida
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
 #EXTINF:-1 tvg-id="SevillaFCTV.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/yujGVbm.png" group-title="General",Sevilla FC TV
@@ -261,8 +277,6 @@ https://tvdirecto.teleelx.es/stream/teleelx.m3u8
 https://nlb2-live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/master.m3u8
 #EXTINF:-1 tvg-id="Telemadrid.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/960px-TeleMadrid.svg.png" group-title="General",Telemadrid
 https://live.telemadrid.cross-media.es/6389770581112/eu-central-1/6416060453001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiajI5YjgyLmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjQxNjA2MDQ1MzAwMSIsImVobiI6ImxpdmUudGVsZW1hZHJpZC5jcm9zcy1tZWRpYS5lcyIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiNjQxNjA2MDQ1MzAwMSJdLCJqdGkiOiI2Mzg5NzcwNTgxMTEyIn0.kqriAMUkHT6m0V6wkCHJum_EUyL4PAi1zJMKlfmYHEU/playlist-hls.m3u8
-#EXTINF:-1 tvg-id="TeleSafor.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/EowJfr0.png" group-title="General",Tele Safor
-https://video.telesafor.com/hls/video.m3u8
 #EXTINF:-1 tvg-id="TeleVigo.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4iVmlFa.png" group-title="General",TeleVigo
 https://cloud.fastchannel.es/mic/manifiest/hls/televigo/televigo.m3u8
 #EXTINF:-1 tvg-id="TelevisionAranda.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/FwIIdKG.png" group-title="General",Television Aranda
@@ -273,6 +287,8 @@ https://rtvclive.flumotion.cloud/rtvc1live/smil:channel1PRG.smil/playlist.m3u8
 https://cdn318.fractalmedia.es/318/live/hls/tvc/master.m3u8
 #EXTINF:-1 tvg-id="TitoTV.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://tvomix.com/Logos/Titotv.png" group-title="General",Tito TV
 https://cloud.tvomix.com/TITOTV/index.m3u8
+#EXTINF:-1 tvg-id="TodoNovelas.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/NuYwGok.png" group-title="Series",Todo Novelas
+https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8
 #EXTINF:-1 tvg-id="Trailers.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/RwZ1hCN.png" group-title="News",Trailers
 https://amg01821-lovetvchannels-lovemagazineuk-samsungse-p1sf1.amagi.tv/playlist/amg01821-lovetvchannels-lovemagazineuk-samsungse/playlist.m3u8
 #EXTINF:-1 tvg-id="Trece.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/960px-Trece.svg.png" group-title="Religious",Trece
@@ -299,16 +315,22 @@ https://liveingesta318.cdnmedia.tv/tvhospitaletlive/smil:tvhospitalet.smil/playl
 https://cloud.tvomix.com/TVOJESUS/index.m3u8
 #EXTINF:-1 tvg-id="TVOMIX.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://ugc.production.linktr.ee/7ef61237-c46d-456b-afe3-a42ef49a979e_Mejorado2.png" group-title="Music",TVOMIX
 https://cloud.tvomix.com/TVOMIX/index.m3u8
+#EXTINF:-1 tvg-id="TVR.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.ibb.co/nRq3YfT/Logo-Rioja-Televisi-n-S-A.png" group-title="General",TVR
+https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/playlist.m3u8
 #EXTINF:-1 tvg-id="TVReus.es" tvg-country="ES" tvg-language="Catalan" tvg-logo="https://i.imgur.com/Ee0C8UH.jpg" group-title="General",TVReus
 https://eu1.servers10.com:8081/8166/index.m3u8
 #EXTINF:-1 tvg-id="TVSabadellValles.es" tvg-country="ES" tvg-language="Catalan" tvg-logo="https://i.imgur.com/fSTsGbG.png" group-title="General",TV Sabadell-Valles
 https://ingest1-video.streaming-pro.com/canaltaronja/sabadell/playlist.m3u8
 #EXTINF:-1 tvg-id="UneVinalopo.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/WpGR7RQ.png" group-title="General",Une Vinalopo
 https://streamingtvi.gestec-video.com/hls/unesd.m3u8
+#EXTINF:-1 tvg-id="UniversTV.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/EW2bfix.png" group-title="Entertainment",Univers TV
+https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8
 #EXTINF:-1 tvg-id="Vision6TV.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/TB1wMQ7.jpg" group-title="General",Vision 6 TV
 https://streaming.proceso.info:8888/vision6-web/stream.m3u8
 #EXTINF:-1 tvg-id="VOTV.es" tvg-country="ES" tvg-language="Catalan" tvg-logo="https://i.imgur.com/1g2Z64L.png" group-title="General",VOTV
 https://ingest2-video.streaming-pro.com/votv/streaming_web/playlist.m3u8
+#EXTINF:-1 tvg-id="VoyagesSaveurs.es" tvg-country="ES" tvg-language="French" tvg-logo="https://images.pluto.tv/channels/680291e38e1ff89c2427aefd/colorLogoPNG_1749650211442.png" group-title="Travel",Voyages & Saveurs
+https://jmp2.uk/plu-680291e38e1ff89c2427aefd.m3u8
 #EXTINF:-1 tvg-id="XPTV1.es" tvg-country="ES" tvg-language="English" tvg-logo="https://i.imgur.com/Ty7GkoN.png" group-title="Music",XPTV1
 https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8
 #EXTINF:-1 tvg-id="XPTV2.es" tvg-country="ES" tvg-language="English" tvg-logo="https://i.imgur.com/74Z8ATB.png" group-title="Entertainment",XPTV2
