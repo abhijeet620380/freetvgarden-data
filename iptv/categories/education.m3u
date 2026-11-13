@@ -27,6 +27,8 @@ https://canaleducacao-stream.ebc.com.br/index.m3u8
 https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8
 #EXTINF:-1 tvg-id="CanalFutura.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/LgynEBC.png" group-title="Education",Canal Futura
 http://170.83.16.50/FUTURA/index.m3u8
+#EXTINF:-1 tvg-id="CanalUniversidad.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/trmPKYw.png" group-title="Education",Canal Universidad
+https://videostream.shockmedia.com.ar/hls/canaluniversidadmdp/canaluniversidadmdp.m3u8
 #EXTINF:-1 tvg-id="CanThoTV2.vn" tvg-country="VN" tvg-language="Vietnamese" tvg-logo="https://i.ibb.co/JjVvkMsf/cantho2-2025.png" group-title="Science",Can Tho TV 2
 https://live.canthotv.vn/cs2/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTV7.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/CKcPMQC.png" group-title="Education",CCTV-7
@@ -47,8 +49,6 @@ https://cloudflare.tv/hls/live.m3u8
 http://200.59.191.177:8000/play/a0la/index.m3u8
 #EXTINF:-1 tvg-id="Create.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/dOk1cDN.png" group-title="Education",Create
 https://create.lls.pbs.org/index.m3u8
-#EXTINF:-1 tvg-id="CuriosityChannel.de" tvg-country="DE" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Curiosity_Channel_Logo_2023.svg/960px-Curiosity_Channel_Logo_2023.svg.png" group-title="Education",Curiosity Channel
-https://jmp2.uk/plu-6576c20fb3801200084786c9.m3u8
 #EXTINF:-1 tvg-id="CVCEducation.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/tUgEAUJ.png" group-title="Education",CVC Education
 https://dlttx48mxf9m3.cloudfront.net/vod_clients/bolton/live/ch2/video.m3u8
 #EXTINF:-1 tvg-id="DabangaTV.sd" tvg-country="SD" tvg-language="Arabic" tvg-logo="https://i.imgur.com/BH1N6TA.png" group-title="News",Dabanga TV
@@ -169,10 +169,6 @@ https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
 https://fms.nrwision.de/live/ngrp:livestreamHD.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="OEncantadordeCaes.us" tvg-country="US" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/sQn6vvh.png" group-title="Education",O Encantador de Caes
 https://jmp2.uk/plu-61099df8cee03b00074b2ecf.m3u8
-#EXTINF:-1 tvg-id="OUN.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/7s6JtcU.png" group-title="Education",OUN
-https://live.knou.ac.kr/knou1/live1/playlist.m3u8
-#EXTINF:-1 tvg-id="PaighanTV.pk" tvg-country="PK" tvg-language="Urdu" tvg-logo="https://i.imgur.com/zokC3gO.png" group-title="Religious",Paighan TV
-https://cdn4.mjunoon.tv:8087/streamtest/107M/chunks.m3u8
 #EXTINF:-1 tvg-id="PayamJavanTV.us" tvg-country="US" tvg-language="Persian" tvg-logo="https://i.imgur.com/GYfsHh9.png" group-title="Education",Payam Javan TV
 https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="PBS.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/WZ1yJZj.png" group-title="Education",PBS
@@ -211,6 +207,8 @@ http://180.180.243.239/streams/3/hls
 https://cs.ebmcdn.net/eastbay-live-hs-1/fcps/mp4:fcps/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeMinas.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/MtQWAHv.png" group-title="Education",Rede Minas
 https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
+#EXTINF:-1 tvg-id="RinjaniTV.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://lombokindustries.com/assunnah/zone/img/rinjanitv.png" group-title="Education",Rinjani TV
+https://rinjanitv.cloud/hls/tvkabel.m3u8
 #EXTINF:-1 tvg-id="RyongnamsanTelevision.kp" tvg-country="KP" tvg-language="Korean" tvg-logo="https://i.imgur.com/1BHJjY4.png" group-title="Education",Ryongnamsan Television
 https://live.koryocdn.org/ryongnamsan/index.m3u8
 #EXTINF:-1 tvg-id="ShamsTV.af" tvg-country="AF" tvg-language="Dari (Parsi)" tvg-logo="https://i.imgur.com/Lsy31iZ.jpeg" group-title="Education",Shams TV
@@ -251,6 +249,8 @@ https://edge.enhdtv.com/8026/index.m3u8
 https://edge.enhdtv.com/8190/index.m3u8
 #EXTINF:-1 tvg-id="UNIANDESTV.ec" tvg-country="EC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/1rluyB7.png" group-title="Education",UNIANDES TV
 https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8
+#EXTINF:-1 tvg-id="Unifranz.bo" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://unifranz.edu.bo/wp-content/themes/unifranz-web/public/images/logos/logo-light-min.442cee.svg" group-title="Education",Unifranz
+https://edge.enhdtv.com/8192/index.m3u8
 #EXTINF:-1 tvg-id="Vive.ve" tvg-country="VE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/VEYhkDq.png" group-title="Education",Vive
 http://200.59.191.177:8000/play/a0l6/index.m3u8
 #EXTINF:-1 tvg-id="VyasChannel.in" tvg-country="IN" tvg-language="English" tvg-logo="https://www.yupptv.com/seo_img/UGC_GEC_big.jpg" group-title="Education",Vyas Channel
