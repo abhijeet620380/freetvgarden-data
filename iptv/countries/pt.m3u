@@ -9,8 +9,14 @@ http://50.7.120.34:8080/AXN_BLACK/index.m3u8
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/cnnpt.m3u8
 #EXTINF:-1 tvg-id="FUELTV.pt" tvg-country="PT" tvg-language="English" tvg-logo="https://i.imgur.com/I8mviBy.png" group-title="Sports",FUEL TV
 https://amg01074-fueltv-fueltvau-samsungau-g09kq.amagi.tv/playlist/amg01074-fueltv-fueltvau-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="KuriakosCine.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/CZViCwB.jpg" group-title="Movies",Kuriakos Cine
+https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="KuriakosKids.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/SRX6EPY.png" group-title="Animation",Kuriakos Kids
+https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="KuriakosMusic.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Zl40NYi.jpg" group-title="Music",Kuriakos Music
 http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="KuriakosTV.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/xdAW0D5.png" group-title="Religious",Kuriakos TV
+https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ManaChurchOnline.pt" tvg-country="PT" tvg-language="English" tvg-logo="https://i.imgur.com/FRDJSim.png" group-title="Religious",Mana Church Online
 https://w2.manasat.com/church-online/smil:church-online.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ManaCirkevOnline.pt" tvg-country="PT" tvg-language="Slovak" tvg-logo="https://i.imgur.com/tYhXeRq.png" group-title="Religious",Mana Cirkev Online
@@ -33,8 +39,6 @@ https://load-balancer.azotosolutions.com/cdnedge19/smil:live19.smil/playlist.m3u
 https://video03.logicahost.com.br/rfptv/rfptv/playlist.m3u8
 #EXTINF:-1 tvg-id="RTP1.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp1_2026.png" group-title="General",RTP 1
 https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP2.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp2_2026.png" group-title="General",RTP 2
-https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTPAcores.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpacores_2026.png" group-title="General",RTP Acores
 https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpafrica_2026.png" group-title="General",RTP Africa
