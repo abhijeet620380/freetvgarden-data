@@ -3,8 +3,6 @@
 https://streamcdnr6-dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/playlist.m3u8
 #EXTINF:-1 tvg-id="12TVParma.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/mBYxWOg.png" group-title="General",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="50Canale.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/D3OTRzf.png" group-title="General",50 Canale
-https://load-balancer.azotosolutions.com/cdnedge37/canale50/playlist.m3u8
 #EXTINF:-1 tvg-id="51RadioTV.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://www.51news.it/images/loghi/logo_tv_radio_51news.png" group-title="Music",51 Radio TV
 http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8
 #EXTINF:-1 tvg-id="111TV.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/kVREx1Q.png" group-title="General",111 TV
@@ -205,8 +203,6 @@ https://5f22d76e220e1.streamlock.net/primafree/primafree/playlist.m3u8
 https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="Primocanale.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/eunZ2Sa.png" group-title="General",Primocanale
 https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="QuartoCanaleFlegreo.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/XfNSWp0.png" group-title="General",Quarto Canale Flegreo
-https://live.mariatvcdn.com/dialogos/171e41deedf405f10c7dd6311387fb43.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="QVC.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/6TWUVrh.png" group-title="Shop",QVC
 https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
 #EXTINF:-1 tvg-id="Radio51TV.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/UupkBt6.png" group-title="General",Radio 51 TV
@@ -240,11 +236,11 @@ https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/pl
 #EXTINF:-1 tvg-id="Rai1.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/960px-Rai_1_-_Logo_2016.svg.png" group-title="General",Rai 1
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rai_uno/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="Rai2.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/960px-Rai_2_-_Logo_2016.svg.png" group-title="General",Rai 2
-https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/rai_due/live.livx/playlist.m3u8
+http://team-tv.co:81/rai2/index.m3u8
 #EXTINF:-1 tvg-id="Rai3.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/960px-Rai_3_-_Logo_2016.svg.png" group-title="General",Rai 3
 https://tgrfriulibis-live.akamaized.net/hls/live/2025579/tgrfriulibis/tgrfriulibis/playlist.m3u8
 #EXTINF:-1 tvg-id="Rai4.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/sEY21rg.png" group-title="General",Rai 4
-https://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=746966
+http://team-tv.co:81/rai4/index.m3u8
 #EXTINF:-1 tvg-id="Rai5.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_5_-_Logo_2017.svg/960px-Rai_5_-_Logo_2017.svg.png" group-title="General",Rai 5
 http://team-tv.co:81/rai5/index.m3u8
 #EXTINF:-1 tvg-id="RaiGulp.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/irAhPJM.png" group-title="General",Rai Gulp
@@ -287,20 +283,6 @@ https://57068da1deb21.streamlock.net/retetvitalia/retetvitalia/playlist.m3u8
 https://stream10.xdevel.com/video0s977363-1901/stream/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="RTCTelecalabria.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/NnFopuS.png" group-title="General",RTC Telecalabria
 https://w1.mediastreaming.it/calabriachannel/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="RTL1025Best.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/9PNlbaq.png" group-title="Music",RTL 102.5 Best
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/playlist_video.m3u8
-#EXTINF:-1 tvg-id="RTL1025BroSis.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/EWbK4XZ.png" group-title="Music",RTL 102.5 Bro&Sis
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/playlist_video.m3u8
-#EXTINF:-1 tvg-id="RTL1025Caliente.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/P0zsi6I.png" group-title="Music",RTL 102.5 Caliente
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/playlist_video.m3u8
-#EXTINF:-1 tvg-id="RTL1025Disco.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/JA1OPrz.png" group-title="Music",RTL 102.5 Disco
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/playlist_video.m3u8
-#EXTINF:-1 tvg-id="RTL1025Napule.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/HFPw1YW.png" group-title="Music",RTL 102.5 Napule
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/playlist_video.m3u8
-#EXTINF:-1 tvg-id="RTL1025Traffic.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/EBftMcB.png" group-title="Music",RTL 102.5 Traffic
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
-#EXTINF:-1 tvg-id="RTL1025TV.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/75qUdR7.png" group-title="Music",RTL 102.5 TV
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
 #EXTINF:-1 tvg-id="RTMTV.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/w9Twxsi.png" group-title="General",RTM TV
 https://5f22d76e220e1.streamlock.net/rtm/rtm/playlist.m3u8
 #EXTINF:-1 tvg-id="RTP.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/8/86/Logo_Radio_Televisione_Peloritana.svg/512px-Logo_Radio_Televisione_Peloritana.svg.png" group-title="General",RTP
@@ -308,7 +290,7 @@ https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
 #EXTINF:-1 tvg-id="RTTRTrento.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/6DyzN8M.png" group-title="General",RTTR Trento
 https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="RTV38.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/YOlwudm.png" group-title="General",RTV38
-https://845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live_main/mainabr/rtv38_live_main/main_576/chunks_dvr.m3u8
+https://streamcdne1-845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live_main/mainabr/rtv38_live_main/main_576/chunks_dvr.m3u8
 #EXTINF:-1 tvg-id="SenatoTV.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/h4NyN5d.png" group-title="Legislative",Senato TV
 https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
 #EXTINF:-1 tvg-id="SophiaTV.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/RPXusvS.png" group-title="General",Sophia TV
@@ -349,8 +331,6 @@ https://5f22d76e220e1.streamlock.net/tls/tls/playlist.m3u8
 https://59d7d6f47d7fc.streamlock.net/telemajg/telemajg/playlist.m3u8
 #EXTINF:-1 tvg-id="Telemantova.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/WYXiov6.png" group-title="General",Telemantova
 https://5ce9406b73c33.streamlock.net/TeleMantova/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="TeleMia.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Telemia.png" group-title="General",TeleMia
-https://playerssl.telemia.tv/fileadmin/hls/TelemiaHD/telemia85_mediachunks.m3u8
 #EXTINF:-1 tvg-id="TeleMiaExtra.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Telemia.png" group-title="General",TeleMia Extra
 https://playerssl.telemia.tv/fileadmin/hls/TelemiaExtra/telemiaextra_mediachunks.m3u8
 #EXTINF:-1 tvg-id="TeleMistretta.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/BLhvyEi.png" group-title="General",TeleMistretta
@@ -401,8 +381,6 @@ https://eu1.servers10.com:8081/8032/index.m3u8
 https://live.mariatvcdn.com/tvprato/2db0dd5674586686a867ec52c3aa8e06.sdp/index.m3u8
 #EXTINF:-1 tvg-id="TVQuiModena.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/YfMVNDE.png" group-title="General",TV Qui Modena
 https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8
-#EXTINF:-1 tvg-id="UmbriaTV.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/olJIJ7c.png" group-title="General",Umbria TV
-https://umbriatv.stream.rubidia.it:8083/live/umbriatv/playlist.m3u8
 #EXTINF:-1 tvg-id="UniNettunoUniversityTV.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/c9So8nf.png" group-title="General",UniNettuno University TV
 https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
 #EXTINF:-1 tvg-id="Value24TV.it" tvg-country="IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/FdEyI96.png" group-title="General",Value 24 TV
