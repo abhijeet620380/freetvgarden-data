@@ -1,9 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ARB24.az" tvg-country="AZ" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/mtvIFyq.png" group-title="News",ARB 24
 https://operativmm.az/tvs/arb24/stream/index.m3u8
+#EXTINF:-1 tvg-id="AyazTV.az" tvg-country="AZ" tvg-language="Azerbaijani" tvg-logo="https://www.ayaztv.com/storage/assets/site_logo.png" group-title="General",Ayaz TV
+https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8
 #EXTINF:-1 tvg-id="AzadTV.az" tvg-country="AZ" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/rDYSoRL.png" group-title="General",Azad TV
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
 #EXTINF:-1 tvg-id="AzTV.az" tvg-country="AZ" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/snBMMeH.png" group-title="General",Az TV
-https://operativmm.az/tvs/az/stream9/index.m3u8
+https://az.tvstream.az/hls/stream9/index.m3u8
 #EXTINF:-1 tvg-id="KanalS.az" tvg-country="AZ" tvg-language="Azerbaijani" tvg-logo="https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/Kanal%20S.png" group-title="General",Kanal S
 https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8
