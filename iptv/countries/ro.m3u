@@ -47,6 +47,8 @@ https://hls02ns.antenaplay.ro/hls/b1-tv-hd/index.m3u8
 https://www.btv.ro/hls/banat-tv.m3u8
 #EXTINF:-1 tvg-id="BeautyON.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://static.cinemagia.ro/img/tv_station/beauty-on.jpg" group-title="Lifestyle",Beauty ON
 http://91.235.165.117:8002/play/bautyon_hd/index.m3u8
+#EXTINF:-1 tvg-id="BihorTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/Bihortvlogo.png/revision/latest/scale-to-width-down/1000?cb=20241223065621" group-title="General",Bihor TV
+https://bihor-tv.ro/hls/bihortv.m3u8
 #EXTINF:-1 tvg-id="BollywoodClassic.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/ugPo6ca.png" group-title="Movies",Bollywood Classic
 https://hls02ns.antenaplay.ro/hls/bollywood-sd/index.m3u8
 #EXTINF:-1 tvg-id="BollywoodHD.ro" tvg-country="RO" tvg-language="Hindi" tvg-logo="https://i.imgur.com/scDKOLS.png" group-title="Movies",Bollywood HD
@@ -57,6 +59,8 @@ https://tvboom.ro/live-tv/live.m3u8
 https://www.bucovinatv.ro/proxy/video/playlist.m3u8
 #EXTINF:-1 tvg-id="Chefiro.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/Chefi.ro_2026.png" group-title="Cooking",Chefi.ro
 https://live77cdn2.antenaplay.ro/live2_aws4_sdi13/live2_aws4_sdi13_5000k.m3u8
+#EXTINF:-1 tvg-id="CinemaratonPlus.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://assets.antenaplay.ro/2026/03/10/RMNdkVBCTNfsogsYqHaB.png" group-title="Movies",Cinemaraton Plus
+https://hls02ns.antenaplay.ro/hls/cinemaraton-plus-hd/index.m3u8
 #EXTINF:-1 tvg-id="CineWow.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://cdn.gamma.app/tfnglu66dwji8hw/d36b2d5c45a544749b3739d46fb119cc/original/CineWow.png" group-title="Movies",CineWow
 https://hls01ns.antenaplay.ro/hls/cinewow-sd/index.m3u8
 #EXTINF:-1 tvg-id="ColumnaTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/C5dIgsc.png" group-title="General",Columna TV
@@ -180,7 +184,7 @@ https://hls02ns.antenaplay.ro/hls/party-mix-hd/index.m3u8
 #EXTINF:-1 tvg-id="PrimaNews.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Prima_News_logo_2022.svg/1280px-Prima_News_logo_2022.svg.png" group-title="News",Prima News
 https://hls02ns.antenaplay.ro/hls/prima-news-hd/index.m3u8
 #EXTINF:-1 tvg-id="PrimaSport1.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/5/52/Prima_Sport_1_%282022-.n.v.%29.png/revision/latest/scale-to-width-down/1000?cb=20240205121905" group-title="Sports",Prima Sport 1
-https://rundle.tv/proxy5.php?src=https%3A%2F%2Firon1.xn--x2rw19a.space%2Fpuk1%2Fusergenrx0cir27aq-got.htm
+http://91.235.165.117:8001/play/a07x/index.m3u8
 #EXTINF:-1 tvg-id="PrimaSport2.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/hROcepe.png" group-title="Sports",Prima Sport 2
 http://91.235.165.117:8001/play/a07y/index.m3u8
 #EXTINF:-1 tvg-id="PrimaSport3.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/9/9a/Prima_Sport_3_%282022-.n.v.%29.png/revision/latest/scale-to-width-down/1000?cb=20240205122802" group-title="Sports",Prima Sport 3
@@ -201,14 +205,12 @@ http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv/live_fullhd?offsetSeconds
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-international/live_fullhd?offsetSeconds=0
 #EXTINF:-1 tvg-id="PROTVNews.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/85/Pro_TV_News_%282017%29.png/revision/latest?cb=20171005155753" group-title="News",PROTV News
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-voyo-news/live_fullhd?offsetSeconds=0
-#EXTINF:-1 tvg-id="QubTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/GvyF2Wh.png" group-title="General",Qub TV
-https://live.djemba.ro/memfs/474f9942-f72b-4130-817a-435cd54b2c36.m3u8
 #EXTINF:-1 tvg-id="RadioFxNet.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://radiofxnet.ro/wp-content/uploads/2021/03/cropped-cropped-cropped-cropped-Radio_FX_Net_logo-1-1.png" group-title="Music",Radio Fx Net
 https://streamlov.alsolnet.com/radiofxnet/live/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioRomania3Net.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://www.radio3net.ro/img/logos/logo_3.png" group-title="Music",Radio Romania 3Net
 https://media.3netmedia.ro/hls/stream.m3u8
-#EXTINF:-1 tvg-id="RadioRomaniaAntenaSatelor.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://www.antenasatelor.ro/templates/default/images/custom/logo-main.svg" group-title="Music",Radio Romania Antena Satelor
-https://stream3.srr.ro/live/antenasatelor/chunklist_w1642210843.m3u8
+#EXTINF:-1 tvg-id="RadioRomaniaIasi.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://www.radioiasi.ro/wp-content/themes/radioiasi/images/custom/logo-iasi.svg" group-title="General",Radio Romania Iasi
+https://stream3.srr.ro/live/radio-iasi/chunklist_w1565024915.m3u8
 #EXTINF:-1 tvg-id="RadioRomaniaOlteniaCraiova.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://www.rador.ro/wp-content/uploads/2017/06/logo-radio-oltenia-craiova.png" group-title="General",Radio Romania Oltenia-Craiova
 https://stream3.srr.ro/live/Radio-Oltenia/chunklist_w1200239883.m3u8
 #EXTINF:-1 tvg-id="RadioRomaniaTarguMures.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://myradioonline.ro/public/uploads/radio_img/radio-romania-targu-mures/fb_cover.jpg" group-title="General",Radio Romania Targu Mures
@@ -229,14 +231,8 @@ https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 https://hls01ns.antenaplay.ro/hls/romania-tv-sd/index.m3u8
 #EXTINF:-1 tvg-id="RomanticFM.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://assets.antenaplay.ro/2023/08/16/u0AuO3YCe1bdz3xSHgeK.png" group-title="Music",Romantic FM
 https://stream1.antenaplay.ro/zurtv/rfmprem/chunklist.m3u8
-#EXTINF:-1 tvg-id="SangeorzTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://sangeorztv.ro/wp-content/uploads/2025/12/sangeorz-tv-3.png" group-title="General",Sangeorz TV
-https://live.sangeorztv.ro:8443/live/index.m3u8?cookieCheck=1
 #EXTINF:-1 tvg-id="SensTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a9/Sens_TV.png/revision/latest?cb=20231211141523" group-title="General",Sens TV
 https://live.senstv.ro/live/senstv_1080p/chunklist.m3u8
-#EXTINF:-1 tvg-id="SkyShowtime1.ro" tvg-country="RO" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/SkyShowtime_1.svg/revision/latest?cb=20220920074626" group-title="Movies",SkyShowtime 1
-https://rundle.tv/proxy5.php?src=https%3A%2F%2Fthor1.syndula001.cfd%2Fschi1%2Fusergendxn430rnd-got.htm
-#EXTINF:-1 tvg-id="SkyShowtime2.ro" tvg-country="RO" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/SkyShowtime_2.svg/revision/latest?cb=20220920074646" group-title="Movies",SkyShowtime 2
-https://rundle.tv/proxy5.php?src=https%3A%2F%2Fthor1.syndula001.cfd%2Fschi2%2Fusergendxj85trnd-got.htm
 #EXTINF:-1 tvg-id="SmartRadio.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://www.smartradio.ro/wp-content/themes/smart-radio/img/Logo_SmartRadio.png" group-title="Music",Smart Radio
 https://streamw.m.ro/Regie/radio.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/KUyqQCX.png" group-title="Religious",SperantaTV
@@ -263,6 +259,8 @@ https://dvb.tennet.ro/mobile_tv/telestar.m3u8
 https://stream.tequilamusic.net/hls/tequila_tv.m3u8
 #EXTINF:-1 tvg-id="TimelessDiziChannel.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/s3Sqd4L.png" group-title="General",Timeless Dizi Channel
 https://nosignal1.antenaplay.ro/hls/dzi-int-hd/index.m3u8
+#EXTINF:-1 tvg-id="TraditionalTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.ibb.co/G5bNH48/Traditional-TV-HD.png" group-title="Music",Traditional TV
+http://83.103.149.75:8085/udp/239.30.0.9:4000
 #EXTINF:-1 tvg-id="TraLaLaDSN.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://tralaladsn.ro/assets/identity/logo.svg" group-title="Kids",TraLaLa DSN
 https://hls01ns.antenaplay.ro/hls/tralala-desene-animate-hd/index.m3u8
 #EXTINF:-1 tvg-id="TraLaLaTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/xJBMnjy.png" group-title="Kids",TraLaLa TV
@@ -309,8 +307,6 @@ https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/playlist.
 http://89.38.8.130:39443
 #EXTINF:-1 tvg-id="TVSE.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/r4zKU1e.png" group-title="General",TV SE
 http://89.38.8.130:39419
-#EXTINF:-1 tvg-id="UTV.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/aBdz9IT.png" group-title="General",UTV
-https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/714.m3u8
 #EXTINF:-1 tvg-id="ViasatKino.ro" tvg-country="RO" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Viasat_Kino_2025.svg/revision/latest?cb=20250506205346" group-title="Movies",Viasat Kino
 http://91.235.165.117:8001/play/a055/index.m3u8
 #EXTINF:-1 tvg-id="VoyoEvents.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Voyo_2026.svg/revision/latest/scale-to-width-down/1000?cb=20261006171646" group-title="Sports",Voyo Events

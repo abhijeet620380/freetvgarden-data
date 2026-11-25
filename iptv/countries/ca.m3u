@@ -27,8 +27,6 @@ https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m
 https://videostream.jpbgdigital.com/NOWTV.m3u8
 #EXTINF:-1 tvg-id="CMalayalamTV.ca" tvg-country="CA" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/rpg0bQA.png" group-title="Culture",C Malayalam TV
 https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8
-#EXTINF:-1 tvg-id="CP24.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://i.imgur.com/YzjZUEl.png" group-title="News",CP24
-https://tvsen6.aynaott.com/cp24/index.m3u8
 #EXTINF:-1 tvg-id="DesheBidesheTV.ca" tvg-country="CA" tvg-language="Bengali" tvg-logo="https://i.imgur.com/Ek1Ohj6.png" group-title="General",DesheBideshe TV
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 #EXTINF:-1 tvg-id="DeshiTV.ca" tvg-country="CA" tvg-language="Bengali" tvg-logo="https://i.imgur.com/PzqzgMm.png" group-title="General",Deshi TV
@@ -51,10 +49,12 @@ https://a-cdn.klowdtv.com/live2/fight_720p/playlist.m3u8
 https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="GaundaPunjabTV.ca" tvg-country="CA" tvg-language="Panjabi" tvg-logo="https://i.imgur.com/ArRZRM3.png" group-title="General",Gaunda Punjab TV
 http://cdn6.live247stream.com/gaundapunjab/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="GTNCanada.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://i.imgur.com/7bQPJOd.png" group-title="General",GTN Canada
+https://streamer12.vdn.dstreamone.net/carishowtime/showtime/chunks.m3u8
 #EXTINF:-1 tvg-id="GurSikhSabhaTV.ca" tvg-country="CA" tvg-language="Hindi" tvg-logo="https://i.imgur.com/2EKCtQm.png" group-title="Religious",GurSikh Sabha TV
 http://cdn12.henico.net:8080/live/gsctv/index.m3u8
 #EXTINF:-1 tvg-id="GustoTV.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/66698936bac4421ebc533684/images/logo_20231219_202519_56.png" group-title="Cooking",Gusto TV
-https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8
+https://563f72af.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0d1c3RvVFZfSExT/playlist.m3u8
 #EXTINF:-1 tvg-id="HamdardTV.ca" tvg-country="CA" tvg-language="Panjabi" tvg-logo="https://i.ibb.co/JcD2xck/logo-hamda.png" group-title="News",Hamdard TV
 https://tv.hamdardtv.com/hamdard/index.m3u8
 #EXTINF:-1 tvg-id="HardKnocks.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://i.imgur.com/nt9B6jx.png" group-title="Sports",Hard Knocks
@@ -108,7 +108,7 @@ http://158.69.24.53:8080/probashi_tv/index.m3u8
 #EXTINF:-1 tvg-id="PTCPunjabiCanada.ca" tvg-country="CA" tvg-language="Panjabi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/PTC_Punjabi.png" group-title="General",PTC Punjabi Canada
 https://stream.ottlive.co.in/ptccanada/index.m3u8
 #EXTINF:-1 tvg-id="QelloConcertsbyStingray.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://i.imgur.com/IRyFTWq.png" group-title="Music",Qello Concerts by Stingray
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883052
+https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="QuoVadisTV.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://i.imgur.com/pEqDDHl.png" group-title="Religious",Quo Vadis TV
 https://tgn.bozztv.com/qvtv/qvtv-web/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioTeleEvangileSansLimite.ca" tvg-country="CA" tvg-language="French" tvg-logo="https://i.imgur.com/CL32kFA.png" group-title="Religious",Radio Tele Evangile Sans Limite
@@ -179,6 +179,8 @@ https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u
 https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="TAGTV.ca" tvg-country="CA" tvg-language="Hindi" tvg-logo="https://i.imgur.com/4PA2adF.png" group-title="General",TAG TV
 http://cdn11.live247stream.com/tag/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TamilVisionTV.ca" tvg-country="CA" tvg-language="Tamil" tvg-logo="https://i.imgur.com/DodsLuW.png" group-title="General",TamilVision-TV
+https://live.cmr24.fm/TVI/HD/chunks.m3u8
 #EXTINF:-1 tvg-id="TheCowboyChannelCanada.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://i.imgur.com/xwntWOP.png" group-title="General",The Cowboy Channel Canada
 https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8
 #EXTINF:-1 tvg-id="TheWeatherNetwork.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://i.imgur.com/V6ZUwUY.png" group-title="Weather",The Weather Network
@@ -191,8 +193,6 @@ http://cdn3.toronto360.tv:8081/toronto360/hd/playlist.m3u8
 https://aegis-cloudfront-1.tubi.video/b062c287-a170-47df-99e4-f5dcd441ee59/playlist.m3u8
 #EXTINF:-1 tvg-id="TV5QuebecCanada.ca" tvg-country="CA" tvg-language="French" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TV5_%28logo%29.svg/960px-TV5_%28logo%29.svg.png" group-title="General",TV5 Quebec Canada
 http://192.99.186.30/stream/192/index.m3u8
-#EXTINF:-1 tvg-id="TVOKids.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tvokids-logo.svg/960px-Tvokids-logo.svg.png" group-title="Kids",TVOKids
-https://fastly.live.brightcove.com/6369851620112/us-east-1/15364602001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicGZncmlmLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiMTUzNjQ2MDIwMDEiLCJlaG4iOiJmYXN0bHkubGl2ZS5icmlnaHRjb3ZlLmNvbSIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiMTUzNjQ2MDIwMDEiXSwianRpIjoiNjM2OTg1MTYyMDExMiJ9.zRE6fD9JwdbNLUIK5zgvlTAvXCQ3HeeE5p0yH0Pd3-Q/playlist-hls.m3u8
 #EXTINF:-1 tvg-id="TVPunjab.ca" tvg-country="CA" tvg-language="Panjabi" tvg-logo="https://en.tvpunjab.com/storage/2022/03/logo-2022.png" group-title="News",TV Punjab
 https://932y483pdjv8-hls-live.5centscdn.com/stream/deb10bae362f810630ec3abedcae5894.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="WildTV.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Wild_TV_logo_2020.png/960px-Wild_TV_logo_2020.png" group-title="General",Wild TV
