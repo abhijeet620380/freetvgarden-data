@@ -37,6 +37,10 @@ http://213.91.179.28:8000/play/a05h
 http://213.91.179.28:8000/play/a06b
 #EXTINF:-1 tvg-id="CityTV.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/mFL452f.png" group-title="Music",City TV
 https://tv.city.bg/play/tshls/citytv/index.m3u8
+#EXTINF:-1 tvg-id="CodeFashionTV.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/mVc2g64.png" group-title="Lifestyle",Code Fashion TV
+https://cdn2.invivo.bg/Codefashion_5500/index.m3u8
+#EXTINF:-1 tvg-id="CodeHealthTV.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/NXBMzGV.png" group-title="Lifestyle",Code Health TV
+https://cdn2.invivo.bg/codehealth_test/index.m3u8
 #EXTINF:-1 tvg-id="Diema.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="" group-title="Movies",Diema
 http://213.91.179.28:8000/play/a045
 #EXTINF:-1 tvg-id="DiemaFamily.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/SgNVY4d.png" group-title="Family",Diema Family
@@ -113,10 +117,6 @@ https://streamer103.neterra.tv/tiankov-orient/live.m3u8
 https://streamer103.neterra.tv/travel/live.m3u8
 #EXTINF:-1 tvg-id="TVRodina.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="" group-title="Music",TV Rodina
 https://shift03.isp.bg/RodinaTV/index.m3u8
-#EXTINF:-1 tvg-id="TVSpravedlivaBulgariya.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://tvsb.bg/theme/images/logo.png" group-title="General",TV Spravedliva Bulgariya
-https://tv.tvsb.bg/112.m3u8
-#EXTINF:-1 tvg-id="TVZagora.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://i.imgur.com/DvBboqe.png" group-title="General",TV Zagora
-http://zagoratv.ddns.net:8080/tvzagora.m3u8
 #EXTINF:-1 tvg-id="ViasatExplore.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Viasat_Explore_2026.svg" group-title="Documentary",Viasat Explore
 https://shift03.isp.bg/ViasatExplorer_HD/index.m3u8
 #EXTINF:-1 tvg-id="ViasatHistory.bg" tvg-country="BG" tvg-language="Bulgarian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Viasat_History_2026.svg" group-title="Documentary",Viasat History
