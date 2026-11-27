@@ -17,14 +17,16 @@ http://92.114.85.87:8015/play/a00f/index.m3u8
 http://92.114.85.87:8014/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="BialogardzkaTelewizjaKablowa.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://btk.bsmbialogard.pl/sites/default/files/inline-images/logo%20header2%282%29.png" group-title="Entertainment",Bialogardzka Telewizja Kablowa
 https://bsmbialogard.pl/live/index.m3u8
+#EXTINF:-1 tvg-id="Bigtime.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/1fe37ff8-c6b7-4123-8c68-653d657b4c5f-width200-quality90.jpeg" group-title="General",Bigtime
+https://103f01c3ff79408e83c9212f8a374ecc.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_BjgtjmeDarmoweFilmy/playlist.m3u8
 #EXTINF:-1 tvg-id="BTB2.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/C5g0ejM.png" group-title="General",BTB 2
-https://emisja.btb.j00r.us/iptv/session/2/live.m3u8
+https://emisja.btb.j00r.us/iptv/session/2/hls.m3u8
 #EXTINF:-1 tvg-id="BTB3.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/Z193940.png" group-title="General",BTB 3
 https://emisja3.btb.j00r.us/iptv/session/3/live.m3u8
 #EXTINF:-1 tvg-id="BTB.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://btb.j00r.us/images/logo_BTB.webp" group-title="General",BTB
 https://emisja.btb.j00r.us/iptv/session/1/live.m3u8
 #EXTINF:-1 tvg-id="BTBInfo.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://btb.j00r.us/img.php?id=87fa06e1418604cb096a0bb3f24e4371&type=Primary&w=400&t=BTB+Info" group-title="Documentary",BTB Info
-https://emisja2.btb.j00r.us/iptv/session/4/live.m3u8
+https://emisja2.btb.j00r.us/iptv/session/4/hls.m3u8
 #EXTINF:-1 tvg-id="BuzzfeedUnsolved.pl" tvg-country="PL" tvg-language="English" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/e16cfcc7-2040-4bd5-8339-16d499f8799e-width200-quality90.png" group-title="General",Buzzfeed Unsolved
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883099
 #EXTINF:-1 tvg-id="CANALPlus360.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Canal360_1920x1080.png/960px-Canal360_1920x1080.png" group-title="Family",CANAL+ 360
@@ -93,6 +95,8 @@ https://b6c7c7d1020a4588982ca7c2625f85d1.mediatailor.us-east-1.amazonaws.com/v1/
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883037
 #EXTINF:-1 tvg-id="HBO2.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/2e3muOJ.png" group-title="Movies",HBO 2
 http://185.227.34.179:8080/hbo-2-hd/index.m3u8
+#EXTINF:-1 tvg-id="History.pl" tvg-country="PL" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="Documentary",History
+http://92.114.85.87:8015/play/a00c/index.m3u8
 #EXTINF:-1 tvg-id="Moconomy.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/9da0ec4d-85ea-45f4-b3f9-ae917d1714f9-width200-quality90.jpeg" group-title="General",Moconomy
 https://3ee905090d464be5a51478fd9c642e93.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_Moconomy/playlist.m3u8
 #EXTINF:-1 tvg-id="MusicBoxPolska.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Music_Box_UA_%282018%29.svg/960px-Music_Box_UA_%282018%29.svg.png" group-title="Music",Music Box Polska
@@ -113,14 +117,10 @@ http://92.114.85.87:8013/play/a004/index.m3u8
 http://92.114.85.87:8013/play/a008/index.m3u8
 #EXTINF:-1 tvg-id="NowaTV.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/8cHK49r.png" group-title="General",Nowa TV
 http://92.114.85.87:8001/play/a013/index.m3u8
-#EXTINF:-1 tvg-id="ParamountNetwork.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png" group-title="Series",Paramount Network
-https://guard.sekobes.workers.dev/?url=https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3390498693
 #EXTINF:-1 tvg-id="Polonia1.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/4TVDMGD.png" group-title="General",Polonia 1
 http://92.114.85.87:8012/play/a006/index.m3u8
 #EXTINF:-1 tvg-id="Polsat1.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Polsat_1_2021_gradient.svg/960px-Polsat_1_2021_gradient.svg.png" group-title="General",Polsat 1
 https://kotmruk.github.io/polish-potato/polsat1.m3u8
-#EXTINF:-1 tvg-id="PolsatGames.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/OSCrBvh.png" group-title="General",Polsat Games
-https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F426276697
 #EXTINF:-1 tvg-id="PolsatJimJam.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/GjppUlg.png" group-title="Kids",Polsat JimJam
 http://92.114.85.87:8014/play/a00d/index.m3u8
 #EXTINF:-1 tvg-id="PolsatMusic.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/uXygf1l.png" group-title="Music",Polsat Music
@@ -147,8 +147,6 @@ https://radioclubdj.pro/stream/tv.m3u8
 https://stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="RedCarpetTVInternational.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/a52f843a-9a9c-4d96-8f77-57f3ec96acb0-width200-quality90.jpeg" group-title="General",Red Carpet TV International
 https://fast-rakuten.okast.tv/fa2e8c4385712f9a9076eaf728c751de/channels/1a6ecfaa-40c6-41b8-8634-595c424f856e/21f67fd1-4d21-43ba-8ad8-3afac9982c25/master.m3u8
-#EXTINF:-1 tvg-id="RemontyTV.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://remontytv.pl/wp-content/uploads/2026/01/Remonty_TV_logo-color1.png" group-title="Entertainment",Remonty TV
-https://prx-y5cf8.4vod.tv/playout/repl-abr67/index.m3u8
 #EXTINF:-1 tvg-id="RomanceTV.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Romance_TV_Logo_10.2019.svg/960px-Romance_TV_Logo_10.2019.svg.png" group-title="General",Romance TV
 http://92.114.85.87:8009/play/a00a/index.m3u8
 #EXTINF:-1 tvg-id="Royalworld.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/39438460-99ba-412e-ac19-9342249384af-width200-quality90.jpeg" group-title="General",Royalworld
@@ -171,8 +169,6 @@ http://92.114.85.87:8004/play/a00c/index.m3u8
 https://prx-y5cf8.mediatool.tv/playout/tbn-abr67/index.m3u8
 #EXTINF:-1 tvg-id="Tele5.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/36ZNsIL.png" group-title="General",Tele5
 http://92.114.85.87:8012/play/a005/index.m3u8
-#EXTINF:-1 tvg-id="TeletoonPlus.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/T%C3%A9l%C3%A9toon%2B_Logo.png/960px-T%C3%A9l%C3%A9toon%2B_Logo.png" group-title="Animation",Teletoon+
-http://92.114.85.87:8009/play/a006/index.m3u8
 #EXTINF:-1 tvg-id="TelewizjaBiznesowa.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/XC7i7ZL.png" group-title="Business",Telewizja Biznesowa
 https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8
 #EXTINF:-1 tvg-id="TelewizjaImperium.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.ibb.co/k2jQkHq/Cropped-mperiumczarne-768x243-1-1.png" group-title="General",Telewizja Imperium
@@ -219,6 +215,8 @@ https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8
 https://tvregfull.mailfull.pl/tvregfull/memfs/e64b3e05-649c-4939-9ff6-584e79285ccd.m3u8
 #EXTINF:-1 tvg-id="TVRepublika.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/ljpK6dZ.png" group-title="General",TV Republika
 http://92.114.85.87:8018/play/a008/index.m3u8
+#EXTINF:-1 tvg-id="TVS.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/RHwlp35.png" group-title="General",TVS
+http://92.114.85.87:8010/play/a00e/index.m3u8
 #EXTINF:-1 tvg-id="TVTorun.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/ZJ0yDWI.png" group-title="General",TV Torun
 http://217.173.176.107:1935/live/tvk.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVTrwam.pl" tvg-country="PL" tvg-language="Polish" tvg-logo="https://i.imgur.com/yq10wS5.png" group-title="General",TV Trwam
