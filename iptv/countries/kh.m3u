@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ARDBTV.kh" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://i.imgur.com/yOncWla.png" group-title="Outdoor",ARDB TV
+https://ardbtv.ardb.com.kh:8443/tv-live/tv-online.m3u8
 #EXTINF:-1 tvg-id="BayonTV.kh" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://i.imgur.com/Gry2KEN.jpg" group-title="General",Bayon TV
 https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CTN.kh" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://i.imgur.com/r523kOq.png" group-title="General",CTN
@@ -13,8 +15,12 @@ https://iptv.ebc.edu.kh/iptv/channel/1.m3u8
 https://iptv.ebc.edu.kh/iptv/channel/2.m3u8
 #EXTINF:-1 tvg-id="FreshNews.kh" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://i.imgur.com/bV6sawt.png" group-title="News",Fresh News
 http://streaming-android.freshnewsasia.tv:1935/live/ngrp:myStream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="iTVHD.kh" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://i.imgur.com/qIPvw8N.jpg" group-title="Entertainment",iTV HD
+https://ip.pdtvhd.com/Khmer/streams/ITVHD.m3u8
 #EXTINF:-1 tvg-id="MSJTV.kh" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://i.imgur.com/TilslGU.png" group-title="General",MSJ TV
 https://live.msjtv.com/live/streams/playlist.m3u8
+#EXTINF:-1 tvg-id="NTV.kh" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://i.imgur.com/SoBhuIb.png" group-title="General",NTV
+http://43.252.18.195:5080/LiveApp/streams/ntvhd.m3u8
 #EXTINF:-1 tvg-id="OneTVESchoolCambodia.kh" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://i.imgur.com/wLzVdeT.png" group-title="Education",One TV E-School Cambodia
 http://49.156.33.114:5080/live/streams/elearning.playlist.m3u8
 #EXTINF:-1 tvg-id="SangkemTV.kh" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://i.imgur.com/728fAcC.png" group-title="Religious",Sangkem TV
@@ -23,6 +29,8 @@ https://live.sangkemtv.com/memfs/sangkem.m3u8
 https://seatv.netlinkbroadcaster.com/hls/test.m3u8
 #EXTINF:-1 tvg-id="TownTV.kh" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://i.imgur.com/9fUGvVG.png" group-title="General",Town TV
 https://stream.pdtvhd.com/LiveApp/streams/Townfullhd.m3u8
+#EXTINF:-1 tvg-id="TV5Cambodia.kh" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://i.imgur.com/iMZLyoX.png" group-title="General",TV5 Cambodia
+https://ip.pdtvhd.com/Khmer/streams/CTV5.m3u8
 #EXTINF:-1 tvg-id="TVK2.kh" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://i.imgur.com/L36ptO2.png" group-title="Education",TVK 2
 https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVK.kh" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://i.imgur.com/5hPxjcl.png" group-title="General",TVK
